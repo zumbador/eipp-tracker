@@ -1,36 +1,43 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-18T14:30:00Z",
-    "updatedBy": "claude-code",
-    "version": 2,
+    "lastUpdated": "2026-03-19T16:00:00.000Z",
+    "updatedBy": "manual-restore",
+    "version": 3,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Pending",
-    "bannerMessage": "<strong>Current phase — OTA finalization.</strong> Other Transaction Agreements are being negotiated between the FAA and each project sponsor. DOT indicated agreements would be finalized \"in the coming weeks.\" Operations can begin within 90 days of signing. No flights have occurred yet under this program.",
+    "bannerMessage": "<strong>Current phase \u2014 OTA finalization.</strong> Other Transaction Agreements are being negotiated between the FAA and each project sponsor. DOT indicated agreements would be finalized \"in the coming weeks.\" Operations can begin within 90 days of signing. No flights have occurred yet under this program.",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
         "value": "5 of 8 Projects Cargo-First",
         "colorClass": "green",
-        "body": "Louisiana, Albuquerque, North Carolina, Utah, and Florida Phase 1 are all cargo or medical logistics. Revenue freight expected Q4 2026 — ahead of any passenger operations. Beta Technologies CEO Kyle Clark confirmed initial eIPP flights will carry cargo and medical supplies before progressing to passengers."
+        "body": "Louisiana, Albuquerque, North Carolina, Utah, and Florida Phase 1 are all cargo or medical logistics. Revenue freight expected Q4 2026 \u2014 ahead of any passenger operations. Beta Technologies CEO Kyle Clark confirmed initial eIPP flights will carry cargo and medical supplies before progressing to passengers."
       },
       {
         "heading": "Legal Threshold Crossed",
         "value": "Pre-Certified Revenue Cargo",
         "colorClass": "blue",
-        "body": "First time in U.S. aviation history that pre-certified aircraft can carry cargo for revenue in commercial airspace under FAA-supervised Other Transaction Agreements. This does not accelerate type certification for passenger ops — it creates a parallel commercial track for cargo."
+        "body": "First time in U.S. aviation history that pre-certified aircraft can carry cargo for revenue in commercial airspace under FAA-supervised Other Transaction Agreements. This does not accelerate type certification for passenger ops \u2014 it creates a parallel commercial track for cargo."
       },
       {
         "heading": "Certification Reality",
-        "value": "Passenger Ops: 2–3 Years Out",
+        "value": "Passenger Ops: 2\u20133 Years Out",
         "colorClass": "amber",
-        "body": "eIPP does not change the certification clock. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Cargo and medical logistics face simpler liability and do not require passenger type certification. Watch the cargo projects — not the air taxis."
+        "body": "eIPP does not change the certification clock. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Cargo and medical logistics face simpler liability and do not require passenger type certification. Watch the cargo projects \u2014 not the air taxis."
       }
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-19T16:00:00.000Z",
+      "source": "manual-restore",
+      "description": "Restored clean data after n8n loop testing corrupted entries",
+      "projectsAffected": [],
+      "sourceUrl": ""
+    },
     {
       "timestamp": "2026-03-18T14:30:00Z",
       "source": "claude-code",
@@ -42,7 +49,7 @@
     {
       "timestamp": "2026-03-18T12:00:00Z",
       "source": "manual",
-      "description": "Initial data extraction from tracker v3 — system migrated to dynamic data loading",
+      "description": "Initial data extraction from tracker v3 \u2014 system migrated to dynamic data loading",
       "projectsAffected": []
     }
   ],
@@ -50,7 +57,7 @@
     {
       "id": 1,
       "sponsor": "Port Authority of New York & New Jersey",
-      "region": "New England · 12 operational concepts",
+      "region": "New England \u00b7 12 operational concepts",
       "states": [
         "NY",
         "NJ",
@@ -88,7 +95,7 @@
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic.",
+      "notes": "Most complex project in the program \u2014 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -107,7 +114,7 @@
     {
       "id": 2,
       "sponsor": "Texas Department of Transportation",
-      "region": "Texas · Dallas–Austin–San Antonio–Houston",
+      "region": "Texas \u00b7 Dallas\u2013Austin\u2013San Antonio\u2013Houston",
       "states": [
         "TX"
       ],
@@ -138,7 +145,7 @@
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028.",
+      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas \u2192 dedicated routes \u2192 full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -153,7 +160,7 @@
     {
       "id": 3,
       "sponsor": "Utah Department of Transportation",
-      "region": "Pacific NW · Rockies · Plains of Oklahoma",
+      "region": "Pacific NW \u00b7 Rockies \u00b7 Plains of Oklahoma",
       "states": [
         "UT",
         "ID",
@@ -184,7 +191,7 @@
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match.",
+      "notes": "Geographically the most ambitious project \u2014 five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -199,7 +206,7 @@
     {
       "id": 4,
       "sponsor": "Pennsylvania DOT / NASAO Multistate Collaborative",
-      "region": "Northeast + Midwest · 13 states",
+      "region": "Northeast + Midwest \u00b7 13 states",
       "states": [
         "PA",
         "OH",
@@ -234,7 +241,7 @@
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.'",
+      "notes": "Built on the NASAO AAM Multistate Collaborative \u2014 the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program \u2014 a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.'",
       "links": [
         {
           "label": "DOT Announcement",
@@ -249,7 +256,7 @@
     {
       "id": 5,
       "sponsor": "State of Louisiana",
-      "region": "Gulf of America · Offshore Energy Sector",
+      "region": "Gulf of America \u00b7 Offshore Energy Sector",
       "states": [
         "LA",
         "TX",
@@ -274,7 +281,7 @@
       "cargoFirst": true,
       "editorial": "The Louisiana offshore energy project deserves close attention. Bristow Group, the operator partner, has been coordinating with the FAA on the Elroy Air Chaparral for over a year. When the helicopter industry's dominant offshore operator validates autonomous cargo as a viable replacement for manned supply runs, the cost calculus changes for every operator in the Gulf.",
       "editorialDate": "2026-03-18",
-      "notes": "Elroy Air Chaparral: fully autonomous, 300 lb payload, 300-mile range, no pilot, no passenger. Bristow Group is the customer and long-time partner, providing operational credibility. Offshore energy helicopter costs run $3,000–$8,000/flight for platform supply runs — the economic pain point is real and institutional payers are already in place. Elroy Air CEO Andrew Clare: 'That doesn't happen without a truly mission-ready aircraft and a team that's been doing this work for years.'",
+      "notes": "Elroy Air Chaparral: fully autonomous, 300 lb payload, 300-mile range, no pilot, no passenger. Bristow Group is the customer and long-time partner, providing operational credibility. Offshore energy helicopter costs run $3,000\u2013$8,000/flight for platform supply runs \u2014 the economic pain point is real and institutional payers are already in place. Elroy Air CEO Andrew Clare: 'That doesn't happen without a truly mission-ready aircraft and a team that's been doing this work for years.'",
       "links": [
         {
           "label": "DOT Announcement",
@@ -289,7 +296,7 @@
     {
       "id": 6,
       "sponsor": "Florida Department of Transportation",
-      "region": "Florida · Statewide",
+      "region": "Florida \u00b7 Statewide",
       "states": [
         "FL"
       ],
@@ -311,7 +318,7 @@
           "domain": "jobyaviation.com"
         }
       ],
-      "focus": "Multi-phase: Cargo → Passenger → Automation + Medical",
+      "focus": "Multi-phase: Cargo \u2192 Passenger \u2192 Automation + Medical",
       "keyOp": "Three-phase: Phase 1 cargo, Phase 2 passenger, Phase 3 automation and medical response",
       "otaStatus": "Pending",
       "milestone": "",
@@ -335,7 +342,7 @@
     {
       "id": 7,
       "sponsor": "North Carolina Department of Transportation",
-      "region": "Southeast · NC + VA autonomous corridor",
+      "region": "Southeast \u00b7 NC + VA autonomous corridor",
       "states": [
         "NC",
         "VA"
@@ -359,7 +366,7 @@
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset.",
+      "notes": "Medical transport is the primary use case \u2014 institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play \u2014 NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -370,7 +377,7 @@
     {
       "id": 8,
       "sponsor": "City of Albuquerque, New Mexico",
-      "region": "New Mexico · Class D + C airports",
+      "region": "New Mexico \u00b7 Class D + C airports",
       "states": [
         "NM"
       ],
@@ -381,7 +388,7 @@
         }
       ],
       "focus": "Fully Autonomous Freight",
-      "keyOp": "Autonomous cargo ops at Class D and C airports — revenue freight, no pilot, no passengers",
+      "keyOp": "Autonomous cargo ops at Class D and C airports \u2014 revenue freight, no pilot, no passengers",
       "otaStatus": "Pending",
       "milestone": "Selected for eIPP",
       "opsTarget": "Q4 2026 (earliest revenue cargo)",
@@ -389,7 +396,7 @@
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "The most strategically significant project for the cargo-first thesis. Reliable Robotics has already been operating in the region and coordinating with the FAA — it is not starting from scratch. Autonomous commercial freight in controlled airspace is the use case drone delivery operators have been chasing under Part 107 for years. If Reliable logs the first autonomous revenue cargo flight under eIPP, it sets a precedent that will reframe the regulatory conversation around uncrewed logistics. Wisk CEO Dan Dalton confirmed Wisk itself may fly helicopters first to collect operational data — signaling that even autonomy-focused companies see the crawl-walk-run approach as necessary.",
+      "notes": "The most strategically significant project for the cargo-first thesis. Reliable Robotics has already been operating in the region and coordinating with the FAA \u2014 it is not starting from scratch. Autonomous commercial freight in controlled airspace is the use case drone delivery operators have been chasing under Part 107 for years. If Reliable logs the first autonomous revenue cargo flight under eIPP, it sets a precedent that will reframe the regulatory conversation around uncrewed logistics. Wisk CEO Dan Dalton confirmed Wisk itself may fly helicopters first to collect operational data \u2014 signaling that even autonomy-focused companies see the crawl-walk-run approach as necessary.",
       "links": [
         {
           "label": "DOT Announcement",
