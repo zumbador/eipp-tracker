@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-18T12:00:00Z",
-    "updatedBy": "manual",
-    "version": 1,
+    "lastUpdated": "2026-03-18T14:30:00Z",
+    "updatedBy": "claude-code",
+    "version": 2,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -24,13 +24,21 @@
       },
       {
         "heading": "Certification Reality",
-        "value": "Passenger Ops: 2\u20133 Years Out",
+        "value": "Passenger Ops: 2–3 Years Out",
         "colorClass": "amber",
         "body": "eIPP does not change the certification clock. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Cargo and medical logistics face simpler liability and do not require passenger type certification. Watch the cargo projects — not the air taxis."
       }
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-18T14:30:00Z",
+      "source": "claude-code",
+      "description": "Added editorial commentary for Louisiana offshore energy project",
+      "projectsAffected": [
+        5
+      ]
+    },
     {
       "timestamp": "2026-03-18T12:00:00Z",
       "source": "manual",
@@ -42,13 +50,34 @@
     {
       "id": 1,
       "sponsor": "Port Authority of New York & New Jersey",
-      "region": "New England \u00b7 12 operational concepts",
-      "states": ["NY","NJ","CT","MA","RI","VT","NH","ME"],
+      "region": "New England · 12 operational concepts",
+      "states": [
+        "NY",
+        "NJ",
+        "CT",
+        "MA",
+        "RI",
+        "VT",
+        "NH",
+        "ME"
+      ],
       "partners": [
-        { "name": "Archer", "domain": "archer.com" },
-        { "name": "Beta Technologies", "domain": "beta.team" },
-        { "name": "Electra", "domain": "electra.aero" },
-        { "name": "Joby Aviation", "domain": "jobyaviation.com" }
+        {
+          "name": "Archer",
+          "domain": "archer.com"
+        },
+        {
+          "name": "Beta Technologies",
+          "domain": "beta.team"
+        },
+        {
+          "name": "Electra",
+          "domain": "electra.aero"
+        },
+        {
+          "name": "Joby Aviation",
+          "domain": "jobyaviation.com"
+        }
       ],
       "focus": "Passenger + Cargo",
       "keyOp": "eVTOL passenger operations at Manhattan Heliport; 12 distinct concepts across New England",
@@ -61,21 +90,44 @@
       "editorialDate": "",
       "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic.",
       "links": [
-        { "label": "DOT Announcement", "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil" },
-        { "label": "Archer Press Release", "url": "https://news.archer.com/archers-us-air-taxi-operations-take-major-step-forward-as-florida-new-york-and-texas-selected-for-white-house-pilot-program" },
-        { "label": "NUAIR Statement", "url": "https://www.nuair.org/post/nuair-and-syracuse-regional-airport-authority-celebrate-federal-selection-of-port-authority-of-new-y" }
+        {
+          "label": "DOT Announcement",
+          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+        },
+        {
+          "label": "Archer Press Release",
+          "url": "https://news.archer.com/archers-us-air-taxi-operations-take-major-step-forward-as-florida-new-york-and-texas-selected-for-white-house-pilot-program"
+        },
+        {
+          "label": "NUAIR Statement",
+          "url": "https://www.nuair.org/post/nuair-and-syracuse-regional-airport-authority-celebrate-federal-selection-of-port-authority-of-new-y"
+        }
       ]
     },
     {
       "id": 2,
       "sponsor": "Texas Department of Transportation",
-      "region": "Texas \u00b7 Dallas\u2013Austin\u2013San Antonio\u2013Houston",
-      "states": ["TX"],
+      "region": "Texas · Dallas–Austin–San Antonio–Houston",
+      "states": [
+        "TX"
+      ],
       "partners": [
-        { "name": "Archer", "domain": "archer.com" },
-        { "name": "Beta Technologies", "domain": "beta.team" },
-        { "name": "Joby Aviation", "domain": "jobyaviation.com" },
-        { "name": "Wisk Aero", "domain": "wisk.aero" }
+        {
+          "name": "Archer",
+          "domain": "archer.com"
+        },
+        {
+          "name": "Beta Technologies",
+          "domain": "beta.team"
+        },
+        {
+          "name": "Joby Aviation",
+          "domain": "jobyaviation.com"
+        },
+        {
+          "name": "Wisk Aero",
+          "domain": "wisk.aero"
+        }
       ],
       "focus": "Passenger + Autonomous",
       "keyOp": "Regional air taxi network connecting Dallas, Austin, San Antonio, and Houston",
@@ -86,21 +138,42 @@
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas \u2192 dedicated routes \u2192 full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028.",
+      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028.",
       "links": [
-        { "label": "DOT Announcement", "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil" },
-        { "label": "Archer Press Release", "url": "https://news.archer.com/archers-us-air-taxi-operations-take-major-step-forward-as-florida-new-york-and-texas-selected-for-white-house-pilot-program" }
+        {
+          "label": "DOT Announcement",
+          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+        },
+        {
+          "label": "Archer Press Release",
+          "url": "https://news.archer.com/archers-us-air-taxi-operations-take-major-step-forward-as-florida-new-york-and-texas-selected-for-white-house-pilot-program"
+        }
       ]
     },
     {
       "id": 3,
       "sponsor": "Utah Department of Transportation",
-      "region": "Pacific NW \u00b7 Rockies \u00b7 Plains of Oklahoma",
-      "states": ["UT","ID","WY","CO","OK"],
+      "region": "Pacific NW · Rockies · Plains of Oklahoma",
+      "states": [
+        "UT",
+        "ID",
+        "WY",
+        "CO",
+        "OK"
+      ],
       "partners": [
-        { "name": "Ampaire", "domain": "ampaire.com" },
-        { "name": "Beta Technologies", "domain": "beta.team" },
-        { "name": "Joby Aviation", "domain": "jobyaviation.com" }
+        {
+          "name": "Ampaire",
+          "domain": "ampaire.com"
+        },
+        {
+          "name": "Beta Technologies",
+          "domain": "beta.team"
+        },
+        {
+          "name": "Joby Aviation",
+          "domain": "jobyaviation.com"
+        }
       ],
       "focus": "Medical Logistics + Rural Cargo",
       "keyOp": "Medical deliveries to rural communities across mountainous terrain and wildfire-prone regions",
@@ -113,18 +186,44 @@
       "editorialDate": "",
       "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match.",
       "links": [
-        { "label": "DOT Announcement", "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil" },
-        { "label": "Future Flight Global", "url": "https://www.autonomyglobal.co/future-flight-global-joins-faas-first-nationwide-push-to-put-evtol-aircraft-in-real-airspace/" }
+        {
+          "label": "DOT Announcement",
+          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+        },
+        {
+          "label": "Future Flight Global",
+          "url": "https://www.autonomyglobal.co/future-flight-global-joins-faas-first-nationwide-push-to-put-evtol-aircraft-in-real-airspace/"
+        }
       ]
     },
     {
       "id": 4,
       "sponsor": "Pennsylvania DOT / NASAO Multistate Collaborative",
-      "region": "Northeast + Midwest \u00b7 13 states",
-      "states": ["PA","OH","NY","NJ","DE","MD","VA","WV","KY","IN","MI","MN","WI"],
+      "region": "Northeast + Midwest · 13 states",
+      "states": [
+        "PA",
+        "OH",
+        "NY",
+        "NJ",
+        "DE",
+        "MD",
+        "VA",
+        "WV",
+        "KY",
+        "IN",
+        "MI",
+        "MN",
+        "WI"
+      ],
       "partners": [
-        { "name": "Beta Technologies", "domain": "beta.team" },
-        { "name": "Electra", "domain": "electra.aero" }
+        {
+          "name": "Beta Technologies",
+          "domain": "beta.team"
+        },
+        {
+          "name": "Electra",
+          "domain": "electra.aero"
+        }
       ],
       "focus": "Regional Passenger Transportation",
       "keyOp": "Revitalize Essential Air Service-equivalent regional routes across 13 states",
@@ -137,18 +236,34 @@
       "editorialDate": "",
       "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.'",
       "links": [
-        { "label": "DOT Announcement", "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil" },
-        { "label": "NASAO MSC", "url": "https://www.nasao.org/page/aam-multistate-collaborative" }
+        {
+          "label": "DOT Announcement",
+          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+        },
+        {
+          "label": "NASAO MSC",
+          "url": "https://www.nasao.org/page/aam-multistate-collaborative"
+        }
       ]
     },
     {
       "id": 5,
       "sponsor": "State of Louisiana",
-      "region": "Gulf of America \u00b7 Offshore Energy Sector",
-      "states": ["LA","TX","MS"],
+      "region": "Gulf of America · Offshore Energy Sector",
+      "states": [
+        "LA",
+        "TX",
+        "MS"
+      ],
       "partners": [
-        { "name": "Beta Technologies", "domain": "beta.team" },
-        { "name": "Elroy Air", "domain": "elroyair.com" }
+        {
+          "name": "Beta Technologies",
+          "domain": "beta.team"
+        },
+        {
+          "name": "Elroy Air",
+          "domain": "elroyair.com"
+        }
       ],
       "focus": "Cargo + Offshore Personnel Transport",
       "keyOp": "Cargo and personnel flights to offshore energy platforms in the Gulf of America",
@@ -157,26 +272,46 @@
       "opsTarget": "Summer 2026",
       "category": "cargo",
       "cargoFirst": true,
-      "editorial": "",
-      "editorialDate": "",
-      "notes": "Elroy Air Chaparral: fully autonomous, 300 lb payload, 300-mile range, no pilot, no passenger. Bristow Group is the customer and long-time partner, providing operational credibility. Offshore energy helicopter costs run $3,000\u2013$8,000/flight for platform supply runs — the economic pain point is real and institutional payers are already in place. Elroy Air CEO Andrew Clare: 'That doesn't happen without a truly mission-ready aircraft and a team that's been doing this work for years.'",
+      "editorial": "The Louisiana offshore energy project deserves close attention. Bristow Group, the operator partner, has been coordinating with the FAA on the Elroy Air Chaparral for over a year. When the helicopter industry's dominant offshore operator validates autonomous cargo as a viable replacement for manned supply runs, the cost calculus changes for every operator in the Gulf.",
+      "editorialDate": "2026-03-18",
+      "notes": "Elroy Air Chaparral: fully autonomous, 300 lb payload, 300-mile range, no pilot, no passenger. Bristow Group is the customer and long-time partner, providing operational credibility. Offshore energy helicopter costs run $3,000–$8,000/flight for platform supply runs — the economic pain point is real and institutional payers are already in place. Elroy Air CEO Andrew Clare: 'That doesn't happen without a truly mission-ready aircraft and a team that's been doing this work for years.'",
       "links": [
-        { "label": "DOT Announcement", "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil" },
-        { "label": "DroneLife Coverage", "url": "https://dronelife.com/2026/03/16/dot-and-faa-launch-evtol-integration-pilot-program/" }
+        {
+          "label": "DOT Announcement",
+          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+        },
+        {
+          "label": "DroneLife Coverage",
+          "url": "https://dronelife.com/2026/03/16/dot-and-faa-launch-evtol-integration-pilot-program/"
+        }
       ]
     },
     {
       "id": 6,
       "sponsor": "Florida Department of Transportation",
-      "region": "Florida \u00b7 Statewide",
-      "states": ["FL"],
-      "partners": [
-        { "name": "Archer", "domain": "archer.com" },
-        { "name": "Beta Technologies", "domain": "beta.team" },
-        { "name": "Electra", "domain": "electra.aero" },
-        { "name": "Joby Aviation", "domain": "jobyaviation.com" }
+      "region": "Florida · Statewide",
+      "states": [
+        "FL"
       ],
-      "focus": "Multi-phase: Cargo \u2192 Passenger \u2192 Automation + Medical",
+      "partners": [
+        {
+          "name": "Archer",
+          "domain": "archer.com"
+        },
+        {
+          "name": "Beta Technologies",
+          "domain": "beta.team"
+        },
+        {
+          "name": "Electra",
+          "domain": "electra.aero"
+        },
+        {
+          "name": "Joby Aviation",
+          "domain": "jobyaviation.com"
+        }
+      ],
+      "focus": "Multi-phase: Cargo → Passenger → Automation + Medical",
       "keyOp": "Three-phase: Phase 1 cargo, Phase 2 passenger, Phase 3 automation and medical response",
       "otaStatus": "Pending",
       "milestone": "",
@@ -187,18 +322,33 @@
       "editorialDate": "",
       "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development.",
       "links": [
-        { "label": "DOT Announcement", "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil" },
-        { "label": "Archer Press Release", "url": "https://news.archer.com/archers-us-air-taxi-operations-take-major-step-forward-as-florida-new-york-and-texas-selected-for-white-house-pilot-program" }
+        {
+          "label": "DOT Announcement",
+          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+        },
+        {
+          "label": "Archer Press Release",
+          "url": "https://news.archer.com/archers-us-air-taxi-operations-take-major-step-forward-as-florida-new-york-and-texas-selected-for-white-house-pilot-program"
+        }
       ]
     },
     {
       "id": 7,
       "sponsor": "North Carolina Department of Transportation",
-      "region": "Southeast \u00b7 NC + VA autonomous corridor",
-      "states": ["NC","VA"],
+      "region": "Southeast · NC + VA autonomous corridor",
+      "states": [
+        "NC",
+        "VA"
+      ],
       "partners": [
-        { "name": "Beta Technologies", "domain": "beta.team" },
-        { "name": "Joby Aviation", "domain": "jobyaviation.com" }
+        {
+          "name": "Beta Technologies",
+          "domain": "beta.team"
+        },
+        {
+          "name": "Joby Aviation",
+          "domain": "jobyaviation.com"
+        }
       ],
       "focus": "Medical Transport + Autonomous Flight",
       "keyOp": "Piloted medical and regional ops statewide; autonomous flight corridor extending into Virginia",
@@ -211,16 +361,24 @@
       "editorialDate": "",
       "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset.",
       "links": [
-        { "label": "DOT Announcement", "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil" }
+        {
+          "label": "DOT Announcement",
+          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+        }
       ]
     },
     {
       "id": 8,
       "sponsor": "City of Albuquerque, New Mexico",
-      "region": "New Mexico \u00b7 Class D + C airports",
-      "states": ["NM"],
+      "region": "New Mexico · Class D + C airports",
+      "states": [
+        "NM"
+      ],
       "partners": [
-        { "name": "Reliable Robotics", "domain": "reliable.co" }
+        {
+          "name": "Reliable Robotics",
+          "domain": "reliable.co"
+        }
       ],
       "focus": "Fully Autonomous Freight",
       "keyOp": "Autonomous cargo ops at Class D and C airports — revenue freight, no pilot, no passengers",
@@ -233,8 +391,14 @@
       "editorialDate": "",
       "notes": "The most strategically significant project for the cargo-first thesis. Reliable Robotics has already been operating in the region and coordinating with the FAA — it is not starting from scratch. Autonomous commercial freight in controlled airspace is the use case drone delivery operators have been chasing under Part 107 for years. If Reliable logs the first autonomous revenue cargo flight under eIPP, it sets a precedent that will reframe the regulatory conversation around uncrewed logistics. Wisk CEO Dan Dalton confirmed Wisk itself may fly helicopters first to collect operational data — signaling that even autonomy-focused companies see the crawl-walk-run approach as necessary.",
       "links": [
-        { "label": "DOT Announcement", "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil" },
-        { "label": "Reliable Robotics", "url": "https://reliable.co" }
+        {
+          "label": "DOT Announcement",
+          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+        },
+        {
+          "label": "Reliable Robotics",
+          "url": "https://reliable.co"
+        }
       ]
     }
   ]
