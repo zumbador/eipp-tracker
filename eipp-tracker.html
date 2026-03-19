@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FAA eIPP Project Tracker | LowAltitudeEconomy.aero</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --navy:    #0d1f3c;
+    --accent:  #c8102e;
+    --sky:     #1a6ea8;
+    --emerald: #0a7c4f;
+    --amber:   #b56e00;
+    --violet:  #5b3ea8;
+    --text:    #1c1c1c;
+    --muted:   #5c6470;
+    --border:  #d8dde5;
+    --bg:      #f5f6f8;
+    --white:   #ffffff;
+  }
+  body {
+    font-family: 'Inter', system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    font-size: 14px;
+    line-height: 1.6;
+    padding: 24px 16px 48px;
+  }
+
+  /* ── Header ── */
+  .header { max-width: 920px; margin: 0 auto 24px; border-bottom: 3px solid var(--navy); padding-bottom: 18px; }
+  .eyebrow { font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); font-weight: 600; margin-bottom: 8px; display: flex; align-items: center; gap: 7px; }
+  .live-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); animation: blink 1.8s infinite; flex-shrink: 0; }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.3} }
+  .header h1 { font-family: 'Source Serif 4', Georgia, serif; font-size: clamp(22px, 4vw, 30px); font-weight: 700; color: var(--navy); line-height: 1.2; margin-bottom: 6px; }
+  .header-sub { color: var(--muted); font-size: 12.5px; }
+
+  /* ── Stats ── */
+  .stats-row { max-width: 920px; margin: 0 auto 20px; display: grid; grid-template-columns: repeat(4,1fr); gap: 10px; }
+  .stat-card { background: var(--white); border: 1px solid var(--border); border-radius: 6px; padding: 11px 14px; }
+  .stat-label { font-size: 10.5px; color: var(--muted); text-transform: uppercase; letter-spacing: .07em; margin-bottom: 3px; }
+  .stat-value { font-size: 20px; font-weight: 700; color: var(--navy); font-family: 'Source Serif 4', serif; }
+
+  /* ── Status banner ── */
+  .banner { max-width: 920px; margin: 0 auto 18px; background: #fff8e6; border: 1px solid #e8c96a; border-left: 4px solid var(--amber); border-radius: 6px; padding: 11px 15px; font-size: 12.5px; color: #5a3e00; display: flex; gap: 9px; }
+  .banner-icon { flex-shrink: 0; font-size: 14px; margin-top: 1px; }
+
+  /* ── Filters ── */
+  .filters { max-width: 920px; margin: 0 auto 18px; display: flex; flex-wrap: wrap; gap: 7px; align-items: center; }
+  .filter-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .07em; }
+  .filter-btn { font-family: 'Inter', sans-serif; font-size: 12px; padding: 5px 12px; border-radius: 20px; border: 1.5px solid var(--border); background: var(--white); color: var(--muted); cursor: pointer; transition: all .14s; font-weight: 500; }
+  .filter-btn:hover { border-color: var(--navy); color: var(--navy); }
+  .filter-btn.active { background: var(--navy); color: #fff; border-color: var(--navy); }
+  .filter-btn.cf-btn.active { background: var(--emerald); border-color: var(--emerald); }
+
+  /* ── Grid ── */
+  .grid { max-width: 920px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+
+  /* ── Card ── */
+  .card { background: var(--white); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; cursor: pointer; transition: box-shadow .17s, transform .17s; }
+  .card:hover { box-shadow: 0 4px 18px rgba(13,31,60,.1); transform: translateY(-2px); }
+  .card.open { box-shadow: 0 6px 24px rgba(13,31,60,.13); }
+
+  .card-top { border-left: 4px solid var(--border); padding: 14px 16px 13px; }
+  .card-top.cat-cargo     { border-left-color: var(--emerald); }
+  .card-top.cat-passenger { border-left-color: var(--sky); }
+  .card-top.cat-regional  { border-left-color: var(--violet); }
+  .card-top.cat-mixed     { border-left-color: var(--amber); }
+
+  .card-meta { display: flex; align-items: center; gap: 6px; margin-bottom: 9px; flex-wrap: wrap; }
+  .card-num { font-size: 11px; color: var(--muted); font-weight: 600; }
+  .badge { font-size: 10px; font-weight: 700; letter-spacing: .05em; padding: 2px 7px; border-radius: 3px; text-transform: uppercase; }
+  .badge-cargo     { background: #d4f0e3; color: #0a5c3a; }
+  .badge-passenger { background: #d6eaf8; color: #0d4a7a; }
+  .badge-regional  { background: #e8e0f5; color: #3d2670; }
+  .badge-mixed     { background: #fef3d9; color: #7a4c00; }
+  .badge-cf        { background: #fff0d6; color: #8a5000; border: 1px solid #f5c84a; }
+
+  .card-sponsor { font-family: 'Source Serif 4', serif; font-size: 15px; font-weight: 700; color: var(--navy); line-height: 1.3; margin-bottom: 2px; }
+  .card-region  { font-size: 11.5px; color: var(--muted); margin-bottom: 8px; }
+  .card-keyop   { font-size: 12.5px; color: var(--text); line-height: 1.5; margin-bottom: 11px; }
+
+  /* ── Partner logos row ── */
+  .partners-row { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 11px; }
+  .partner-logo { display: flex; align-items: center; gap: 5px; }
+  .partner-logo img { height: 18px; width: auto; object-fit: contain; filter: grayscale(20%); border-radius: 2px; background: #fff; border: 1px solid var(--border); padding: 1px 4px; }
+  .partner-logo img.logo-err { display: none; }
+  .partner-tag { font-size: 11px; padding: 2px 8px; background: var(--bg); border: 1px solid var(--border); border-radius: 3px; color: var(--navy); font-weight: 500; }
+
+  .card-footer { display: flex; justify-content: space-between; align-items: center; font-size: 11.5px; }
+  .ota-status { display: flex; align-items: center; gap: 5px; color: var(--amber); font-weight: 600; }
+  .ota-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--amber); animation: blink 1.8s infinite; }
+  .expand-hint { font-size: 10.5px; color: var(--border); font-style: italic; }
+  .card.open .expand-hint { color: var(--sky); }
+
+  /* ── Expand panel ── */
+  .card-expand { display: none; padding: 14px 16px; background: #f8fafb; border-top: 1px solid var(--border); }
+  .card.open .card-expand { display: block; }
+  .expand-section { margin-bottom: 14px; }
+  .expand-label { font-size: 10px; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); font-weight: 600; margin-bottom: 5px; }
+
+  /* Editorial commentary */
+  .editorial-box { background: #fff; border: 1px solid #c8dff5; border-left: 3px solid var(--sky); border-radius: 4px; padding: 10px 12px; }
+  .editorial-head { font-size: 10px; text-transform: uppercase; letter-spacing: .1em; color: var(--sky); font-weight: 700; margin-bottom: 5px; display: flex; align-items: center; gap: 5px; }
+  .editorial-text { font-family: 'Source Serif 4', serif; font-size: 12.5px; line-height: 1.6; color: var(--text); font-style: italic; }
+  .editorial-byline { font-size: 11px; color: var(--muted); margin-top: 5px; font-style: normal; }
+
+  .expand-notes { font-size: 12.5px; color: var(--text); line-height: 1.6; }
+
+  /* Official links */
+  .links-row { display: flex; flex-wrap: wrap; gap: 7px; }
+  .official-link { font-size: 11.5px; padding: 4px 10px; background: var(--white); border: 1px solid var(--border); border-radius: 4px; color: var(--sky); text-decoration: none; font-weight: 500; transition: all .13s; display: inline-flex; align-items: center; gap: 5px; }
+  .official-link:hover { border-color: var(--sky); background: #eef5fc; }
+  .official-link .link-icon { font-size: 11px; }
+
+  /* States */
+  .states-row { display: flex; flex-wrap: wrap; gap: 4px; }
+  .state-chip { font-size: 11px; padding: 2px 7px; background: var(--white); border: 1px solid var(--border); border-radius: 3px; color: var(--muted); font-weight: 500; }
+
+  /* ── Summary ── */
+  .summary { max-width: 920px; margin: 22px auto 0; background: var(--white); border: 1px solid var(--border); border-radius: 8px; padding: 20px; }
+  .summary-title { font-family: 'Source Serif 4', serif; font-size: 16px; font-weight: 700; color: var(--navy); margin-bottom: 14px; padding-bottom: 10px; border-bottom: 1px solid var(--border); }
+  .summary-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; }
+  .sum-head { font-size: 10.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 600; margin-bottom: 4px; }
+  .sum-val { font-size: 13px; font-weight: 700; margin-bottom: 4px; }
+  .sum-val.green { color: var(--emerald); }
+  .sum-val.blue  { color: var(--sky); }
+  .sum-val.amber { color: var(--amber); }
+  .sum-body { font-size: 12px; color: var(--muted); line-height: 1.5; }
+
+  .footer-note { max-width: 920px; margin: 14px auto 0; text-align: center; font-size: 11px; color: #9aa0a8; }
+  .footer-note a { color: var(--sky); text-decoration: none; }
+
+  /* ── Loading / Error ── */
+  .load-msg { grid-column: 1 / -1; text-align: center; padding: 48px 20px; color: var(--muted); font-size: 13px; }
+  .load-msg a { color: var(--sky); cursor: pointer; text-decoration: underline; }
+  .load-msg.error { color: var(--accent); }
+
+  /* Responsive */
+  @media (max-width: 640px) {
+    .grid { grid-template-columns: 1fr; }
+    .stats-row { grid-template-columns: 1fr 1fr; }
+    .summary-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="eyebrow" id="eyebrow"><span class="live-dot"></span> Live Program Monitor</div>
+  <h1>FAA eIPP Project Tracker</h1>
+  <p class="header-sub" id="headerSub">Loading...</p>
+</div>
+
+<div class="stats-row" id="statsRow">
+  <div class="stat-card"><div class="stat-label">Projects Selected</div><div class="stat-value" id="statProjects">--</div></div>
+  <div class="stat-card"><div class="stat-label">States Covered</div><div class="stat-value" id="statStates">--</div></div>
+  <div class="stat-card"><div class="stat-label">OTA Status</div><div class="stat-value" id="statOta" style="font-size:14px;color:var(--amber);padding-top:4px;">--</div></div>
+  <div class="stat-card"><div class="stat-label">First Ops Target</div><div class="stat-value" id="statOps" style="font-size:14px;padding-top:4px;">--</div></div>
+</div>
+
+<div class="banner" id="banner">
+  <span class="banner-icon">&#9888;</span>
+  <span id="bannerText">Loading program status...</span>
+</div>
+
+<div class="filters">
+  <span class="filter-label">Filter:</span>
+  <button class="filter-btn active" data-filter="all">All 8 Projects</button>
+  <button class="filter-btn cf-btn" data-filter="cargo-first">&#9889; Cargo-First (5)</button>
+  <button class="filter-btn" data-filter="cargo">Cargo / Medical</button>
+  <button class="filter-btn" data-filter="passenger">Passenger</button>
+  <button class="filter-btn" data-filter="regional">Regional</button>
+  <button class="filter-btn" data-filter="mixed">Mixed</button>
+</div>
+
+<div class="grid" id="projectGrid">
+  <div class="load-msg">Loading tracker data...</div>
+</div>
+
+<div class="summary" id="summarySection">
+  <div class="summary-title" id="summaryTitle">Program-Wide Status</div>
+  <div class="summary-grid" id="summaryGrid"></div>
+</div>
+
+<p class="footer-note">
+  Data: <a href="https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil" target="_blank" rel="noopener">U.S. DOT official announcement, March 9, 2026</a> &middot;
+  Analysis &amp; commentary: <a href="https://lowaltitudeeconomy.aero" target="_blank" rel="noopener">LowAltitudeEconomy.aero</a> &middot;
+  Click any card to expand
+</p>
+
+<script>
+/* ── Configuration ── */
+var DATA_URL = 'https://cdn.jsdelivr.net/gh/zumbador/eipp-tracker@main/eipp-data.json';
+var FALLBACK_URL = 'https://raw.githubusercontent.com/zumbador/eipp-tracker/main/eipp-data.json';
+
+/* ── State ── */
+var catConfig = {
+  cargo:     { cls: "cat-cargo",     badge: "badge-cargo",     label: "Cargo / Medical" },
+  passenger: { cls: "cat-passenger", badge: "badge-passenger", label: "Passenger" },
+  regional:  { cls: "cat-regional",  badge: "badge-regional",  label: "Regional" },
+  mixed:     { cls: "cat-mixed",     badge: "badge-mixed",     label: "Mixed" }
+};
+
+var projects = [];
+var meta = {};
+var activeFilter = "all";
+var openCard = null;
+
+/* ── Data Loading ── */
+function loadData() {
+  document.getElementById("projectGrid").innerHTML = '<div class="load-msg">Loading tracker data...</div>';
+  fetch(DATA_URL + '?t=' + Date.now())
+    .then(function(r) { if (!r.ok) throw new Error('CDN'); return r.json(); })
+    .catch(function() { return fetch(FALLBACK_URL + '?t=' + Date.now()).then(function(r) { if (!r.ok) throw new Error('Fallback'); return r.json(); }); })
+    .then(function(data) {
+      meta = data.meta;
+      projects = data.projects;
+      applyMeta();
+      renderGrid();
+    })
+    .catch(function() {
+      document.getElementById("projectGrid").innerHTML =
+        '<div class="load-msg error">Unable to load tracker data. <a onclick="loadData()">Retry</a></div>';
+    });
+}
+
+/* ── Apply Metadata to Page ── */
+function applyMeta() {
+  var d = new Date(meta.lastUpdated);
+  var formatted = d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+
+  document.getElementById("eyebrow").innerHTML =
+    '<span class="live-dot"></span> Live Program Monitor &middot; Updated ' + formatted;
+
+  document.getElementById("headerSub").textContent =
+    meta.totalProjects + ' projects \u00b7 ' + meta.totalStates + ' states \u00b7 Announced ' +
+    new Date(meta.programAnnounced).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) +
+    ' \u00b7 OTAs ' + meta.globalOtaStatus.toLowerCase() +
+    ' \u00b7 Operations target: ' + meta.firstOpsTarget +
+    ' \u00b7 Source: U.S. Dept. of Transportation';
+
+  document.getElementById("statProjects").textContent = meta.totalProjects;
+  document.getElementById("statStates").textContent = meta.totalStates;
+  document.getElementById("statOta").textContent = meta.globalOtaStatus;
+  document.getElementById("statOps").textContent = meta.firstOpsTarget;
+
+  document.getElementById("bannerText").innerHTML = meta.bannerMessage;
+
+  document.getElementById("summaryTitle").textContent = 'Program-Wide Status \u2014 ' + formatted;
+
+  if (meta.summaryBlocks && meta.summaryBlocks.length) {
+    document.getElementById("summaryGrid").innerHTML = meta.summaryBlocks.map(function(b) {
+      return '<div>' +
+        '<div class="sum-head">' + b.heading + '</div>' +
+        '<div class="sum-val ' + b.colorClass + '">' + b.value + '</div>' +
+        '<div class="sum-body">' + b.body + '</div>' +
+        '</div>';
+    }).join('');
+  }
+}
+
+/* ── Rendering ── */
+function logoImg(partner) {
+  var id = 'logo-' + partner.domain.replace(/\./g, '-');
+  return '<img id="' + id + '" src="https://logo.clearbit.com/' + partner.domain + '" alt="' + partner.name + '" title="' + partner.name + '" onerror="this.style.display=\'none\';document.getElementById(\'tag-' + id + '\').style.display=\'inline-block\';">' +
+    '<span id="tag-' + id + '" class="partner-tag" style="display:none">' + partner.name + '</span>';
+}
+
+function renderGrid() {
+  var grid = document.getElementById("projectGrid");
+  var filtered = projects.filter(function(p) {
+    if (activeFilter === "all") return true;
+    if (activeFilter === "cargo-first") return p.cargoFirst;
+    return p.category === activeFilter;
+  });
+
+  grid.innerHTML = filtered.map(function(p) {
+    var cat = catConfig[p.category];
+    var isOpen = openCard === p.id;
+
+    var editorialHTML = p.editorial ? '<div class="expand-section"><div class="editorial-box">' +
+      '<div class="editorial-head">\u270d Editor\'s Commentary</div>' +
+      '<div class="editorial-text">' + p.editorial + '</div>' +
+      '<div class="editorial-byline">\u2014 Bright Ibeawuchi, LowAltitudeEconomy.aero</div>' +
+      '</div></div>' : '';
+
+    var milestoneFaceHTML = p.milestone ? '<div style="margin-bottom:10px;font-size:12px;background:#f0f9f4;border:1px solid #a8dcc0;border-radius:4px;padding:7px 10px;display:flex;gap:6px;align-items:flex-start;">' +
+      '<span style="flex-shrink:0;">\ud83d\udfe2</span>' +
+      '<span style="color:#0a5c3a;font-weight:600;line-height:1.4;">' + p.milestone + '</span></div>' : '';
+
+    var linksHTML = p.links && p.links.length ? '<div class="expand-section"><div class="expand-label">Official Sources</div><div class="links-row">' +
+      p.links.map(function(l) { return '<a class="official-link" href="' + l.url + '" target="_blank" rel="noopener"><span class="link-icon">\u2197</span>' + l.label + '</a>'; }).join('') +
+      '</div></div>' : '';
+
+    return '<div class="card' + (isOpen ? ' open' : '') + '" data-id="' + p.id + '">' +
+      '<div class="card-top ' + cat.cls + '">' +
+        '<div class="card-meta">' +
+          '<span class="card-num">#' + String(p.id).padStart(2, '0') + '</span>' +
+          '<span class="badge ' + cat.badge + '">' + cat.label + '</span>' +
+          (p.cargoFirst ? '<span class="badge badge-cf">\u26a1 Cargo-First</span>' : '') +
+        '</div>' +
+        '<div class="card-sponsor">' + p.sponsor + '</div>' +
+        '<div class="card-region">' + p.region + ' \u00b7 ' + p.states.length + ' state' + (p.states.length > 1 ? 's' : '') + '</div>' +
+        '<div class="card-keyop">' + p.keyOp + '</div>' +
+        '<div class="partners-row">' + p.partners.map(function(pt) { return '<div class="partner-logo">' + logoImg(pt) + '</div>'; }).join('') + '</div>' +
+        milestoneFaceHTML +
+        '<div class="card-footer">' +
+          '<span class="ota-status"><span class="ota-dot"></span> OTA ' + p.otaStatus + '</span>' +
+          '<span class="expand-hint">' + (isOpen ? '\u25b2 collapse' : '\u25bc expand') + '</span>' +
+        '</div>' +
+      '</div>' +
+      '<div class="card-expand">' +
+        editorialHTML +
+        '<div class="expand-section"><div class="expand-label">Analysis</div><div class="expand-notes">' + p.notes + '</div></div>' +
+        linksHTML +
+        '<div class="expand-section" style="margin-bottom:0"><div class="expand-label">States</div><div class="states-row">' +
+          p.states.map(function(s) { return '<span class="state-chip">' + s + '</span>'; }).join('') +
+        '</div></div>' +
+      '</div>' +
+    '</div>';
+  }).join('');
+
+  grid.querySelectorAll('.card').forEach(function(card) {
+    card.addEventListener('click', function() {
+      var id = parseInt(card.dataset.id);
+      openCard = openCard === id ? null : id;
+      renderGrid();
+    });
+  });
+}
+
+/* ── Filter Buttons ── */
+document.querySelectorAll('.filter-btn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    activeFilter = btn.dataset.filter;
+    openCard = null;
+    document.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
+    btn.classList.add('active');
+    renderGrid();
+  });
+});
+
+/* ── Initialize ── */
+loadData();
+</script>
+</body>
+</html>
