@@ -1,0 +1,414 @@
+{
+  "name": "eIPP Auto-Monitor",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [{ "field": "cronExpression", "expression": "0 8 * * *" }]
+        }
+      },
+      "id": "trigger",
+      "name": "Daily 8am Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [0, 300]
+    },
+    {
+      "parameters": {
+        "url": "https://dronelife.com/feed/",
+        "options": {}
+      },
+      "id": "rss-dronelife",
+      "name": "RSS: DroneLife",
+      "type": "n8n-nodes-base.rssFeedRead",
+      "typeVersion": 1,
+      "position": [240, 0]
+    },
+    {
+      "parameters": {
+        "url": "https://evtol.com/feed/",
+        "options": {}
+      },
+      "id": "rss-evtol",
+      "name": "RSS: eVTOL.com",
+      "type": "n8n-nodes-base.rssFeedRead",
+      "typeVersion": 1,
+      "position": [240, 120]
+    },
+    {
+      "parameters": {
+        "url": "https://www.transportation.gov/rss/briefing-room",
+        "options": {}
+      },
+      "id": "rss-dot",
+      "name": "RSS: DOT",
+      "type": "n8n-nodes-base.rssFeedRead",
+      "typeVersion": 1,
+      "position": [240, 240]
+    },
+    {
+      "parameters": {
+        "url": "https://www.faa.gov/newsroom/rss",
+        "options": {}
+      },
+      "id": "rss-faa",
+      "name": "RSS: FAA",
+      "type": "n8n-nodes-base.rssFeedRead",
+      "typeVersion": 1,
+      "position": [240, 360]
+    },
+    {
+      "parameters": {
+        "url": "https://investors.archer.com/rss/news-releases.xml",
+        "options": {}
+      },
+      "id": "rss-archer",
+      "name": "RSS: Archer IR",
+      "type": "n8n-nodes-base.rssFeedRead",
+      "typeVersion": 1,
+      "position": [240, 480]
+    },
+    {
+      "parameters": {
+        "url": "https://ir.jobyaviation.com/rss/news-releases.xml",
+        "options": {}
+      },
+      "id": "rss-joby",
+      "name": "RSS: Joby IR",
+      "type": "n8n-nodes-base.rssFeedRead",
+      "typeVersion": 1,
+      "position": [240, 600]
+    },
+    {
+      "parameters": {
+        "url": "https://wisk.aero/news/press-release/feed/",
+        "options": {}
+      },
+      "id": "rss-wisk",
+      "name": "RSS: Wisk",
+      "type": "n8n-nodes-base.rssFeedRead",
+      "typeVersion": 1,
+      "position": [240, 720]
+    },
+    {
+      "parameters": {
+        "mode": "append",
+        "options": {}
+      },
+      "id": "merge-all",
+      "name": "Merge All Feed Items",
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3,
+      "position": [520, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": { "caseSensitive": false },
+          "combinator": "or",
+          "conditions": [
+            { "leftValue": "={{ $json.title }}", "rightValue": "", "operator": { "type": "string", "operation": "exists" } }
+          ]
+        },
+        "options": {}
+      },
+      "id": "filter-valid",
+      "name": "Filter Valid Items",
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2,
+      "position": [720, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Filter items from the last 24 hours\nconst cutoff = new Date(Date.now() - 24 * 60 * 60 * 1000);\nconst items = $input.all();\nconst recent = items.filter(item => {\n  const pubDate = item.json.pubDate || item.json.isoDate || item.json.date;\n  if (!pubDate) return true; // keep items without dates for safety\n  return new Date(pubDate) >= cutoff;\n});\nreturn recent.length > 0 ? recent : [{ json: { _empty: true } }];"
+      },
+      "id": "filter-recent",
+      "name": "Filter Last 24h",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [920, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "boolean": [{ "value1": "={{ $json._empty }}", "value2": true, "operation": "notEqual" }]
+        }
+      },
+      "id": "check-empty",
+      "name": "Has Items?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1120, 300]
+    },
+    {
+      "parameters": {
+        "batchSize": 1,
+        "options": {}
+      },
+      "id": "loop-items",
+      "name": "Loop Over Items",
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [1320, 200]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.anthropic.com/v1/messages",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            { "name": "anthropic-version", "value": "2023-06-01" },
+            { "name": "content-type", "value": "application/json" }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"model\": \"claude-haiku-4-5-20251001\",\n  \"max_tokens\": 300,\n  \"system\": \"You are an eIPP program analyst. Determine if the given article is relevant to the FAA eIPP (eVTOL Integration Pilot Program) announced March 9, 2026. The program has 8 projects involving: Archer Aviation, Beta Technologies, Electra, Joby Aviation, Wisk Aero, Elroy Air, Reliable Robotics, Ampaire, and sponsors: Port Authority of NY/NJ, Texas DOT, Utah DOT, PennDOT/NASAO, Louisiana, Florida DOT, NC DOT, City of Albuquerque.\\n\\nRespond with ONLY a JSON object:\\n{\\n  \\\"relevant\\\": true/false,\\n  \\\"confidence\\\": 0.0-1.0,\\n  \\\"projectIds\\\": [list of affected project IDs 1-8],\\n  \\\"updateType\\\": \\\"milestone|otaStatus|notes|links|meta\\\",\\n  \\\"summary\\\": \\\"One sentence summary\\\"\\n}\",\n  \"messages\": [{\n    \"role\": \"user\",\n    \"content\": \"Title: {{ $json.title }}\\nDescription: {{ $json.contentSnippet || $json.description || '' }}\\nURL: {{ $json.link }}\\nDate: {{ $json.pubDate || $json.isoDate || '' }}\"\n  }]\n}",
+        "options": {
+          "timeout": 30000
+        }
+      },
+      "id": "claude-relevance",
+      "name": "Claude: Relevance Check",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1520, 200],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "ANTHROPIC_HEADER_AUTH",
+          "name": "Anthropic API Key"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Parse Claude's relevance response\nconst item = $input.first();\nlet response;\ntry {\n  const content = item.json.content[0].text;\n  // Extract JSON from response (handle markdown code blocks)\n  const jsonMatch = content.match(/\\{[\\s\\S]*\\}/);\n  response = JSON.parse(jsonMatch[0]);\n} catch (e) {\n  response = { relevant: false, confidence: 0, projectIds: [], summary: 'Parse error' };\n}\nreturn [{ json: { ...response, originalTitle: $('Loop Over Items').first().json.title, originalUrl: $('Loop Over Items').first().json.link } }];"
+      },
+      "id": "parse-relevance",
+      "name": "Parse Relevance Response",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1720, 200]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "boolean": [
+            { "value1": "={{ $json.relevant }}", "value2": true }
+          ],
+          "number": [
+            { "value1": "={{ $json.confidence }}", "value2": 0.7, "operation": "gte" }
+          ]
+        },
+        "combineOperation": "all"
+      },
+      "id": "check-relevant",
+      "name": "Relevant? (>= 0.7)",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1920, 200]
+    },
+    {
+      "parameters": {
+        "method": "GET",
+        "url": "https://api.github.com/repos/zumbador/eipp-tracker/contents/eipp-data.json",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            { "name": "Accept", "value": "application/vnd.github.v3+json" }
+          ]
+        },
+        "options": {}
+      },
+      "id": "github-get",
+      "name": "Get Current Data from GitHub",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [2120, 100],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "GITHUB_HEADER_AUTH",
+          "name": "GitHub Token"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.anthropic.com/v1/messages",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            { "name": "anthropic-version", "value": "2023-06-01" },
+            { "name": "content-type", "value": "application/json" }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"model\": \"claude-sonnet-4-6-20250514\",\n  \"max_tokens\": 1000,\n  \"system\": \"You are updating a JSON data file for the FAA eIPP tracker. Given a relevant news article and the current project data, extract the specific structured update needed.\\n\\nReturn ONLY a JSON object with fields to update:\\n{\\n  \\\"projectId\\\": N,\\n  \\\"updates\\\": {\\n    \\\"milestone\\\": \\\"string or null if no change\\\",\\n    \\\"otaStatus\\\": \\\"string or null (use: Pending, Signed — [date], Active)\\\",\\n    \\\"appendNotes\\\": \\\"text to APPEND to notes, or null\\\",\\n    \\\"newLinks\\\": [{\\\"label\\\": \\\"string\\\", \\\"url\\\": \\\"string\\\"}] or null\\n  },\\n  \\\"metaUpdates\\\": {\\n    \\\"bannerMessage\\\": \\\"string or null\\\",\\n    \\\"globalOtaStatus\\\": \\\"string or null\\\"\\n  },\\n  \\\"description\\\": \\\"What changed (for history log)\\\"\\n}\\n\\nRules: Only include fields that actually changed. For appendNotes provide ADDITIONAL text only. For milestone keep under 80 chars. Be conservative.\",\n  \"messages\": [{\n    \"role\": \"user\",\n    \"content\": \"Article Title: {{ $('Parse Relevance Response').first().json.originalTitle }}\\nArticle URL: {{ $('Parse Relevance Response').first().json.originalUrl }}\\nRelevance Summary: {{ $('Parse Relevance Response').first().json.summary }}\\nAffected Projects: {{ $('Parse Relevance Response').first().json.projectIds }}\\n\\nCurrent eIPP data (first 500 chars for context): {{ JSON.stringify(JSON.parse(Buffer.from($json.content, 'base64').toString('utf-8')).projects.map(p => ({id: p.id, sponsor: p.sponsor, otaStatus: p.otaStatus, milestone: p.milestone}))).substring(0, 500) }}\"\n  }]\n}",
+        "options": {
+          "timeout": 60000
+        }
+      },
+      "id": "claude-extract",
+      "name": "Claude: Extract Structured Update",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [2320, 100],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "ANTHROPIC_HEADER_AUTH",
+          "name": "Anthropic API Key"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Merge the Claude-extracted update into the current eipp-data.json\nconst githubItem = $('Get Current Data from GitHub').first();\nconst sha = githubItem.json.sha;\nconst currentContent = Buffer.from(githubItem.json.content, 'base64').toString('utf-8');\nconst data = JSON.parse(currentContent);\n\n// Parse Claude's extraction response\nlet update;\ntry {\n  const extractResponse = $input.first().json.content[0].text;\n  const jsonMatch = extractResponse.match(/\\{[\\s\\S]*\\}/);\n  update = JSON.parse(jsonMatch[0]);\n} catch (e) {\n  return [{ json: { _skip: true, reason: 'Failed to parse extraction response' } }];\n}\n\n// Apply project-level updates\nif (update.projectId && update.updates) {\n  const project = data.projects.find(p => p.id === update.projectId);\n  if (project) {\n    if (update.updates.milestone) project.milestone = update.updates.milestone;\n    if (update.updates.otaStatus) project.otaStatus = update.updates.otaStatus;\n    if (update.updates.appendNotes) project.notes += ' ' + update.updates.appendNotes;\n    if (update.updates.newLinks && update.updates.newLinks.length) {\n      project.links.push(...update.updates.newLinks);\n    }\n  }\n}\n\n// Apply meta-level updates\nif (update.metaUpdates) {\n  if (update.metaUpdates.bannerMessage) data.meta.bannerMessage = update.metaUpdates.bannerMessage;\n  if (update.metaUpdates.globalOtaStatus) data.meta.globalOtaStatus = update.metaUpdates.globalOtaStatus;\n}\n\n// Update metadata\ndata.meta.lastUpdated = new Date().toISOString();\ndata.meta.updatedBy = 'n8n';\ndata.meta.version += 1;\n\n// Add history entry\ndata.updateHistory.unshift({\n  timestamp: new Date().toISOString(),\n  source: 'n8n-auto-monitor',\n  description: update.description || 'Auto-detected update',\n  projectsAffected: update.projectId ? [update.projectId] : [],\n  sourceUrl: $('Parse Relevance Response').first().json.originalUrl || ''\n});\n\n// Keep only last 50 history entries\ndata.updateHistory = data.updateHistory.slice(0, 50);\n\nconst updatedJson = JSON.stringify(data, null, 2);\nconst updatedBase64 = Buffer.from(updatedJson).toString('base64');\n\nreturn [{\n  json: {\n    _skip: false,\n    updatedContent: updatedBase64,\n    sha: sha,\n    commitMessage: 'auto: ' + (update.description || 'eIPP data update')\n  }\n}];"
+      },
+      "id": "merge-update",
+      "name": "Merge Update Into Data",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [2520, 100]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "boolean": [
+            { "value1": "={{ $json._skip }}", "value2": true, "operation": "notEqual" }
+          ]
+        }
+      },
+      "id": "check-skip",
+      "name": "Valid Update?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [2720, 100]
+    },
+    {
+      "parameters": {
+        "method": "PUT",
+        "url": "https://api.github.com/repos/zumbador/eipp-tracker/contents/eipp-data.json",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            { "name": "Accept", "value": "application/vnd.github.v3+json" },
+            { "name": "Content-Type", "value": "application/json" }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"message\": \"{{ $json.commitMessage }}\",\n  \"content\": \"{{ $json.updatedContent }}\",\n  \"sha\": \"{{ $json.sha }}\",\n  \"committer\": {\n    \"name\": \"n8n-eipp-monitor\",\n    \"email\": \"bright@zumbador.com\"\n  }\n}",
+        "options": {}
+      },
+      "id": "github-put",
+      "name": "Push Updated Data to GitHub",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [2920, 100],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "GITHUB_HEADER_AUTH",
+          "name": "GitHub Token"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "method": "GET",
+        "url": "https://purge.jsdelivr.net/gh/zumbador/eipp-tracker@main/eipp-data.json",
+        "options": {}
+      },
+      "id": "purge-cdn",
+      "name": "Purge jsDelivr Cache",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [3120, 100]
+    },
+    {
+      "parameters": {},
+      "id": "no-updates",
+      "name": "No Relevant Updates",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [1920, 400]
+    },
+    {
+      "parameters": {},
+      "id": "no-items",
+      "name": "No New Items",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [1320, 400]
+    }
+  ],
+  "connections": {
+    "Daily 8am Trigger": {
+      "main": [
+        [
+          { "node": "RSS: DroneLife", "type": "main", "index": 0 },
+          { "node": "RSS: eVTOL.com", "type": "main", "index": 0 },
+          { "node": "RSS: DOT", "type": "main", "index": 0 },
+          { "node": "RSS: FAA", "type": "main", "index": 0 },
+          { "node": "RSS: Archer IR", "type": "main", "index": 0 },
+          { "node": "RSS: Joby IR", "type": "main", "index": 0 },
+          { "node": "RSS: Wisk", "type": "main", "index": 0 }
+        ]
+      ]
+    },
+    "RSS: DroneLife": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
+    "RSS: eVTOL.com": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
+    "RSS: DOT": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
+    "RSS: FAA": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
+    "RSS: Archer IR": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
+    "RSS: Joby IR": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
+    "RSS: Wisk": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
+    "Merge All Feed Items": { "main": [[ { "node": "Filter Valid Items", "type": "main", "index": 0 } ]] },
+    "Filter Valid Items": { "main": [[ { "node": "Filter Last 24h", "type": "main", "index": 0 } ]] },
+    "Filter Last 24h": { "main": [[ { "node": "Has Items?", "type": "main", "index": 0 } ]] },
+    "Has Items?": {
+      "main": [
+        [ { "node": "Loop Over Items", "type": "main", "index": 0 } ],
+        [ { "node": "No New Items", "type": "main", "index": 0 } ]
+      ]
+    },
+    "Loop Over Items": { "main": [[ { "node": "Claude: Relevance Check", "type": "main", "index": 0 } ]] },
+    "Claude: Relevance Check": { "main": [[ { "node": "Parse Relevance Response", "type": "main", "index": 0 } ]] },
+    "Parse Relevance Response": { "main": [[ { "node": "Relevant? (>= 0.7)", "type": "main", "index": 0 } ]] },
+    "Relevant? (>= 0.7)": {
+      "main": [
+        [ { "node": "Get Current Data from GitHub", "type": "main", "index": 0 } ],
+        [ { "node": "No Relevant Updates", "type": "main", "index": 0 } ]
+      ]
+    },
+    "Get Current Data from GitHub": { "main": [[ { "node": "Claude: Extract Structured Update", "type": "main", "index": 0 } ]] },
+    "Claude: Extract Structured Update": { "main": [[ { "node": "Merge Update Into Data", "type": "main", "index": 0 } ]] },
+    "Merge Update Into Data": { "main": [[ { "node": "Valid Update?", "type": "main", "index": 0 } ]] },
+    "Valid Update?": {
+      "main": [
+        [ { "node": "Push Updated Data to GitHub", "type": "main", "index": 0 } ],
+        []
+      ]
+    },
+    "Push Updated Data to GitHub": { "main": [[ { "node": "Purge jsDelivr Cache", "type": "main", "index": 0 } ]] },
+    "Purge jsDelivr Cache": { "main": [[ { "node": "Loop Over Items", "type": "main", "index": 0 } ]] },
+    "No Relevant Updates": { "main": [[ { "node": "Loop Over Items", "type": "main", "index": 0 } ]] }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "tags": [
+    { "name": "eIPP" },
+    { "name": "auto-monitor" }
+  ]
+}
