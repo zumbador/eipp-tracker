@@ -15,6 +15,28 @@
     },
     {
       "parameters": {
+        "url": "https://news.google.com/rss/search?q=eIPP+eVTOL+FAA+%22integration+pilot+program%22&hl=en-US&gl=US&ceid=US:en",
+        "options": {}
+      },
+      "id": "rss-google-eipp",
+      "name": "RSS: Google News eIPP",
+      "type": "n8n-nodes-base.rssFeedRead",
+      "typeVersion": 1,
+      "position": [240, 0]
+    },
+    {
+      "parameters": {
+        "url": "https://news.google.com/rss/search?q=%22Archer+Aviation%22+OR+%22Joby+Aviation%22+OR+%22Beta+Technologies%22+OR+%22Wisk+Aero%22+OR+%22Elroy+Air%22+OR+%22Reliable+Robotics%22&hl=en-US&gl=US&ceid=US:en",
+        "options": {}
+      },
+      "id": "rss-google-companies",
+      "name": "RSS: Google News AAM Companies",
+      "type": "n8n-nodes-base.rssFeedRead",
+      "typeVersion": 1,
+      "position": [240, 120]
+    },
+    {
+      "parameters": {
         "url": "https://dronelife.com/feed/",
         "options": {}
       },
@@ -22,73 +44,40 @@
       "name": "RSS: DroneLife",
       "type": "n8n-nodes-base.rssFeedRead",
       "typeVersion": 1,
-      "position": [240, 0]
-    },
-    {
-      "parameters": {
-        "url": "https://evtol.com/feed/",
-        "options": {}
-      },
-      "id": "rss-evtol",
-      "name": "RSS: eVTOL.com",
-      "type": "n8n-nodes-base.rssFeedRead",
-      "typeVersion": 1,
-      "position": [240, 120]
-    },
-    {
-      "parameters": {
-        "url": "https://www.transportation.gov/rss/briefing-room",
-        "options": {}
-      },
-      "id": "rss-dot",
-      "name": "RSS: DOT",
-      "type": "n8n-nodes-base.rssFeedRead",
-      "typeVersion": 1,
       "position": [240, 240]
     },
     {
       "parameters": {
-        "url": "https://www.faa.gov/newsroom/rss",
+        "url": "https://theaircurrent.com/feed/",
         "options": {}
       },
-      "id": "rss-faa",
-      "name": "RSS: FAA",
+      "id": "rss-aircurrent",
+      "name": "RSS: The Air Current",
       "type": "n8n-nodes-base.rssFeedRead",
       "typeVersion": 1,
       "position": [240, 360]
     },
     {
       "parameters": {
-        "url": "https://investors.archer.com/rss/news-releases.xml",
+        "url": "https://verticalmag.com/feed/",
         "options": {}
       },
-      "id": "rss-archer",
-      "name": "RSS: Archer IR",
+      "id": "rss-verticalmag",
+      "name": "RSS: Vertical Mag",
       "type": "n8n-nodes-base.rssFeedRead",
       "typeVersion": 1,
       "position": [240, 480]
     },
     {
       "parameters": {
-        "url": "https://ir.jobyaviation.com/rss/news-releases.xml",
+        "url": "https://www.aviationtoday.com/feed/",
         "options": {}
       },
-      "id": "rss-joby",
-      "name": "RSS: Joby IR",
+      "id": "rss-aviationtoday",
+      "name": "RSS: Aviation Today",
       "type": "n8n-nodes-base.rssFeedRead",
       "typeVersion": 1,
       "position": [240, 600]
-    },
-    {
-      "parameters": {
-        "url": "https://wisk.aero/news/press-release/feed/",
-        "options": {}
-      },
-      "id": "rss-wisk",
-      "name": "RSS: Wisk",
-      "type": "n8n-nodes-base.rssFeedRead",
-      "typeVersion": 1,
-      "position": [240, 720]
     },
     {
       "parameters": {
@@ -356,23 +345,21 @@
     "Daily 8am Trigger": {
       "main": [
         [
+          { "node": "RSS: Google News eIPP", "type": "main", "index": 0 },
+          { "node": "RSS: Google News AAM Companies", "type": "main", "index": 0 },
           { "node": "RSS: DroneLife", "type": "main", "index": 0 },
-          { "node": "RSS: eVTOL.com", "type": "main", "index": 0 },
-          { "node": "RSS: DOT", "type": "main", "index": 0 },
-          { "node": "RSS: FAA", "type": "main", "index": 0 },
-          { "node": "RSS: Archer IR", "type": "main", "index": 0 },
-          { "node": "RSS: Joby IR", "type": "main", "index": 0 },
-          { "node": "RSS: Wisk", "type": "main", "index": 0 }
+          { "node": "RSS: The Air Current", "type": "main", "index": 0 },
+          { "node": "RSS: Vertical Mag", "type": "main", "index": 0 },
+          { "node": "RSS: Aviation Today", "type": "main", "index": 0 }
         ]
       ]
     },
+    "RSS: Google News eIPP": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
+    "RSS: Google News AAM Companies": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
     "RSS: DroneLife": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
-    "RSS: eVTOL.com": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
-    "RSS: DOT": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
-    "RSS: FAA": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
-    "RSS: Archer IR": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
-    "RSS: Joby IR": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
-    "RSS: Wisk": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
+    "RSS: The Air Current": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
+    "RSS: Vertical Mag": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
+    "RSS: Aviation Today": { "main": [[ { "node": "Merge All Feed Items", "type": "main", "index": 0 } ]] },
     "Merge All Feed Items": { "main": [[ { "node": "Filter Valid Items", "type": "main", "index": 0 } ]] },
     "Filter Valid Items": { "main": [[ { "node": "Filter Last 24h", "type": "main", "index": 0 } ]] },
     "Filter Last 24h": { "main": [[ { "node": "Has Items?", "type": "main", "index": 0 } ]] },
@@ -406,9 +393,5 @@
   },
   "settings": {
     "executionOrder": "v1"
-  },
-  "tags": [
-    { "name": "eIPP" },
-    { "name": "auto-monitor" }
-  ]
+  }
 }
