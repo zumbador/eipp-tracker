@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-20T20:57:58.770Z",
+    "lastUpdated": "2026-03-20T20:58:36.139Z",
     "updatedBy": "n8n",
-    "version": 11,
+    "version": 12,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-20T20:58:36.139Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article is investment commentary/speculation about Joby Aviation. No substantive operational, regulatory, or milestone updates present. No structured data changes warranted.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVDUycDFHdEJROWZrNm5fU254SUpDazlweEpsRzRLVG5kZUh2ekttUkpGMHZvNnRYNDNDSmgzUlpfbHEwb21tZ2hQemdfRmtaUENIVlA0SnlPVl9sOXpGb2tsUVJJdVZSMk5Fa3ZQWTgtMzNyOXZyNzNQMkN4YXpkYVRtVVFmR0ZFZ1MxYURkU1lyWUNPV0hQbGZ1TQ?oc=5"
+    },
     {
       "timestamp": "2026-03-20T20:57:58.770Z",
       "source": "n8n-auto-monitor",
