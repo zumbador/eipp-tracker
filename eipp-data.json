@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-20T20:50:26.257Z",
+    "lastUpdated": "2026-03-20T20:51:04.858Z",
     "updatedBy": "n8n",
-    "version": 5,
+    "version": 6,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-20T20:51:04.859Z",
+      "source": "n8n-auto-monitor",
+      "description": "Jim Cramer commentary on Joby Aviation speculation - no structural project data changes warranted. Article represents market sentiment/financial analysis rather than operational or regulatory milestones for eIPP projects.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVDUycDFHdEJROWZrNm5fU254SUpDazlweEpsRzRLVG5kZUh2ekttUkpGMHZvNnRYNDNDSmgzUlpfbHEwb21tZ2hQemdfRmtaUENIVlA0SnlPVl9sOXpGb2tsUVJJdVZSMk5Fa3ZQWTgtMzNyOXZyNzNQMkN4YXpkYVRtVVFmR0ZFZ1MxYURkU1lyWUNPV0hQbGZ1TQ?oc=5"
+    },
     {
       "timestamp": "2026-03-20T20:50:26.257Z",
       "source": "n8n-auto-monitor",
