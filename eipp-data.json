@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-20T20:49:59.732Z",
+    "lastUpdated": "2026-03-20T20:50:26.257Z",
     "updatedBy": "n8n",
-    "version": 4,
+    "version": 5,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-20T20:50:26.257Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added milestone and notes reflecting Joby Aviation's Bay Area flight operations demonstration",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmJsbC1UMlF6N042TUl6MC1ROE9WZlpSdWtyalkzc2N6Y2hvQ3RqZ0ZSOWM1d2tqQVJRTThMVncwWmZEMFhqNDdudE5McnVUWUE5U1JlT192S1JVamctU3NmQ1ROWWN4LVdlZGpwb3k2bkdLLUk5TThyQXFJYTBhRF96Um1jd9IBjgFBVV95cUxPNnZYaTdqQWRUM3ROMm1XZTB3VWhBa0ttSkw1MHRmQjkzeFZJbGFDeE4yWmlucmxzTG5rS2JZMHUxNG5PNzlpU0QzT0V2VmY1TjQ1S1hsMjBnbnN5ZW9va2o0dzFlaXRvcWtMN1dMQTZNTVdtMDVmdzFZZ0JZeUJ3QllQREU2b0VuZ2NMMl9R?oc=5"
+    },
     {
       "timestamp": "2026-03-20T20:49:59.733Z",
       "source": "n8n-auto-monitor",
@@ -242,13 +251,13 @@
       "focus": "Regional Passenger Transportation",
       "keyOp": "Revitalize Essential Air Service-equivalent regional routes across 13 states",
       "otaStatus": "Pending",
-      "milestone": "",
+      "milestone": "Flight operations demonstrated in Bay Area",
       "opsTarget": "Summer 2026",
       "category": "regional",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.'",
+      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress.",
       "links": [
         {
           "label": "DOT Announcement",
