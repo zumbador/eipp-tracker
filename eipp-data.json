@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-20T21:00:19.659Z",
+    "lastUpdated": "2026-03-20T21:11:02.854Z",
     "updatedBy": "n8n",
-    "version": 15,
+    "version": 16,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-20T21:11:02.854Z",
+      "source": "n8n-auto-monitor",
+      "description": "Auto-detected update",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80T0dHY1plXzJTVF9QOTJCWklyTklsakI2SzIzS0pDVnhJQi1fbDlKQ3dUSVh1YmpYYWU2R2pDeU5fcW42d3FEQkRJbTItbE5TeGozbm9yMS1MdFg4S1FIS1dHek52aUV1ZFJWdk1hcHBrZzh4R0Jj?oc=5"
+    },
     {
       "timestamp": "2026-03-20T21:00:19.659Z",
       "source": "n8n-auto-monitor",
