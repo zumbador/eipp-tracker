@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-20T20:51:42.645Z",
+    "lastUpdated": "2026-03-20T20:52:20.332Z",
     "updatedBy": "n8n",
-    "version": 7,
+    "version": 8,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-20T20:52:20.332Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added milestone and notes for demonstration mail delivery flights with Loganair partnership",
+      "projectsAffected": [
+        2
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1BzV3diQ2Zlc2pYbU5kUlJWLXdtVDlCNk9nWTNqUmZITGJ2cFMxSmZpSzNUWDBRS3ZaUkpLMkdqRF9nYzNjVGNCaWhmZlBkU193MXJwbUFqYlRiYzRXNDJ5OGNkeS1Jd1dSWFNJb0FtVU1QbWRqYzR5dTljVS1iYWd5REZFMndsclRQU1ROQnJxWklyLVZIZ1NPS0lsSl9ac0dURjFPbGI2d9IBrwFBVV95cUxNbFFEVnBkUkNPVEwzLVd1dnhjMk9KMGM1SWxEQkpnMFlZZHVBMVBjdmFOZGtmMzJfcDRWdTRJODFkTHVnczBOci10aWZiNTVndHNOOWNXNzlOd2F2QkNoWFEtc01XMWYzR2ZrRE9kck1vc01fSTBONElfN2syVDlLRndRT3dyZW01U28tRi10TEFjeDRFaXAzUkVkMkd0R1RLelNpZC1aZzlPZ2Z2ZHFr?oc=5"
+    },
     {
       "timestamp": "2026-03-20T20:51:42.645Z",
       "source": "n8n-auto-monitor",
@@ -171,13 +180,13 @@
       "focus": "Passenger + Autonomous",
       "keyOp": "Regional air taxi network connecting Dallas, Austin, San Antonio, and Houston",
       "otaStatus": "Pending",
-      "milestone": "",
+      "milestone": "Demonstration mail delivery flights with Loganair",
       "opsTarget": "Summer 2026",
       "category": "passenger",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028.",
+      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment.",
       "links": [
         {
           "label": "DOT Announcement",
