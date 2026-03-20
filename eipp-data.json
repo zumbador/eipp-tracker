@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-20T20:57:32.139Z",
+    "lastUpdated": "2026-03-20T20:57:58.770Z",
     "updatedBy": "n8n",
-    "version": 10,
+    "version": 11,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-20T20:57:58.770Z",
+      "source": "n8n-auto-monitor",
+      "description": "Confirmed Joby Aviation flight operations in Bay Area per NBC Bay Area reporting",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmJsbC1UMlF6N042TUl6MC1ROE9WZlpSdWtyalkzc2N6Y2hvQ3RqZ0ZSOWM1d2tqQVJRTThMVncwWmZEMFhqNDdudE5McnVUWUE5U1JlT192S1JVamctU3NmQ1ROWWN4LVdlZGpwb3k2bkdLLUk5TThyQXFJYTBhRF96Um1jd9IBjgFBVV95cUxPNnZYaTdqQWRUM3ROMm1XZTB3VWhBa0ttSkw1MHRmQjkzeFZJbGFDeE4yWmlucmxzTG5rS2JZMHUxNG5PNzlpU0QzT0V2VmY1TjQ1S1hsMjBnbnN5ZW9va2o0dzFlaXRvcWtMN1dMQTZNTVdtMDVmdzFZZ0JZeUJ3QllQREU2b0VuZ2NMMl9R?oc=5"
+    },
     {
       "timestamp": "2026-03-20T20:57:32.139Z",
       "source": "n8n-auto-monitor",
@@ -298,7 +307,7 @@
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress.",
+      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness.",
       "links": [
         {
           "label": "DOT Announcement",
