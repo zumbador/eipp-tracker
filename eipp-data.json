@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-20T20:52:20.332Z",
+    "lastUpdated": "2026-03-20T20:52:58.681Z",
     "updatedBy": "n8n",
-    "version": 8,
+    "version": 9,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Pending",
-    "bannerMessage": "<strong>Current phase — OTA finalization.</strong> Other Transaction Agreements are being negotiated between the FAA and each project sponsor. DOT indicated agreements would be finalized \"in the coming weeks.\" Operations can begin within 90 days of signing. No flights have occurred yet under this program.",
+    "bannerMessage": "BETA Technologies achieves first electric flight milestone with Loganair in Scotland",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-20T20:52:58.681Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Project 2 milestone to reflect completed first electric flight demonstration with Loganair in Scotland, advancing eVTOL operational validation",
+      "projectsAffected": [
+        2
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmNTcWdiUjNHOEg0YkZPRkk0MHAxYzRhRDczRmwzQ1hVY0tfZGJTMVRRZ3NtTldOYzNLWjU5WTJlNDBGZllDQ1J5U0hJRWl2NVVBbWJnaS1YSm5GWVczNzJFMHY4bzlvd2NvQjVJLV9OM3BnSjZaZDlrQWQ3N1pJbjVBTi11TTZYQWdRNXlBaWxIUnpRWlhGd2lsaXFlSWNnaWc?oc=5"
+    },
     {
       "timestamp": "2026-03-20T20:52:20.332Z",
       "source": "n8n-auto-monitor",
@@ -180,13 +189,13 @@
       "focus": "Passenger + Autonomous",
       "keyOp": "Regional air taxi network connecting Dallas, Austin, San Antonio, and Houston",
       "otaStatus": "Pending",
-      "milestone": "Demonstration mail delivery flights with Loganair",
+      "milestone": "First electric flight demonstration completed in Scotland",
       "opsTarget": "Summer 2026",
       "category": "passenger",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment.",
+      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions.",
       "links": [
         {
           "label": "DOT Announcement",
