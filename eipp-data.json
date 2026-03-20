@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-20T20:52:58.681Z",
+    "lastUpdated": "2026-03-20T20:57:32.139Z",
     "updatedBy": "n8n",
-    "version": 9,
+    "version": 10,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-20T20:57:32.139Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article mentions Beta Technologies selected for FAA eIPP with Lake Champlain operations planned for summer 2026, but does not clearly identify which specific project ID(s) correspond to Beta Technologies or provide sufficient detail to update existing project records with certainty. Requires verification of Beta Technologies' project ID and current status before updating.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80T0dHY1plXzJTVF9QOTJCWklyTklsakI2SzIzS0pDVnhJQi1fbDlKQ3dUSVh1YmpYYWU2R2pDeU5fcW42d3FEQkRJbTItbE5TeGozbm9yMS1MdFg4S1FIS1dHek52aUV1ZFJWdk1hcHBrZzh4R0Jj?oc=5"
+    },
     {
       "timestamp": "2026-03-20T20:52:58.681Z",
       "source": "n8n-auto-monitor",
