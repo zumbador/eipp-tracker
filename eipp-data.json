@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-20T20:51:04.858Z",
+    "lastUpdated": "2026-03-20T20:51:42.645Z",
     "updatedBy": "n8n",
-    "version": 6,
+    "version": 7,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-20T20:51:42.645Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added analyst note about capital needs concerns for Archer Aviation project",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPM2Z2QlR1eThCNEhhd0MtNFRsUzA3RVJpSlNKS25kbTJnT1dNVFZTWDhhRTJTczd1eWRVR2RhVXQ2QkIyTzhhdkduY3VRWTlXY2x5c2xlMHQ0Q1FlQm9sLUpKUlAxNUpESXlYc3Z5OUtyenBPYnhCSWF3a0Q3aXZZX243cE5GN2N3SmlRT3BBWWpuVE9xYWFtdFhrNHlqMjY5T1djX1c0b2J5YzBwS3ZuUndya3NvU0dlNFhsY0l6UmkzajUzMjJHeTczTTNLSmRUck1jbUtUaV80Ql83TGo1U0ZPS0I0MVVwS0hrUTU5NGcyTEd6OXFJSzRkZGM1NWxGTzdr?oc=5"
+    },
     {
       "timestamp": "2026-03-20T20:51:04.859Z",
       "source": "n8n-auto-monitor",
@@ -118,7 +127,7 @@
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic.",
+      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic. Analyst concerns noted regarding additional capital needs despite White House support for eIPP program.",
       "links": [
         {
           "label": "DOT Announcement",
