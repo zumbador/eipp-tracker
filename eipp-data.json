@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-22T21:28:08.474Z",
+    "lastUpdated": "2026-03-22T21:28:36.834Z",
     "updatedBy": "n8n",
-    "version": 21,
+    "version": 22,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-22T21:28:36.834Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated milestone with White House recognition for Archer Aviation's operational eVTOL role",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlUzY1ExQ3IzU1gtOU85MmN2V0lPYmIySGZlWkJKdmp1Nm5hR19KYlIwM0psaXg0WktyaG1CQkRMa2ZHRHhLeV9MWVhvbXMyV2d2OVMtMXFvbjVRTHpZakIwa0VBdTJPcklSUXhfeE1IckVRckxIck50bV9YRFZwckltY0tjaEVfMVE?oc=5"
+    },
     {
       "timestamp": "2026-03-22T21:28:08.474Z",
       "source": "n8n-auto-monitor",
@@ -241,13 +250,13 @@
       "focus": "Passenger + Cargo",
       "keyOp": "eVTOL passenger operations at Manhattan Heliport; 12 distinct concepts across New England",
       "otaStatus": "Pending",
-      "milestone": "",
+      "milestone": "White House recognition for eVTOL operations role",
       "opsTarget": "Summer 2026",
       "category": "passenger",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic. Analyst concerns noted regarding additional capital needs despite White House support for eIPP program. Analyst concerns raised regarding additional capital needs despite White House support for eIPP program. Company continues to advance toward OTA despite funding pressures. Analyst concerns raised regarding additional capital needs despite White House support. Project viability being assessed in context of Archer Aviation's financial position.",
+      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic. Analyst concerns noted regarding additional capital needs despite White House support for eIPP program. Analyst concerns raised regarding additional capital needs despite White House support for eIPP program. Company continues to advance toward OTA despite funding pressures. Analyst concerns raised regarding additional capital needs despite White House support. Project viability being assessed in context of Archer Aviation's financial position. Archer Aviation recognized by White House for real-world eVTOL deployment focus and operations leadership.",
       "links": [
         {
           "label": "DOT Announcement",
