@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-22T21:27:50.823Z",
+    "lastUpdated": "2026-03-22T21:28:08.474Z",
     "updatedBy": "n8n",
-    "version": 20,
+    "version": 21,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-22T21:28:08.474Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Project 4 milestone to reflect Joby's FAA-conforming test completion and eVTOL Pilot Program approval status",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOclVBWjRUZzF0OUM2eE1vaG9nUzQtVHljRTcwYlBtREtRanNGY3U1RElqNkZkRUhOaVJyeGxZUXdCNU1SVWNEWExOZzZqN1Qxd1FHdDNQQVVjcl96ajFVekd1TGJEZTMzNmxxbFlud0hFMC15d1ZyWmdZMzBUczBkeVN2TjhXcjdTMTdOVUZwX1NKZjZOdXhqU1lwTjdMNTZrTWR5ZGVWbFU1T1hHMDJBbV82UTRwMWw5dGhOQThqeV9iTkJnU3NvRDBIWVdadnk40gHWAUFVX3lxTE1wVDJwbmRUaTJkMU51NktGSFd2YS1OcVdVcEdtUWwtMHlKSTB5OXZnZHRpQXdBTktlSWNPMGlVVkJvZlJ6Q1R2WmE0RUxDSFhEbW9jME1QVHZoNE84Y19oTFBfUDh5N2FvU0VTWGdyV2hJeXFjcF95alItNTVDalQyUzZRWlA4LWZ2anU4eG0wb0FWVVlidDFGOUpvc2d5ZEtzMFliWGNub2s4NmRPYmw4QkF1ekFUV2lEckxXR2pxS0tWcTNuZF9YWlkxczRDZTRUTlJId3c?oc=5"
+    },
     {
       "timestamp": "2026-03-21T12:00:57.646Z",
       "source": "n8n-auto-monitor",
@@ -378,13 +387,13 @@
       "focus": "Regional Passenger Transportation",
       "keyOp": "Revitalize Essential Air Service-equivalent regional routes across 13 states",
       "otaStatus": "Pending",
-      "milestone": "Piloted Bay Area demonstration flights completed",
+      "milestone": "FAA-conforming tests completed; eVTOL Pilot Program participation approved",
       "opsTarget": "Summer 2026",
       "category": "regional",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration.",
+      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting.",
       "links": [
         {
           "label": "DOT Announcement",
