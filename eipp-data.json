@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-23T12:00:01.456Z",
+    "lastUpdated": "2026-03-23T12:00:42.877Z",
     "updatedBy": "n8n",
-    "version": 23,
+    "version": 24,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-23T12:00:42.877Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Project 4 milestone to reflect FAA-conforming tests completion and official eVTOL Pilot Program participation confirmation for Joby Aviation",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOclVBWjRUZzF0OUM2eE1vaG9nUzQtVHljRTcwYlBtREtRanNGY3U1RElqNkZkRUhOaVJyeGxZUXdCNU1SVWNEWExOZzZqN1Qxd1FHdDNQQVVjcl96ajFVekd1TGJEZTMzNmxxbFlud0hFMC15d1ZyWmdZMzBUczBkeVN2TjhXcjdTMTdOVUZwX1NKZjZOdXhqU1lwTjdMNTZrTWR5ZGVWbFU1T1hHMDJBbV82UTRwMWw5dGhOQThqeV9iTkJnU3NvRDBIWVdadnk40gHWAUFVX3lxTE1wVDJwbmRUaTJkMU51NktGSFd2YS1OcVdVcEdtUWwtMHlKSTB5OXZnZHRpQXdBTktlSWNPMGlVVkJvZlJ6Q1R2WmE0RUxDSFhEbW9jME1QVHZoNE84Y19oTFBfUDh5N2FvU0VTWGdyV2hJeXFjcF95alItNTVDalQyUzZRWlA4LWZ2anU4eG0wb0FWVVlidDFGOUpvc2d5ZEtzMFliWGNub2s4NmRPYmw4QkF1ekFUV2lEckxXR2pxS0tWcTNuZF9YWlkxczRDZTRUTlJId3c?oc=5"
+    },
     {
       "timestamp": "2026-03-22T21:29:18.593Z",
       "source": "n8n-auto-monitor",
@@ -405,13 +414,13 @@
       "focus": "Regional Passenger Transportation",
       "keyOp": "Revitalize Essential Air Service-equivalent regional routes across 13 states",
       "otaStatus": "Pending",
-      "milestone": "FAA-conforming tests completed; eVTOL Pilot Program participation approved",
+      "milestone": "FAA-conforming tests completed; eVTOL Pilot Program participation confirmed",
       "opsTarget": "Summer 2026",
       "category": "regional",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting.",
+      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting. Joby Aviation confirmed as participant in FAA eVTOL Pilot Program. FAA-conforming tests successfully conducted.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -424,6 +433,10 @@
         {
           "label": "NBC Bay Area - Joby Aviation flights",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmJsbC1UMlF6N042TUl6MC1ROE9WZlpSdWtyalkzc2N6Y2hvQ3RqZ0ZSOWM1d2tqQVJRTThMVncwWmZEMFhqNDdudE5McnVUWUE5U1JlT192S1JVamctU3NmQ1ROWWN4LVdlZGpwb3k2bkdLLUk5TThyQXFJYTBhRF96Um1jd9IBjgFBVV95cUxPNnZYaTdqQWRUM3ROMm1XZTB3VWhBa0ttSkw1MHRmQjkzeFZJbGFDeE4yWmlucmxzTG5rS2JZMHUxNG5PNzlpU0QzT0V2VmY1TjQ1S1hsMjBnbnN5ZW9va2o0dzFlaXRvcWtMN1dMQTZNTVdtMDVmdzFZZ0JZeUJ3QllQREU2b0VuZ2NMMl9R?oc=5"
+        },
+        {
+          "label": "SimplyWall.st Article - Joby FAA Tests & eVTOL Pilot Program",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOclVAWjRUZzF0OUM2eE1vaG9nUzQtVHljRTcwYlBtREtRanNGY3U1RElqNkZkRUhOaVJyeGxZUXdCNU1SVWNEWExOZzZqN1Qxd1FHdDNQQVVjcl96ajFVekd1TGJEZTMzNmxxbFlud0hFMC15d1ZyWmdZMzBUczBkeVN2TjhXcjdTMTdOVUZwX1NKZjZOdXhqU1lwTjdMNTZrTWR5ZGVWbFU1T1hHMDJBbV82UTRwMWw5dGhOQThqeV9iTkJnU3NvRDBIWVdadnk0"
         }
       ]
     },
