@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-23T12:00:42.877Z",
+    "lastUpdated": "2026-03-23T12:01:12.781Z",
     "updatedBy": "n8n",
-    "version": 24,
+    "version": 25,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "White House-backed pilot program officially announced",
-    "bannerMessage": "PAYNJ eIPP project status under review due to sponsor financial challenges",
+    "bannerMessage": "Archer Aviation selected for White House eVTOL air-taxi pilot initiative",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-23T12:01:12.781Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated milestone to reflect White House air-taxi pilot program selection; added market activity context to notes",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRnExdndSTWZmYTZ6d3lDQkQwemxFMXNuQ1dBUmVZMnloX3FvamFvUVpWM1RwNkxtckJPQnIzU0lDLVFlRzZ4aEwyV3ZhSmxJTjBLZHZITlpiMkFuY0FBRDRSejNNeEJycEMyYkhjMktkbDlkalRzNG9aV19INElYSEZyUU1qeHVscEZ3cWJhSXVvekNz?oc=5"
+    },
     {
       "timestamp": "2026-03-23T12:00:42.877Z",
       "source": "n8n-auto-monitor",
@@ -268,13 +277,13 @@
       "focus": "Passenger + Cargo",
       "keyOp": "eVTOL passenger operations at Manhattan Heliport; 12 distinct concepts across New England",
       "otaStatus": "Active",
-      "milestone": "White House recognition for eVTOL operations role",
+      "milestone": "White House air-taxi pilot program participant",
       "opsTarget": "Summer 2026",
       "category": "passenger",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic. Analyst concerns noted regarding additional capital needs despite White House support for eIPP program. Analyst concerns raised regarding additional capital needs despite White House support for eIPP program. Company continues to advance toward OTA despite funding pressures. Analyst concerns raised regarding additional capital needs despite White House support. Project viability being assessed in context of Archer Aviation's financial position. Archer Aviation recognized by White House for real-world eVTOL deployment focus and operations leadership. White House announcement of FAA eIPP air-taxi pilot program boost confirmed.",
+      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic. Analyst concerns noted regarding additional capital needs despite White House support for eIPP program. Analyst concerns raised regarding additional capital needs despite White House support for eIPP program. Company continues to advance toward OTA despite funding pressures. Analyst concerns raised regarding additional capital needs despite White House support. Project viability being assessed in context of Archer Aviation's financial position. Archer Aviation recognized by White House for real-world eVTOL deployment focus and operations leadership. White House announcement of FAA eIPP air-taxi pilot program boost confirmed. Stock market activity noted despite White House pilot program announcement and recognition.",
       "links": [
         {
           "label": "DOT Announcement",
