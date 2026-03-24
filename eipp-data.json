@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-24T12:00:01.137Z",
+    "lastUpdated": "2026-03-24T12:00:24.706Z",
     "updatedBy": "n8n",
-    "version": 26,
+    "version": 27,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-24T12:00:24.706Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added note regarding Archer Aviation's capital pressures and valuation challenges impacting eIPP program participant",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdS13UFRaR1RoekI0V1JqT3ZZNHFjcWJHSHdhTzN5d3FNNGhCdmVUYU8xdUFHc2dkUm9sY0RFQmZmR3pXVGVxczlINE94SUhGcy12YTV3Qzl4QWd0MEE4M0dhMDdGYUwtWnM2cEg5azhLN09hTkcyVkxfVTNXVW53WnFQdXp1Tm01YmJUc3JxVDkyVUxHT0FvZzNuQURpbVdUWFd3dTRGdDdrV0lJQXRwaWhCSWM5M0lHb3BOeGZ2emN6NHNtOGptNGthSkhZOHFxUlHSAdcBQVVfeXFMTlFIWUxSaVdUbjhkZlNaTkFhcmxSenZlUWdCZXV2WkVXSUIySnpPNzJyNEg2ekJTWklGbXAtdjZ5d1JjdTctbV9NaW5RMzJZTEVEc21BWmtzdEdNQS1CV041Ty1DVjVnYzZnTW9mUWpRQk5hdnVVZ1NMTndhMC00UW9UZ0VxdEhCX09kanNSdWVURkFPaDJVeFY5WlpKNV9TeHhjSzhZcE44ZG42aGpNVC1WUVV1S2tubnE1dTQybllyaXRPX3hNZi1GLTdCdFR4YnZQbzhyaWc?oc=5"
+    },
     {
       "timestamp": "2026-03-23T12:01:54.719Z",
       "source": "n8n-auto-monitor",
@@ -292,7 +301,7 @@
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic. Analyst concerns noted regarding additional capital needs despite White House support for eIPP program. Analyst concerns raised regarding additional capital needs despite White House support for eIPP program. Company continues to advance toward OTA despite funding pressures. Analyst concerns raised regarding additional capital needs despite White House support. Project viability being assessed in context of Archer Aviation's financial position. Archer Aviation recognized by White House for real-world eVTOL deployment focus and operations leadership. White House announcement of FAA eIPP air-taxi pilot program boost confirmed. Stock market activity noted despite White House pilot program announcement and recognition. White House recognition for eVTOL operations role, emphasizing real-world implementation focus.",
+      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic. Analyst concerns noted regarding additional capital needs despite White House support for eIPP program. Analyst concerns raised regarding additional capital needs despite White House support for eIPP program. Company continues to advance toward OTA despite funding pressures. Analyst concerns raised regarding additional capital needs despite White House support. Project viability being assessed in context of Archer Aviation's financial position. Archer Aviation recognized by White House for real-world eVTOL deployment focus and operations leadership. White House announcement of FAA eIPP air-taxi pilot program boost confirmed. Stock market activity noted despite White House pilot program announcement and recognition. White House recognition for eVTOL operations role, emphasizing real-world implementation focus. Archer Aviation facing ongoing capital pressures despite federal air taxi program progress; company valuation in focus.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -305,6 +314,10 @@
         {
           "label": "NUAIR Statement",
           "url": "https://www.nuair.org/post/nuair-and-syracuse-regional-airport-authority-celebrate-federal-selection-of-port-authority-of-new-y"
+        },
+        {
+          "label": "SimplyWall.st - Archer Aviation Valuation Analysis",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdS13UFRaR1RoekI0V1JqT3ZZNHFjcWJHSHdhTzN5d3FNNGhCdmVUYU8xdUFHc2dkUm9sY0RFQmZmR3pXVGVxczlINE94SUhGcy12YTV3Qzl4QWd0MEE4M0dhMDdGYUwtWnM2cEg5azhLN09hTkcyVkxfVTNXVW53WnFQdXp1Tm01YmJUc3JxVDkyVUxHT0FvZzNuQURpbVdUWFd3dTRGdDdrV0lJQXRwaWhCSWM5M0lHb3BOeGZ2emN6NHNtOGptNGthSkhZOHFxUlHSAdcBQVVfeXFMTlFIWUxSaVdUbjhkZlNaTkFhcmxSenZlUWdCZXV2WkVXSUIySnpPNzJyNEg2ekJTWklGbXAtdjZ5d1JjdTctbV9NaW5RMzJZTEVEc21BWmtzdEdNQS1CV081Ty1DVjVnYzZnTW9mUWpRQk5hdnVVZ1NMTndhMC00UW9UZ0VxdEhCX09kanNSdWVURkFPaDJVeFY5WlpKNV9TeHhjSzhZcE44ZG42aGpNVC1WUVV1S2tubnE1dTQybllyaXRPX3hNZi1GLTdCdFR4YnZQbzhyaWc"
         }
       ]
     },
