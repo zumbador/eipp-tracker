@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-25T12:00:01.615Z",
+    "lastUpdated": "2026-03-25T12:00:19.292Z",
     "updatedBy": "n8n",
-    "version": 27,
+    "version": 28,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-25T12:00:19.292Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added San Francisco eVTOL demonstration milestone and details for PA DOT/NASAO project",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEZiTHNVRWFxZ1o4SDNVOUNYRFlhSFh1TUw1YU00YU9feGVCUktnU3R5aGZVendmNjczUjRvcEIyalB1bkFVYWN2N0I2enQ5RFZoTG1vQkJtUE1iek9EYWE5QWpCTHdQZFQxN3JIQ29GUGRHQWRUb2ZtUzdlUXFRSFRYZ0dQOVItWWllREh2NFJQb0pWMTZRQ2NnWXp5bmpGYTBr?oc=5"
+    },
     {
       "timestamp": "2026-03-24T12:00:24.706Z",
       "source": "n8n-auto-monitor",
@@ -445,13 +454,13 @@
       "focus": "Regional Passenger Transportation",
       "keyOp": "Revitalize Essential Air Service-equivalent regional routes across 13 states",
       "otaStatus": "Pending",
-      "milestone": "FAA-conforming tests completed; eVTOL Pilot Program participation confirmed",
+      "milestone": "Joby eVTOL demonstration showcased over San Francisco",
       "opsTarget": "Summer 2026",
       "category": "regional",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting. Joby Aviation confirmed as participant in FAA eVTOL Pilot Program. FAA-conforming tests successfully conducted.",
+      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting. Joby Aviation confirmed as participant in FAA eVTOL Pilot Program. FAA-conforming tests successfully conducted. Joby Aviation conducted public demonstration of urban air mobility capabilities over San Francisco, showcasing eVTOL technology for future implementation.",
       "links": [
         {
           "label": "DOT Announcement",
