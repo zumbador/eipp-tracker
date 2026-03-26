@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-26T12:00:23.112Z",
+    "lastUpdated": "2026-03-26T12:01:04.377Z",
     "updatedBy": "n8n",
-    "version": 29,
+    "version": 30,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "White House-backed pilot program officially announced",
-    "bannerMessage": "Archer Aviation selected for White House eVTOL air-taxi pilot initiative",
+    "bannerMessage": "Joby Aviation receives innovation award recognizing 17-year electric air mobility development journey",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-26T12:01:04.377Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added banner message recognizing Joby Aviation innovation award. No specific project milestone or OTA status changes warrant updates based on award announcement alone.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVE1uOWNDcFBmWUFxZ0toblFuSlJLZFVhRTJOSG4xUEVMLUlTZ1hDVk1JckRGZjM5cGhtV2JqQUEySTVUUFU2Y0RxUEk5Rkl6RmFCYTREN1JiWDN6dmpKODY4bFZwWmhVNkdKVnhhcDlVRm9MMkZQUEhHQjRrVlhSNTVDd1FLY3NmU3hScQ?oc=5"
+    },
     {
       "timestamp": "2026-03-26T12:00:23.112Z",
       "source": "n8n-auto-monitor",
