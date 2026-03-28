@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-27T12:00:31.569Z",
+    "lastUpdated": "2026-03-28T12:00:17.969Z",
     "updatedBy": "n8n",
-    "version": 31,
+    "version": 32,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-03-28T12:00:17.969Z",
+      "source": "n8n-auto-monitor",
+      "description": "NC DOT added to eIPP tracker as confirmed program participant with initial milestone documentation",
+      "projectsAffected": [
+        8
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOTJOMjZWZS1rN1FOSVE0V1lKVEVXX0d6bmhnODM5RFFYQi10ckZYbGZQQ054cHVhUmswUmlwWlkzc2M4NmoxWlItLUZ0ZWFSbHVUaFo3cXN2U2xmcE9hQjY3Z0hNT2dzWlA5dTlWX0hoNGFZLXpmUGZvd1k1WFJuWUxhQURNZHdLUHVzWld4UkNsSnF2ZXZQVnVWY1FIdFA4emxHNE5fMUVpS0FKSlM0M2dGbVpWcUV0VWVPWUpzNXo3NWx6a25hVnR1c3ZsbEU?oc=5"
+    },
     {
       "timestamp": "2026-03-27T12:00:31.569Z",
       "source": "n8n-auto-monitor",
@@ -646,13 +655,13 @@
       "focus": "Fully Autonomous Freight",
       "keyOp": "Autonomous cargo ops at Class D and C airports — revenue freight, no pilot, no passengers",
       "otaStatus": "Pending",
-      "milestone": "Selected for eIPP",
+      "milestone": "FAA eVTOL Pilot Program participant",
       "opsTarget": "Q4 2026 (earliest revenue cargo)",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "The most strategically significant project for the cargo-first thesis. Reliable Robotics has already been operating in the region and coordinating with the FAA — it is not starting from scratch. Autonomous commercial freight in controlled airspace is the use case drone delivery operators have been chasing under Part 107 for years. If Reliable logs the first autonomous revenue cargo flight under eIPP, it sets a precedent that will reframe the regulatory conversation around uncrewed logistics. Wisk CEO Dan Dalton confirmed Wisk itself may fly helicopters first to collect operational data — signaling that even autonomy-focused companies see the crawl-walk-run approach as necessary.",
+      "notes": "The most strategically significant project for the cargo-first thesis. Reliable Robotics has already been operating in the region and coordinating with the FAA — it is not starting from scratch. Autonomous commercial freight in controlled airspace is the use case drone delivery operators have been chasing under Part 107 for years. If Reliable logs the first autonomous revenue cargo flight under eIPP, it sets a precedent that will reframe the regulatory conversation around uncrewed logistics. Wisk CEO Dan Dalton confirmed Wisk itself may fly helicopters first to collect operational data — signaling that even autonomy-focused companies see the crawl-walk-run approach as necessary. North Carolina Department of Transportation selected for FAA eIPP program.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -661,6 +670,10 @@
         {
           "label": "Reliable Robotics",
           "url": "https://reliable.co"
+        },
+        {
+          "label": "Greater Fayetteville Business Journal - NC DOT eVTOL Selection",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOTJOMjZWZS1rN1FOSWE0V1lKVEVXX0d6bmhnODM5RFFYQi10ckZYbGZQQ04taHVhUmswUmlwWlkzc2M4NmoxWlItLUZ0ZWFSbHVUaFo3cXN2U2xmcE9hQjY3Z0hNT2dzWlA5dTlWX0hoNGFZLXpmUGZvd1k1WFJuWUxhQURNZHdLUHVzWld4UkNsSnF2ZXZQVnVWY1FIdFA4emxHNE5fMUVpS0FKSlM0M2dGbVpWcUV0VWVPWUpzNXo3NWx6a25hVnR1c3ZsbEU?oc=5"
         }
       ]
     }
