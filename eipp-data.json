@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-04T18:40:50.135Z",
+    "lastUpdated": "2026-04-04T18:41:34.803Z",
     "updatedBy": "n8n",
-    "version": 36,
+    "version": 37,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-04T18:41:34.803Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added context on Archer Aviation's financial recovery and operational progress to Project 1 notes; added news source reference.",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0VKeGoyNV9TVTRNQzJsUVBuWlZtQWRLWVdzMk80c2htVllyVGJXVjc0LVdDdjNWaFNpM0N3VnJTSG9BSWcxYzU0WVdTMnpJa3N2MU53aDY2NTNIODY4R0x5bVQ0cWhGQ0piNEJOdUxCMVVjMjE3a3NncHREOGtOTnBNVUZWdjJubXN2ekxJQWFKQXhmOVVpdg?oc=5"
+    },
     {
       "timestamp": "2026-03-29T12:01:05.391Z",
       "source": "n8n-auto-monitor",
@@ -378,7 +387,7 @@
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic. Analyst concerns noted regarding additional capital needs despite White House support for eIPP program. Analyst concerns raised regarding additional capital needs despite White House support for eIPP program. Company continues to advance toward OTA despite funding pressures. Analyst concerns raised regarding additional capital needs despite White House support. Project viability being assessed in context of Archer Aviation's financial position. Archer Aviation recognized by White House for real-world eVTOL deployment focus and operations leadership. White House announcement of FAA eIPP air-taxi pilot program boost confirmed. Stock market activity noted despite White House pilot program announcement and recognition. White House recognition for eVTOL operations role, emphasizing real-world implementation focus. Archer Aviation facing ongoing capital pressures despite federal air taxi program progress; company valuation in focus. Leadership changes and funding discipline initiatives underway to support federal air taxi program goals. Archer Aviation progressing on test flights with continued analyst interest and valuation development supporting eIPP participation. Financial viability concerns reported regarding Archer Aviation's stock and operational sustainability. Hopscotch Air partnership with Archer Aviation announced for air mobility testing operations.",
+      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic. Analyst concerns noted regarding additional capital needs despite White House support for eIPP program. Analyst concerns raised regarding additional capital needs despite White House support for eIPP program. Company continues to advance toward OTA despite funding pressures. Analyst concerns raised regarding additional capital needs despite White House support. Project viability being assessed in context of Archer Aviation's financial position. Archer Aviation recognized by White House for real-world eVTOL deployment focus and operations leadership. White House announcement of FAA eIPP air-taxi pilot program boost confirmed. Stock market activity noted despite White House pilot program announcement and recognition. White House recognition for eVTOL operations role, emphasizing real-world implementation focus. Archer Aviation facing ongoing capital pressures despite federal air taxi program progress; company valuation in focus. Leadership changes and funding discipline initiatives underway to support federal air taxi program goals. Archer Aviation progressing on test flights with continued analyst interest and valuation development supporting eIPP participation. Financial viability concerns reported regarding Archer Aviation's stock and operational sustainability. Hopscotch Air partnership with Archer Aviation announced for air mobility testing operations. Archer Aviation's financial and operational recovery progressing; company rebound supports continued project collaboration.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -399,6 +408,10 @@
         {
           "label": "SimplyWall.st Analysis",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMFJjNHVsRXNRZDAydWRyQ0ZNcTk5V2FLMHdwZ3pPWlFibXdpdUg3NmduVzFURGc2Z1k5YVZualMxNXJJdjZocHZkWGg0T2lkOXNHQ1hqOHFtUXNOZ2x4NHFBVnBzdldGZGNzc0JPd1RYUW1PaGNNQXI3b0xnTnlFUXNqeXEzb3E5LUtXbXhvb1Y4d3BZcmVOTDFPc19TUTI3R2ZPZTU2YTdjN0FrZExyNzlqMzhEcFRrUFZBMze3RN1N1N1ZU15cHlSdWxNU0d2eUtsR1BLWUdmSThYd0ZHN0Z3VDNKR2hIZmY0WW8zRmlrUG9oOUQ2aHYzOTVaWkNsR0ExYUNfTWtGdGVrN1h5RVoxT2N1SUxubmJGdW1OVEdTS3hJZm92Y1ZEWS1TMFNETVhEaTAxcnAtXzZBMFZ2R1dQc2lESXUwWVhIeDRiY21rSDhwQW9sT0hvSURnRkdWLVl2TmxYRW1KQU9QWG1ZdkNxU0l1ZnduYUNITGNiQWVSWDlQX2dQNVlDQ2JPUGttUWtCTw"
+        },
+        {
+          "label": "Archer Aviation's High-Stakes Rebound Is Back On",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0VKeGoyNV9TVTRNQzJsUVBuWlZtQWRLWVdzMk80c2htVllyVGJXVjc0LVdDdjNWaFNpM0N3VnJTSG9BSWcxYzU0WVdTMnpJa3N2MU53aDY2NTNIODY4R0x5bVQ0cWhGQ0piNEJOdUxCMVVjMjE3a3NncHREOGtOTnBNVUZWdjJubXN2ekxJQWFKQXhmOVVpdg?oc=5"
         }
       ]
     },
