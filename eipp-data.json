@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-04T18:41:34.803Z",
+    "lastUpdated": "2026-04-04T18:42:03.027Z",
     "updatedBy": "n8n",
-    "version": 37,
+    "version": 38,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-04T18:42:03.028Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated milestone to reflect new Hopscotch Air partnership announcement with Archer Aviation",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUnZMa2ZuRGZkYVBrWXhfT1phZktSanlrblRHenZGQVJNT1BTSzhTYi1abmxxLXUxN0Q3N3lScXh6RVZrYVN3TlpNX1VtdkwyRDljUHB0Vm5UNUVxc0l0MTZzclIyUS13UktYWmpWbzVzck5yS1piR2lIQjRSQ2lSaHpJZzR5b0FWNHkyT2NLYjFIZ3c2SHhmYVNQMlpMSW5RN0NrZW1NdUYzMzY2Y3dSRjUyUTNKNXpTUWo4UXU3RERQbURBT2o1VzVXUi1mNE9NeTU00gHYAUFVX3lxTE5Id1MxM3lIa054R2JHai1IT1dJYnBFcGVQdVNyc0ZLX2I5Z2pYZXJ3UXlWSFY0ZlZiY1pVbU9HaTc5RkVWVDFtTjAzWk9MNzR5NVpSWDNUV2ZacU1qYjUtaExtaWZhTzRMUTdTWVczRnhobGtkbmttRjFIWll4ZVlUNlFmUXdyWUtndEF2WUYzNlZ3SGRvVEd6QTVyMmhSQXo0QUFDMkxpOTFNQ1BPVnhmbDhEMjJ0bk16Znh5ZExZMXBoRmFTT0c4RWo0R1FxempDaWdmajloaQ?oc=5"
+    },
     {
       "timestamp": "2026-04-04T18:41:34.803Z",
       "source": "n8n-auto-monitor",
@@ -381,13 +390,13 @@
       "focus": "Passenger + Cargo",
       "keyOp": "eVTOL passenger operations at Manhattan Heliport; 12 distinct concepts across New England",
       "otaStatus": "Active",
-      "milestone": "Collaborating with Archer Aviation on air mobility tests",
+      "milestone": "Archer Aviation partnership with Hopscotch Air for air taxi testing",
       "opsTarget": "Summer 2026",
       "category": "passenger",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic. Analyst concerns noted regarding additional capital needs despite White House support for eIPP program. Analyst concerns raised regarding additional capital needs despite White House support for eIPP program. Company continues to advance toward OTA despite funding pressures. Analyst concerns raised regarding additional capital needs despite White House support. Project viability being assessed in context of Archer Aviation's financial position. Archer Aviation recognized by White House for real-world eVTOL deployment focus and operations leadership. White House announcement of FAA eIPP air-taxi pilot program boost confirmed. Stock market activity noted despite White House pilot program announcement and recognition. White House recognition for eVTOL operations role, emphasizing real-world implementation focus. Archer Aviation facing ongoing capital pressures despite federal air taxi program progress; company valuation in focus. Leadership changes and funding discipline initiatives underway to support federal air taxi program goals. Archer Aviation progressing on test flights with continued analyst interest and valuation development supporting eIPP participation. Financial viability concerns reported regarding Archer Aviation's stock and operational sustainability. Hopscotch Air partnership with Archer Aviation announced for air mobility testing operations. Archer Aviation's financial and operational recovery progressing; company rebound supports continued project collaboration.",
+      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic. Analyst concerns noted regarding additional capital needs despite White House support for eIPP program. Analyst concerns raised regarding additional capital needs despite White House support for eIPP program. Company continues to advance toward OTA despite funding pressures. Analyst concerns raised regarding additional capital needs despite White House support. Project viability being assessed in context of Archer Aviation's financial position. Archer Aviation recognized by White House for real-world eVTOL deployment focus and operations leadership. White House announcement of FAA eIPP air-taxi pilot program boost confirmed. Stock market activity noted despite White House pilot program announcement and recognition. White House recognition for eVTOL operations role, emphasizing real-world implementation focus. Archer Aviation facing ongoing capital pressures despite federal air taxi program progress; company valuation in focus. Leadership changes and funding discipline initiatives underway to support federal air taxi program goals. Archer Aviation progressing on test flights with continued analyst interest and valuation development supporting eIPP participation. Financial viability concerns reported regarding Archer Aviation's stock and operational sustainability. Hopscotch Air partnership with Archer Aviation announced for air mobility testing operations. Archer Aviation's financial and operational recovery progressing; company rebound supports continued project collaboration. New partnership announced between Archer Aviation and Hopscotch Air for expanded air taxi testing operations.",
       "links": [
         {
           "label": "DOT Announcement",
