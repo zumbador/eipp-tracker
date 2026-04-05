@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-05T12:00:01.079Z",
+    "lastUpdated": "2026-04-05T12:00:19.856Z",
     "updatedBy": "n8n",
-    "version": 39,
+    "version": 40,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "White House-backed pilot program officially announced",
-    "bannerMessage": "Archer Aviation financial concerns flagged - monitoring impact on eIPP participation",
+    "bannerMessage": "Legal disputes between Joby Aviation and Archer Aviation may impact eIPP projects involving these operators",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-05T12:00:19.856Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article references legal disputes affecting Joby and Archer Aviation (Projects 1 & 4). No specific milestone or OTA status changes documented in article - warrant monitoring for operational impacts.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeUs1U21PYXdidmVIT2pIQ0liV2JQTkg4YjN4bW42UjVWby1jMnBKUkNKZ3N0Z1AzZEtvNHhXZTl5YmN0YVppNHo3ODNubHhDYWJDSDEyVXRoMG03MldBc0hMYUo4Ykg4RzdNYWJsZXY1elZuc0ZtdTNCWnlPZUNWNW1DQ2p2aFNHTHQzdF9QSVhwUmR2c2tXd3BNMUtEcXpQVXd6V3M5eWJMZXlua2tzR2IwVnNrZHIyanQybGZleEphZGpMU1BQUUVralprNU9TQ0HSAdcBQVVfeXFMTXIyUUdDSlhZVW5Fal9BNURXb3ZrMXFpeUc5b2FvSERCV3lCaXNJT3U4Zk45LWtYTDd4Z3E1cTI0ZXVJTS1NODhxQzBmZUNhUUJvUkRxRkFEemhEZjBQMmFNQ0toa1JJN0JseGctd09fSXpTM3ctbEh4bkZRMDhUMmNOZXZpdkJVeHNWbTNyZEVjUDNwd3ZnQ1I0LXFJWkVyMmVxWVczMGREVkFpZTluaUdfdktHVzlXa2lZeVJaUzBfUmt4S1NlWGpPVTBFUV9HWmp5WEVkeTA?oc=5"
+    },
     {
       "timestamp": "2026-04-04T18:42:31.890Z",
       "source": "n8n-auto-monitor",
