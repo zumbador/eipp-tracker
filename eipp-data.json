@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-09T12:00:01.258Z",
+    "lastUpdated": "2026-04-09T12:00:34.436Z",
     "updatedBy": "n8n",
-    "version": 46,
+    "version": 47,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-09T12:00:34.436Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added Reliable Robotics detect and avoid flight test validation milestone and supporting documentation for Project 6",
+      "projectsAffected": [
+        6
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFBfQW9Wb2hMbHFEOS05YkFyT0FsVDZCc2w2S3NCMVl5Z2xpenhBaTFIZVpYSDVBdkJxYkxGREFsdTJmYnVDZ19tOE5iUGYxdkFnTFNlajg1SnhraWdrdFRNdVlCbDQ1OUJFa2VKWkk2cm9TOHppb3JTS0Y4UllyU3R0bkJKNDhfeWViY3VNcEdXTE00OUdCOW5lN2FfWlpFZ242ZmV6WVZia0FkRWF5S0J1R2pmbmZpTDI5MFdzbEc5ZzZPMXp5MjYzLTk1anZvNS15MW1ITWVpb0tIcUE?oc=5"
+    },
     {
       "timestamp": "2026-04-08T14:50:22.196Z",
       "source": "n8n-auto-monitor",
@@ -728,13 +737,13 @@
       "focus": "Multi-phase: Cargo → Passenger → Automation + Medical",
       "keyOp": "Three-phase: Phase 1 cargo, Phase 2 passenger, Phase 3 automation and medical response",
       "otaStatus": "Pending",
-      "milestone": "Detect and Avoid testing completed for FAA",
+      "milestone": "Flight tests validate detect and avoid capability for uncrewed aircraft",
       "opsTarget": "Summer 2026",
       "category": "mixed",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program.",
+      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -743,6 +752,10 @@
         {
           "label": "Archer Press Release",
           "url": "https://news.archer.com/archers-us-air-taxi-operations-take-major-step-forward-as-florida-new-york-and-texas-selected-for-white-house-pilot-program"
+        },
+        {
+          "label": "Reliable Robotics flight tests validate detect and avoid capability",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFBfQW9Wb2hMbHFEOS05YkFyT0FsVDZCc2w2S3NCMVl5Z2xpelhBaTFIZVpYSDVBdkJxYkxGREFsdTJmYnVDZ19tOE5iUGYxdkFnTFNlajg1SnhraWdrdFRNdVlCbDQ1OUJFa2VKWkk2cm9TOHppb3JTS0Y4UllyU3R0bkJKNDhfeWViY3VNcEdXTE00OUdCOW5lN2FfWlpFZ242ZmV6WVZia0FkRWF5S0J1R2pmbmZpTDI5MFdzbEc5ZzZPMXp5MjYzLTk1anZvNS15MW1ITWVpb0tIcUE?oc=5"
         }
       ]
     },
