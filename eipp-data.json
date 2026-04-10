@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-10T12:00:21.175Z",
+    "lastUpdated": "2026-04-10T12:00:49.966Z",
     "updatedBy": "n8n",
-    "version": 49,
+    "version": 50,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-10T12:00:49.966Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Project 4 milestone based on Joby Aviation eVTOL development news coverage",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLUJ2dlZVSC0wMFV4TUYwcU5ib1hfMDNDMnpLR0UyTmJWa3RWQlI4S3p2eHRzS3R3dW9zSnpfVTM2Z0UtTE5BelJUQWF4UnJLekZqd2dscW54eVRNdkcwaTVzY0p5MGxrMnpmc19RTHAyZ3RRRHcxTGFtQXQ1bWdBYVU5Wm9TcUZfVHhsYTNpVEg3Y0poWGFZYWozaUpwSjE0aExWNW53RGVXZHdQenhZaEg3UTZJNm5yTGhMOTNpbGRuek1yMXRPWmg2eXFuNjY2RGc3NQ?oc=5"
+    },
     {
       "timestamp": "2026-04-10T12:00:21.175Z",
       "source": "n8n-auto-monitor",
@@ -661,13 +670,13 @@
       "focus": "Regional Passenger Transportation",
       "keyOp": "Revitalize Essential Air Service-equivalent regional routes across 13 states",
       "otaStatus": "Pending",
-      "milestone": "Joby eVTOL demonstration showcased over San Francisco",
+      "milestone": "Joby Aviation electric vertical takeoff aircraft development",
       "opsTarget": "Summer 2026",
       "category": "regional",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting. Joby Aviation confirmed as participant in FAA eVTOL Pilot Program. FAA-conforming tests successfully conducted. Joby Aviation conducted public demonstration of urban air mobility capabilities over San Francisco, showcasing eVTOL technology for future implementation. Article discusses scalability challenges for Joby Aviation air taxis post-flight demonstrations; relevant to multistate collaborative planning. AI-enabled airspace strategy being developed as part of eIPP demonstration planning.",
+      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting. Joby Aviation confirmed as participant in FAA eVTOL Pilot Program. FAA-conforming tests successfully conducted. Joby Aviation conducted public demonstration of urban air mobility capabilities over San Francisco, showcasing eVTOL technology for future implementation. Article discusses scalability challenges for Joby Aviation air taxis post-flight demonstrations; relevant to multistate collaborative planning. AI-enabled airspace strategy being developed as part of eIPP demonstration planning. Media coverage highlights industry progress on urban air mobility. Joby Aviation advancing eVTOL technology for commercial operations.",
       "links": [
         {
           "label": "DOT Announcement",
