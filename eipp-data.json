@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-10T12:00:49.966Z",
+    "lastUpdated": "2026-04-10T12:01:31.639Z",
     "updatedBy": "n8n",
-    "version": 50,
+    "version": 51,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-10T12:01:31.639Z",
+      "source": "n8n-auto-monitor",
+      "description": "Reliable Robotics proves detect-and-avoid system for autonomous aircraft - key eIPP technology milestone",
+      "projectsAffected": [
+        9
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQURKaTJVRl9wWVJGTG5XQ2lJOW5GaFN5U21Kakw3ak5CRXgzWUl0RHNoNjNxTGNHdllYLVM0WGNlVzdPTC1MdmIxa0JacmEzRmRVb0ZDWTgtVjNnNGRVdUF3clpYRERHZWdDbkluUmFJSTlLZWlJdk5RT0h3QTczTUg0cEZhVE5UMFdzZjdkb2ZzeEhWOEVr?oc=5"
+    },
     {
       "timestamp": "2026-04-10T12:00:49.966Z",
       "source": "n8n-auto-monitor",
@@ -452,12 +461,6 @@
       "projectsAffected": [
         5
       ]
-    },
-    {
-      "timestamp": "2026-03-18T12:00:00Z",
-      "source": "manual",
-      "description": "Initial data extraction from tracker v3 — system migrated to dynamic data loading",
-      "projectsAffected": []
     }
   ],
   "projects": [
