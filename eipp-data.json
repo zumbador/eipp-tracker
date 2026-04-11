@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-11T12:00:36.819Z",
+    "lastUpdated": "2026-04-11T12:01:06.463Z",
     "updatedBy": "n8n",
-    "version": 52,
+    "version": 53,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-11T12:01:06.463Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated milestone to reflect active air taxi operations testing; added news link confirming Archer Aviation progress on certification activities",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaE1PZDkzajBGT2lUS0RwOE9BSnVFanZsS00xd2RuMVBaWnJ5MUtKMjVpQ0ttaDV6YXdpTEttZlEtRHdNZHNHb2Y1LXRDNWRyQkVleTJMdXAxTnJxSTdxcGJ1MjM0ZkVGUi02YmJaaEduRzlYT25IVWJ5MFVfSW5uYlFDcFlFQldPRmxIaUxneExWUkhDZkUwVVBQVQ?oc=5"
+    },
     {
       "timestamp": "2026-04-11T12:00:36.819Z",
       "source": "n8n-auto-monitor",
@@ -455,13 +464,6 @@
       "description": "Auto-detected update",
       "projectsAffected": [],
       "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80T0dHY1plXzJTVF9QOTJCWklyTklsakI2SzIzS0pDVnhJQi1fbDlKQ3dUSVh1YmpYYWU2R2pDeU5fcW42d3FEQkRJbTItbE5TeGozbm9yMS1MdFg4S1FIS1dHek52aUV1ZFJWdk1hcHBrZzh4R0Jj?oc=5"
-    },
-    {
-      "timestamp": "2026-03-19T16:00:00.000Z",
-      "source": "manual-restore",
-      "description": "Restored clean data after n8n loop testing corrupted entries",
-      "projectsAffected": [],
-      "sourceUrl": ""
     }
   ],
   "projects": [
@@ -500,13 +502,13 @@
       "focus": "Passenger + Cargo",
       "keyOp": "eVTOL passenger operations at Manhattan Heliport; 12 distinct concepts across New England",
       "otaStatus": "Active",
-      "milestone": "Archer Aviation partnership with Hopscotch Air for air taxi testing",
+      "milestone": "Air taxi operations testing underway with Hopscotch Air",
       "opsTarget": "Summer 2026",
       "category": "passenger",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic. Analyst concerns noted regarding additional capital needs despite White House support for eIPP program. Analyst concerns raised regarding additional capital needs despite White House support for eIPP program. Company continues to advance toward OTA despite funding pressures. Analyst concerns raised regarding additional capital needs despite White House support. Project viability being assessed in context of Archer Aviation's financial position. Archer Aviation recognized by White House for real-world eVTOL deployment focus and operations leadership. White House announcement of FAA eIPP air-taxi pilot program boost confirmed. Stock market activity noted despite White House pilot program announcement and recognition. White House recognition for eVTOL operations role, emphasizing real-world implementation focus. Archer Aviation facing ongoing capital pressures despite federal air taxi program progress; company valuation in focus. Leadership changes and funding discipline initiatives underway to support federal air taxi program goals. Archer Aviation progressing on test flights with continued analyst interest and valuation development supporting eIPP participation. Financial viability concerns reported regarding Archer Aviation's stock and operational sustainability. Hopscotch Air partnership with Archer Aviation announced for air mobility testing operations. Archer Aviation's financial and operational recovery progressing; company rebound supports continued project collaboration. New partnership announced between Archer Aviation and Hopscotch Air for expanded air taxi testing operations. Article reports Archer Aviation facing operational challenges and market headwinds in eVTOL sector as air taxi hype fades. Archer Aviation financial recovery and business momentum improving; partnership activities continuing. Archer Aviation recognized as compelling UAV/eVTOL investment opportunity; company positioning as key participant in urban air mobility market development. White House eVTOL Pilot Program officially endorsed; Archer Aviation stock market confidence reflected in 7.1% increase following announcement. Financial analysis indicates certification progress advancing commercial prospects; valuation assessment reflects eIPP partnership value.",
+      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic. Analyst concerns noted regarding additional capital needs despite White House support for eIPP program. Analyst concerns raised regarding additional capital needs despite White House support for eIPP program. Company continues to advance toward OTA despite funding pressures. Analyst concerns raised regarding additional capital needs despite White House support. Project viability being assessed in context of Archer Aviation's financial position. Archer Aviation recognized by White House for real-world eVTOL deployment focus and operations leadership. White House announcement of FAA eIPP air-taxi pilot program boost confirmed. Stock market activity noted despite White House pilot program announcement and recognition. White House recognition for eVTOL operations role, emphasizing real-world implementation focus. Archer Aviation facing ongoing capital pressures despite federal air taxi program progress; company valuation in focus. Leadership changes and funding discipline initiatives underway to support federal air taxi program goals. Archer Aviation progressing on test flights with continued analyst interest and valuation development supporting eIPP participation. Financial viability concerns reported regarding Archer Aviation's stock and operational sustainability. Hopscotch Air partnership with Archer Aviation announced for air mobility testing operations. Archer Aviation's financial and operational recovery progressing; company rebound supports continued project collaboration. New partnership announced between Archer Aviation and Hopscotch Air for expanded air taxi testing operations. Article reports Archer Aviation facing operational challenges and market headwinds in eVTOL sector as air taxi hype fades. Archer Aviation financial recovery and business momentum improving; partnership activities continuing. Archer Aviation recognized as compelling UAV/eVTOL investment opportunity; company positioning as key participant in urban air mobility market development. White House eVTOL Pilot Program officially endorsed; Archer Aviation stock market confidence reflected in 7.1% increase following announcement. Financial analysis indicates certification progress advancing commercial prospects; valuation assessment reflects eIPP partnership value. Archer Aviation conducting active air taxi operations testing as part of eIPP certification activities.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -551,6 +553,10 @@
         {
           "label": "Simply Wall St - Archer Aviation Valuation Analysis",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONDN3ZURtRDA0dFNsNHR3MTdsanVBMEExRVk4dnJLZFNET1oyNzRjQzlvY3VOb3NxdGZKcEt3a2tjM1FSQ19IU2dKcnNYTC1TdU9DTmhZYm5DZ2RaT3E4Q1d5VVZIZXBMQ0llS2dkNnZ2dXZlZS04WXAwNWFhWUdxd013cEhHV2xCX2drbnBtV2ViUVpSMjIyR0JpbjRmc2FMYUVuLVoycHUwdExHR2JTZGIzRzJ6WE85dENOTTVQamIyMlBhRjVWQ2NzZlVQcHc0SFJV0gHYAUFVX3lxTFBJZnpvY2hpOTA5dXI4US1YRHRjcVI3TmFQRFdWbFBKandDWE8yeTBRTTU4ZG5UVkk4cmhHLVdpRFNMaGZMajl6MmR5X3ZNbU5YUDNobEtHSGJhTHVtRUNzWTBGdEVQb2tNNjVYSXBTM3J1MC1ocVhycFprdWFhQzhzWmdiSlRBZzhVcjlBZTlwOGpiZGMtcnJhLWNqZ3NLQjFVTG92MDk3TWMzWEpZSEcwUEJST2MxMGlZdWhvLXhLblFuYUlZNXUwWEFqdjU4emx6NWJtdC1rTg?oc=5"
+        },
+        {
+          "label": "Yahoo Finance - Archer Aviation Testing",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaE1PZDkzajBGT2lUS0RwOE9BSnVFanZsS00xd2RuMVBaWnJ5MUtKMjVpQ0ttaDV6YXdpTEttZlEtRHdNZHNHb2Y1LXRDNWRyQkVleTJMdXAxTnJxSTdxcGJ1MjM0ZkVGUi02YmJaaEduRzlYT25IVWJ5MFVfSW5uYlFDcFlFQldPRmxIaUxneExWUkhDZkUwVVBQVQ?oc=5"
         }
       ]
     },
