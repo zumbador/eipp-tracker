@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-11T12:01:06.463Z",
+    "lastUpdated": "2026-04-11T12:01:40.308Z",
     "updatedBy": "n8n",
-    "version": 53,
+    "version": 54,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "White House-backed pilot program officially announced",
-    "bannerMessage": "White House eVTOL Pilot Program officially endorsed; Market confidence reflected in Archer Aviation stock performance",
+    "bannerMessage": "Joby Aviation under US Trade Commission investigation for import violations - may impact eIPP project timelines",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-11T12:01:40.308Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added note about US Trade Commission investigation into Joby Aviation import violations and potential impact on aircraft manufacturing/delivery timeline",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWtqTVc3c3Q2WlBtNll3UjJMei1idUY5Q2hFdXJnOHhoVVA4X2VkN0lzZmF1ZDBadlBobUhhQnhxQ3ZCcXVqQVd6SmEzcDVHVDJaUHZSaWJ6bC1yRzY4VWJvUTAtamh0cWljUjhmamxoVzdWblp6a2lNMWpKa0tBRUFGYnlpRVREN1pqSVBZS29zQ0FLQTlBZ1Q1cy03M2NrenRxZzZpWTJJZlRRYUdDQnVwUzRpZDBlU2tZZW02dS10dV8xNUFZcWF3?oc=5"
+    },
     {
       "timestamp": "2026-04-11T12:01:06.463Z",
       "source": "n8n-auto-monitor",
@@ -457,13 +466,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmJsbC1UMlF6N042TUl6MC1ROE9WZlpSdWtyalkzc2N6Y2hvQ3RqZ0ZSOWM1d2tqQVJRTThMVncwWmZEMFhqNDdudE5McnVUWUE5U1JlT192S1JVamctU3NmQ1ROWWN4LVdlZGpwb3k2bkdLLUk5TThyQXFJYTBhRF96Um1jd9IBjgFBVV95cUxPNnZYaTdqQWRUM3ROMm1XZTB3VWhBa0ttSkw1MHRmQjkzeFZJbGFDeE4yWmlucmxzTG5rS2JZMHUxNG5PNzlpU0QzT0V2VmY1TjQ1S1hsMjBnbnN5ZW9va2o0dzFlaXRvcWtMN1dMQTZNTVdtMDVmdzFZZ0JZeUJ3QllQREU2b0VuZ2NMMl9R?oc=5"
-    },
-    {
-      "timestamp": "2026-03-20T20:49:59.733Z",
-      "source": "n8n-auto-monitor",
-      "description": "Auto-detected update",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80T0dHY1plXzJTVF9QOTJCWklyTklsakI2SzIzS0pDVnhJQi1fbDlKQ3dUSVh1YmpYYWU2R2pDeU5fcW42d3FEQkRJbTItbE5TeGozbm9yMS1MdFg4S1FIS1dHek52aUV1ZFJWdk1hcHBrZzh4R0Jj?oc=5"
     }
   ],
   "projects": [
@@ -690,7 +692,7 @@
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting. Joby Aviation confirmed as participant in FAA eVTOL Pilot Program. FAA-conforming tests successfully conducted. Joby Aviation conducted public demonstration of urban air mobility capabilities over San Francisco, showcasing eVTOL technology for future implementation. Article discusses scalability challenges for Joby Aviation air taxis post-flight demonstrations; relevant to multistate collaborative planning. AI-enabled airspace strategy being developed as part of eIPP demonstration planning. Media coverage highlights industry progress on urban air mobility. Joby Aviation advancing eVTOL technology for commercial operations.",
+      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting. Joby Aviation confirmed as participant in FAA eVTOL Pilot Program. FAA-conforming tests successfully conducted. Joby Aviation conducted public demonstration of urban air mobility capabilities over San Francisco, showcasing eVTOL technology for future implementation. Article discusses scalability challenges for Joby Aviation air taxis post-flight demonstrations; relevant to multistate collaborative planning. AI-enabled airspace strategy being developed as part of eIPP demonstration planning. Media coverage highlights industry progress on urban air mobility. Joby Aviation advancing eVTOL technology for commercial operations. US Trade Commission investigating Joby Aviation for possible import violations that may impact aircraft manufacturing timeline and project delivery.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -715,6 +717,10 @@
         {
           "label": "Joby's AI-Enabled Airspace Strategy Analysis",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUpWSE5zMFZEaDBUQTJGUklNZlBYYThGWUpya1pkMjdiUVJhQm91LTA5Y3U0RFIxUVNfMFN1cVQ3WDZPLWtqT3A1QzY2bml2emo5VzFlN1k2cHlvOXA4NGwySlVPSWFfM21jaHpVU3docjRCWUZUNHcxQk96YzNESGdhNXA3cXJRRzUtY1o1VDdxcGY1MG5aN2pYdEhxMGxVdi1WYlo5QnN6M0kwYjZTdlZOMkFqQzZzWm1xWlB6ME5RcnpHSFJZWUNpcWRFNzd0VXfSAdcBQVVfeXFMT21fam1FUklzTUpIbFZqS2lubHVRR0w0VWozaHRDcFh6bmQ4NXM3aHFBbENBM3c2MWFQdDhWeFFxZVR6VWtoZ2k5aS1TSlVCOGw2ak1IOEVZdGpmQURmMWxJX2hwVmNLZTVhM3hNUXFtVjM4WHN3WmtNM1o4dUluNm5WbFEyVlJMd2xtUGhWc3VSQ3dOdVFtT2p6QVFLNVozemdwSUFXbUZCYkxpdVpwQUxhek1XUFJscDFjaDVfdE5wOUFHN0I5ZWlrNmt1S3V1UThxUXZYNlE?oc=5"
+        },
+        {
+          "label": "US Trade Commission investigation - FlightGlobal",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWtqTVc3c3Q2WlBtNll3UjJMei1idUY5Q2hFdXJnOHhoVVA4X2VkN0lzZmF1ZDBadlBobUhhQnhxQ3ZCcXVqQVd6SmEzcDVHVDJaUHZSaWJ6bC1yRzY4VWJvUTAtamh0cWljUjhmamxoVzdWblp6a2lNMWpKa0tBRUFGYnlpRVREN1pqSVBZS29zQ0FLQTlBZ1Q1cy03M2NrenRxZzZpWTJJZlRRYUdDQnVwUzRpZDBlU2tZZW1ndS10dV8xNUFZcWF3?oc=5"
         }
       ]
     },
