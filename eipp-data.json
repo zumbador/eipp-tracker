@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-16T12:00:01.179Z",
+    "lastUpdated": "2026-04-16T12:00:19.693Z",
     "updatedBy": "n8n",
-    "version": 59,
+    "version": 60,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-16T12:00:19.693Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated with Joby Aviation 2026 launch timeline announcement and investor considerations for Pennsylvania DOT multistate collaboration project",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc21IdzdRX0dmSnctOWRIY0FaM002by01X0dxaTFNbExTb3czaVA4TzJ4YTQtMy00QzhWdGk4WXdrOVJEM0FvTndJVDRuQ0czQ2dMckctUFVJUW9fWkVZQy1lTnVNc1lOQnZEbjBad2lNUS1fZUJOb2NNRkhRZWRnN0ZGSklCUUpGQXRnLTE1WHVkcEM5?oc=5"
+    },
     {
       "timestamp": "2026-04-15T12:00:46.053Z",
       "source": "n8n-auto-monitor",
@@ -461,13 +470,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmJsbC1UMlF6N042TUl6MC1ROE9WZlpSdWtyalkzc2N6Y2hvQ3RqZ0ZSOWM1d2tqQVJRTThMVncwWmZEMFhqNDdudE5McnVUWUE5U1JlT192S1JVamctU3NmQ1ROWWN4LVdlZGpwb3k2bkdLLUk5TThyQXFJYTBhRF96Um1jd9IBjgFBVV95cUxPNnZYaTdqQWRUM3ROMm1XZTB3VWhBa0ttSkw1MHRmQjkzeFZJbGFDeE4yWmlucmxzTG5rS2JZMHUxNG5PNzlpU0QzT0V2VmY1TjQ1S1hsMjBnbnN5ZW9va2o0dzFlaXRvcWtMN1dMQTZNTVdtMDVmdzFZZ0JZeUJ3QllQREU2b0VuZ2NMMl9R?oc=5"
-    },
-    {
-      "timestamp": "2026-03-20T20:57:32.139Z",
-      "source": "n8n-auto-monitor",
-      "description": "Article mentions Beta Technologies selected for FAA eIPP with Lake Champlain operations planned for summer 2026, but does not clearly identify which specific project ID(s) correspond to Beta Technologies or provide sufficient detail to update existing project records with certainty. Requires verification of Beta Technologies' project ID and current status before updating.",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80T0dHY1plXzJTVF9QOTJCWklyTklsakI2SzIzS0pDVnhJQi1fbDlKQ3dUSVh1YmpYYWU2R2pDeU5fcW42d3FEQkRJbTItbE5TeGozbm9yMS1MdFg4S1FIS1dHek52aUV1ZFJWdk1hcHBrZzh4R0Jj?oc=5"
     }
   ],
   "projects": [
@@ -696,13 +698,13 @@
       "focus": "Regional Passenger Transportation",
       "keyOp": "Revitalize Essential Air Service-equivalent regional routes across 13 states",
       "otaStatus": "Pending",
-      "milestone": "Partnership with Air Space Intelligence to accelerate AAM integration",
+      "milestone": "Joby Aviation planning 2026 launch timeline for operations",
       "opsTarget": "Summer 2026",
       "category": "regional",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting. Joby Aviation confirmed as participant in FAA eVTOL Pilot Program. FAA-conforming tests successfully conducted. Joby Aviation conducted public demonstration of urban air mobility capabilities over San Francisco, showcasing eVTOL technology for future implementation. Article discusses scalability challenges for Joby Aviation air taxis post-flight demonstrations; relevant to multistate collaborative planning. AI-enabled airspace strategy being developed as part of eIPP demonstration planning. Media coverage highlights industry progress on urban air mobility. Joby Aviation advancing eVTOL technology for commercial operations. US Trade Commission investigating Joby Aviation for possible import violations that may impact aircraft manufacturing timeline and project delivery. Joby Aviation partnering with Air Space Intelligence to support Advanced Air Mobility integration efforts and coordination.",
+      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting. Joby Aviation confirmed as participant in FAA eVTOL Pilot Program. FAA-conforming tests successfully conducted. Joby Aviation conducted public demonstration of urban air mobility capabilities over San Francisco, showcasing eVTOL technology for future implementation. Article discusses scalability challenges for Joby Aviation air taxis post-flight demonstrations; relevant to multistate collaborative planning. AI-enabled airspace strategy being developed as part of eIPP demonstration planning. Media coverage highlights industry progress on urban air mobility. Joby Aviation advancing eVTOL technology for commercial operations. US Trade Commission investigating Joby Aviation for possible import violations that may impact aircraft manufacturing timeline and project delivery. Joby Aviation partnering with Air Space Intelligence to support Advanced Air Mobility integration efforts and coordination. Joby Aviation announced 2026 target for flying taxi operations launch. Key investor considerations include regulatory approval pathway and operational readiness timeline.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -731,6 +733,10 @@
         {
           "label": "US Trade Commission investigation - FlightGlobal",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWtqTVc3c3Q2WlBtNll3UjJMei1idUY5Q2hFdXJnOHhoVVA4X2VkN0lzZmF1ZDBadlBobUhhQnhxQ3ZCcXVqQVd6SmEzcDVHVDJaUHZSaWJ6bC1yRzY4VWJvUTAtamh0cWljUjhmamxoVzdWblp6a2lNMWpKa0tBRUFGYnlpRVREN1pqSVBZS29zQ0FLQTlBZ1Q1cy03M2NrenRxZzZpWTJJZlRRYUdDQnVwUzRpZDBlU2tZZW1ndS10dV8xNUFZcWF3?oc=5"
+        },
+        {
+          "label": "Motley Fool: Joby Aviation 2026 Flying Taxis",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc21IdzdRX0dmSnctOWRIY0FaM002by01X0dxaTFNbExTb3czaVA4TzJ4YTQtMy00QzhWdGk4WXdrOVJEM0FvTndJVDRuQ0czQ2dMckctUFVJUW9fWkVZQy1lTnVNc1lOQnZEbjBad2lNUT1fZUJOb2NNRkhRZWRnN0ZGSklCUUpGQXRnLTE1WHVkcEM5?oc=5"
         }
       ]
     },
