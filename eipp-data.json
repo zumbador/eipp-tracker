@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-17T21:11:57.199Z",
+    "lastUpdated": "2026-04-17T21:12:26.180Z",
     "updatedBy": "n8n",
-    "version": 65,
+    "version": 66,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-17T21:12:26.180Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated with Joby Aviation's hybrid eVTOL uncrewed flight transition milestone",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeG4xUFAwOXNBNW5GMlZBblRxc3ZWTnlwMjBLT2dNanlGZW1XU1VCUTBoNUgyM0V5VWJfNTZkYXZqVlp2VTMzaEozSWpjLW0yU21kbVBWRm9BZGNiOGFRTk1nNHgzbGotNXlfSW42cUpVT2F3eENiS1pRekNXT1huZ1JCS2JPQnJpRDM1QUhZUWE?oc=5"
+    },
     {
       "timestamp": "2026-04-17T21:11:57.199Z",
       "source": "n8n-auto-monitor",
@@ -465,13 +474,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmJsbC1UMlF6N042TUl6MC1ROE9WZlpSdWtyalkzc2N6Y2hvQ3RqZ0ZSOWM1d2tqQVJRTThMVncwWmZEMFhqNDdudE5McnVUWUE5U1JlT192S1JVamctU3NmQ1ROWWN4LVdlZGpwb3k2bkdLLUk5TThyQXFJYTBhRF96Um1jd9IBjgFBVV95cUxPNnZYaTdqQWRUM3ROMm1XZTB3VWhBa0ttSkw1MHRmQjkzeFZJbGFDeE4yWmlucmxzTG5rS2JZMHUxNG5PNzlpU0QzT0V2VmY1TjQ1S1hsMjBnbnN5ZW9va2o0dzFlaXRvcWtMN1dMQTZNTVdtMDVmdzFZZ0JZeUJ3QllQREU2b0VuZ2NMMl9R?oc=5"
-    },
-    {
-      "timestamp": "2026-03-20T21:11:02.854Z",
-      "source": "n8n-auto-monitor",
-      "description": "Auto-detected update",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80T0dHY1plXzJTVF9QOTJCWklyTklsakI2SzIzS0pDVnhJQi1fbDlKQ3dUSVh1YmpYYWU2R2pDeU5fcW42d3FEQkRJbTItbE5TeGozbm9yMS1MdFg4S1FIS1dHek52aUV1ZFJWdk1hcHBrZzh4R0Jj?oc=5"
     }
   ],
   "projects": [
@@ -704,13 +706,13 @@
       "focus": "Regional Passenger Transportation",
       "keyOp": "Revitalize Essential Air Service-equivalent regional routes across 13 states",
       "otaStatus": "Pending",
-      "milestone": "Joby selected Dayton as manufacturing nucleus for eVTOL production",
+      "milestone": "Joby hybrid eVTOL completes first uncrewed hover-to-forward flight transition",
       "opsTarget": "Summer 2026",
       "category": "regional",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting. Joby Aviation confirmed as participant in FAA eVTOL Pilot Program. FAA-conforming tests successfully conducted. Joby Aviation conducted public demonstration of urban air mobility capabilities over San Francisco, showcasing eVTOL technology for future implementation. Article discusses scalability challenges for Joby Aviation air taxis post-flight demonstrations; relevant to multistate collaborative planning. AI-enabled airspace strategy being developed as part of eIPP demonstration planning. Media coverage highlights industry progress on urban air mobility. Joby Aviation advancing eVTOL technology for commercial operations. US Trade Commission investigating Joby Aviation for possible import violations that may impact aircraft manufacturing timeline and project delivery. Joby Aviation partnering with Air Space Intelligence to support Advanced Air Mobility integration efforts and coordination. Joby Aviation announced 2026 target for flying taxi operations launch. Key investor considerations include regulatory approval pathway and operational readiness timeline. Joby Aviation announced 2026 timeline for flying taxi operations launch. Company progressing through FAA certification requirements for commercial urban air mobility service. Article from Intellectia AI covers progress toward electric flying taxi operations. Joby Aviation announced new AI air-traffic control partnership and achieved pilot program wins, driving stock gains of 11.4%. Joby Aviation announces significant manufacturing expansion in Dayton, Ohio, positioning it as core production facility for eIPP program execution.",
+      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting. Joby Aviation confirmed as participant in FAA eVTOL Pilot Program. FAA-conforming tests successfully conducted. Joby Aviation conducted public demonstration of urban air mobility capabilities over San Francisco, showcasing eVTOL technology for future implementation. Article discusses scalability challenges for Joby Aviation air taxis post-flight demonstrations; relevant to multistate collaborative planning. AI-enabled airspace strategy being developed as part of eIPP demonstration planning. Media coverage highlights industry progress on urban air mobility. Joby Aviation advancing eVTOL technology for commercial operations. US Trade Commission investigating Joby Aviation for possible import violations that may impact aircraft manufacturing timeline and project delivery. Joby Aviation partnering with Air Space Intelligence to support Advanced Air Mobility integration efforts and coordination. Joby Aviation announced 2026 target for flying taxi operations launch. Key investor considerations include regulatory approval pathway and operational readiness timeline. Joby Aviation announced 2026 timeline for flying taxi operations launch. Company progressing through FAA certification requirements for commercial urban air mobility service. Article from Intellectia AI covers progress toward electric flying taxi operations. Joby Aviation announced new AI air-traffic control partnership and achieved pilot program wins, driving stock gains of 11.4%. Joby Aviation announces significant manufacturing expansion in Dayton, Ohio, positioning it as core production facility for eIPP program execution. Joby Aviation achieved significant technical milestone with hybrid eVTOL aircraft completing first uncrewed transition from hover to steady forward flight, advancing air taxi development capability.",
       "links": [
         {
           "label": "DOT Announcement",
