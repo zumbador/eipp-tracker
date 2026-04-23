@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-23T12:00:01.471Z",
+    "lastUpdated": "2026-04-23T12:00:33.611Z",
     "updatedBy": "n8n",
-    "version": 72,
+    "version": 73,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-23T12:00:33.611Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added funding milestone: Reliable Robotics $160M Series B to support autonomous aviation systems scaling for Project 8",
+      "projectsAffected": [
+        8
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRElybHNYQ1I4OEx5b245OWMxWjhUbUJGYVZETEMyN3Fuc0hBS0dBVmRrRGFzSEZtNHNyTjJwV3NOWm03R2Fwb2ttVHlMb3pHMkNXVk5rUE9oR1Y2WHNFUUpUSFl0Tks1NXQ5TXE5VkJlXzRINlJHT1hyNUlQU3pJejR4dkFFWF9BaTVaNkhYX0E0ek1ZWURMMG9wdVhYSEdpLXhjcGctRDc?oc=5"
+    },
     {
       "timestamp": "2026-04-21T12:00:50.814Z",
       "source": "n8n-auto-monitor",
@@ -465,15 +474,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOclVBWjRUZzF0OUM2eE1vaG9nUzQtVHljRTcwYlBtREtRanNGY3U1RElqNkZkRUhOaVJyeGxZUXdCNU1SVWNEWExOZzZqN1Qxd1FHdDNQQVVjcl96ajFVekd1TGJEZTMzNmxxbFlud0hFMC15d1ZyWmdZMzBUczBkeVN2TjhXcjdTMTdOVUZwX1NKZjZOdXhqU1lwTjdMNTZrTWR5ZGVWbFU1T1hHMDJBbV82UTRwMWw5dGhOQThqeV9iTkJnU3NvRDBIWVdadnk40gHWAUFVX3lxTE1wVDJwbmRUaTJkMU51NktGSFd2YS1OcVdVcEdtUWwtMHlKSTB5OXZnZHRpQXdBTktlSWNPMGlVVkJvZlJ6Q1R2WmE0RUxDSFhEbW9jME1QVHZoNE84Y19oTFBfUDh5N2FvU0VTWGdyV2hJeXFjcF95alItNTVDalQyUzZRWlA4LWZ2anU4eG0wb0FWVVlidDFGOUpvc2d5ZEtzMFliWGNub2s4NmRPYmw4QkF1ekFUV2lEckxXR2pxS0tWcTNuZF9YWlkxczRDZTRUTlJId3c?oc=5"
-    },
-    {
-      "timestamp": "2026-03-22T21:29:18.593Z",
-      "source": "n8n-auto-monitor",
-      "description": "Project 1 status updated to Active following White House announcement of FAA eIPP air-taxi pilot program",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlE1eUVvOGp4ZkdJeGhQZG15R3BXQ05zc19XNDBFOUxISFcwbEIwWVY1bV9pVnZqUkFCNTlzSjUta0pOaWttbmc4NE9Yb0N5ZHdyN1NrTWNDT3pkcDcxWk53WUU1V0o0ZzR6SDZrRzlYWVJYQlBQZEJlS2Z0TnVaWE1uRjlMQVR3NjBSTFR3S3pNZDFwVVpuN2R0NTk?oc=5"
     }
   ],
   "projects": [
@@ -919,7 +919,7 @@
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "The most strategically significant project for the cargo-first thesis. Reliable Robotics has already been operating in the region and coordinating with the FAA — it is not starting from scratch. Autonomous commercial freight in controlled airspace is the use case drone delivery operators have been chasing under Part 107 for years. If Reliable logs the first autonomous revenue cargo flight under eIPP, it sets a precedent that will reframe the regulatory conversation around uncrewed logistics. Wisk CEO Dan Dalton confirmed Wisk itself may fly helicopters first to collect operational data — signaling that even autonomy-focused companies see the crawl-walk-run approach as necessary. North Carolina Department of Transportation selected for FAA eIPP program.",
+      "notes": "The most strategically significant project for the cargo-first thesis. Reliable Robotics has already been operating in the region and coordinating with the FAA — it is not starting from scratch. Autonomous commercial freight in controlled airspace is the use case drone delivery operators have been chasing under Part 107 for years. If Reliable logs the first autonomous revenue cargo flight under eIPP, it sets a precedent that will reframe the regulatory conversation around uncrewed logistics. Wisk CEO Dan Dalton confirmed Wisk itself may fly helicopters first to collect operational data — signaling that even autonomy-focused companies see the crawl-walk-run approach as necessary. North Carolina Department of Transportation selected for FAA eIPP program. Reliable Robotics secured $160M funding round to scale autonomous aviation systems development, supporting eIPP technical advancement.",
       "links": [
         {
           "label": "DOT Announcement",
