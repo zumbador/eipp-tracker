@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-24T12:01:06.598Z",
+    "lastUpdated": "2026-04-24T12:01:36.034Z",
     "updatedBy": "n8n",
-    "version": 75,
+    "version": 76,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-24T12:01:36.034Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Project 7 milestone reflecting Reliable Robotics funding announcement for automated aircraft development",
+      "projectsAffected": [
+        7
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLXBmN0JnUFpDTWw3cVRqVkpxY2htd1QyaGdYSkZYNjhJc09pdWlkbDFzNWpsRlJhSEZaeDNiY1VPUG11M0tJem14RTY3S3hwM0xRQ3lvdlV4RFA2cU82WFpuRjNOaGt3TzdFcENNaXJsQVdwS09MWHpKNTlkZUxEMldIeFRCMTRDSWFFWEtwQ2I1UjA?oc=5"
+    },
     {
       "timestamp": "2026-04-24T12:01:06.598Z",
       "source": "n8n-auto-monitor",
@@ -463,15 +472,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdS13UFRaR1RoekI0V1JqT3ZZNHFjcWJHSHdhTzN5d3FNNGhCdmVUYU8xdUFHc2dkUm9sY0RFQmZmR3pXVGVxczlINE94SUhGcy12YTV3Qzl4QWd0MEE4M0dhMDdGYUwtWnM2cEg5azhLN09hTkcyVkxfVTNXVW53WnFQdXp1Tm01YmJUc3JxVDkyVUxHT0FvZzNuQURpbVdUWFd3dTRGdDdrV0lJQXRwaWhCSWM5M0lHb3BOeGZ2emN6NHNtOGptNGthSkhZOHFxUlHSAdcBQVVfeXFMTlFIWUxSaVdUbjhkZlNaTkFhcmxSenZlUWdCZXV2WkVXSUIySnpPNzJyNEg2ekJTWklGbXAtdjZ5d1JjdTctbV9NaW5RMzJZTEVEc21BWmtzdEdNQS1CV041Ty1DVjVnYzZnTW9mUWpRQk5hdnVVZ1NMTndhMC00UW9UZ0VxdEhCX09kanNSdWVURkFPaDJVeFY5WlpKNV9TeHhjSzhZcE44ZG42aGpNVC1WUVV1S2tubnE1dTQybllyaXRPX3hNZi1GLTdCdFR4YnZQbzhyaWc?oc=5"
-    },
-    {
-      "timestamp": "2026-03-23T12:01:54.719Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added White House recognition note to Archer Aviation/Port Authority project",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSk42NTMtazkzc1dIM0xyZG5ObHdqZEZ5RkJST3BON01RNEdZWXdBZUJ4LWVJYzBFUlY0c19ZMWNKdERUVUI3aXlZYmRrSmdrRU5OTjhBdkFlME5oc1Y4bHNsdWFEN2NiMDZLREJuajlULUxsWEtNVmNQWWVWT3JUVWdraHNYYWZFZ0xPTnBKS0c5NzVKdWdJVDNWUkc4Q28?oc=5"
     }
   ],
   "projects": [
@@ -881,13 +881,13 @@
       "focus": "Medical Transport + Autonomous Flight",
       "keyOp": "Piloted medical and regional ops statewide; autonomous flight corridor extending into Virginia",
       "otaStatus": "Pending",
-      "milestone": "",
+      "milestone": "Funding secured for fully automated aircraft development",
       "opsTarget": "Summer 2026",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset.",
+      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement.",
       "links": [
         {
           "label": "DOT Announcement",
