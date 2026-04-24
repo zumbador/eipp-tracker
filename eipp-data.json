@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-24T12:00:36.434Z",
+    "lastUpdated": "2026-04-24T12:01:06.598Z",
     "updatedBy": "n8n",
-    "version": 74,
+    "version": 75,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-24T12:01:06.598Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article is financial analysis comparing Archer and Joby performance; no specific operational, milestone, or OTA status updates found. Projects 1 and 4 mentioned but no concrete program changes documented.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVVZEc2plS3lFZEl6MkpPMk1Qc1dMdjQ3WGJVZU50YWFJTzZMT3JGVEJWTHVMNUhHRktjeVl1VEtmcXBvcUtBX0hTRURXeW5TMGEzLUlyc0dwaUJNdERIZG1NNjd0SlBlSjc5RnQzdUpDTlhIcXRfOFR3WlB2RkJDY3ZFTDlHbVBTbkhsMHhBeTNFTjFkeVFoclVjNG9ZM0pYWk1ZcVZmRU1LcmJtVWxzNGY1VzFvN1Jzel9kcW9ZeDg?oc=5"
+    },
     {
       "timestamp": "2026-04-24T12:00:36.434Z",
       "source": "n8n-auto-monitor",
@@ -465,15 +472,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSk42NTMtazkzc1dIM0xyZG5ObHdqZEZ5RkJST3BON01RNEdZWXdBZUJ4LWVJYzBFUlY0c19ZMWNKdERUVUI3aXlZYmRrSmdrRU5OTjhBdkFlME5oc1Y4bHNsdWFEN2NiMDZLREJuajlULUxsWEtNVmNQWWVWT3JUVWdraHNYYWZFZ0xPTnBKS0c5NzVKdWdJVDNWUkc4Q28?oc=5"
-    },
-    {
-      "timestamp": "2026-03-23T12:01:12.781Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated milestone to reflect White House air-taxi pilot program selection; added market activity context to notes",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRnExdndSTWZmYTZ6d3lDQkQwemxFMXNuQ1dBUmVZMnloX3FvamFvUVpWM1RwNkxtckJPQnIzU0lDLVFlRzZ4aEwyV3ZhSmxJTjBLZHZITlpiMkFuY0FBRDRSejNNeEJycEMyYkhjMktkbDlkalRzNG9aV19INElYSEZyUU1qeHVscEZ3cWJhSXVvekNz?oc=5"
     }
   ],
   "projects": [
