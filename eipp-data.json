@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-25T17:17:08.980Z",
+    "lastUpdated": "2026-04-25T17:17:38.475Z",
     "updatedBy": "n8n",
-    "version": 78,
+    "version": 79,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-25T17:17:38.475Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article reports TD Waterhouse Canada Inc. holds $917,000 stake in Archer Aviation - financial information only, no programmatic updates to eIPP project data",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeHJYbXBIVnFhWUo0M3VBMEdZbUlYQ3B6bC1BMDNhMUVhN0h3OUJycFp4NGNwSFJ2eDh3U2NUcDVzLWVQSnQyMk9RX21NaXJOa1FBS0h2ZkYzbkFPeVRnUWVJamgxUUdTem5TLTM2amJHd3dOa3B0V3F6bmJMekw0MHN5Tk1CZ3AzRmdyZUpfaGoxb0lOLWk3Y1RuZlBVaHFyWV9mcEp1bld0LWN3WTFDS2xNV1R2dUxKVmxETnRnYXpYbndIdWNkRmdB?oc=5"
+    },
     {
       "timestamp": "2026-04-25T17:17:08.980Z",
       "source": "n8n-auto-monitor",
@@ -463,15 +472,6 @@
       "description": "Added banner message recognizing Joby Aviation innovation award. No specific project milestone or OTA status changes warrant updates based on award announcement alone.",
       "projectsAffected": [],
       "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVE1uOWNDcFBmWUFxZ0toblFuSlJLZFVhRTJOSG4xUEVMLUlTZ1hDVk1JckRGZjM5cGhtV2JqQUEySTVUUFU2Y0RxUEk5Rkl6RmFCYTREN1JiWDN6dmpKODY4bFZwWmhVNkdKVnhhcDlVRm9MMkZQUEhHQjRrVlhSNTVDd1FLY3NmU3hScQ?oc=5"
-    },
-    {
-      "timestamp": "2026-03-26T12:00:23.112Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added note on Archer Aviation leadership and funding discipline initiatives related to federal air taxi program participation",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMFJjNHVsRXNRZDAydWRyQ0ZNcTk5V2FLMHdwZ3pPWlFibXdpdUg3NmduVzFURGc2Z1k5YVZualMxNXJJdjZocHZkWGg0T2lkOXNHQ1hqOHFtUXNOZ2x4NHFBVnBzdldGZGNzc0JPd1RYUW1PaGNNQXI3b0xnTnlFUXNqeXEzb3E5LUtXbXhvb1Y4d3BZcmVOTDFPc19TUTI3R2ZPZTZ5NmM3QWtkTHI3OWozOERwVGtQWUEzazdUTi1jNTQxdzhHa013Ty1ESzFlaUlV0gHYAUFVX3lxTE4tZU01cHlSdWxNU0d2eUtsR1BLWUdmSThYd0ZHN0Z3VDNKR2hIZmY0WW8zRmlrUG9oOUQ2aHYzOTVaWkNsR0ExYUNfTWtGdGVrN1h5RVoxT2N1SUxubmJGdW1OVEdTS3hJZm92Y1ZEWS1TMFNETVhEaTAxcnAtXzZBMFZ2R1dQc2lESXUwWVhIeDRiY21rSDhwQW9sT0hvSURnRkdWLVl2TmxYRW1KQU9QWG1ZdkNxU0l1ZnduYUNITGNiQWVSWDlQX2dQNVlDQ2JPUGttUWtCTw?oc=5"
     }
   ],
   "projects": [
