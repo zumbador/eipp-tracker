@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-27T12:00:17.400Z",
+    "lastUpdated": "2026-04-27T12:00:46.700Z",
     "updatedBy": "n8n",
-    "version": 83,
+    "version": 84,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-27T12:00:46.700Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article about Joby Aviation's 2025 stock performance does not contain substantive updates to project milestone, OTA status, or program activities. Stock market news is not operationally relevant to eIPP tracker.",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPdU9pNHhqN3E2SnM2V2pSX3BYcVV5MmtQSG5NZ3RqMngxcE5WaC1JZGdUaFltUkZQVjhmaUlrYTdnMlJjZHNaSGprZzJ0YWdiSjJqQmFUbE1hazNmeXRITXlQc25NYzdHUDd4UEUxcVpNUWtsVnd3TjhKdVZDZHZfU0lJemM3NTJ1alFlR0VKLUlzNWpGbHVLT3FzM09wVFBZRFpGTEFRTU8wd0E2VVBQbGtEU1NONVQ0OW1lX2xtZ0g1a1ZmWDlaMjBWbTZoNzRzLWpkWWhYNURSSVI2TWZzNW5oTldCMEhjUFlsN05PLTR6bllqNDJ6RlJJTmFsbXBheGhhOXNFM0NtbDNzMGR3TmZzSWZ1T2Y5MlRMeVpPTjUxZUlLTXlMVGZBbjFTdnNWQWota3BpblEzRTNCM1BBVk43MkVhN2ZucHRlNDdhTnZYcnN5bDhwRXJBaUdCS1dxTHpJek5iUkdiY0JfcG9ObnZURVkwSFpUd0ZEU013?oc=5"
+    },
     {
       "timestamp": "2026-04-27T12:00:17.400Z",
       "source": "n8n-auto-monitor",
@@ -467,13 +476,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUFRwZEhrNHppRXhRczJ2ZzlIUWloZWZhVDhmajUtSXItMVVua2x4SkxMZGtYd1FwY3Q2R3VmTUV0NDd0RkRVMGF4V0NqSzVCMnI3eklKRm4wM3Y3RklNTmpQV1FBdkVGVmx2VFRIalp2SlpxRkIwT2loQmxMYmowNFR0bDloZmFpS01VdDJGUWdrdG1mUFM1RndPajRmRDVVSmNrbXBtLUItenF1MWNPb3JwSQ?oc=5"
-    },
-    {
-      "timestamp": "2026-03-28T12:01:42.382Z",
-      "source": "n8n-auto-monitor",
-      "description": "Article is about BETA Technologies' growth opportunities and eIPP participation, but does not contain specific operational updates, milestone changes, OTA status changes, or dated milestones for any of the 8 eIPP projects. No structured data extraction possible without concrete project-specific information.",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYzJXeXRUdmFnX1dPUUh3ZC13eHhnTkRsQnQ5OUY4QjZya3dZWHBQeUFFclpqazRUSmYxYnZjZXFWTDFYdUxNbFgtTmNaSGxac1hIUXJQMGl4V05vTzJUcXZWMEMydjl0Yk41cWZlTkhYVWwtOTNwUHZTN0NSWmhoRWZkUUk1RE5TVTExSVNiQUtNamc1ZkJ2RzFnVlFieXYzVWJiZnB4ZzFLU0dnY2xSU1hoRFlXM3fSAb8BQVVfeXFMTWc3ZnVLZnlGZ25ldlE0UHE0blV1LUxwM1V4V3VuamdfQ2MxemhsU3dfYmtDOVhlUVVCZmU2dElGYXRJelRIc2trU3FyY3QxRTQxakg5cTBpNzVzNmtXUXFobm9wZUxhdWlHZ2N5Yjl2LVhWdmZ1eTNsMGFUUlZ1T3VRWXlTaG5MemxaV2dOUVA0TGZoeC0yWlR6TXY2LXJZaXNTYUtPaDJIOVJUSWs2VGxUcllJN1NucjE0YmVQTDQ?oc=5"
     }
   ],
   "projects": [
