@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-30T12:00:37.058Z",
+    "lastUpdated": "2026-04-30T12:01:07.004Z",
     "updatedBy": "n8n",
-    "version": 91,
+    "version": 92,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-30T12:01:07.004Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article is financial analysis of Joby Aviation's 2026 outlook. No specific eIPP project milestones, OTA status changes, or technical updates are extractable from the headline and summary provided. Requires full article content for accurate data extraction.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnV2cXlwQTRjV0NWaERWaDhFNG9zV1dtdk80ZjZtT0dOZUs4QVpaSk0tNHlhbFJtM1VOeHZMc00zZE10OUtCWDVrNkNyaEpCTGZPV2VCbkRKMGxMV0RQd0wxVjFvVlNnNHVVSFY3bUxkOUdBZ2FYU0gwUFpaTGNBaHBrTFVBMFJJZC0xVnFnaw?oc=5"
+    },
     {
       "timestamp": "2026-04-30T12:00:37.058Z",
       "source": "n8n-auto-monitor",
@@ -469,15 +476,6 @@
         6
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQTZrWFVzR01qeW02OGV2ZVZmcW5vQXdMa3BYdUpWM2VzeThGZjNOekQtSGVLRzJEM21vaWxzb0JqWlpOSDJmUE14SmxKcG83dF9LeHhNc1Z5N1U1Z1NQSjNoSWNzdmlFeThRX1Y4ZUJTNFoweDltQXptNHdfMGZFazQ4cmtTdHQ3MHd0ejQySDllVWxyaWhTZV9GSlNUMTRXZkV1Ylpub3dIRnZ5aEQyNkdn?oc=5"
-    },
-    {
-      "timestamp": "2026-04-07T12:01:01.186Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added market analysis reference for Archer Aviation as compelling eVTOL investment; supports Project 1 position in FAA eIPP program",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2ZtTVRkVE9YMldNV3AtSGxmYUNxMkRxZWF1UHAxbXZuX3U3OFN6WmdVWlRWZ2kwb3dUWkdyN3BMZ2FOcWxNYzJUOXI3LW5ILUJlN0JxTVp2LWZHS0Uwc0FzTWpNZUU0VmwtNnphNVZjZDBKLUdoaFpBVVNXY2NjNVdUY3VXMDB6MFpKa0lNT25NVHRQRy1kTS05c2xmLUFDRHlRbzNKMGhiZF9jcXFVOHlQOHotYTFhcmhTTUNnd3dQRmNpb3BlcmRLZzd4Z9IB1gFBVV95cUxOb3JDNlIxR2tiQmwtWWFTSDh1ajV4bW1vWm9EdXhTcVZHeWxvYk9OMDZkdWZGdzJEckJ1TVpnQ3RoTDU4NV96dzJwY2w0ZFBWNGhnRnRYZUtRakdOeDNaVlhxMVVtSkU2dU9RLS0xSXdhd3M5YVMyX0Rvb0pHdElTYzVDWW1kWEZyQzl0LXRseDM4VjNNOTgyQ2pBNXdKQzFEb2o3X1Q3RnBPSWtyYmFZM3ppY0tveUgtMUJFMnRMc1FMN1lRaXdSc0RlZl9rcEJzb2hKUGZ3?oc=5"
     }
   ],
   "projects": [
