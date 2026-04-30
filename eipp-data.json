@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-30T12:02:07.931Z",
+    "lastUpdated": "2026-04-30T12:02:38.410Z",
     "updatedBy": "n8n",
-    "version": 94,
+    "version": 95,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-04-30T12:02:38.410Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Project 2 (TxDOT) milestone to reflect BETA Technologies and Champlain College workforce development partnership",
+      "projectsAffected": [
+        2
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEFnOXBNSW5qQkF4alJJbWx4MWtCMnNWVnFGVmgxSk91VlFURzlNRnBtN05IdjRvdWNrU1NMbnl5MnFETEExZzExc2pUb0wxT0dWenJ5YnlmODV1V0g1aUJPOGJpeG5HQmd5QzF5T3J6akdlSnhjYk9JVW5obUZob2xKOE44UmYzNkFSS0hoWWhqYVpqRUFSUTNUV3IzcXRLYTg1bDBsSdIBuwFBVV95cUxOdnpCc2haNHlPckgyZGRhNDd0NjJDTzh6bTBHOGZpYjlsVW5NMUt5NC1FbXFNU3ZlQzN0RGZLWDNTV0pmc3pyVXRhaGlHT1NYRk55amxQME5UU19QOTVYaEdjTExDQ3NGeDhoSmJyeVAwQ2Z2VFNmVmtkQTFiTnljVl9uMnh2dUxkVHdTaUxMTHR2YXpiMll3UUkzMmhPZFp4SGphdnRDMzQwWUVEQVZ5bU5VX1FXQ3NLNnlr?oc=5"
+    },
     {
       "timestamp": "2026-04-30T12:02:07.931Z",
       "source": "n8n-auto-monitor",
@@ -467,15 +476,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaE9kRXozemFrMnotSzNMc0Z2UkdPbC0tUTZSQ1YxbjJGMFhGTk9vcDYxaC1OSTN1WnJOa04wUWVIWE0wWDlEd3FWc0ViTWVQNko4Z19ZRy1yNUtDYkxKVmNwdVJscHk4YTg0aElXaGt0STczbEJ2R1V3QnN0Wkx5WmRPVXpGQ2p3RWRyS0tVYm1OcWxoV0hBSw?oc=5"
-    },
-    {
-      "timestamp": "2026-04-08T14:49:52.004Z",
-      "source": "n8n-auto-monitor",
-      "description": "Financial analysis article about Archer Aviation stock valuation - no operational or milestone changes to eIPP project data",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMjBuYXhYWEU4NnNhSWVKeHB3dDlabUNxbERjSWhxdzBfUVVRRlgwemx5cE51V2FBMzl5Q2gzNy15MW12cVl0RFRMNnFFUmE1OUdaYWlZeHQwUVJOMEJYdVpaRlZDWGsyTkRJQjN6YTV2SHRlRDVhdjNiNDV4SVBuX1FuYU9nR3FfQkJadzhhSkhUOXdoNnpFNU85SEtucXVfMlBJUENjY3dNWlpvNUVTNFRIaWZIZlJQN0ZsTk91bEVILVcwclFtTVRXVnk3dWNCbjJ30gHYAUFVX3lxTFByVXEzbGRPYXUteEp2dTdmNW1wT1RkU2ZJd1JqVkZESnBOLUxFU01LOUdLaFZtV09oN1ZkamVpbXpfeDYyQTRwRVlfWUJ1Wm9MYXY1UFVpb0ljWThNZjBKaUNMWXdrT1ZfSlQwd28zYi1uRFJEUkJOZ3hOSTdfNEJSdjlMbk1pdVdINllrS245QWhWajM1SWJZZHVzdUYtcjFXZGRyVjdYTFZ0Y2plQXNLRy1NblJlZXZxWXoxVVJpQVEyUlp5bnk4ZXdKbEd1TEctYTdJZUROcg?oc=5"
     }
   ],
   "projects": [
@@ -636,13 +636,13 @@
       "focus": "Passenger + Autonomous",
       "keyOp": "Regional air taxi network connecting Dallas, Austin, San Antonio, and Houston",
       "otaStatus": "Pending",
-      "milestone": "Partnership established with Champlain College & BETA Technologies",
+      "milestone": "Workforce pipeline partnership: Champlain College & BETA Technologies",
       "opsTarget": "Summer 2026",
       "category": "passenger",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration.",
+      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -651,6 +651,10 @@
         {
           "label": "Archer Press Release",
           "url": "https://news.archer.com/archers-us-air-taxi-operations-take-major-step-forward-as-florida-new-york-and-texas-selected-for-white-house-pilot-program"
+        },
+        {
+          "label": "Beta Technologies partners with Champlain College",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEFnOXBNSW5qQkF4alJJbWx4MWtCMnNWVnFGVmgxSk91VlFURzlNRnBtN05IdjRvdWNrU1NMbnl5MnFETEExZzExc2pUb0wxT0dWenJ5YnlmODV1V0g1aUJPOGJpeG5HQmd5QzF5T3J6akdlSnhjYk9JVW5obUZob2xKOE44UmYzNkFSS0hoWWhqYVpqRUFSUTNUV3IzcXRLYTg1bDBsSdIBuwFBVV95cUxOdnpCc2haNHlPckgyZGRhNDd0NjJDTzh6bTBHOGZpYjlsVW5NMUt5NC1FbXFNU3ZlQzN0RGZLWDNTV0pmc3pyVXRhaGlHT1NYRk55amxQME5UU19QOTVYaEdjTExDQ3NGeDhoSmJyeVAwQ2Z2VFNmVmtkQTFiTnljVl9uMnh2dUxkVHdTaUxMTHR2YXpiMll3UUkzMmhPZFp4SGphdnRDMzQwWUVEQVZ5bU5VX1FXQ3NLNnlr?oc=5"
         }
       ]
     },
