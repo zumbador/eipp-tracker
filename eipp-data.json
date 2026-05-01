@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-01T12:00:59.427Z",
+    "lastUpdated": "2026-05-01T12:01:30.180Z",
     "updatedBy": "n8n",
-    "version": 96,
+    "version": 97,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-01T12:01:30.180Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article references Joby Aviation's 2026 financial performance and earnings outlook, but contains no specific information about FAA eIPP milestones, OTA status changes, or program developments. No structured updates warranted.",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnV2cXlwQTRjV0NWaERWaDhFNG9zV1dtdk80ZjZtT0dOZUs4QVpaSk0tNHlhbFJtM1VOeHZMc00zZE10OUtCWDVrNkNyaEpCTGZPV2VCbkRKMGxMV0RQd0wxVjFvVlNnNHVVSFY3bUxkOUdBZ2FYU0gwUFpaTGNBaHBrTFVBMFJJZC0xVnFnaw?oc=5"
+    },
     {
       "timestamp": "2026-05-01T12:00:59.427Z",
       "source": "n8n-auto-monitor",
@@ -467,15 +476,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ1NGekFjT25XVjdWXzFseTZFaFhzOWEyYWVaTlRQZU40QUxzc3YyRFRpLU42N3A5bG5vbDZ1djU2cFZhU2dwT1NHMF9DTFZUa3BCYW1ObmlBanRWUzFrN2dXTndOU1NMWDBwclBLdGJ0QlpTT0NPTUhRUk1naWVLVmI5NHV5V2NsUjFJRzFpUG9oeFZORWZsZFBHOElUWGluMkYxaTRncXBkcm5nZGQ2TDFIcllXLUh4MFNkc2ZpTVBSak5TWnhzemNKTXl0WDhUNFpF0gHYAUFVX3lxTE9BSGxSejcySGRVQmVVOXRGeW85UExPbkdVQ2E1RFZhLW1PcWxyWW80UTdhMkMzVmowVld3MGNvblBCQ1ZybnBhdWZIRVNXR0RhdWNYNUlWWWE5aDhtcU8yQ3piRWctYzNxeHJPWGY0T3h1WjAxQzktNHpQR0VvWXYtSXBBV3ZWOWJlZVFTWE1LbDZMNGgzOUxObXlYUDQ3OWlzOWx4UUZPdWZUVDg5VGlhMVdnX1B2UmFXZUg1TEpGdUxFZy1FOHYzRFdUTlgxbm5zcHE5S1ZnUA?oc=5"
-    },
-    {
-      "timestamp": "2026-04-09T12:00:34.436Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added Reliable Robotics detect and avoid flight test validation milestone and supporting documentation for Project 6",
-      "projectsAffected": [
-        6
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFBfQW9Wb2hMbHFEOS05YkFyT0FsVDZCc2w2S3NCMVl5Z2xpenhBaTFIZVpYSDVBdkJxYkxGREFsdTJmYnVDZ19tOE5iUGYxdkFnTFNlajg1SnhraWdrdFRNdVlCbDQ1OUJFa2VKWkk2cm9TOHppb3JTS0Y4UllyU3R0bkJKNDhfeWViY3VNcEdXTE00OUdCOW5lN2FfWlpFZ242ZmV6WVZia0FkRWF5S0J1R2pmbmZpTDI5MFdzbEc5ZzZPMXp5MjYzLTk1anZvNS15MW1ITWVpb0tIcUE?oc=5"
     }
   ],
   "projects": [
