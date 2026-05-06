@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-06T18:42:11.789Z",
+    "lastUpdated": "2026-05-06T18:42:42.098Z",
     "updatedBy": "n8n",
-    "version": 103,
+    "version": 104,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-06T18:42:42.098Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article is a Q1 2026 financial results report from Joby Aviation. Without access to the full article content, specific milestone completions, OTA status changes, or operational updates cannot be reliably extracted. Requires review of actual article content to identify concrete project progress updates.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1VveTRndFl3dTdwckhpdlJlWFFqMjdCYnFZTE1Ja0xTOEV5T2pDX3dTXzN5TVY4MHlxdnA5UWJudDRNdFBmdHFtMHZLMlR0VnkxcnpyVUVSaHN2RTJZVUsxbThqdVc2Snp3eE1oTGc3N0pXMUVINWpJMms5WUtydEJ2MWRRYlI0cWRR?oc=5"
+    },
     {
       "timestamp": "2026-05-06T18:42:11.789Z",
       "source": "n8n-auto-monitor",
@@ -467,15 +474,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSl9qVXlDR3VDU29GYzZiWER3VWpjVW00OWJhV3VrNFcybTdta19HQjRDbkVhT3pJUnFkaUdmVzRyRVhzRlpULXFqd1h4UVhrMHIyQXBrNTBtb2FaWTdySEVuVWhadDJaZ200Z01RQ2FfMkQtYzlBZE01QlYwR1dnamUtYjFCMUV3MGd2dGVRMWE4VmU1TVFtOEY3N2NKZllCcU5RTXVJLUtvRjJmMjQ3bkdKRXBlTDVNa0JEOTQ2VHpabkZq?oc=5"
-    },
-    {
-      "timestamp": "2026-04-11T12:01:40.308Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added note about US Trade Commission investigation into Joby Aviation import violations and potential impact on aircraft manufacturing/delivery timeline",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWtqTVc3c3Q2WlBtNll3UjJMei1idUY5Q2hFdXJnOHhoVVA4X2VkN0lzZmF1ZDBadlBobUhhQnhxQ3ZCcXVqQVd6SmEzcDVHVDJaUHZSaWJ6bC1yRzY4VWJvUTAtamh0cWljUjhmamxoVzdWblp6a2lNMWpKa0tBRUFGYnlpRVREN1pqSVBZS29zQ0FLQTlBZ1Q1cy03M2NrenRxZzZpWTJJZlRRYUdDQnVwUzRpZDBlU2tZZW02dS10dV8xNUFZcWF3?oc=5"
     }
   ],
   "projects": [
