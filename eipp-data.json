@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-07T19:04:42.991Z",
+    "lastUpdated": "2026-05-07T19:05:26.819Z",
     "updatedBy": "n8n",
-    "version": 106,
+    "version": 107,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-07T19:05:26.819Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added news article reference for Archer Aviation project",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnJmREJUU2dodWVFaXdRME5KWFpSemxBNk96LTA2YzVURDJkR1ZrSzB4cXQzQ3RNTTFCNUFfMGxrdi02TU5BR2sxUmg4ZXNZNnVLS1JaR3BPNXFITjh1ZzdrVzZsMG9pR0tNMDdXVFFaZ3MwR3NJNmtsWjZabE1nNXZPeUthT3BXVTA5dDRySW9MM09qM2VkYVE5cllIcU9tMjNoWTkxejFKWlBVRUE?oc=5"
+    },
     {
       "timestamp": "2026-05-07T19:04:42.991Z",
       "source": "n8n-auto-monitor",
@@ -465,15 +474,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNck9qemxjejhyZEZUWVptdkE5cE82TTV3akxTdHdpdVpsSGZadTdySFhOSmNWTnUyOHFMTHhXUlVBZ2FJQUMwTUJ1NjlpSGNSMWl2SWhGbzhQX1l1ajE4X0RLMTdFUW9xVVAzQUtqbU4zTVFZNVVrOGZPV0xrRlk0amYyUWRwZE92OFphREVlNnUyMmZ3LUFBOGQ1R3pTbmRiN093T2RNcWlBMjdMX2k0Vl9hTGg?oc=5"
-    },
-    {
-      "timestamp": "2026-04-12T17:30:40.127Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 1 milestone to reflect Archer Aviation's FAA certification achievement; added supporting link and notes about reduced market uncertainty",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VUG9teTZuUzJvWWMydjkxaldXVy1XZEVZeUk0ZENBaWlqeW5fZlRLajFEOXpJTDRjcEFPMmVEZ3d1SUk5WDhTa2pzbXBfTW9RUUVjWUxjMWpiX1ZQM1HSAWNBVV95cUxOUVl1OFpDSVFHbGlZZy0yRktnNE12VGhZcWl0UE0yWFNKWXlydDlUVTNkYTUtaE5lc2Z2SzhpdU9sUjFCZ1ItaEtMN2xsQ1Bqdi05WkJmNTlFSU5YUEd5cjNUaW8?oc=5"
     }
   ],
   "projects": [
@@ -619,6 +619,10 @@
         {
           "label": "SimplyWall.st - Archer Aviation Financial Analysis",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaV9hQzhvcmNOZDdycGhuSm5mU0d6S000amhRTWtIbmhvbXVZUmh2QU5UZzhORUM1VTFtZ2w1TVFzT0EwRDJmY1lWZ1NLa3pZY2FWd1hkZ0NVaE9ZM0t6VVdrR2JPQjh2ZGlyZHRtU0hGcEE1YXRMcm9TZkxQME8ta19fZkk3T2R3VDdNcVVNVUhHQkFHS1ByS1pUcFBsM2hjSU1uU1BBajVRTzg2bGxQbGZlS3FOcnFYQnNEMjdQVFZCcGQzcjhRbDFIUFo3X3J0WWJr0gHYAUFVX3lxTE1HSTExUWJIZTNSX1dNM0VLNGNpVXNfQVFKVDlGSVhESHpQdmg5ekNuVHNjcVFmOGJLaDJDNi1HYThLTTRQaVRMUlJIck03R1hJdktSMXdGTFotNXFwLVdDNGFPNG52WWdJdWNnbkN3QnAzSjBHTW1nd25zSy1fcjdwSmU5WW1DOU5wbDN4bS1FSUA3ckRjTm5SdUxoUXc4YVpHU3BQOGhMYTE2bzdqTUEyYWo3UkdZUVRGalQzbnRtT0Y0UTE1d0JiaW1WaWlORGpXaFY3Tk1WXw?oc=5"
+        },
+        {
+          "label": "GazetteXtra - Archer Aviation News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnJmREJUU2dodWVFaXdRME5KWFpSemxBNk96LTA2YzVURDJkR1ZrSzB4cXQzQ3RNTTFCNUFfMGxrdi02TU5BR2sxUmg4ZXNZNnVLS1JaR3BPNXFITjh1ZzdrVzZsMG9pR0tNMDdXVFFaZ3MwR3NJNmtsWjZabE1nNXZPeUthT3BXVTA5dDRySW9MM09qM2VkYVE5cllIcU9tMjNoWTkxejFKWlBVRUE?oc=5"
         }
       ]
     },
