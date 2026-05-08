@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-08T12:00:01.303Z",
+    "lastUpdated": "2026-05-08T12:00:46.183Z",
     "updatedBy": "n8n",
-    "version": 107,
+    "version": 108,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-08T12:00:46.184Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added news reference for Archer Aviation eIPP program",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnJmREJUU2dodWVFaXdRME5KWFpSemxBNk96LTA2YzVURDJkR1ZrSzB4cXQzQ3RNTTFCNUFfMGxrdi02TU5BR2sxUmg4ZXNZNnVLS1JaR3BPNXFITjh1ZzdrVzZsMG9pR0tNMDdXVFFaZ3MwR3NJNmtsWjZabE1nNXZPeUthT3BXVTA5dDRySW9MM09qM2VkYVE5cllIcU9tMjNoWTkxejFKWlBVRUE?oc=5"
+    },
     {
       "timestamp": "2026-05-07T19:05:26.819Z",
       "source": "n8n-auto-monitor",
@@ -465,15 +474,6 @@
         2
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbllLZDRzZkJWM25oWFRQUW52eGRTaEdWOFo5amd3OGNpT20xc0VqTGRhdlBnZXdEM3dIWGNMVFlBVmNHSXhGS3g1LWRRSm9YMHh4V2tOTzV1ZTV1TXJpTXhNanVITU44VmlOMmI1aWhpRncwbURMeWlIMVdRMHpjSGE5eTRMd2lOak94Y2NtRG1PQzZpR3pOZWl6cHplUlBRdmgzMjJvWXFqNGE4RFRuSw?oc=5"
-    },
-    {
-      "timestamp": "2026-04-14T13:26:38.041Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added Joby Aviation partnership with Air Space Intelligence for AAM integration support",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNck9qemxjejhyZEZUWVptdkE5cE82TTV3akxTdHdpdVpsSGZadTdySFhOSmNWTnUyOHFMTHhXUlVBZ2FJQUMwTUJ1NjlpSGNSMWl2SWhGbzhQX1l1ajE4X0RLMTdFUW9xVVAzQUtqbU4zTVFZNVVrOGZPV0xrRlk0amYyUWRwZE92OFphREVlNnUyMmZ3LUFBOGQ1R3pTbmRiN093T2RNcWlBMjdMX2k0Vl9hTGg?oc=5"
     }
   ],
   "projects": [
@@ -622,6 +622,10 @@
         },
         {
           "label": "GazetteXtra - Archer Aviation News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnJmREJUU2dodWVFaXdRME5KWFpSemxBNk96LTA2YzVURDJkR1ZrSzB4cXQzQ3RNTTFCNUFfMGxrdi02TU5BR2sxUmg4ZXNZNnVLS1JaR3BPNXFITjh1ZzdrVzZsMG9pR0tNMDdXVFFaZ3MwR3NJNmtsWjZabE1nNXZPeUthT3BXVTA5dDRySW9MM09qM2VkYVE5cllIcU9tMjNoWTkxejFKWlBVRUE?oc=5"
+        },
+        {
+          "label": "GazetteXtra - Archer Aviation",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnJmREJUU2dodWVFaXdRME5KWFpSemxBNk96LTA2YzVURDJkR1ZrSzB4cXQzQ3RNTTFCNUFfMGxrdi02TU5BR2sxUmg4ZXNZNnVLS1JaR3BPNXFITjh1ZzdrVzZsMG9pR0tNMDdXVFFaZ3MwR3NJNmtsWjZabE1nNXZPeUthT3BXVTA5dDRySW9MM09qM2VkYVE5cllIcU9tMjNoWTkxejFKWlBVRUE?oc=5"
         }
       ]
