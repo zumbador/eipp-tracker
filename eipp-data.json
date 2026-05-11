@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-11T12:00:02.152Z",
+    "lastUpdated": "2026-05-11T12:00:54.132Z",
     "updatedBy": "n8n",
-    "version": 112,
+    "version": 113,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-11T12:00:54.132Z",
+      "source": "n8n-auto-monitor",
+      "description": "Stock market activity article about Joby Aviation - insufficient technical content to warrant structured project updates. Article appears focused on financial performance rather than specific eIPP milestone changes or OTA status modifications.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmR215N2lJdUVaeUtfUDYwdGRaNVlCel9iSTN4X3pQeXdWQi1qdjBtMUxTcl92ZldIZjMzQ1JTQkIxVkFnMHhVNklRaWNvd1dHTFJRaC1PMlNXb2NPa2xzX0FYcDRVLUc1RTgyX3lCdGRaaWlpLUtRdThRWHZaR0U?oc=5"
+    },
     {
       "timestamp": "2026-05-10T12:01:29.585Z",
       "source": "n8n-auto-monitor",
@@ -465,15 +472,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMnViTXQ5QlQ2NENWUk01SzlBSHp2bWVWY3VCb1NFemJmY0VSMmtqWnphNFRwNWx1M2d6Znh1STdiaUN1YnhYMWtmSWlLTHRPQThqa01UWV9laE5wVjF3ZV9ta0pOQTJpeXdaNHRSMnpLclRvTl9nVTVfUzIxODU3cTZyZlBFTEpzWjFYQ1ZNMTJSN2JlUkZadU5iRzZaUTJaOXJPYThNMElJbnJfMUtpRGtDaE0wWWhFWEZkc0lQR05QN240aWwtRVFta2Q2VV9hRXfSAdcBQVVfeXFMT21IVEU5YXdCNWlDQVA4Y0x6dmpxaUN2STVTRkptYzZmcGx6bzdfWC1GakJIeTlITXpvRGw2NjlPME5xZEQ5WnROcHM3U3VOZG9ObTl3MFhYelZyanNKY0l4LXc3bnJ1Wm91SFBzWnFIajdMZ1ZNdW4xS1ZVNVV0YUVraXpPSVJqWVBfQTRzOG0xSUt3NUk0M0FCLWJ3MDVSX05XVmVldVcyYTVkbXFYVlMwUFNic3plYURmaTZPTmEtODYxWHdYWmdlWi1FV2s1bG9RSEhfSnM?oc=5"
-    },
-    {
-      "timestamp": "2026-04-16T12:02:07.920Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added reference article on Joby Aviation's electric flying taxi progress",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGN5QmhyMWFRT2xSN3B0QWZRZmJJQlhoUnlUZjBDb2t4Q0FGY1BRbENianY5bzQ0cVlyMjJmOXhMX0ZpbnpjOGNZdWJuenNfSHJMaWlEaXRqZU9QQkN1eEJfVXh2clJ6ZWRtaTdrWWdqeG1JaWpwSHJoV1JDa2otUG5CeGRxWEcxMDBTODNwblk?oc=5"
     }
   ],
   "projects": [
