@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-12T12:00:36.904Z",
+    "lastUpdated": "2026-05-12T12:01:06.003Z",
     "updatedBy": "n8n",
-    "version": 116,
+    "version": 117,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-12T12:01:06.003Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added contextual note from CNBC CEO interview regarding aerospace leadership relevance to Texas DOT workforce partnership",
+      "projectsAffected": [
+        2
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTTBjdno2ellMN2hwOEp6VTBDd3NvQ3BEbEhvWnNhZkZqYVk0WTgxZ2otbXhSSjRkWlNXMXp0a1B3YVV0SUsxaFUtODJ3QlRKeXJuY2c3VERrYy1BWUZWRnBhakJ5TUdET3B6Qk9sZ3RBUUVDSVNTLWsxVy1ZRXVXRHhSX2VZU1VzcG9vc2pGeXhPYzY3UVluc0R1MnRCS2lvcXBtUWZoTzVHanA4NUVOcUoya05DeVNH?oc=5"
+    },
     {
       "timestamp": "2026-05-12T12:00:36.904Z",
       "source": "n8n-auto-monitor",
@@ -463,15 +472,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWW80Q0phakJuRldIell2eXZQUFpyb1BnUXFITXhLTWxJYXd0bGVaZ2E0TW5tTTB4by1Vc1ZnZHRkbjBKMnp0ek9QNUdaTzctZHdSNXZMNUg2elhEMFduSXZHYW11R1lGM2xjMlgwOHhMaVJ6Sk1uS3NheUFzeVVXYVc5d242SGRYaEpBMXJmenY5bVpKa2h0ZlF5X0R0SWtkZkdQcXN5LWJCeF9HTTA0Nk96eE1xcEE?oc=5"
-    },
-    {
-      "timestamp": "2026-04-18T20:55:40.844Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added funding news regarding Archer Aviation backing for Project 1",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0ZONWNEMEpuNXdMaUh3ajZWMXl5dEpRWFdqRjJ4a3hvb0tiX1BFWHJzb1U3WmxReUtjeGxJLUVGRFhYR3lzTUpQbk5pQ3BTZ1hvVFd6cUxTLTFUVnZwN3Q0dnd3anFFYjdNRklXMmFXNVRYUFdCQVEydG5hZktYYXEwNmtlbzlQTkdWTjNDNGstUnFkano5elZjZHE?oc=5"
     }
   ],
   "projects": [
@@ -674,7 +674,7 @@
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce.",
+      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce. CEO commentary on U.S. aerospace leadership reestablishment aligns with project objectives for advanced aviation workforce development.",
       "links": [
         {
           "label": "DOT Announcement",
