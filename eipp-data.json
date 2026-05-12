@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-12T12:01:50.431Z",
+    "lastUpdated": "2026-05-12T12:02:20.594Z",
     "updatedBy": "n8n",
-    "version": 118,
+    "version": 119,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-12T12:02:20.594Z",
+      "source": "n8n-auto-monitor",
+      "description": "Technology advancement note added for Reliable Robotics safety-critical datalinks development",
+      "projectsAffected": [
+        6
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTVRBckJodHl5Qm9lUFNPVE02R2tIT1cyRG1ibnVVWVoxWE14UzVFSE1vcl91UFAtenZMcEQ1VENWaEdPX2FQVzdiNjNSYjNQeEptT1YyV0pGTzJxbWFoSmYya0NHMEV3V3M5emJud3dnbjJJRGRsUDZaYlFZdm9Oam5vYWxHNTB3V3dRWGNib0p5TXdQX1NQTWt2TldidC1IU1ZYRmxxWDFGWWM?oc=5"
+    },
     {
       "timestamp": "2026-05-12T12:01:50.431Z",
       "source": "n8n-auto-monitor",
@@ -463,15 +472,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2ZDakRzMjVwam1OTHRKWWxIODZBb0NiMTEzeGlTd2djZWdmclhKRUE5RU9pdTJvWWdyNWI4ZHM0bVdlN3A5UkVOWlZXM3dEaVg2WjYwM3VtN3dBQWZaN0ZxX1NRN1BkZ3VJOXdrRzVmMm5YVEtzUVFSRmVuMmcxSDFHRVFaYVkwMldCRmw3MEFhbkVTWjV4cEQ2b0ctTHR6RE1mR0NDYkpZUE5Eb3M0TVhySzlYZw?oc=5"
-    },
-    {
-      "timestamp": "2026-04-19T19:47:11.486Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added note about Archer Aviation's Texas shift and potential impact on NY/NJ Port Authority project",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVJsTnFWZEQ0Y1pVeTRscnRqV0ZET2FHUFlOWXBINzF1dnJVOF9EcUFVRUFscmpadTZBZVVhSjU2MFlvcFFSUlVrNGxYQXVFdTJ2REJDbzFaWWwwQkpoMnBmUUxaTURuNlZiTUU1aC1od0V5b0lJaGhOZ3lTVmNmd1ZJa0Nmbjd5c2ZtbUpNdlk2N2dxRWZ4UVQ2M1BHS1ppNS1obmNYbXp5dV91VEF3?oc=5"
     }
   ],
   "projects": [
@@ -912,7 +912,7 @@
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration.",
+      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration. Reliable Robotics advancing safety-critical UAS datalinks technology to support eIPP operations and safety standards.",
       "links": [
         {
           "label": "DOT Announcement",
