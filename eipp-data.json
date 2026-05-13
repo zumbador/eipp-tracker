@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-13T12:00:22.524Z",
+    "lastUpdated": "2026-05-13T12:01:35.261Z",
     "updatedBy": "n8n",
-    "version": 120,
+    "version": 121,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-13T12:01:35.261Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article discusses BETA Technologies' financial performance and Q1 2026 outlook but contains no specific updates to eIPP project milestones, OTA status, or operational timelines. No structured data changes warranted.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa1VCQkJSNjlVeXE2dks1RVhYZXJQYWRPdURNX3JXaWVxQVQ4Nlk3NVNMNXh0TmVYTEVhRi10Z2w0eUpUbWNJaTFkQmt5SlhpVmI2dXlkUzgxVWhKMFZUWDM2Sm5BNmV6QnZXVG9SV0VMOVUtdUFieEdWNDdqUDUtOVk1bHRtMF9IWjVTVDEtN09ZeUlvUlZIQS03bGNrckJDbzJlMnM0bGFhOGtyem1sSzJLcGcyQUhydU5OWndDMndZWDEydHQ3ZzZnTzBfWlBmcERTdjZR0gHbAUFVX3lxTE1YclFuRXl0dUx2eUZGc0xpMy03R0NaTEpSaHdjNW9uOW9ILVVkUU5QSFhfNG9LamFudEg0UkNIVUJpNi01M0VqNnd2Q2gwa201enYwMElfVlZ2TjdXV1BXMmFYTE1SeHVyYjA4U2xUcllOX01wLVkyRW0tM0NnVUxmNmgxOVMtVTc1eGh3MFJ5NWtLMFFabDQ3WGdUam83QnFLQU9UbURHN2Z6MDFPckl3bUZEZDVRdlJISTY5X1NjcWRmcl91c3NGSzJKTkhEQTk5cVZMcElnWDZIVQ?oc=5"
+    },
     {
       "timestamp": "2026-05-13T12:00:22.524Z",
       "source": "n8n-auto-monitor",
@@ -463,15 +470,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVzVhdzZwM2lFcFlDeXhqQkhwMG1MYkxnaGFyUmF6empSUlI2b0Y3YnR6MzBva1A1LTI3SFdhSURmcWRlWU9PZlVUMzZyeWk3SnBHZy1rRWRiWEZlV05HNEZvX0h3VnBHSFF4YXY0MU1kVHFRbU5kaVdlbEZMUVNKWFpmMHpiUGR6X3U0OFBJei1pdVN1VEptM0wzS2JyRHNTLTZ0X0ZkaTExZWNaN2R0aWg4bEFlT1FGT1FON2xjc0w5M3BWX1dsY1hoTmx5NVdWUVHSAdcBQVVfeXFMTV9qSEt4NWFGdW0xdHhrNDl6TjRENWtQc0wxWDhMd3Q5Wnp3S1lJUGxraW11V1EwR3dKUWZOc0thUk5qZHlid3FTQU5GeWlJT2NjLVVwTkl0RW1DZGxuMWhGQTNIakxOZTVsd2p5a3BUY2hqaHFqaG9IVTg4czVndWlWMXQybHJ2eTRNNHZkcy01emtNcHlvYkJJMmQyNmhUX2FFNENxUUdKNnNRNzNiVFl4Nm5rUDRmZ3M0VGZEYnpUUlBDX0wwb0JrMGJnamhFbmxtY3dEU3c?oc=5"
-    },
-    {
-      "timestamp": "2026-04-20T12:01:00.072Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added lobbying disclosure activity note for Archer Aviation - $120K in eVTOL regulatory advocacy efforts",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWW80Q0phakJuRldIell2eXZQUFpyb1BnUXFITXhLTWxJYXd0bGVaZ2E0TW5tTTB4by1Vc1ZnZHRkbjBKMnp0ek9QNUdaTzctZHdSNXZMNUg2elhEMFduSXZHYW11R1lGM2xjMlgwOHhMaVJ6Sk1uS3NheUFzeVVXYVc5d242SGRYaEpBMXJmenY5bVpKa2h0ZlF5X0R0SWtkZkdQcXN5LWJCeF9HTTA0Nk96eE1xcEE?oc=5"
     }
   ],
   "projects": [
