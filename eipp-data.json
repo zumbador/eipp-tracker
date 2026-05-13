@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-13T12:00:01.732Z",
+    "lastUpdated": "2026-05-13T12:00:22.524Z",
     "updatedBy": "n8n",
-    "version": 119,
+    "version": 120,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-13T12:00:22.524Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Project 2 (TxDOT) with BETA Technologies certification progress; advanced milestone status reflecting ongoing eVTOL certification development.",
+      "projectsAffected": [
+        2
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQVBac1pPczBpYVpERlVkOVBFVHhCaXlHU3dVOWJlZmZ5ZTVXV2UtcHNzNzB2X0d0aWZZVjhjSWRlN2VfM1c0MEFlSjF1RUxfd1VKVmlJMHZHWjQtdlB4dFMzNVNGS05HUEs4aWFpbG5zU3lxWU1QVjZXSkNlTlN5NmQtUTlGRUd0V3dLdy1ncEFsUl82UnNoVXdwVGw3NVlR?oc=5"
+    },
     {
       "timestamp": "2026-05-12T12:02:20.594Z",
       "source": "n8n-auto-monitor",
@@ -463,15 +472,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWW80Q0phakJuRldIell2eXZQUFpyb1BnUXFITXhLTWxJYXd0bGVaZ2E0TW5tTTB4by1Vc1ZnZHRkbjBKMnp0ek9QNUdaTzctZHdSNXZMNUg2elhEMFduSXZHYW11R1lGM2xjMlgwOHhMaVJ6Sk1uS3NheUFzeVVXYVc5d242SGRYaEpBMXJmenY5bVpKa2h0ZlF5X0R0SWtkZkdQcXN5LWJCeF9HTTA0Nk96eE1xcEE?oc=5"
-    },
-    {
-      "timestamp": "2026-04-19T19:47:39.885Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added Joby Aviation partnership with ASI for scalable eVTOL operations under Project 4 (Pennsylvania DOT/NASAO)",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2ZDakRzMjVwam1OTHRKWWxIODZBb0NiMTEzeGlTd2djZWdmclhKRUE5RU9pdTJvWWdyNWI4ZHM0bVdlN3A5UkVOWlZXM3dEaVg2WjYwM3VtN3dBQWZaN0ZxX1NRN1BkZ3VJOXdrRzVmMm5YVEtzUVFSRmVuMmcxSDFHRVFaYVkwMldCRmw3MEFhbkVTWjV4cEQ2b0ctTHR6RE1mR0NDYkpZUE5Eb3M0TVhySzlYZw?oc=5"
     }
   ],
   "projects": [
@@ -672,13 +672,13 @@
       "focus": "Passenger + Autonomous",
       "keyOp": "Regional air taxi network connecting Dallas, Austin, San Antonio, and Houston",
       "otaStatus": "Pending",
-      "milestone": "Workforce pipeline partnership: Champlain College & BETA Technologies",
+      "milestone": "Certification progress advancing; workforce pipeline partnership active",
       "opsTarget": "Summer 2026",
       "category": "passenger",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce. CEO commentary on U.S. aerospace leadership reestablishment aligns with project objectives for advanced aviation workforce development.",
+      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce. CEO commentary on U.S. aerospace leadership reestablishment aligns with project objectives for advanced aviation workforce development. BETA Technologies reports progress on electric aircraft certification for eVTOL operations.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -691,6 +691,10 @@
         {
           "label": "Beta Technologies partners with Champlain College",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEFnOXBNSW5qQkF4alJJbWx4MWtCMnNWVnFGVmgxSk91VlFURzlNRnBtN05IdjRvdWNrU1NMbnl5MnFETEExZzExc2pUb0wxT0dWenJ5YnlmODV1V0g1aUJPOGJpeG5HQmd5QzF5T3J6akdlSnhjYk9JVW5obUZob2xKOE44UmYzNkFSS0hoWWhqYVpqRUFSUTNUV3IzcXRLYTg1bDBsSdIBuwFBVV95cUxOdnpCc2haNHlPckgyZGRhNDd0NjJDTzh6bTBHOGZpYjlsVW5NMUt5NC1FbXFNU3ZlQzN0RGZLWDNTV0pmc3pyVXRhaGlHT1NYRk55amxQME5UU19QOTVYaEdjTExDQ3NGeDhoSmJyeVAwQ2Z2VFNmVmtkQTFiTnljVl9uMnh2dUxkVHdTaUxMTHR2YXpiMll3UUkzMmhPZFp4SGphdnRDMzQwWUVEQVZ5bU5VX1FXQ3NLNnlr?oc=5"
+        },
+        {
+          "label": "BETA Technologies certification progress - WCAX",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQVBac1pPczBpYVpERlVkOVBFVHhCaXlHU3dVOWJlZmZ5ZTVXV2UtcHNzNzB2X0d0aWZZVjhjSWRlN2VfM1c0MEFlSjF1RUxfd1VKVmlJMHZHWjQtdlB4dFMzNVNGS05HUEs4aWFpbG5zU3lxWU1QVjZXSkNlTlN5NmQtUTlGRUd0V3dLdy1ncEFsUl82UnNoVXdwVGw3NVlR?oc=5"
         }
       ]
     },
