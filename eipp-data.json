@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-14T12:00:38.255Z",
+    "lastUpdated": "2026-05-14T12:01:10.110Z",
     "updatedBy": "n8n",
-    "version": 122,
+    "version": 123,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "White House-backed pilot program officially announced",
-    "bannerMessage": "Joby Aviation completes NYC eVTOL demo flights with positive FAA progress",
+    "bannerMessage": "BETA Technologies reports 1Q 2026 financial results with increased revenues and operating losses",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-14T12:01:10.110Z",
+      "source": "n8n-auto-monitor",
+      "description": "Financial update from BETA Technologies 1Q 2026 results - revenue and loss figures increased; contextual information for Projects 1 and 2 operations tracking",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa0VxZmtGYmNpYUllWkcxcWZEcWhFanc4WjRmb0o0amJScW1PS2FqeEpDSG4zMTNIZUdQM2dLeXY2aWxpbGFWbXVoSVg5dU1TSXRwdnN5Y1VhRnB0SWZZbkZQWHc3eGdPSS1sbjA2MWZBZ0t2cE5PODgyNTU0Z0NiU3ZHYnhUeEZLdm5jdUR1YmtwRzRxS25uZmZxaGVZbC1JZUE?oc=5"
+    },
     {
       "timestamp": "2026-05-14T12:00:38.255Z",
       "source": "n8n-auto-monitor",
@@ -461,15 +468,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnM2RGNQWmpReVZnQjBvV0otOW5XTlUwSENEdy1tclJSMXZDWDdfWklFZ0hSRzZhU0p1ZFp1Si0yaTdOR1BscXJJbW1Ec3ctaXZxUWNXU0tXMDM5amF0UE5qY0RMNkVxWlhwalFMUzFDRXNkMWpuT0d3U2czVzU1enVFVkJCbXZsdXlDMEhqeDRGQQ?oc=5"
-    },
-    {
-      "timestamp": "2026-04-23T12:00:33.611Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added funding milestone: Reliable Robotics $160M Series B to support autonomous aviation systems scaling for Project 8",
-      "projectsAffected": [
-        8
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRElybHNYQ1I4OEx5b245OWMxWjhUbUJGYVZETEMyN3Fuc0hBS0dBVmRrRGFzSEZtNHNyTjJwV3NOWm03R2Fwb2ttVHlMb3pHMkNXVk5rUE9oR1Y2WHNFUUpUSFl0Tks1NXQ5TXE5VkJlXzRINlJHT1hyNUlQU3pJejR4dkFFWF9BaTVaNkhYX0E0ek1ZWURMMG9wdVhYSEdpLXhjcGctRDc?oc=5"
     }
   ],
   "projects": [
