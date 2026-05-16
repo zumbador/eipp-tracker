@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-16T14:13:49.351Z",
+    "lastUpdated": "2026-05-16T14:14:17.695Z",
     "updatedBy": "n8n",
-    "version": 129,
+    "version": 130,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-16T14:14:17.695Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated milestone to reflect FAA milestone achievement and global expansion progress reported in Archer Aviation valuation assessment",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTNXbEViSUpnSU4zazdyUEs0RkJacFFDZkxZODlJUWZXd1JJRlgtcjd2SWdmbFllQXRyODdXQVNWOFl2VkF0WUtqZ3QySEJQbXhZU0FQbFR3VU41UE5qdVhYSjZOM3B6T25PaWc2b3FtOUx1M0JrY0V4U0F6YTRMSFB6eWdkTm1VMFFMZ2J5Rm5mMlhIN0lreFMwSEpUdWRNWGJvano1SQ?oc=5"
+    },
     {
       "timestamp": "2026-05-16T14:13:49.351Z",
       "source": "n8n-auto-monitor",
@@ -457,15 +466,6 @@
         8
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdnhzTGR3cklkNERUNHZER2FRcmxWUUZLeGlBNlcyNVNaX0kwR1FHNndEWHFfTG4tUGFKdmZ5T2FMZzNPYW1PLUpUNnZmcVA5cG1TUkdGLTVNeVFySS1jSktTTHRIUk5sYkQzcFQ4NWpQcDNVdEozWHVtcmczeThUMy1ja0VFUXpnYUMweHJYc3VxdmtHeUhB?oc=5"
-    },
-    {
-      "timestamp": "2026-04-26T12:00:35.808Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added note on BlackRock's 6.9% equity stake acquisition in Archer Aviation and associated stock price movement",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2tTQmRMZWZGSFhCVTBHLXYxYTF1bjBjTlZyUU9zUEFBcm55MkRaOFNKblNadXlBRUhkUFlQeFZzWWU2V0UyT0lyU2lLSjZOUGNsbUVBcllMVWlOZnhUZEVkdEZ1dndSMHZSX1RGb05Oa0xRNklEUmc5alkyQW9aTmRIOTBYZzI5UDBDNzhXV3Z0a3FWRWNqM1dRSHJiVEE?oc=5"
     }
   ],
   "projects": [
@@ -504,7 +504,7 @@
       "focus": "Passenger + Cargo",
       "keyOp": "eVTOL passenger operations at Manhattan Heliport; 12 distinct concepts across New England",
       "otaStatus": "Active",
-      "milestone": "Commercial launch path confirmed; earnings beat demonstrates operational progress",
+      "milestone": "FAA milestone achieved; commercial launch path confirmed; global expansion underway",
       "opsTarget": "Summer 2026",
       "category": "passenger",
       "cargoFirst": false,
