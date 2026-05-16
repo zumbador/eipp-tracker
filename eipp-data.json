@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-16T14:13:19.274Z",
+    "lastUpdated": "2026-05-16T14:13:49.351Z",
     "updatedBy": "n8n",
-    "version": 128,
+    "version": 129,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-16T14:13:49.351Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article discusses BETA Technologies' Q1 financial performance (wider losses) and reaffirmed 2026 guidance. No specific eIPP project milestones, OTA status changes, or concrete programmatic updates mentioned. Financial performance alone does not warrant structured data changes to project tracking without additional context about specific deliverables or timeline impacts.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbi1PeVlMS18wTGM4MXpQdE1LRWp5SE1melE3VEhsbE1RNlA5TExiaHRwb3M2RkR2azJNTklEckJ2MWNQcHkyX2V3V1cyLXZlVzI0Z1JaQXpyY1czb1Q1RGprVEV5SjdLTnpJbkhoS000Q1Q3RjNqNFNIZktFRmFTc0YzLUdab2ZqME5FUGVBNmt5QlF1RmUxUk9fM1RReEJHN3hNaTh6ZXFIU20zTVJtMDNhcHVLNDVzd3BXX1VRdU1IMVNYMFAzQzdzWGhWR2JlWUNxOWNR0gHbAUFVX3lxTE9BT1Fua2ZxdGlid2o2bjJya256VXJsVkNhM1hkNzBrd29xYWRVaktfcW5sVkVkQnRtcV8tWHlQdi1TRnQtRFRob09fSWp1cm4zWlQ5NzBoTjcwOVNqLUw2bW1ZRXRPQ3hqQ3VSY0tld0xESVAwZ09mZXpuZzJUUTFPWEk5T21YY2NobHo4bnpqUHNnanlBOFNZV19QZ2FNSFNtQ3JWWXpJN28zSWJzVmZvSExzcXZTb2U4SkQ2dTFlbEg5NDRaOWRzdC1yOFlHOUNTY3QwM2FLSkdCSQ?oc=5"
+    },
     {
       "timestamp": "2026-05-16T14:13:19.274Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +466,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2tTQmRMZWZGSFhCVTBHLXYxYTF1bjBjTlZyUU9zUEFBcm55MkRaOFNKblNadXlBRUhkUFlQeFZzWWU2V0UyT0lyU2lLSjZOUGNsbUVBcllMVWlOZnhUZEVkdEZ1dndSMHZSX1RGb05Oa0xRNklEUmc5alkyQW9aTmRIOTBYZzI5UDBDNzhXV3Z0a3FWRWNqM1dRSHJiVEE?oc=5"
-    },
-    {
-      "timestamp": "2026-04-25T17:17:38.475Z",
-      "source": "n8n-auto-monitor",
-      "description": "Article reports TD Waterhouse Canada Inc. holds $917,000 stake in Archer Aviation - financial information only, no programmatic updates to eIPP project data",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeHJYbXBIVnFhWUo0M3VBMEdZbUlYQ3B6bC1BMDNhMUVhN0h3OUJycFp4NGNwSFJ2eDh3U2NUcDVzLWVQSnQyMk9RX21NaXJOa1FBS0h2ZkYzbkFPeVRnUWVJamgxUUdTem5TLTM2amJHd3dOa3B0V3F6bmJMekw0MHN5Tk1CZ3AzRmdyZUpfaGoxb0lOLWk3Y1RuZlBVaHFyWV9mcEp1bld0LWN3WTFDS2xNV1R2dUxKVmxETnRnYXpYbndIdWNkRmdB?oc=5"
     }
   ],
   "projects": [
