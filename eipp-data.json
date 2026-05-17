@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-17T12:00:01.109Z",
+    "lastUpdated": "2026-05-17T12:00:19.442Z",
     "updatedBy": "n8n",
-    "version": 130,
+    "version": 131,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-17T12:00:19.442Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added Forbes article reference documenting BETA Technologies' electric aircraft development progress",
+      "projectsAffected": [
+        2
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDJlQVgwMFBMUFpQSFJ5LTZheGxwNHY2UEZuYzR3SnpFcDI1RU1GT3NfMTZPNHRnd3dwMGd3SmVaZi1mZDRwOFZ3c3B6RnkzWFZVX0RaanJZRXJIR0RoOHhNVmpsR3VKVXo0R2Q3Ri01bHU3MFdIS2Fqc1ZSUGR6aVphQnJtWmdrSS16VWt0UkpNdFNWUXpkZFBHNWJDU0lHZzF4Rmk1QS15ZkdOZTlOTDNJSW5XQQ?oc=5"
+    },
     {
       "timestamp": "2026-05-16T14:14:17.695Z",
       "source": "n8n-auto-monitor",
@@ -457,15 +466,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTV92SUpIak5nb1Z6UFAwcWNpSlZSeF9yd1VqSkZWMVNkTW1FVVlvWXVZVlR4WU1wT29uUkN4bV9GNFV1a2xDWjdSRkNVUGFsMHdqZ0ZwTHptdEpfWk16dldsMWtGNTJRS3l2bUNXZ1VrUjVMZTV3OGFCTDNpaUdEX3dDbzFSQUg1Ml9GMHdETE1YUFo3cVhtYmtQRDJoZmVFcEEzSGlFaG1NMVYwMDl6eGhITGE5U0FQR0ZFOUpKb0dtdjFKV0lYbjJubG1ocnJZOHfSAdcBQVVfeXFMTUVZdUJnQllHX2lYRTF5UjVrbERtOW5jQ3VqSVhieFhVZVpCUnY4M3lJbWp3ZlhlaFNLNGJpMGlrVXkxNTRFZktpRkpIbzhMQU9ISVRlUlp4Wktlam9lN3hILTJhcnYxZTR1TU1WWEFYVEJNSVFwZWlMZGZXNXdoR3hHdjNVYkwxLURJb2VPU3lDc0FiSFVNeVhacmdyT3dhTlMwNXYxZHQxU2VybDRWdEFiejd5cGZoa1FQdmNpb0I2ZUNIUDF3ZHVrdmxvMmQwOWZHNmYxVU0?oc=5"
-    },
-    {
-      "timestamp": "2026-04-26T12:01:17.689Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 8 milestone and notes with Reliable Robotics $160M Series B funding announcement",
-      "projectsAffected": [
-        8
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdnhzTGR3cklkNERUNHZER2FRcmxWUUZLeGlBNlcyNVNaX0kwR1FHNndEWHFfTG4tUGFKdmZ5T2FMZzNPYW1PLUpUNnZmcVA5cG1TUkdGLTVNeVFySS1jSktTTHRIUk5sYkQzcFQ4NWpQcDNVdEozWHVtcmczeThUMy1ja0VFUXpnYUMweHJYc3VxdmtHeUhB?oc=5"
     }
   ],
   "projects": [
@@ -676,7 +676,7 @@
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce. CEO commentary on U.S. aerospace leadership reestablishment aligns with project objectives for advanced aviation workforce development. BETA Technologies reports progress on electric aircraft certification for eVTOL operations.",
+      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce. CEO commentary on U.S. aerospace leadership reestablishment aligns with project objectives for advanced aviation workforce development. BETA Technologies reports progress on electric aircraft certification for eVTOL operations. Forbes coverage highlights BETA Technologies' electric aircraft development advancement relevant to eIPP initiatives.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -693,6 +693,10 @@
         {
           "label": "BETA Technologies certification progress - WCAX",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQVBac1pPczBpYVpERlVkOVBFVHhCaXlHU3dVOWJlZmZ5ZTVXV2UtcHNzNzB2X0d0aWZZVjhjSWRlN2VfM1c0MEFlSjF1RUxfd1VKVmlJMHZHWjQtdlB4dFMzNVNGS05HUEs4aWFpbG5zU3lxWU1QVjZXSkNlTlN5NmQtUTlGRUd0V3dLdy1ncEFsUl82UnNoVXdwVGw3NVlR?oc=5"
+        },
+        {
+          "label": "Forbes: Reinventing Flight - BETA Technologies",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDJlQVgwMFBMUFpQSFJ5LTZheGxwNHY2UEZuYzR3SnpFcDI1RU1GT3NfMTZPNHRnd3dwMGd3SmVaZi1mZDRwOFZ3c3B6RnkzWFZVX0RaanJZRXJIR0RoOHhNVmpsR3VKVXo0R2Q3Ri01bHU3MFdIS2Fqc1ZSUGR6aVphQnJtWmdrSS16VWt0UkpNdFNWUXpkZFBHNWJDU0lHZzF4Rmk1QS15ZkdOZTlOTDNJSW5XQQ?oc=5"
         }
       ]
     },
