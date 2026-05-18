@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-18T12:00:55.158Z",
+    "lastUpdated": "2026-05-18T12:01:24.551Z",
     "updatedBy": "n8n",
-    "version": 135,
+    "version": 136,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "White House-backed pilot program officially announced",
-    "bannerMessage": "BETA Technologies reports 1Q 2026 financial results with increased revenues and operating losses",
+    "bannerMessage": "BETA Technologies valuation analysis published following FAA eVTOL program participation",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-18T12:01:24.551Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article references BETA Technologies' participation in FAA eIPP but does not provide specific milestone updates, OTA status changes, or new structured data for individual projects. This is a market analysis piece rather than operational/regulatory update.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0dSVTZwczZfNUw0Q3dFLWg4Zk05R082X3luN2J5d2VncVRFRmJLN09CME5iX0ZOVmJJZmw1S1lYcy16MXNmRjhtZzJ2N3l3QkF5V0h0R0p3NjJZWWk1V1dmWF91cDd1dndZNnk3Q2VjYWtxZ3dhU1ZqYVZzaEs1UEI5SGFwQWEwb3l0U1lCV2JBRTVObzBhNFU5eWkxUkFtRjMybQ?oc=5"
+    },
     {
       "timestamp": "2026-05-18T12:00:55.158Z",
       "source": "n8n-auto-monitor",
@@ -457,15 +464,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHRxNFFVMW5LUDFyYjNpaXBBZlRXYVpLYmx3ZXVHb2NhQmUxUzktb3N0ejlZN05LYlBwWUtiOFlmZk82NERWcXI0S0Q1S2xobDRTaC02OF8yYXM0WU13VEVkdFd6bnpQWW4zcEFBU1ZwRVZOZVJuNEJxSlpkN0ppT0REdWl6RzZUVnB3NVpsODFlSGdzUm5uSTR3VXIyeVdlRWVIa3NBWWNpeEgxUHZJT2ItXzRES2tSb1RZVQ?oc=5"
-    },
-    {
-      "timestamp": "2026-04-27T12:02:01.465Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 1 milestone to reflect Joby's completed demonstration flights and refined milestone language",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkhtcEwxSUpmM0hBaXFHdER6YlJiYjhNTHVwTC1KaEdHR3Q4RVdsSEhOMTV0SFRZdXJEcEdobm9USjZrOTNBeTJhdEE2TUZqODFrdkg2dEFtWnBadzY4VHdHaWRhYTA5aGxoaGh4NWNobFpOanE0RlpNbzQ4UTdHb1E3Wnk5a3FsOVB4YlF2ZjNCZ2l3ZUFaalJMdHJuX01ZXzYyTzNEaTZYV3NqWDBB?oc=5"
     }
   ],
   "projects": [
