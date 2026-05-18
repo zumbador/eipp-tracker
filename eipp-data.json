@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-18T12:01:24.551Z",
+    "lastUpdated": "2026-05-18T12:01:55.478Z",
     "updatedBy": "n8n",
-    "version": 136,
+    "version": 137,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "White House-backed pilot program officially announced",
-    "bannerMessage": "BETA Technologies valuation analysis published following FAA eVTOL program participation",
+    "bannerMessage": "BETA Technologies reaffirms 2026 guidance despite significant losses; eVTOL milestones progressing across multiple eIPP projects",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-18T12:01:55.478Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article references BETA Technologies' 2026 guidance reaffirmation and eVTOL development milestones within FAA eIPP program, but lacks project-specific details needed for precise milestone or status updates. No concrete changes to individual project records warranted without additional specificity.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQkJMNkN2OVEwOG1fU3B4elhIdFpDTlhfMDdVclMtTzkzemh2d29aUU1oQ1RjRm43MEFWVGgyQU1YenNmOXdaVmtkb1VVOGZ2amttS1FsMXlkT0gzaUZTUDMzQUhmUnkweWFDOXB2b0R6TnFGZzNRUmhEcHFab3ZpdW5VZENpM3QzTllzS0RDQjNjaWNXNV9nNXVqZw?oc=5"
+    },
     {
       "timestamp": "2026-05-18T12:01:24.551Z",
       "source": "n8n-auto-monitor",
@@ -455,15 +462,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT3FGZS1OblNhc25lRjJYV2pDdHpFUFI3ZldOTE5rb2VtWGcwWGZTRXhlckJPNlIwREp3dWZsQlJGQ2g1LVFzQ1FPSEl2Y2hNMWtuVGpTZkFJLVlieGpFWnAwWjlEbDVRZ1cwMWJjaDYzejNXRWpWUkdmYTNZQk51LUd1YXJZYjVUSy1xU1FMRUptSUx2NS1BUjFnbTlzNzlkMFJZNmVvZjFPX3dhdU9RVERvMXNuMkJXOF83QzJiaTJlWXBteUgxd3lR?oc=5"
-    },
-    {
-      "timestamp": "2026-04-29T18:42:05.336Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 1 (Port Authority NY/NJ) milestone to reflect Joby Aviation's active flight testing in New York; added link to news article documenting eIPP progress.",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHRxNFFVMW5LUDFyYjNpaXBBZlRXYVpLYmx3ZXVHb2NhQmUxUzktb3N0ejlZN05LYlBwWUtiOFlmZk82NERWcXI0S0Q1S2xobDRTaC02OF8yYXM0WU13VEVkdFd6bnpQWW4zcEFBU1ZwRVZOZVJuNEJxSlpkN0ppT0REdWl6RzZUVnB3NVpsODFlSGdzUm5uSTR3VXIyeVdlRWVIa3NBWWNpeEgxUHZJT2ItXzRES2tSb1RZVQ?oc=5"
     }
   ],
   "projects": [
