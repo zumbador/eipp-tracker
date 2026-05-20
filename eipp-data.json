@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-20T12:00:01.205Z",
+    "lastUpdated": "2026-05-20T12:00:21.055Z",
     "updatedBy": "n8n",
-    "version": 137,
+    "version": 138,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "White House-backed pilot program officially announced",
-    "bannerMessage": "BETA Technologies reaffirms 2026 guidance despite significant losses; eVTOL milestones progressing across multiple eIPP projects",
+    "bannerMessage": "Competitive dynamics between Joby and Archer intensifying; market positioning and business model differences highlighted in industry analysis",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-20T12:00:21.055Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article covers competitive landscape between eIPP participants but contains no specific milestone, OTA status, or project-level updates. General market/competitive intelligence logged.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcGVDMDF1akpETlpYcndxOVNic25IRzFRc0RLUzRxQmV6ZTFLbFFCbXJ4c0xVWFFvb0dqT1VPUmtUbzBSLTRnSTg4YmFHODhMcFRRTFZzVGd4LWQ3YlR1UXJOQUJyejlZbWVZamdvcU5JU0RkYnRmV3dMTVF3dUNFTnhSemw4SERyMWYyYUoxM2lYZkhidHZ1TzJ5cUd6ckJubHM4Q2lZak1KU3RoRmU1Mnl1Yy0?oc=5"
+    },
     {
       "timestamp": "2026-05-18T12:01:55.478Z",
       "source": "n8n-auto-monitor",
@@ -453,15 +460,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoaUUyd3gyd1dDdE1tQXNGTVVycWVFdlZWZVp0dkhtTDMzUlUxcWFTQ1ZJWkNsVW5DMmhiRzdYUDd0WWl4X2NPa3FRa2lxTHVHWUdybG0tZVFWU2M?oc=5"
-    },
-    {
-      "timestamp": "2026-04-29T18:42:47.624Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 1 milestone to reflect Joby Aviation's completed first NYC test flight",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT3FGZS1OblNhc25lRjJYV2pDdHpFUFI3ZldOTE5rb2VtWGcwWGZTRXhlckJPNlIwREp3dWZsQlJGQ2g1LVFzQ1FPSEl2Y2hNMWtuVGpTZkFJLVlieGpFWnAwWjlEbDVRZ1cwMWJjaDYzejNXRWpWUkdmYTNZQk51LUd1YXJZYjVUSy1xU1FMRUptSUx2NS1BUjFnbTlzNzlkMFJZNmVvZjFPX3dhdU9RVERvMXNuMkJXOF83QzJiaTJlWXBteUgxd3lR?oc=5"
     }
   ],
   "projects": [
