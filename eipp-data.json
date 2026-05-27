@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-24T23:23:58.563Z",
+    "lastUpdated": "2026-05-27T00:47:42.338Z",
     "updatedBy": "n8n",
-    "version": 149,
+    "version": 150,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "White House-backed pilot program officially announced",
-    "bannerMessage": "Joby Aviation progressing on FAA testing milestones with Manhattan demo flights",
+    "bannerMessage": "Joby Aviation advances FAA certification pathway for eIPP participants",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-27T00:47:42.338Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Project 4 milestone to reflect Joby's FAA certification progress advancing across participating states",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONHUyUmZuRm51bEZuNUc3XzhNeUVDektwanh4bEo2Tk5KVTUtZVpjQ0JQTUhtNU5JNE9Ca1ZJWE4zNU1lVi1UNDliWDA5bjhKbVBaQmhjUklhWnhTWW81amc4c0o0OEZHUkhPTnJnb21sTjh6YWNiLU1EYU9HcEpDUnhPNUpxNVBWVVZRT2RnZlE1eUpsZGFUYWIyU0Q2Ym5XZkNhYTNDeVB1SkhjcVE?oc=5"
+    },
     {
       "timestamp": "2026-05-24T23:23:58.563Z",
       "source": "n8n-auto-monitor",
@@ -451,15 +460,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWlV4VHEydVlDUVh2eERXSnpZQ3l0WUpMSE9Kblp0WGZkZFVoakl0VUlOZmEzOGZ4T3otN3F3bkxOZlQ0WDZ4XzZLeFh0U1lyRi1QczVvMFlmc0R3aXhoSTk1ZUlGeFVQRmtvdVlDRzRqakg1ejYzY3BxT1ZXeGlIQTk5SlA0NEtvbmdTX1hBVHNTTGJndFFNN2ZoR0pBVHYxSXlVaThFVnRBRDhoSDdIY19HRXVpVmowVHVEcWRFSW5KbmlzbFpkZUt5UGhvNnJCb2fSAdcBQVVfeXFMTUJydkE2enp5M3ktWnh2ZE1mR0pZRjVaZ3FQd29oSUtYaS1aSERMYUxPR3hBdFZSQ19vQkZNYzVJMjAtb0x5ODNGbmY4NlNKTC1aVFBvRzQ0R3RIRkhPcDdNeEc2clh2N0ZjcGdEVUVxVWE5SXpPOVNJN1RLSHFMVUptX3pGVmVCMDdwUkRYblpVTll5Q1RtTWFHckQtZUlnMTRDYk9WVFFXY1BpYUZCX2VaT1QtZkZxbDVodEZLNDd4VkJrVzQzTEpfN1dVMU9KZ18zZVZMMVE?oc=5"
-    },
-    {
-      "timestamp": "2026-05-03T12:01:20.956Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Joby NYC demo milestone status based on witness account of completed Manhattan demonstration flight",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44OWh0b0FqV2xLbUhxenByOTVJQlBwb3lINmRFcDQ1Y3NvcDQ1TUdfc2ZvWkNIWkJQTmxUR2FPOWpZX1JJVVRSV0RZcHFsSkgwa2VXYkVHTmliSDItTmxxbzN3eHlwV3g0MFRwYi1NOVlyTjVJMnM1am1R?oc=5"
     }
   ],
   "projects": [
@@ -800,7 +800,7 @@
       "focus": "Regional Passenger Transportation",
       "keyOp": "Revitalize Essential Air Service-equivalent regional routes across 13 states",
       "otaStatus": "Pending",
-      "milestone": "2026 commercial launch target; certification pathway aligned",
+      "milestone": "FAA certification path advancing; multistate AAM integration planning",
       "opsTarget": "Summer 2026",
       "category": "regional",
       "cargoFirst": false,
