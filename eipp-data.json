@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-27T00:48:42.076Z",
+    "lastUpdated": "2026-05-29T23:51:57.972Z",
     "updatedBy": "n8n",
-    "version": 150,
+    "version": 151,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
-    "globalOtaStatus": "White House-backed pilot program officially announced",
-    "bannerMessage": "Joby Aviation advances FAA certification pathway for eIPP participants",
+    "globalOtaStatus": "Multiple projects advancing toward operational phase",
+    "bannerMessage": "FAA expects commercial eVTOL operations to commence under integration pilot program",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-29T23:51:57.972Z",
+      "source": "n8n-auto-monitor",
+      "description": "News article indicates FAA expects commercial eVTOL operations under integration pilot program affecting all eIPP projects. No project-specific changes extracted due to lack of granular operational details in article summary.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUGpJVUhvVkxfSVdUM2FQZ0xaZnM5dVBGeDBRbHNOaVRBVGZmcFlWbUpVSDRrSzh6TXk3X2VHY3dLYkNob0lnNWRyS09hLU1NRkhXdGhnMU5LUWx6bHdHeGNLS0JuUWNHc3dhZ3pTbmVPRUVFcGRBdV9BVHIwNzE1d3N3?oc=5"
+    },
     {
       "timestamp": "2026-05-27T00:47:42.338Z",
       "source": "n8n-auto-monitor",
@@ -451,15 +458,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbXptWVdjZHJJU1RjaUFYNVBJS3dnb1REb0hmdXlxcmxFSWFUWUZ5UWd1WkxvMURXekh3SENPbnRnSjl5QzRtY193Qmo5djN6Q3lWeldNQWtxb1NMcXdRdGNVNUxBdDJCaVVGMlg2TldISTdpZDJPM3VEUHZmbUNBVWZ5ZnBBalJLMURjVHFlYklKcjZlbUNrZDA2bnktLWprTVlQN2VDZjBiSjRjOVpBLXFhOHlwVWc?oc=5"
-    },
-    {
-      "timestamp": "2026-05-03T12:01:50.126Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 1 milestone to reflect completion of Joby NYC point-to-point eVTOL flights; added operational achievement note",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWlV4VHEydVlDUVh2eERXSnpZQ3l0WUpMSE9Kblp0WGZkZFVoakl0VUlOZmEzOGZ4T3otN3F3bkxOZlQ0WDZ4XzZLeFh0U1lyRi1QczVvMFlmc0R3aXhoSTk1ZUlGeFVQRmtvdVlDRzRqakg1ejYzY3BxT1ZXeGlIQTk5SlA0NEtvbmdTX1hBVHNTTGJndFFNN2ZoR0pBVHYxSXlVaThFVnRBRDhoSDdIY19HRXVpVmowVHVEcWRFSW5KbmlzbFpkZUt5UGhvNnJCb2fSAdcBQVVfeXFMTUJydkE2enp5M3ktWnh2ZE1mR0pZRjVaZ3FQd29oSUtYaS1aSERMYUxPR3hBdFZSQ19vQkZNYzVJMjAtb0x5ODNGbmY4NlNKTC1aVFBvRzQ0R3RIRkhPcDdNeEc2clh2N0ZjcGdEVUVxVWE5SXpPOVNJN1RLSHFMVUptX3pGVmVCMDdwUkRYblpVTll5Q1RtTWFHckQtZUlnMTRDYk9WVFFXY1BpYUZCX2VaT1QtZkZxbDVodEZLNDd4VkJrVzQzTEpfN1dVMU9KZ18zZVZMMVE?oc=5"
     }
   ],
   "projects": [
