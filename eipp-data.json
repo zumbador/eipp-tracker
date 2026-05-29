@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-29T23:52:30.445Z",
+    "lastUpdated": "2026-05-29T23:52:59.965Z",
     "updatedBy": "n8n",
-    "version": 152,
+    "version": 153,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-05-29T23:52:59.965Z",
+      "source": "n8n-auto-monitor",
+      "description": "Auto-detected update",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkJEUjZRUmV2QUhwUUhBNjkybjcwWlNMZndlcnhhVzJDeDhIenh3ZjVhV2FMdmpEYzBxQVFmUnZfR1k5VzNtZzU4dC01TDAtUmlaZ3ZBV2RKQ1VJQWxYc1dZWHRLS3BqUktQQ28yS2JpOC1Bb0J2bDkyMEVMSlNTN012dklJYTRQblZvWTJyNEluYm1JNzNtV3U4MWE5eTQxWndWUQ?oc=5"
+    },
     {
       "timestamp": "2026-05-29T23:52:30.445Z",
       "source": "n8n-auto-monitor",
@@ -449,15 +456,6 @@
       "description": "Article is a Q1 2026 financial results report from Joby Aviation. Without access to the full article content, specific milestone completions, OTA status changes, or operational updates cannot be reliably extracted. Requires review of actual article content to identify concrete project progress updates.",
       "projectsAffected": [],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1VveTRndFl3dTdwckhpdlJlWFFqMjdCYnFZTE1Ja0xTOEV5T2pDX3dTXzN5TVY4MHlxdnA5UWJudDRNdFBmdHFtMHZLMlR0VnkxcnpyVUVSaHN2RTJZVUsxbThqdVc2Snp3eE1oTGc3N0pXMUVINWpJMms5WUtydEJ2MWRRYlI0cWRR?oc=5"
-    },
-    {
-      "timestamp": "2026-05-06T18:42:11.789Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 1 with latest Joby Aviation Q1 2026 results and NYC eVTOL flight trial progress notes",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNlQ4NnFfNVpoOXhDOUtDZF9ub1NaYWgxMDNkZ2dtTTB2bFdjbEZNRDJYaGtDMFlWemI2d3dYTFU5V0FZbktfRWowaDROSzNDRnExMTZfRnU2X1NQRG1JSlpRS29GaHRjNV9vaTdwYVRoMmtESXNab2ZOdmZvY2VhODkxZHEzUVhmLXpQQXM4aGIyUnd0OHVpckpDZGtXQi1RRnprVW9Cd1I1QlhjTDIyd2JZMlRQbkw4MzQtaERZNEhMN25hdmYwWW9hMXFWQ1hEVnfSAdcBQVVfeXFMTVIzRUowWWItZzZLcXJYNkdVMFJkMEx4YUNrVFJyaGNCWHlUS2haTEkwWkdxaTdUZGNDaXVPZ1V1Tm9LWmJtcjJ5d3d1RU5QLW5OTGV0Rk9GdzBENURlaDlkSWZuaFhqb011aVdpc3Ric2pVRVNmbXd5WUlaakRTbENtdGRwSW8td2dOeTVaTHdDaVJYVXJJRUtvM3c0MV9vN09qV0Y3aWVidnNnTm14bFV3UUlUdjE0QVBBcVl2bjNDRGR2NkdYZ3AyV0NLbEVHempCdmhvXzQ?oc=5"
     }
   ],
   "projects": [
