@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-04T17:11:47.411Z",
+    "lastUpdated": "2026-06-04T17:12:17.327Z",
     "updatedBy": "n8n",
-    "version": 157,
+    "version": 158,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-06-04T17:12:17.327Z",
+      "source": "n8n-auto-monitor",
+      "description": "Beta Technologies facility tour demonstrates operational progress; milestone updated to reflect public engagement phase",
+      "projectsAffected": [
+        2
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85ZFF3TGk4aVlRaW55OVRqd3lVcVdrNGlFdy1vd2RaRjlleE5iZ0wxSkN1SEdOMHNzLVVsWnYtcmVFbThPMmZWbFViU0ZVVERQSXgtcGYyR29IYkZadUlBSzg4elRLZ294RnJFbDZBVkxIc3A1X1FtS045ZTVzQQ?oc=5"
+    },
     {
       "timestamp": "2026-06-04T17:11:47.411Z",
       "source": "n8n-auto-monitor",
@@ -449,15 +458,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMTAyc0lfMm5SSnI5dFVybHRuaEpUdUhZVElUck1mbnBYRDRnaDFtS0Z0aUN1eEZNaE5VLWxZRHV5SFg4bVlNSldZTGxXdUdoRnJlWDN4cjF6eG1XaS1SWWhCazNCVldSbXY1QnJ1ZzB4SkFEbW1HbVRwSE1sSUZ2MlN2YjhlOTB4ZktJYlB0bS15M0QtSGFEQTRxV3E5ejJnMFkxNW9WMTRaQWVWWnFGeXpuRzNUQlRQQWZSdllPUmNqQzBsdFNNRDhJOFRqbEFpQncxZWNvUG1kYXhKcm5ybWNzaEc0V1FOel9LX2hB?oc=5"
-    },
-    {
-      "timestamp": "2026-05-08T12:00:46.184Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added news reference for Archer Aviation eIPP program",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnJmREJUU2dodWVFaXdRME5KWFpSemxBNk96LTA2YzVURDJkR1ZrSzB4cXQzQ3RNTTFCNUFfMGxrdi02TU5BR2sxUmg4ZXNZNnVLS1JaR3BPNXFITjh1ZzdrVzZsMG9pR0tNMDdXVFFaZ3MwR3NJNmtsWjZabE1nNXZPeUthT3BXVTA5dDRySW9MM09qM2VkYVE5cllIcU9tMjNoWTkxejFKWlBVRUE?oc=5"
     }
   ],
   "projects": [
@@ -690,13 +690,13 @@
       "focus": "Passenger + Autonomous",
       "keyOp": "Regional air taxi network connecting Dallas, Austin, San Antonio, and Houston",
       "otaStatus": "Pending",
-      "milestone": "Certification advancing; AAM demo completed; selected for FAA eIPP pilot role",
+      "milestone": "Certification advancing; AAM demo completed; public facility tours underway",
       "opsTarget": "Summer 2026",
       "category": "passenger",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce. CEO commentary on U.S. aerospace leadership reestablishment aligns with project objectives for advanced aviation workforce development. BETA Technologies reports progress on electric aircraft certification for eVTOL operations. Forbes coverage highlights BETA Technologies' electric aircraft development advancement relevant to eIPP initiatives. Beta Technologies and Signature Aviation concluded AAM demonstration in Florida, supporting operational validation and certification activities. High-profile test flights completed; major FAA eVTOL pilot role assignment.",
+      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce. CEO commentary on U.S. aerospace leadership reestablishment aligns with project objectives for advanced aviation workforce development. BETA Technologies reports progress on electric aircraft certification for eVTOL operations. Forbes coverage highlights BETA Technologies' electric aircraft development advancement relevant to eIPP initiatives. Beta Technologies and Signature Aviation concluded AAM demonstration in Florida, supporting operational validation and certification activities. High-profile test flights completed; major FAA eVTOL pilot role assignment. BETA Technologies opened facilities to local and national media, demonstrating operational progress and public engagement.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -717,6 +717,10 @@
         {
           "label": "Forbes: Reinventing Flight - BETA Technologies",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDJlQVgwMFBMUFpQSFJ5LTZheGxwNHY2UEZuYzR3SnpFcDI1RU1GT3NfMTZPNHRnd3dwMGd3SmVaZi1mZDRwOFZ3c3B6RnkzWFZVX0RaanJZRXJIR0RoOHhNVmpsR3VKVXo0R2Q3Ri01bHU3MFdIS2Fqc1ZSUGR6aVphQnJtWmdrSS16VWt0UkpNdFNWUXpkZFBHNWJDU0lHZzF4Rmk1QS15ZkdOZTlOTDNJSW5XQQ?oc=5"
+        },
+        {
+          "label": "BETA Technologies media facility tour",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81ZFF3TGk4aVlRaW55OVRqd3lVcVdrNGlFdy1vd2RaRjlleE5iZ0wxSkN1SEdOMHNzLVVsWnYtcmVFbThPMmZWbFViU0ZVVERQSXgtcGYyR29IYkZadUlBSzg4elRLZ294RnJFbDZBVkxIc3A1X1FtS081ZTVzQQ?oc=5"
         }
       ]
     },
