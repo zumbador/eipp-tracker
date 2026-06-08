@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-08T21:06:48.932Z",
+    "lastUpdated": "2026-06-08T21:07:07.007Z",
     "updatedBy": "n8n",
-    "version": 158,
+    "version": 159,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-06-08T21:07:07.007Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article discusses Archer Aviation's financial liquidity position but contains no specific updates to project milestones, OTA status, or concrete operational progress. Financial strength is contextual background, not a structured project change.",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlR3SUZ1N25rbExteFpqd0xoZm0wWkQwWEhxSnpsT0tna0VSRmNXclVfVXpfLUtiX01MeThSN0dkTEp2cjgxYmpSd0Rjak16Z0dkc29hT29MYjZWcktFWlV2dURPRExwN21qWVRXYkI0MTFIY3BUeW1hMUIyYlRDN3oxR1hxaUpOMkg5NDR4SWRDcnZuZW54Z25tSmtmOF83NHZ2ZGt5Y2FOdWc?oc=5"
+    },
     {
       "timestamp": "2026-06-04T17:12:17.327Z",
       "source": "n8n-auto-monitor",
@@ -449,15 +458,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjJ5ZmQ4NEJRLUVaOTRuNGNfNXVrQlJEQnhHeVRLTTlnMk1MSlJhUkpMTFQyREVnRWJMRFJXc2ZoNHhJVnFMaFlaT3c4akZoQnJmWEdxeDFFc3p5dlczSzZta1ZJc1B6Mnp0ZmxsV0tDcWw5cVhNa2Z5QlhfUzFTVDBud1hGbDAzQUFhY1VVTkdndHlmWUE?oc=5"
-    },
-    {
-      "timestamp": "2026-05-08T12:01:28.679Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Archer certification milestone to include UAE streamlined certification approval for Midnight aircraft",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMTAyc0lfMm5SSnI5dFVybHRuaEpUdUhZVElUck1mbnBYRDRnaDFtS0Z0aUN1eEZNaE5VLWxZRHV5SFg4bVlNSldZTGxXdUdoRnJlWDN4cjF6eG1XaS1SWWhCazNCVldSbXY1QnJ1ZzB4SkFEbW1HbVRwSE1sSUZ2MlN2YjhlOTB4ZktJYlB0bS15M0QtSGFEQTRxV3E5ejJnMFkxNW9WMTRaQWVWWnFGeXpuRzNUQlRQQWZSdllPUmNqQzBsdFNNRDhJOFRqbEFpQncxZWNvUG1kYXhKcm5ybWNzaEc0V1FOel9LX2hB?oc=5"
     }
   ],
   "projects": [
