@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-10T19:58:24.549Z",
+    "lastUpdated": "2026-06-10T19:59:13.866Z",
     "updatedBy": "n8n",
-    "version": 161,
+    "version": 162,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-06-10T19:59:13.866Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Project 4 milestone to reflect Joby's 11-state air taxi expansion strategy and competitive market positioning",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZkE5LS04NUdwdEI4S1p5bTVNeWFoMkNrQUI1TTlaNEptdG1MZ2FtUmxQelZFUXljeGtmeXdid0JaRmY2aGdwVU1vMWZ1LUYwaFluZFFIei1uWGZxbXZ6Z3Rtdnk4eEFrYTkzX3pYWjJUOHM4R0huc2xldkZjbU0yTEktY2JGUmRqYmZ1dHpWMEVGSk5rYUdVWGFERjdxZHhNMzNyODZjQVdoclhuXzNTcGFWemxtTFB2aDVhZzVZNWRVdko5dUZrc0JUTlRUNmx00gHWAUFVX3lxTFAwa1BjVUFCNTB2RGVZbzVWZVViVi1sejNaa2xXdDhubXp3V3F0VEsxMm14UnlreDA3WTVQckplVW92bFRxUHpON1oybzN1YU84TmRoUWg3dDVIZWR2MHlNLU1rRkZTMU1rcXlZZy1VRE1ZU1EtRFBKckZMNDJmc3JfTURBTzc1dTVYelNzZWVidXBhek5PS1k5Sk5faTh1VlF5N2hFRnhsenEyWGRoeTZIWVpRODBUSEVTeFIzUGtFbEJydjlwaTdJdkc1RXJwM2xPVlAwVUE?oc=5"
+    },
     {
       "timestamp": "2026-06-10T19:58:24.549Z",
       "source": "n8n-auto-monitor",
@@ -447,15 +456,6 @@
       "description": "Stock market activity article about Joby Aviation - insufficient technical content to warrant structured project updates. Article appears focused on financial performance rather than specific eIPP milestone changes or OTA status modifications.",
       "projectsAffected": [],
       "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmR215N2lJdUVaeUtfUDYwdGRaNVlCel9iSTN4X3pQeXdWQi1qdjBtMUxTcl92ZldIZjMzQ1JTQkIxVkFnMHhVNklRaWNvd1dHTFJRaC1PMlNXb2NPa2xzX0FYcDRVLUc1RTgyX3lCdGRaaWlpLUtRdThRWHZaR0U?oc=5"
-    },
-    {
-      "timestamp": "2026-05-10T12:01:29.585Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Joby milestone to reflect completed NYC demo flights; added note on FAA progress and market impact",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcFpqVEY1dDhwS3l2dlRJTHJjWTlFZlNSODZPenpBTW1WSGpCMG1qeTVEZTVhYUNsSVFRVmZXV2JTcnR0NjNOT3dRV3pwWF9NU3N2T1FVU3E1bzE2QjlNY2JnMnBseEpGTjNUSGVqdUM3MFNMQ1VmM1pabFcyMnk3VDBoU2tCMDYtX1p5cC14TE9aSVBiX0I3b1RFeVEwUXdjSXZwUUswSUM4TGQyOVJfWUE3MFA4NkNRUXFzN2lld0J3ZU41dzlNekJSNUVMRDh4aGfSAdcBQVVfeXFMTnE4YUprUVpNRUlKSS11V3JxLTdCSkkySTZRTXUwWXh2OEc3M1ZhR3lwOEdOemhLQzBERFYxakk0Q1FtSFA5QldRbjBwMDdMSE1LR3E0d3dYZHdhdm5QeGlRT1gzS2ZtWnh3SkJsby1xbURPMlVBMkppSm5xMFFDa25KX0l1OTFIdlUydG5veldRazc4aUJZVzhKS1hKMGxlYm5zNy1pS29tQ1JwbHVwcXUwNVdwQVFIV0duNkR5aU94cWZZTk5fYzBWQWVtd1g3WlN1aUN5dU0?oc=5"
     }
   ],
   "projects": [
@@ -804,7 +804,7 @@
       "focus": "Regional Passenger Transportation",
       "keyOp": "Revitalize Essential Air Service-equivalent regional routes across 13 states",
       "otaStatus": "Pending",
-      "milestone": "Leading FAA eVTOL Integration Pilot Program for AAM operations",
+      "milestone": "Multi-state air taxi expansion strategy underway; competitive positioning strengthening",
       "opsTarget": "Summer 2026",
       "category": "regional",
       "cargoFirst": false,
