@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-08T21:07:38.649Z",
+    "lastUpdated": "2026-06-10T19:58:24.549Z",
     "updatedBy": "n8n",
-    "version": 160,
+    "version": 161,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational phase",
-    "bannerMessage": "Joby Aviation achieves milestone: FAA-approved passenger flights in NYC and 9-state expansion",
+    "bannerMessage": "FAA working through regulatory process to authorize cargo and potential passenger flights under eIPP",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-06-10T19:58:24.549Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article discusses FAA's ongoing process for eIPP cargo and passenger flight authorization; no project-specific milestone or status changes identified",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVlREZjEtSUtEdWUxNThBV1M2aXllYWRzY3V3clNGSFI5QndrYU1CNmRZeE1VWXZaRnNmSU9aWTktdm5ZbVhLZU5VQmdCU2x5dHo2WUd3b2dFMjh6eTEwb1hpYThlcG1ZVkRkYzZjYW5YNU5TbW1jZDBVdDRxMUFXSi1oSVhObEpBNW9lbFdQa2RpQTNGWWtBZ29qX2w4eGhWWm1ILVRhT21UWHRDZF9VaVlXbFJOVGVzY1B3YmhCU0tLcXhWVnJuN0Fn?oc=5"
+    },
     {
       "timestamp": "2026-06-08T21:07:38.649Z",
       "source": "n8n-auto-monitor",
@@ -449,15 +456,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcFpqVEY1dDhwS3l2dlRJTHJjWTlFZlNSODZPenpBTW1WSGpCMG1qeTVEZTVhYUNsSVFRVmZXV2JTcnR0NjNOT3dRV3pwWF9NU3N2T1FVU3E1bzE2QjlNY2JnMnBseEpGTjNUSGVqdUM3MFNMQ1VmM1pabFcyMnk3VDBoU2tCMDYtX1p5cC14TE9aSVBiX0I3b1RFeVEwUXdjSXZwUUswSUM4TGQyOVJfWUE3MFA4NkNRUXFzN2lld0J3ZU41dzlNekJSNUVMRDh4aGfSAdcBQVVfeXFMTnE4YUprUVpNRUlKSS11V3JxLTdCSkkySTZRTXUwWXh2OEc3M1ZhR3lwOEdOemhLQzBERFYxakk0Q1FtSFA5QldRbjBwMDdMSE1LR3E0d3dYZHdhdm5QeGlRT1gzS2ZtWnh3SkJsby1xbURPMlVBMkppSm5xMFFDa25KX0l1OTFIdlUydG5veldRazc4aUJZVzhKS1hKMGxlYm5zNy1pS29tQ1JwbHVwcXUwNVdwQVFIV0duNkR5aU94cWZZTk5fYzBWQWVtd1g3WlN1aUN5dU0?oc=5"
-    },
-    {
-      "timestamp": "2026-05-10T12:00:47.049Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added news reference regarding Archer Aviation stock increase and commercial launch progress",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVhFUU93QjYyZmhYQ0JyUW5UTUlBZ19NYTZBZVA0M29JakVhRlNHQ3ZpRHI5Mzd0UEdNV255U0RxMm5zc3U5SS1Iczk4bm1TUlhMTmxKNTVaMmY4eE5jakVsRnVrS08tUWxQd09fMXEtbTNaMHFOemhYd29BY0x1cmNCOVhxOTJ2THk4RjZSV1UyM090TUltb3lJUHgzN3A1Ti1nRjNDdHdiMkkzUEZz?oc=5"
     }
   ],
   "projects": [
