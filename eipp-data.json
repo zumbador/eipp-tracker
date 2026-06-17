@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-17T21:43:09.658Z",
+    "lastUpdated": "2026-06-17T21:43:28.726Z",
     "updatedBy": "n8n",
-    "version": 165,
+    "version": 166,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-06-17T21:43:28.727Z",
+      "source": "n8n-auto-monitor",
+      "description": "Auto-detected update",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemZmMWs2d09PUVlXMmh5RWJuMmk0by1TTjZCSFlsRWdnQmNzcFFUNGwyWTdhQ3JCdlpuOFFfYlZQdDhKM2U1Q1pPR05KWTh1WUFVVWVfbjhXVnMyRC1QajF1aVVOSXdNQkhFTk9BN1BGY2N4MFRVUmI5MVVpMWE4NTJJN0pUUHU5UWhFZHZtT0NXRzJQRE1nckhHM3hVU0U?oc=5"
+    },
     {
       "timestamp": "2026-06-15T19:49:21.899Z",
       "source": "n8n-auto-monitor",
@@ -449,15 +456,6 @@
         2
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTTBjdno2ellMN2hwOEp6VTBDd3NvQ3BEbEhvWnNhZkZqYVk0WTgxZ2otbXhSSjRkWlNXMXp0a1B3YVV0SUsxaFUtODJ3QlRKeXJuY2c3VERrYy1BWUZWRnBhakJ5TUdET3B6Qk9sZ3RBUUVDSVNTLWsxVy1ZRXVXRHhSX2VZU1VzcG9vc2pGeXhPYzY3UVluc0R1MnRCS2lvcXBtUWZoTzVHanA4NUVOcUoya05DeVNH?oc=5"
-    },
-    {
-      "timestamp": "2026-05-12T12:00:36.904Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 1 (PANYNJ) milestone and notes with Q1 2026 Archer certification progress announcement confirming initial US operations in 2026",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObHFQbjdaTmZfZTQyeW82ay0xd2wxVUtJNGkzOHR2aVVnMmhwbS03bUlEekUxQmRod25ERlhicjlXeVQxQ2NLbFlySGFBcHNzaFBwaTZuWTM2OTBuY0djRjBIRkN0TnowaS1qdXAzRHFqNkNJWHhSVUZfbkwtTEQ1UDlLanJBdVF4NWFqR1JxbWFfSzFCdHJRU2ZhTjljREhqNDJkb21pTDR5cE5fOXRxRkhNNG9qWWRhVlNicVFPb1U3aU1BZVc4ZnhXcW40aGRzZzZWT1BqUkJBX1JJOUFCZUw5OTlzelZxLVJtVkdEcXZCWDFoNzdfOGthQVFCSGxaV2NLc2tCU19kQkxLelhUM2dUNFVJZw?oc=5"
     }
   ],
   "projects": [
