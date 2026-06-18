@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-18T18:46:18.303Z",
+    "lastUpdated": "2026-06-18T18:46:36.681Z",
     "updatedBy": "n8n",
-    "version": 167,
+    "version": 168,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational phase",
-    "bannerMessage": "FAA working through regulatory process to authorize cargo and potential passenger flights under eIPP",
+    "bannerMessage": "Transportation secretary visits Reliable Robotics in Albuquerque - High-level government support for eIPP",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-06-18T18:46:36.681Z",
+      "source": "n8n-auto-monitor",
+      "description": "Transportation secretary site visit to Reliable Robotics facility demonstrates federal-level support for eIPP operations",
+      "projectsAffected": [
+        6
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRWdzQkRTa3d5OGlXZWp2eUJFcGdDdEJEbFlFdWFSWnNCdVlLR0hCeW9sSC1Sc2FNRnVXTXdydGxsOE9fQ3FhbkRpN1NqbkVUcnRpVWMtSzJWZTZaM3h2OE9kdUNlVnI5OTdzRXpZZVJsVlN2eUNreWIzeG9hSHFOak9aTlN4SUV4RGJKNmlOeFE2a25PZUVuLVVSS256dlE?oc=5"
+    },
     {
       "timestamp": "2026-06-17T21:44:18.656Z",
       "source": "n8n-auto-monitor",
@@ -447,15 +456,6 @@
         6
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTVRBckJodHl5Qm9lUFNPVE02R2tIT1cyRG1ibnVVWVoxWE14UzVFSE1vcl91UFAtenZMcEQ1VENWaEdPX2FQVzdiNjNSYjNQeEptT1YyV0pGTzJxbWFoSmYya0NHMEV3V3M5emJud3dnbjJJRGRsUDZaYlFZdm9Oam5vYWxHNTB3V3dRWGNib0p5TXdQX1NQTWt2TldidC1IU1ZYRmxxWDFGWWM?oc=5"
-    },
-    {
-      "timestamp": "2026-05-12T12:01:50.431Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Archer Aviation (PANYNJ) milestone to reflect FAA certification progress achievement; added news article reference",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSktweXN0c0V2dndROGtMcy0xMFpQamlmcHgtRTM0QWkwZ0tpaXBrWmJfX3owVktlTk5VNXhidF94WEJFWXNXSUtTU21KbzEzd0VNU3owMmpKRGF3bWNTLXJvZWtDaXMtbF9yX1M3TWJSazl1R1RZak56Z3VTeEJQMmtOOTJiMEdDOHUtT2w3dHVQZWtRUlJocDBWaWwxeVEzc09oZzhwQVFveHNUcWp4eGdGb3dkOUktdS1RTGp5eWFQbnY5TjVtWEdZcUNjNkJkdnFr0gHYAUFVX3lxTE42TU4xb3VMbndJYnhkRmFSeTFrTHpoc1JNWE5fZ3ljTDVKNkxNanFWT1JjcUJyX2NxcWhHajhqX0ZMX3h3UTlyUlFJT3lSVDg3bk5NTklFM3VZLTlzZ2NqVHBmT2dSVE1mOTFCX2hGb1BKSkFNUlBUOGI2YXVLaTk4TzE3MThrckJ5SW9nbmtzckRCcVZCdEhBa2o2QkZzUWtFbFctZDNuWDZxWDVpZ0dhc1pGWWV0SS1hWXBFOE16WmZ0SmVKbHBfcEpOSTY4aU4xWXlyMk0tOQ?oc=5"
     }
   ],
   "projects": [
@@ -958,13 +958,13 @@
       "focus": "Multi-phase: Cargo → Passenger → Automation + Medical",
       "keyOp": "Three-phase: Phase 1 cargo, Phase 2 passenger, Phase 3 automation and medical response",
       "otaStatus": "Pending",
-      "milestone": "Flight tests validate detect and avoid capability for uncrewed aircraft",
+      "milestone": "High-level government support demonstrated; Operations advancing",
       "opsTarget": "Summer 2026",
       "category": "mixed",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration. Reliable Robotics advancing safety-critical UAS datalinks technology to support eIPP operations and safety standards.",
+      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration. Reliable Robotics advancing safety-critical UAS datalinks technology to support eIPP operations and safety standards. Transportation secretary visited Reliable Robotics facility in Albuquerque, signaling federal commitment to eIPP operations and project advancement.",
       "links": [
         {
           "label": "DOT Announcement",
