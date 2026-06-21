@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-21T15:54:28.544Z",
+    "lastUpdated": "2026-06-21T15:54:48.557Z",
     "updatedBy": "n8n",
-    "version": 172,
+    "version": 173,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational phase",
-    "bannerMessage": "Joby Aviation selected for commercial flights across 11 states under FAA eIPP expansion",
+    "bannerMessage": "Legal disputes between Joby Aviation and Archer Aviation over trade secrets and patents may impact eIPP program participation",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-06-21T15:54:48.557Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added banner alert regarding Joby/Archer legal disputes affecting projects 1 and 2; no specific milestone or status changes confirmed yet pending case outcomes",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzWnQtVmVhUlQ3UkdFZHYwZXJvdXNHVTM3dFdJR0RkalpWQlY3MUR2S2tPdFZSbHR3b3ZGdk9PZ3BKMnBPQUNNWlVXeGpVOGZaZzZlbTVjYkZEUnY4R3VrR1N1TFlZZEM2WlE2dHN6U1B5blZpeWdCQVhodw?oc=5"
+    },
     {
       "timestamp": "2026-06-18T18:48:36.511Z",
       "source": "n8n-auto-monitor",
@@ -451,13 +458,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWTJDZjZEUG1LUFdqc3F2cGRxeEdVRWlRVF9LRV9XQ25IRmxpUllIZVd3ZmpIZmJXenhfeVplb2RPV1lUZnRpeFNwWlB1akZ5VDZvQm4xT3p5OWZsQU9kbHRpUm9GMHJVRldiWHUxUXhWSkpFZWkxeXF4ak9IT09KSTJuaHNhSXltVDJGM19MRC13YUE3QW1YTkxJT0EwNXh0ZzJqcHBlVTBZZC1vblVBa2JDeDZHLUVVdW4zUnVYUEZCamI2RTlMRndyVi1jLUgya3FFZE9ZUUR0Qk9sMGtsc3RCM3BIVVZMRmRJVVdMNGRsc3hJYWgzMkxVUQ?oc=5"
-    },
-    {
-      "timestamp": "2026-05-14T12:01:10.110Z",
-      "source": "n8n-auto-monitor",
-      "description": "Financial update from BETA Technologies 1Q 2026 results - revenue and loss figures increased; contextual information for Projects 1 and 2 operations tracking",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa0VxZmtGYmNpYUllWkcxcWZEcWhFanc4WjRmb0o0amJScW1PS2FqeEpDSG4zMTNIZUdQM2dLeXY2aWxpbGFWbXVoSVg5dU1TSXRwdnN5Y1VhRnB0SWZZbkZQWHc3eGdPSS1sbjA2MWZBZ0t2cE5PODgyNTU0Z0NiU3ZHYnhUeEZLdm5jdUR1YmtwRzRxS25uZmZxaGVZbC1JZUE?oc=5"
     }
   ],
   "projects": [
