@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-24T20:51:41.979Z",
+    "lastUpdated": "2026-06-24T20:52:04.119Z",
     "updatedBy": "n8n",
-    "version": 176,
+    "version": 177,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-06-24T20:52:04.119Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article is financial market analysis of Joby Aviation stock performance. No operational, milestone, or OTA status changes identified. Stock price analysis does not affect eIPP program status.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVjNoSmdoaWlSTm1BY1JyT0xZMVVIWkZPeW1hRXl2N2luazlWWWNqV3Z6c2hoWlZYMkUyR1N1M1J3NnV6RWtfakJBUndfMzd4LXB3SzdCbTBNQmVaNHhIQlZDSmJvdzVVdDBKR3FUcHFpWmtMNnVSX3lvWDR1UlR4QmFVMDVlVTlHZVpXSWJ6QTA0ZHpzeHZ4cmwxelBNbVE?oc=5"
+    },
     {
       "timestamp": "2026-06-22T12:01:20.336Z",
       "source": "n8n-auto-monitor",
@@ -451,13 +458,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNFltVmRLZTFrdl96bE9qZXJ6SHd4YVhfenVobEhnT2ZaZk43VThJemVCeGJvLXlGcmtFTkwtSk15Q0FJQ1hwWklSTGl2YjhmT1FkNUF3dDNMQTBkREZyQWp5d01QSGJUOEZoX28zT09LWXk4UFBFQmNWVVBtdGJJX0o2MExqakk1T1NsSkpKRkplYlZQdzhVUm1SbTBGWlBqMGF3Q245elBTSl85Ni1odzRMcVNCTWw0cmc1VktR?oc=5"
-    },
-    {
-      "timestamp": "2026-05-15T13:29:01.580Z",
-      "source": "n8n-auto-monitor",
-      "description": "Auto-detected update",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ0pYQklZeEdPTlFBdENlRlh1bEN1Q3Z1bzNpRXprUVdIa1hSa0hoSFJSNjVENVFGcDlTRHU2dzNISFZMcFpsYm1HUWhobmk4cXlSZUtJeTlTdlZHYTBlb0JSS0lOY1FBV3RQdURDRzB5b2cyU2NleWIwT3AxYWVrMWFXT0c0XzlJeGlvTklMbTZWUGppTDVQYzFYdWQ0alk5Uk9MUTlFR3EwU2c0d0l2OFhuRDU5ZWdvM2NXQ0pVYUxIS3B0ZElJdWlkMDBpNE5rbVBhNHVR?oc=5"
     }
   ],
   "projects": [
