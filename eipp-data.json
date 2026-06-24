@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-24T20:52:47.333Z",
+    "lastUpdated": "2026-06-24T20:53:19.902Z",
     "updatedBy": "n8n",
-    "version": 178,
+    "version": 179,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational phase",
-    "bannerMessage": "Legal disputes between Joby Aviation and Archer Aviation over trade secrets and patents may impact eIPP program participation",
+    "bannerMessage": "Joby Aviation advancing pre-certification production; implications for multistate AAM operational readiness",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-06-24T20:53:19.902Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Project 4 milestone with pre-certification production ramp-up status; added supporting documentation and strategic context for multistate collaborative.",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbUZQT0V0S2pXdEV5aGo5N3BKdmhzLWtFNXVFdmpockJTNERUOXhwb3pwek1uNGtPaUlKYU9lSkd4NGFUUnNsMXRzbEF5Q0JHanlUU0lBeXhGTnNrSjQ2aWhSYzdyalQ0a2tQdXhVdFI0NnlPVG5YNnI0Y19yR2FMN253MlNKZERrcm5zM29oTzJtelVvUXBIUVU4aW5JQzhYU2c3WFVFU3BLRzZUcnVROWFrZ3hiWGdIa2FwSWwtUDB5Q1Q5c0c2eDlld1NnTC1r0gHWAUFVX3lxTE5qdHNWc0NXN0hGdldFZDFUOHdlazZ5TnVsWHJTalhrcWUxUmg1VEZzc3hiX2xDZ0tQdnZDZUxCaVphMnZSQzAtUlphV3lxck8zTjhTZTJ2T2h4NHlZQ3gyeHB5SHNLM1diTU5MZ1Z4WlhoSWJ4MTN3SjhKRHJjN01DelU0REVSaXh1SmswYmNlQW5KejRhMFBnbGZLTDBVM2lQSkMzVmdmaDRoY2d6cEtHa0daM1lDYVdCRnM4U3Q0V1hSYWJ2WV9HZWYyOE16YUE2VmFwUWc?oc=5"
+    },
     {
       "timestamp": "2026-06-24T20:52:47.333Z",
       "source": "n8n-auto-monitor",
@@ -451,13 +460,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTNXbEViSUpnSU4zazdyUEs0RkJacFFDZkxZODlJUWZXd1JJRlgtcjd2SWdmbFllQXRyODdXQVNWOFl2VkF0WUtqZ3QySEJQbXhZU0FQbFR3VU41UE5qdVhYSjZOM3B6T25PaWc2b3FtOUx1M0JrY0V4U0F6YTRMSFB6eWdkTm1VMFFMZ2J5Rm5mMlhIN0lreFMwSEpUdWRNWGJvano1SQ?oc=5"
-    },
-    {
-      "timestamp": "2026-05-16T14:13:49.351Z",
-      "source": "n8n-auto-monitor",
-      "description": "Article discusses BETA Technologies' Q1 financial performance (wider losses) and reaffirmed 2026 guidance. No specific eIPP project milestones, OTA status changes, or concrete programmatic updates mentioned. Financial performance alone does not warrant structured data changes to project tracking without additional context about specific deliverables or timeline impacts.",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbi1PeVlMS18wTGM4MXpQdE1LRWp5SE1melE3VEhsbE1RNlA5TExiaHRwb3M2RkR2azJNTklEckJ2MWNQcHkyX2V3V1cyLXZlVzI0Z1JaQXpyY1czb1Q1RGprVEV5SjdLTnpJbkhoS000Q1Q3RjNqNFNIZktFRmFTc0YzLUdab2ZqME5FUGVBNmt5QlF1RmUxUk9fM1RReEJHN3hNaTh6ZXFIU20zTVJtMDNhcHVLNDVzd3BXX1VRdU1IMVNYMFAzQzdzWGhWR2JlWUNxOWNR0gHbAUFVX3lxTE9BT1Fua2ZxdGlid2o2bjJya256VXJsVkNhM1hkNzBrd29xYWRVaktfcW5sVkVkQnRtcV8tWHlQdi1TRnQtRFRob09fSWp1cm4zWlQ5NzBoTjcwOVNqLUw2bW1ZRXRPQ3hqQ3VSY0tld0xESVAwZ09mZXpuZzJUUTFPWEk5T21YY2NobHo4bnpqUHNnanlBOFNZV19QZ2FNSFNtQ3JWWXpJN28zSWJzVmZvSExzcXZTb2U4SkQ2dTFlbEg5NDRaOWRzdC1yOFlHOUNTY3QwM2FLSkdCSQ?oc=5"
     }
   ],
   "projects": [
@@ -814,13 +816,13 @@
       "focus": "Regional Passenger Transportation",
       "keyOp": "Revitalize Essential Air Service-equivalent regional routes across 13 states",
       "otaStatus": "Pending",
-      "milestone": "Selected for commercial flights under FAA eIPP expansion",
+      "milestone": "Pre-certification production ramp-up underway; multistate AAM readiness",
       "opsTarget": "Summer 2026",
       "category": "regional",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting. Joby Aviation confirmed as participant in FAA eVTOL Pilot Program. FAA-conforming tests successfully conducted. Joby Aviation conducted public demonstration of urban air mobility capabilities over San Francisco, showcasing eVTOL technology for future implementation. Article discusses scalability challenges for Joby Aviation air taxis post-flight demonstrations; relevant to multistate collaborative planning. AI-enabled airspace strategy being developed as part of eIPP demonstration planning. Media coverage highlights industry progress on urban air mobility. Joby Aviation advancing eVTOL technology for commercial operations. US Trade Commission investigating Joby Aviation for possible import violations that may impact aircraft manufacturing timeline and project delivery. Joby Aviation partnering with Air Space Intelligence to support Advanced Air Mobility integration efforts and coordination. Joby Aviation announced 2026 target for flying taxi operations launch. Key investor considerations include regulatory approval pathway and operational readiness timeline. Joby Aviation announced 2026 timeline for flying taxi operations launch. Company progressing through FAA certification requirements for commercial urban air mobility service. Article from Intellectia AI covers progress toward electric flying taxi operations. Joby Aviation announced new AI air-traffic control partnership and achieved pilot program wins, driving stock gains of 11.4%. Joby Aviation announces significant manufacturing expansion in Dayton, Ohio, positioning it as core production facility for eIPP program execution. Joby Aviation achieved significant technical milestone with hybrid eVTOL aircraft completing first uncrewed transition from hover to steady forward flight, advancing air taxi development capability. Joby Aviation partnered with ASI to support scalable eVTOL operations in U.S. airspace. Joby Aviation partnership with Air Space Intelligence progressing integration efforts. Reuben Brothers partnership announced for vertiport development, supporting eVTOL operational readiness. Joby Aviation embedding vertiports in luxury residential projects to strengthen urban network infrastructure strategy. Joby Aviation embedding vertiports in luxury housing developments to strengthen urban network infrastructure. Joby Aviation demonstrated electric air taxi capabilities in New York City, showcasing operational readiness and public engagement with Port Authority of NY/NJ stakeholders. Joby Aviation announced pricing strategy targeting competitive rates with Uber Black for air taxi services, demonstrating commercial viability planning. Second generation Wisk aircraft deployed to accelerate eVTOL flight test program. Joby Aviation outlined commercial air taxi progress expectations under FAA eIPP program per Aviation Week reporting. Joby Aviation nearing air taxi launch with FAA approval progressing per partner coordination. Article confirms Joby on track for 2026 commercial launch as part of FAA eIPP program activities. PennDOT announced as lead for FAA eVTOL Integration Pilot Program. Joby Aviation expanding eVTOL manufacturing hub in Dayton, Ohio - infrastructure development supporting program implementation. Stock analysis indicates market confidence in FAA approval pathway and production timeline. Joby Aviation expanding Dayton, Ohio manufacturing footprint to assume full aircraft production with increased headcount. Represents significant scaling of production capacity ahead of certification milestones. Joby Aviation selected for commercial operations across 11 states as part of FAA eIPP program expansion.",
+      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting. Joby Aviation confirmed as participant in FAA eVTOL Pilot Program. FAA-conforming tests successfully conducted. Joby Aviation conducted public demonstration of urban air mobility capabilities over San Francisco, showcasing eVTOL technology for future implementation. Article discusses scalability challenges for Joby Aviation air taxis post-flight demonstrations; relevant to multistate collaborative planning. AI-enabled airspace strategy being developed as part of eIPP demonstration planning. Media coverage highlights industry progress on urban air mobility. Joby Aviation advancing eVTOL technology for commercial operations. US Trade Commission investigating Joby Aviation for possible import violations that may impact aircraft manufacturing timeline and project delivery. Joby Aviation partnering with Air Space Intelligence to support Advanced Air Mobility integration efforts and coordination. Joby Aviation announced 2026 target for flying taxi operations launch. Key investor considerations include regulatory approval pathway and operational readiness timeline. Joby Aviation announced 2026 timeline for flying taxi operations launch. Company progressing through FAA certification requirements for commercial urban air mobility service. Article from Intellectia AI covers progress toward electric flying taxi operations. Joby Aviation announced new AI air-traffic control partnership and achieved pilot program wins, driving stock gains of 11.4%. Joby Aviation announces significant manufacturing expansion in Dayton, Ohio, positioning it as core production facility for eIPP program execution. Joby Aviation achieved significant technical milestone with hybrid eVTOL aircraft completing first uncrewed transition from hover to steady forward flight, advancing air taxi development capability. Joby Aviation partnered with ASI to support scalable eVTOL operations in U.S. airspace. Joby Aviation partnership with Air Space Intelligence progressing integration efforts. Reuben Brothers partnership announced for vertiport development, supporting eVTOL operational readiness. Joby Aviation embedding vertiports in luxury residential projects to strengthen urban network infrastructure strategy. Joby Aviation embedding vertiports in luxury housing developments to strengthen urban network infrastructure. Joby Aviation demonstrated electric air taxi capabilities in New York City, showcasing operational readiness and public engagement with Port Authority of NY/NJ stakeholders. Joby Aviation announced pricing strategy targeting competitive rates with Uber Black for air taxi services, demonstrating commercial viability planning. Second generation Wisk aircraft deployed to accelerate eVTOL flight test program. Joby Aviation outlined commercial air taxi progress expectations under FAA eIPP program per Aviation Week reporting. Joby Aviation nearing air taxi launch with FAA approval progressing per partner coordination. Article confirms Joby on track for 2026 commercial launch as part of FAA eIPP program activities. PennDOT announced as lead for FAA eVTOL Integration Pilot Program. Joby Aviation expanding eVTOL manufacturing hub in Dayton, Ohio - infrastructure development supporting program implementation. Stock analysis indicates market confidence in FAA approval pathway and production timeline. Joby Aviation expanding Dayton, Ohio manufacturing footprint to assume full aircraft production with increased headcount. Represents significant scaling of production capacity ahead of certification milestones. Joby Aviation selected for commercial operations across 11 states as part of FAA eIPP program expansion. Joby Aviation implementing aggressive pre-certification production strategy to support operational readiness across collaborative partners.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -901,6 +903,10 @@
         {
           "label": "Joby Selected for 11-State Commercial Flight Operations",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3p2TlFiY2tIMzRrQnEwS1l4WVdkV0JrN0xvT2xGYmVIdlVSaThPQTlXSTJwZXRCTnNBMURoSlpqaXhMdG1uVmVhdTdKR2F4emZSU2kwOERZbGMxZFliZmt2djBRSDBLVXRRdEN1T21iRDdLTGIycldRSTRtcHJyd0lVdmFrSWNQSVlFNFdxMW9Ca1NPUmV3UkZacjdlSFljTEJPdmlXUVkxLXlwa0V6YVV1Rk41bjBEdXZvQ0JmeEVyeExrenFYbQ?oc=5"
+        },
+        {
+          "label": "Joby Aviation Pre-Certification Production Strategy",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbUZQT0V0S2pXdEV5aGo5N3BKdmhzLWtFNXVFdmpockJTNERUOXhwb3pwek1uNGtPaUlKYU9lSkd4NGFUUnNsMXRzbEF5Q0JHanlUU0lBeXhGTnNrSjQ2aWhSYzdyalQ0a2tQdXhVdFI0NnlPVG5YNnI0Y19yR2FMN253MlNKZERrcm5zM29oTzJtelVvUXBIUVU4aW5JQzhYU2c3WFVFU3BLRzZUcnVROWFrZ3hiWGdIa2FwSWwtUDB5Q1Q5c0c2eDlld1NnTC1r0gHWAUFVX3lxTE5qdHNWc0NXN0hGdldFZDFUOHdlazZ5TnVsWHJTalhrcWUxUmg1VEZzc3hiX2xDZ0tQdnZDZUxCaVphMnZSQzAtUlphV3lxck8zTjhTZTJ2T2h4NHlZQ3gyeHB5SHNLM1diTU5MZ1Z4WlhoSWJ4MTN3SjhKRHJjN01DelU0REVSaXh1SmswYmNlQW5KejRhMFBnbGZLTDBVM2lQSkMzVmdmaDRoY2d6cEtHa0daM1lDYVdCRnM4U3Q0V1hSYWJ2WV9HZWYyOE16YUE2VmFwUWc?oc=5"
         }
       ]
     },
