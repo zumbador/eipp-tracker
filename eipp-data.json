@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-25T23:31:42.648Z",
+    "lastUpdated": "2026-06-25T23:32:00.741Z",
     "updatedBy": "n8n",
-    "version": 179,
+    "version": 180,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational phase",
-    "bannerMessage": "Joby Aviation advancing pre-certification production; implications for multistate AAM operational readiness",
+    "bannerMessage": "Joby Aviation advancing toward FAA certification across multiple state projects",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-06-25T23:32:00.741Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article indicates Joby progressing toward FAA certification; affects all 4 Joby projects but no specific milestone or OTA status changes documented in article",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3V2ajVsdnhhZ09mVlFZdm5pWWFkVURGQkxuZ0F3aTRrWVk3aEVsT2RuVm4yWTM5eGM3Rm5HWTFvaURrZGdFcDhxYk1LRXl4TGx4eFM1dkRzRnM5MG9mSHpya2NGWDJuQklfSUpZb29KSWt2d1hJcGxjSTRiblc4M01BdFRhd3d3TXctMVhjVG4wQ2JXWGpCRk15MzQ?oc=5"
+    },
     {
       "timestamp": "2026-06-24T20:53:19.902Z",
       "source": "n8n-auto-monitor",
@@ -451,15 +458,6 @@
         2
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDJlQVgwMFBMUFpQSFJ5LTZheGxwNHY2UEZuYzR3SnpFcDI1RU1GT3NfMTZPNHRnd3dwMGd3SmVaZi1mZDRwOFZ3c3B6RnkzWFZVX0RaanJZRXJIR0RoOHhNVmpsR3VKVXo0R2Q3Ri01bHU3MFdIS2Fqc1ZSUGR6aVphQnJtWmdrSS16VWt0UkpNdFNWUXpkZFBHNWJDU0lHZzF4Rmk1QS15ZkdOZTlOTDNJSW5XQQ?oc=5"
-    },
-    {
-      "timestamp": "2026-05-16T14:14:17.695Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated milestone to reflect FAA milestone achievement and global expansion progress reported in Archer Aviation valuation assessment",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTNXbEViSUpnSU4zazdyUEs0RkJacFFDZkxZODlJUWZXd1JJRlgtcjd2SWdmbFllQXRyODdXQVNWOFl2VkF0WUtqZ3QySEJQbXhZU0FQbFR3VU41UE5qdVhYSjZOM3B6T25PaWc2b3FtOUx1M0JrY0V4U0F6YTRMSFB6eWdkTm1VMFFMZ2J5Rm5mMlhIN0lreFMwSEpUdWRNWGJvano1SQ?oc=5"
     }
   ],
   "projects": [
