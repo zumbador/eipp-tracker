@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-27T05:01:48.855Z",
+    "lastUpdated": "2026-06-27T05:02:08.049Z",
     "updatedBy": "n8n",
-    "version": 180,
+    "version": 181,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-06-27T05:02:08.049Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Project 2 milestone to reflect Beta Technologies' 100-acre campus expansion in Vermont, supporting increased production and testing for electric aircraft certification program.",
+      "projectsAffected": [
+        2
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3FwNVNESUdXVnhsTTJ1ZHYyekxKdkhmODE5d09tNDdXZHg5SlR0R05icThtQXQ1aEQwRllNOElkakVvMWY4blVlaWJTTW1ub25BdW9XYnZDb29Nbm5UX1lvSW5VWDZPTWFrT2RZU1lFdG1zbUNRR0RSZEN1TlFNdXFjZUVPUEJiS3NMZEM1cw?oc=5"
+    },
     {
       "timestamp": "2026-06-25T23:32:00.741Z",
       "source": "n8n-auto-monitor",
@@ -449,15 +458,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNFltVmRLZTFrdl96bE9qZXJ6SHd4YVhfenVobEhnT2ZaZk43VThJemVCeGJvLXlGcmtFTkwtSk15Q0FJQ1hwWklSTGl2YjhmT1FkNUF3dDNMQTBkREZyQWp5d01QSGJUOEZoX28zT09LWXk4UFBFQmNWVVBtdGJJX0o2MExqakk1T1NsSkpKRkplYlZQdzhVUm1SbTBGWlBqMGF3Q245elBTSl85Ni1odzRMcVNCTWw0cmc1VktR?oc=5"
-    },
-    {
-      "timestamp": "2026-05-17T12:00:19.442Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added Forbes article reference documenting BETA Technologies' electric aircraft development progress",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDJlQVgwMFBMUFpQSFJ5LTZheGxwNHY2UEZuYzR3SnpFcDI1RU1GT3NfMTZPNHRnd3dwMGd3SmVaZi1mZDRwOFZ3c3B6RnkzWFZVX0RaanJZRXJIR0RoOHhNVmpsR3VKVXo0R2Q3Ri01bHU3MFdIS2Fqc1ZSUGR6aVphQnJtWmdrSS16VWt0UkpNdFNWUXpkZFBHNWJDU0lHZzF4Rmk1QS15ZkdOZTlOTDNJSW5XQQ?oc=5"
     }
   ],
   "projects": [
@@ -698,13 +698,13 @@
       "focus": "Passenger + Autonomous",
       "keyOp": "Regional air taxi network connecting Dallas, Austin, San Antonio, and Houston",
       "otaStatus": "Pending",
-      "milestone": "Certification advancing; AAM demo completed; Beta competitive positioning strengthening",
+      "milestone": "Certification advancing; AAM demo completed; campus expansion to 100 acres",
       "opsTarget": "Summer 2026",
       "category": "passenger",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce. CEO commentary on U.S. aerospace leadership reestablishment aligns with project objectives for advanced aviation workforce development. BETA Technologies reports progress on electric aircraft certification for eVTOL operations. Forbes coverage highlights BETA Technologies' electric aircraft development advancement relevant to eIPP initiatives. Beta Technologies and Signature Aviation concluded AAM demonstration in Florida, supporting operational validation and certification activities. High-profile test flights completed; major FAA eVTOL pilot role assignment. BETA Technologies opened facilities to local and national media, demonstrating operational progress and public engagement. Beta Technologies identified as leading competitor in eVTOL market with strong progress trajectory.",
+      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce. CEO commentary on U.S. aerospace leadership reestablishment aligns with project objectives for advanced aviation workforce development. BETA Technologies reports progress on electric aircraft certification for eVTOL operations. Forbes coverage highlights BETA Technologies' electric aircraft development advancement relevant to eIPP initiatives. Beta Technologies and Signature Aviation concluded AAM demonstration in Florida, supporting operational validation and certification activities. High-profile test flights completed; major FAA eVTOL pilot role assignment. BETA Technologies opened facilities to local and national media, demonstrating operational progress and public engagement. Beta Technologies identified as leading competitor in eVTOL market with strong progress trajectory. Beta Technologies expanding Vermont campus to 100 acres to support increased production and testing operations for electric aircraft development.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -733,6 +733,10 @@
         {
           "label": "A Bit of Moxie Helps to Push Beta Technologies to the Lead in Flying Cars",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVlySy1NaHczQm44dl91SG8zMjYtNi1mSG0xZXhqRkIyTlNEa0xTLTJrRnBKV0h2d21EMW9yS1loaHd6R0hOUlV6cnM3T29nNHRHai1LUDVsSEJUM3VmUjVTY2tISGlUSmNhbTNTanZ0ekJhSmJwRTREMHJYbnVYeFdxUjczb1Itb3E5WUc0SGtsY1JjU3BrSjRYeEp0OHJEd2VHUHdpOXYzZkk?oc=5"
+        },
+        {
+          "label": "Beta Technologies campus expansion announcement",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3FwNVNESUdXVnhsTTJ1ZHYyekxKdkhmODE5d09tNDdXZHg5SlR0R05icThtQXQ1aEQwRllNOElkakVvMWY4blVlaWJTTW1ub25BdW9XYnZDb29Nbm5UX1lvSW5VWDZPTWFrT2RZU1lFdG1zbUNRR0RSZEN1TlFNdXFjZUVPUEJiS3NMZEM1cw?oc=5"
         }
       ]
     },
