@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-27T05:02:37.639Z",
+    "lastUpdated": "2026-06-27T05:03:06.519Z",
     "updatedBy": "n8n",
-    "version": 182,
+    "version": 183,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-06-27T05:03:06.519Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Elroy Air project with SPAC merger milestone and corporate development notes",
+      "projectsAffected": [
+        6
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRHdLSXNrZjhNQTVfM3JwTXQ2eGxjbk9sQnAtbjd1VHRXeXBHMjJsZ0pjRjFPZjFOQ1pIelJ3cW5yNGxLMWR4UzRLYVpkZXAxVXBsQzdoY0FVM185Njlpd0xSaWdlUVR2MmpZS2o5T1RQWElkUFNYS0Nuem04YXVxeVY2eHFnZ0xqY3hZSVZucVI3MVhKTzJLdmIwcWFJTXUtcVlGYldqMUVHdXd3Sm4tZjRhVE5nQ3NRNDNFMmltaw?oc=5"
+    },
     {
       "timestamp": "2026-06-27T05:02:37.639Z",
       "source": "n8n-auto-monitor",
@@ -449,15 +458,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYzhhM2RrMFkxMnRHR3VXQVVTcnU3YWd4TS1kNlZudENWLU5qS1BpdFEya055YUVmOTZxYTRZV3pwNjJWR19vazF0MncwZmxfcWhYWGxYT3UzQVE4aTRvR0FSdkZCdUVJd1VaMmNrTWhJWmM5RUtydE9HN1kzeENKY0F1bnl1X3ZFMnluOVo5SnlWdlhOY3JzUndsb2pZLTJnX2M1alN2YVg3SUdMa3kxeVllVW1CdlpBTDMzNG9rTmxUUlRXaEtiRFZxNmU2WWVaaGtr0gHYAUFVX3lxTFBlLU5oaUthMV9sU0tVbXN0M0RpT0JrMGJ5U0RvangzdzlaNF9neXhpdHljclA0bjAtcHQ2UDhHYkNscWFReE9UVDhXQkJXbzk5Q2I4Ty01VU4yQlFyLTRiZW45Uk1RUmJSM2FGa1dxSlF2Wkd2V3pPQ0dQaVFaZy13S0FKeG5URVZfNnl0NHV1MHBVcHowWGpXWFRJSERYWXRXMExkUm1uOFhpN3BMUS15WjRhemd1OW5CcVVhbkNZZ3FwLWdYNlFNcXRhYVhXV1F2N2Z2THFCNQ?oc=5"
-    },
-    {
-      "timestamp": "2026-05-17T12:01:18.677Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added financial context regarding cash burn concerns and valuation analysis to Project 1 (Archer Aviation / Port Authority of NY&NJ)",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ3hOSi1pdktnMFVfTmtqOTVBLTFmTzMyM1cyYTlmQVl0Smt6ZlNfeHBodlJFY0pRYW0wSmFjSVBKOTg0bG9aYWJxQzZKNXNuQzREX0JhaFc5YTA0LTRBdFBaOFZod1dOYkwzeHFaRC10RHh0ZVdOMUlCRENQQTRYTVdILThJZzg1MVNsbllWcmhJVE9vYlB6QTVNOXdCMDhub0ZYaHZiazNINkphMlJCNDEycTZyR3RBVlFuczh4anZuN0pOcXRZTHRIVF9HUlBNNVVZ0gHYAUFVX3lxTFBhbkw1cEVIMXdfSC1JdWRZVjduejdadV9jT21qcWwxck92MG11R3l6UWNwTjN0dTk0aUJnY0d3Z2NOR0tyZ0t4UG9LMXZCZHZkaF82Y2JMWERTa2hQemQyX01KOFAyckREdmNrZDcyX09zX3VHWjdYQ0xHdzVsa2RRR3JhWnNtQkp4RzFNZmFSVXVUeVVlaHlDeTFPMjBWNlRHZW5Ea3l3VXZwTlFQVjZwMUZ2RUJPcndmRnZ1Z2M1NlpCdU5Lc1Y2WmtONUhaM29uTjd4Ukw0ZQ?oc=5"
     }
   ],
   "projects": [
@@ -980,13 +980,13 @@
       "focus": "Multi-phase: Cargo → Passenger → Automation + Medical",
       "keyOp": "Three-phase: Phase 1 cargo, Phase 2 passenger, Phase 3 automation and medical response",
       "otaStatus": "Pending",
-      "milestone": "High-level government support demonstrated; Operations advancing",
+      "milestone": "SPAC merger with $1B valuation; Nasdaq listing pending",
       "opsTarget": "Summer 2026",
       "category": "mixed",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration. Reliable Robotics advancing safety-critical UAS datalinks technology to support eIPP operations and safety standards. Transportation secretary visited Reliable Robotics facility in Albuquerque, signaling federal commitment to eIPP operations and project advancement.",
+      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration. Reliable Robotics advancing safety-critical UAS datalinks technology to support eIPP operations and safety standards. Transportation secretary visited Reliable Robotics facility in Albuquerque, signaling federal commitment to eIPP operations and project advancement. Elroy Air announced $1 billion SPAC merger deal for Nasdaq listing (Reuters). Significant corporate capitalization milestone achieved.",
       "links": [
         {
           "label": "DOT Announcement",
