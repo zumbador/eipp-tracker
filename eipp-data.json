@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-27T05:02:08.049Z",
+    "lastUpdated": "2026-06-27T05:02:37.639Z",
     "updatedBy": "n8n",
-    "version": 181,
+    "version": 182,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-06-27T05:02:37.639Z",
+      "source": "n8n-auto-monitor",
+      "description": "Elroy Air SPAC merger funding announcement supports eIPP program production scaling",
+      "projectsAffected": [
+        7
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGEwekhBbzJqR1dDaXppMm8yQWZEWUJWZm1zVlhzY01aYjBlY3dCcjdud0JucjI3QVpaZGg2MFpMN29zRGlBQjJucHlUWHpvN3cyZGhJeENOUHViZHRpQ1R4cVR2REdUeDhPUXpTRmZaRThJR0g1Mk9sRklFQTkyaDNPb2ozZEdzZnlZZmdZbWZNN1pQbmdQZFhnR1h6QVFyUkxfNHFiU0E5VkxwVFEyTFlpNG5VUmRVbmkxbTVNRQ?oc=5"
+    },
     {
       "timestamp": "2026-06-27T05:02:08.049Z",
       "source": "n8n-auto-monitor",
@@ -449,15 +458,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ3hOSi1pdktnMFVfTmtqOTVBLTFmTzMyM1cyYTlmQVl0Smt6ZlNfeHBodlJFY0pRYW0wSmFjSVBKOTg0bG9aYWJxQzZKNXNuQzREX0JhaFc5YTA0LTRBdFBaOFZod1dOYkwzeHFaRC10RHh0ZVdOMUlCRENQQTRYTVdILThJZzg1MVNsbllWcmhJVE9vYlB6QTVNOXdCMDhub0ZYaHZiazNINkphMlJCNDEycTZyR3RBVlFuczh4anZuN0pOcXRZTHRIVF9HUlBNNVVZ0gHYAUFVX3lxTFBhbkw1cEVIMXdfSC1JdWRZVjduejdadV9jT21qcWwxck92MG11R3l6UWNwTjN0dTk0aUJnY0d3Z2NOR0tyZ0t4UG9LMXZCZHZkaF82Y2JMWERTa2hQemQyX01KOFAyckREdmNrZDcyX09zX3VHWjdYQ0xHdzVsa2RRR3JhWnNtQkp4RzFNZmFSVXVUeVVlaHlDeTFPMjBWNlRHZW5Ea3l3VXZwTlFQVjZwMUZ2RUJPcndmRnZ1Z2M1NlpCdU5Lc1Y2WmtONUhaM29uTjd4Ukw0ZQ?oc=5"
-    },
-    {
-      "timestamp": "2026-05-17T12:00:50.005Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 1 milestone to reflect confirmed commercial launch path and earnings beat; added news link documenting progress.",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNFltVmRLZTFrdl96bE9qZXJ6SHd4YVhfenVobEhnT2ZaZk43VThJemVCeGJvLXlGcmtFTkwtSk15Q0FJQ1hwWklSTGl2YjhmT1FkNUF3dDNMQTBkREZyQWp5d01QSGJUOEZoX28zT09LWXk4UFBFQmNWVVBtdGJJX0o2MExqakk1T1NsSkpKRkplYlZQdzhVUm1SbTBGWlBqMGF3Q245elBTSl85Ni1odzRMcVNCTWw0cmc1VktR?oc=5"
     }
   ],
   "projects": [
@@ -1023,17 +1023,21 @@
       "focus": "Medical Transport + Autonomous Flight",
       "keyOp": "Piloted medical and regional ops statewide; autonomous flight corridor extending into Virginia",
       "otaStatus": "Pending",
-      "milestone": "Funding secured for fully automated aircraft development",
+      "milestone": "SPAC merger funding heavy-lift VTOL production scaling",
       "opsTarget": "Summer 2026",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement.",
+      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement. Elroy Air announced SPAC merger to fund production of heavy-lift VTOL drone platform, supporting eIPP program participation and commercialization timeline.",
       "links": [
         {
           "label": "DOT Announcement",
           "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+        },
+        {
+          "label": "Aviation Week: Elroy Air SPAC Merger Announcement",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGEwekhBbzJqR1dDaXppMm8yQWZEWUJWZm1zVlhzY01aYjBlY3dCcjdud0JucjI3QVpaZGg2MFpMN29zRGlBQjJucHlUWHpvN3cyZGhJeENOUHViZHRpQ1R4cVR2REdUeDhPUXpTRmZaRThJR0g1Mk9sRklFQTkyaDNPb2ozZEdzZnlZZmdZbWZNN1pQbmdQZFhnR1h6QVFyUkxfNHFiU0E5VkxwVFEyTFlpNG5VUmRVbmkxbTVNRQ?oc=5"
         }
       ]
     },
