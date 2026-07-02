@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-02T21:07:14.387Z",
+    "lastUpdated": "2026-07-02T21:07:42.958Z",
     "updatedBy": "n8n",
-    "version": 188,
+    "version": 189,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-07-02T21:07:42.958Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added corporate development note regarding Elroy Air's Nasdaq listing pursuit and valuation",
+      "projectsAffected": [
+        7
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90dVBxczc1SFhnTkJ2bmZtanE1ZzBqbFVLUXBSNjBjaWl5UFg0WDFSLWY4SGpMSWpWSUdLaWVyLWVDYTk4Q0l4VnZmZERseVdfVkNZM0FwSWczRlc2d1BIZFdxbEkzdW5JcWNPR3VkOA?oc=5"
+    },
     {
       "timestamp": "2026-07-02T21:07:14.387Z",
       "source": "n8n-auto-monitor",
@@ -453,15 +462,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVA4RERGSk9DNVN2clNxMnNmWURCb3B1am5rMnRUaVBaNUpZc0YwTEg0RGFlR28xM2VXNmhmTG5GeVFFeWhIeXZPQjlKQ3NnSzlval9POVMxekpQMEpQQ1J0alhkWTM2T2c0d25jQXVpZ2RKVlFwTDRHVk1qRHRFMHFxMWRpS1hDdTZPeUkwcjFRTlVvZ3hFTjl0d1RtbS1mbVZodEh1R2FXbEFoNGx3WV91NWk?oc=5"
-    },
-    {
-      "timestamp": "2026-05-20T12:01:05.862Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 4 milestone and notes reflecting Joby Aviation's FAA progress toward air taxi launch certification",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDl6Nm0yS2J0bnZTMnpISTluQzRETnJMQkNrUkhCSTVqNkFtQlpRbUt1a28tNWt4SGNZcFNzUmhyX2dGNzFXd2Z5aWVrMWpPUEw2ZlhiRjRCY2RjdnBVMDRTVDRKNnJKVjhZVWpYNVYzYk5KZnNjNVpKbU5najJzVnF0N2ZRbGdkd1NKQWZFdXZ4ZGpuMEdmNw?oc=5"
     }
   ],
   "projects": [
@@ -1037,7 +1037,7 @@
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement. Elroy Air announced SPAC merger to fund production of heavy-lift VTOL drone platform, supporting eIPP program participation and commercialization timeline. Company announced plans to go public via $1 billion SPAC deal (Zag Daily report). This represents a significant corporate development milestone for the eIPP participant.",
+      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement. Elroy Air announced SPAC merger to fund production of heavy-lift VTOL drone platform, supporting eIPP program participation and commercialization timeline. Company announced plans to go public via $1 billion SPAC deal (Zag Daily report). This represents a significant corporate development milestone for the eIPP participant. Elroy Air pursuing Nasdaq listing with $1 billion valuation (2024), indicating significant capital raise and corporate maturation milestone.",
       "links": [
         {
           "label": "DOT Announcement",
