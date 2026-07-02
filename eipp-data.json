@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-02T21:07:42.958Z",
+    "lastUpdated": "2026-07-02T21:08:13.782Z",
     "updatedBy": "n8n",
-    "version": 189,
+    "version": 190,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-07-02T21:08:13.782Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added financing milestone: Elroy Air SPAC merger announcement with Columbus Circle Capital II ($800M valuation)",
+      "projectsAffected": [
+        7
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNazN3Qzd5MGJMajQtQkNKV0xIQlFNak95dUQzdE95YTd3QmFQblJHWFZCWlFpWjU5NDhLdHA4RERORkZxX2tYMXVWekVleFlaNm81NkUzeDFvVXQwYlF1M1VjSXh3eUd0YlQ2R3Z6NlNYNm53d0JkVVNVX0RyZDJPS20tczFUUmZSVllXRnBBMjJibmxOblUycEYweW5IMV93akJBdFBSQmRxN3JtZVF3RlpYazc5VnhwTTlyeUZZVFE3WXdLWGExX0N5a0JtQ1pUNllfQmpJaW9LRDRjNnBWVExzZ1Vxa2MxZTdr?oc=5"
+    },
     {
       "timestamp": "2026-07-02T21:07:42.958Z",
       "source": "n8n-auto-monitor",
@@ -453,15 +462,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRVpEc2FQMW1sRklMODVOcWsxU2NnM1Yta1U4RWw4aXphOFltaGZPRnk4RWRQeXNNVnJIWmNHdllUY0xlUHdoSWxPUUlpVmFxbE9pQlpGam1wQVZTQUZqRWdOYThvV1NNa2d2UmlVZUxJRE55anhVZ2dwT1VHMXV3LTF2LThSQVNEVlpEYlRNdmE1bzJDdWdIeWx4OVIycUF2OHU1SkxRTW5GNVNCNUl2Njg1c0s2d1ZIZ1ExMjFqb2ViaFk?oc=5"
-    },
-    {
-      "timestamp": "2026-05-20T12:01:36.413Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated milestone with 2026 commercial launch confirmation from Seeking Alpha article; added reference link",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVA4RERGSk9DNVN2clNxMnNmWURCb3B1am5rMnRUaVBaNUpZc0YwTEg0RGFlR28xM2VXNmhmTG5GeVFFeWhIeXZPQjlKQ3NnSzlval9POVMxekpQMEpQQ1J0alhkWTM2T2c0d25jQXVpZ2RKVlFwTDRHVk1qRHRFMHFxMWRpS1hDdTZPeUkwcjFRTlVvZ3hFTjl0d1RtbS1mbVZodEh1R2FXbEFoNGx3WV91NWk?oc=5"
     }
   ],
   "projects": [
@@ -1037,7 +1037,7 @@
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement. Elroy Air announced SPAC merger to fund production of heavy-lift VTOL drone platform, supporting eIPP program participation and commercialization timeline. Company announced plans to go public via $1 billion SPAC deal (Zag Daily report). This represents a significant corporate development milestone for the eIPP participant. Elroy Air pursuing Nasdaq listing with $1 billion valuation (2024), indicating significant capital raise and corporate maturation milestone.",
+      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement. Elroy Air announced SPAC merger to fund production of heavy-lift VTOL drone platform, supporting eIPP program participation and commercialization timeline. Company announced plans to go public via $1 billion SPAC deal (Zag Daily report). This represents a significant corporate development milestone for the eIPP participant. Elroy Air pursuing Nasdaq listing with $1 billion valuation (2024), indicating significant capital raise and corporate maturation milestone. Elroy Air (project participant) announced SPAC merger with Columbus Circle Capital II, valued at $800M. Company continues advancing eVTOL development and certification pathway.",
       "links": [
         {
           "label": "DOT Announcement",
