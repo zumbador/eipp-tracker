@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-27T05:04:04.273Z",
+    "lastUpdated": "2026-07-02T21:06:25.043Z",
     "updatedBy": "n8n",
-    "version": 185,
+    "version": 186,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational phase",
-    "bannerMessage": "Joby Aviation advancing toward FAA certification across multiple state projects",
+    "bannerMessage": "FAA internal opinions divided on early commercial eVTOL operations timeline and regulatory approach - monitoring impact on all eIPP projects",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-07-02T21:06:25.043Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added banner notification regarding FAA internal discussions on eVTOL commercial operations timeline affecting all eIPP participants (Projects 1-8)",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblRtWnBZaTBvM0p1WllqMVpmdzBpVWJXR0pVR2JyQ0JhN21hTURlLWItWndUMmQtMFFfVXVRcWRHVmg5NjRDSFI0NDg5LXk1clk5bUt1MFAta3ZPVUFGUFY0dFFpQ1I2SWZubzZiNDRCUVgtX1hGVTNtaGg0MHU4dlFTa1NObnBmODgwQXlzMzAwWE1PYjB2bENpc1RTRWNadGc?oc=5"
+    },
     {
       "timestamp": "2026-06-27T05:04:04.273Z",
       "source": "n8n-auto-monitor",
@@ -451,13 +458,6 @@
       "description": "Article references BETA Technologies' 2026 guidance reaffirmation and eVTOL development milestones within FAA eIPP program, but lacks project-specific details needed for precise milestone or status updates. No concrete changes to individual project records warranted without additional specificity.",
       "projectsAffected": [],
       "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQkJMNkN2OVEwOG1fU3B4elhIdFpDTlhfMDdVclMtTzkzemh2d29aUU1oQ1RjRm43MEFWVGgyQU1YenNmOXdaVmtkb1VVOGZ2amttS1FsMXlkT0gzaUZTUDMzQUhmUnkweWFDOXB2b0R6TnFGZzNRUmhEcHFab3ZpdW5VZENpM3QzTllzS0RDQjNjaWNXNV9nNXVqZw?oc=5"
-    },
-    {
-      "timestamp": "2026-05-18T12:01:24.551Z",
-      "source": "n8n-auto-monitor",
-      "description": "Article references BETA Technologies' participation in FAA eIPP but does not provide specific milestone updates, OTA status changes, or new structured data for individual projects. This is a market analysis piece rather than operational/regulatory update.",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0dSVTZwczZfNUw0Q3dFLWg4Zk05R082X3luN2J5d2VncVRFRmJLN09CME5iX0ZOVmJJZmw1S1lYcy16MXNmRjhtZzJ2N3l3QkF5V0h0R0p3NjJZWWk1V1dmWF91cDd1dndZNnk3Q2VjYWtxZ3dhU1ZqYVZzaEs1UEI5SGFwQWEwb3l0U1lCV2JBRTVObzBhNFU5eWkxUkFtRjMybQ?oc=5"
     }
   ],
   "projects": [
