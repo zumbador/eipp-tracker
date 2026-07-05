@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-05T20:05:41.497Z",
+    "lastUpdated": "2026-07-05T20:05:59.107Z",
     "updatedBy": "n8n",
-    "version": 191,
+    "version": 192,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-07-05T20:05:59.107Z",
+      "source": "n8n-auto-monitor",
+      "description": "Financial valuation article about Archer Aviation - no operational or milestone changes to eIPP project data. Article discusses stock valuation and Russell Index inclusion, not FAA certification progress or deployment timelines.",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRzJDZWlqWEVWODZKYktjZFEzcDVGbXNsNGRXR3dNejl1dWFsNHlzV1pKenpzd1BTRE9ackRweHBScUJiZF9YNFV0YXNzUkx0TGRFQnZEd1JfVi1HVnZNMW1MT2tvdy1peDRURnF1b0dRVm9LcEVSTkNsTUpkVTJDVlo3cFZJTE14Sm5rNzhSeUg5UVN2WmxHalhfb1hkLURlV1o3TEpzY3dTSXdkTVg4aGZ1UEx4Qi1YYkhqd3FqOUNZQkQxd2tMcmRzOWoxSy12NUsw0gHYAUFVX3lxTE8tRWVTdkZoOV85dkJ6aWtCVHB5NzdnSVRxTHdsM011NGV5c2tBWXRUSGZKNFBUUXk5aUtaLTh5b2JmRU9qQnU0U1J5bklxYzlZTThpaUtXTDNRMVZqdWlhaXV5bjA2WThEUkJSSDJHRVVGajBONWxKUGNrSVpiQURkWHFRenJyM0Z1dnR3Mmc0ODJlVVNuRFl2SXZ1NVBVTFR0MzdYbGphNEVsTHdnRld1eFRxSDVkc0hDWXVMcVpkeC1QN1ExTFFCNDlyWFFhS1NWVi1lRnJ6aw?oc=5"
+    },
     {
       "timestamp": "2026-07-02T21:08:42.159Z",
       "source": "n8n-auto-monitor",
@@ -455,13 +464,6 @@
         2
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR2Rxd0s5dHd6VXlZeVFUb3ZPdE4wS3RHWkxqQ1NBbDE1LVRNWEk3cWFYV1IzUDZTS1RWRTNvSlFhclBQUl92MkNDMTFMcTFXY3BWdGp5T21nZnIzT0poOGM5UG5ldVBEQVFKQWNCcU5UcWktOXY2ODJaYU9mQUdrbm11QUYxOU1iMDNBN0VUT2owYUk1bGhWeVpUUWp6UWJndHpXVEpfN2tuRm00ZHh5WDJrSER4ckxmLVE?oc=5"
-    },
-    {
-      "timestamp": "2026-05-22T12:00:55.777Z",
-      "source": "n8n-auto-monitor",
-      "description": "Article references BETA Technologies electric flight demonstrations in Florida with state sponsor Florida DOT, but Florida DOT does not appear in current eIPP project roster (projects 1-4 show NY/NJ PA, TX, UT sponsors). Cannot match to existing projectId. Recommend verifying if Florida DOT is an unlisted eIPP participant or if this represents a separate BETA initiative outside current tracked portfolio.",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNmtWUllzNnB5Y25Sc09YMWpySGN0MVV4TzNOMGNTbkthSldnM3JSektIUk1YN3lnNUJzcFlTLWRGY1pWU2xRRHVacTRMd1c0Ulp4RTVLUGowaTk4UkZUTEE1aXMxbVh3ZjlxejFObEU2QmRBQVZFWjIxR3dSdGxncXI0NFhIQXZRVWY4RXJJSnd4NU5aVnpjSnZRdjFUYjR2M1RjWHdwMUQ0VnFGYUpZd1NReWR3Y3pkRmgtdUY1aGc1SGxMNGM0?oc=5"
     }
   ],
   "projects": [
