@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-30T12:00:40.908Z",
+    "lastUpdated": "2026-07-30T12:00:57.683Z",
     "updatedBy": "n8n",
-    "version": 209,
+    "version": 210,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-07-30T12:00:57.683Z",
+      "source": "n8n-auto-monitor",
+      "description": "Financial analysis article - no operational, milestone, or OTA status changes identified. Article discusses stock valuation following aircraft news but does not provide new project-specific updates to eIPP tracker.",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMy1pTXdSVDlJUHhYRnRPQ2dnMVYyMENXcjBLcEZaTTIzYURfM3B1N0VqVFFqMGNoSWpFTnlKd3p1ZEN1YkF0dWVMZjFaQWx1S0tiSWpRem8wNUtrdE9RLVhvTFVubkhpV1RWYjhLMW1XLW52blNMQ3hwMy1mVVFqRVoxQ09xZFVNT1cwZFlPU1lFZkhoSUNMSFZFMWczTFdMaUFHdlZLaGY4SW9DTDFEM1EzUTZoOUhHem5vTi0yZ2ZHYUE4MENUMEVmejVxN2xaYUlj0gHYAUFVX3lxTFBnMDh2bVdjT0ZGZVNlZWFWM3lUOERiUXd1M1RmbFJWOFJTb3R0Q0pJOC1paHQzelF5ZV9uaHdENjMyMWI3aU1Zb0Joa2xpZHl5SWhRVW5ndGpTZ0NDdk02Q25WNEs5Rlg0aDV4UjdXYjRYc2dOdGg1blF4TzkxcGNLMHZRZmZYSVVsREF5bzc3YVowVXlaaVg0MGh5SFJRTHlYSXUxX1Y5aWNrQk8zVGJZQTVRc19GUEVsM3BPR29DcTViOW5xc3l0SmVCSmpCWEF4enhMRENwYQ?oc=5"
+    },
     {
       "timestamp": "2026-07-30T12:00:40.908Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +468,6 @@
       "description": "Article discusses FAA's ongoing process for eIPP cargo and passenger flight authorization; no project-specific milestone or status changes identified",
       "projectsAffected": [],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVlREZjEtSUtEdWUxNThBV1M2aXllYWRzY3V3clNGSFI5QndrYU1CNmRZeE1VWXZaRnNmSU9aWTktdm5ZbVhLZU5VQmdCU2x5dHo2WUd3b2dFMjh6eTEwb1hpYThlcG1ZVkRkYzZjYW5YNU5TbW1jZDBVdDRxMUFXSi1oSVhObEpBNW9lbFdQa2RpQTNGWWtBZ29qX2w4eGhWWm1ILVRhT21UWHRDZF9VaVlXbFJOVGVzY1B3YmhCU0tLcXhWVnJuN0Fn?oc=5"
-    },
-    {
-      "timestamp": "2026-06-08T21:07:38.649Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 2 milestone to reflect Beta Technologies' competitive positioning in eVTOL sector; added article reference to project notes.",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVlySy1NaHczQm44dl91SG8zMjYtNi1mSG0xZXhqRkIyTlNEa0xTLTJrRnBKV0h2d21EMW9yS1loaHd6R0hOUlV6cnM3T29nNHRHai1LUDVsSEJUM3VmUjVTY2tISGlUSmNhbTNTanZ0ekJhSmJwRTREMHJYbnVYeFdxUjczb1Itb3E5WUc0SGtsY1JjU3BrSjRYeEp0OHJEd2VHUHdpOXYzZkk?oc=5"
     }
   ],
   "projects": [
