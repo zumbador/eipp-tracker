@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-30T12:00:06.537Z",
+    "lastUpdated": "2026-07-30T12:00:17.366Z",
     "updatedBy": "n8n",
-    "version": 207,
+    "version": 208,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-07-30T12:00:17.366Z",
+      "source": "n8n-auto-monitor",
+      "description": "Product development update: Elroy Air Chaparral drone gains new autonomous delivery capabilities",
+      "projectsAffected": [
+        7
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyZGVsMW1RWHVHZXZYTFROOEUtb2lQbjFiM2hhSzhsUkZGNE9VRDh5N1VmaGJ5ZUNCdnNPTTVFVHgzWUNsNnpsYnBGUWZMcllJbC0zY0dlZ3J3RTdsMFFXYk85R2FicExBQ1N5WmFUT0RnTURadVHSAXtBVV95cUxQVWF4OTVlUGxjNW5YWmdFRG1IS0NGTnlBaC1qcjNPelc2QUhxRkhkVDhPU0JYVk9leUZCamRrY3duNnREMHdUSVFndDRnRXhubnVNMV9KSkxFRTQ1WDFTVnMwX0pIUEpQWjd4UEJBWjdYTndhaVhlNy1RME0?oc=5"
+    },
     {
       "timestamp": "2026-07-29T12:00:29.872Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +468,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlR3SUZ1N25rbExteFpqd0xoZm0wWkQwWEhxSnpsT0tna0VSRmNXclVfVXpfLUtiX01MeThSN0dkTEp2cjgxYmpSd0Rjak16Z0dkc29hT29MYjZWcktFWlV2dURPRExwN21qWVRXYkI0MTFIY3BUeW1hMUIyYlRDN3oxR1hxaUpOMkg5NDR4SWRDcnZuZW54Z25tSmtmOF83NHZ2ZGt5Y2FOdWc?oc=5"
-    },
-    {
-      "timestamp": "2026-06-04T17:12:17.327Z",
-      "source": "n8n-auto-monitor",
-      "description": "Beta Technologies facility tour demonstrates operational progress; milestone updated to reflect public engagement phase",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85ZFF3TGk4aVlRaW55OVRqd3lVcVdrNGlFdy1vd2RaRjlleE5iZ0wxSkN1SEdOMHNzLVVsWnYtcmVFbThPMmZWbFViU0ZVVERQSXgtcGYyR29IYkZadUlBSzg4elRLZ294RnJFbDZBVkxIc3A1X1FtS045ZTVzQQ?oc=5"
     }
   ],
   "projects": [
@@ -1061,13 +1061,13 @@
       "focus": "Medical Transport + Autonomous Flight",
       "keyOp": "Piloted medical and regional ops statewide; autonomous flight corridor extending into Virginia",
       "otaStatus": "Pending",
-      "milestone": "Kratos manufacturing Chaparral cargo drone in Sacramento",
+      "milestone": "Chaparral autonomous delivery modes expanded",
       "opsTarget": "Summer 2026",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement. Elroy Air announced SPAC merger to fund production of heavy-lift VTOL drone platform, supporting eIPP program participation and commercialization timeline. Company announced plans to go public via $1 billion SPAC deal (Zag Daily report). This represents a significant corporate development milestone for the eIPP participant. Elroy Air pursuing Nasdaq listing with $1 billion valuation (2024), indicating significant capital raise and corporate maturation milestone. Elroy Air (project participant) announced SPAC merger with Columbus Circle Capital II, valued at $800M. Company continues advancing eVTOL development and certification pathway. Kratos selected as manufacturing partner for Elroy Air's Chaparral cargo drone production facility in Sacramento, representing significant manufacturing scale-up milestone. Kratos selected as manufacturing partner for Chaparral cargo drone production at Sacramento facility, supporting operational deployment phase. Kratos selected as manufacturer for Elroy Air's Chaparral cargo drone at Sacramento facility.",
+      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement. Elroy Air announced SPAC merger to fund production of heavy-lift VTOL drone platform, supporting eIPP program participation and commercialization timeline. Company announced plans to go public via $1 billion SPAC deal (Zag Daily report). This represents a significant corporate development milestone for the eIPP participant. Elroy Air pursuing Nasdaq listing with $1 billion valuation (2024), indicating significant capital raise and corporate maturation milestone. Elroy Air (project participant) announced SPAC merger with Columbus Circle Capital II, valued at $800M. Company continues advancing eVTOL development and certification pathway. Kratos selected as manufacturing partner for Elroy Air's Chaparral cargo drone production facility in Sacramento, representing significant manufacturing scale-up milestone. Kratos selected as manufacturing partner for Chaparral cargo drone production at Sacramento facility, supporting operational deployment phase. Kratos selected as manufacturer for Elroy Air's Chaparral cargo drone at Sacramento facility. Elroy Air announced new autonomous delivery modes for Chaparral drone platform.",
       "links": [
         {
           "label": "DOT Announcement",
