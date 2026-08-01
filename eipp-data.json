@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-01T12:00:04.374Z",
+    "lastUpdated": "2026-08-01T12:00:53.988Z",
     "updatedBy": "n8n",
-    "version": 213,
+    "version": 214,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational phase",
-    "bannerMessage": "⚠️ Safety allegation involving Wisk Aero (eIPP Project 4 sponsor). Monitor regulatory response.",
+    "bannerMessage": "Joby Aviation facing $4.9B certification challenge; financial pressures may impact timeline",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-01T12:00:53.988Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article references significant certification challenges and financial pressures for Joby Aviation eVTOL program affecting all projects; insufficient detail to update individual project milestones or OTA statuses at this time. Added banner alert for stakeholder awareness.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeGFWNkRURS1LeFB4R1pNMGxWa2hnZ05MZlFtSFBGaUM2dmpwWkZuYWVwTl9STHZ6X0tNWi1kcERKSGZrb0RoUWFxWmpYZ0FyLVVrSWlocm1Ld2pBZ1VQZG1TdWFENmw5eUpOc2U3Q0VxeERUTGprb213bFRHUWZDeUtaa2daVXlZT1JCS1NHNkJEMHhlLVN3b2JRWXNuUng3djM1eFNsLTVKclE?oc=5"
+    },
     {
       "timestamp": "2026-07-31T12:00:41.973Z",
       "source": "n8n-auto-monitor",
@@ -461,15 +468,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORENWS0huVVIzOXhvVDk1M1RZdzBjZE9zMm9Eb3A0VDFxOEpXUzFzdzc2Z185Q1hvWk80YmhMRjh0c3VVNGVzU24yVGxWUWo2dEEwM0w0a0pfN3JMMVVkOXMyYU41NWk4N1JIVmlFS1hHMjNHcVB5ZkJ2dkNaM2VhaThtdnNyNG5YUF9MOEE3N3c2YjJFMFBsT2VhdWwxQm9pNWc?oc=5"
-    },
-    {
-      "timestamp": "2026-06-15T19:48:38.999Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated milestone to reflect ongoing flight-testing activities; added source link",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWhOd3RRb0daSUhnN1pxVjk2QjYzblRVekVhREdEeVlQaGMzMzV4Z3JWYUZpNGFBQl81MGJZOEtfQjVXRFEwbU5IVjhyMVo0UEFvdmxMOE9DaV90alluQ0VkMVFWMjdwdERVTGtybC16bnZwVVVsY3ZON2U5ZklvSDhoOFJoZWNrQ0VYMk81eDZFSDdpY3hkMV96b2JWdl9YRVRqUGxUeTN1RG8?oc=5"
     }
   ],
   "projects": [
