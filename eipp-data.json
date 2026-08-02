@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-02T12:00:04.321Z",
+    "lastUpdated": "2026-08-02T12:00:11.699Z",
     "updatedBy": "n8n",
-    "version": 214,
+    "version": 215,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-02T12:00:11.700Z",
+      "source": "n8n-auto-monitor",
+      "description": "Financial comparison article between Joby Aviation (Project 1) and Archer Aviation (Project 4) - no operational milestones or OTA status changes reported",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0xhUkxjUmdPbDh3UV9ESVFoNnczNXpTY20yNm92QXVyS1d2bThVNFctbWNkVjBYR2VubWZNNjlKVFVoUXdGNk16ektsTkM2UjhDeTRUWjVhYzBfQkNhSnNKUHIyb0VScGpJM2M5STJEODJsYkdRd3RQZWJwWWxwcjBEdVJrb21wSWtIdldlcWJfSjhtU3VNSEppX1RiUQ?oc=5"
+    },
     {
       "timestamp": "2026-08-01T12:00:53.988Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +466,6 @@
       "description": "Auto-detected update",
       "projectsAffected": [],
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemZmMWs2d09PUVlXMmh5RWJuMmk0by1TTjZCSFlsRWdnQmNzcFFUNGwyWTdhQ3JCdlpuOFFfYlZQdDhKM2U1Q1pPR05KWTh1WUFVVWVfbjhXVnMyRC1QajF1aVVOSXdNQkhFTk9BN1BGY2N4MFRVUmI5MVVpMWE4NTJJN0pUUHU5UWhFZHZtT0NXRzJQRE1nckhHM3hVU0U?oc=5"
-    },
-    {
-      "timestamp": "2026-06-15T19:49:21.899Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added market sentiment note regarding FAA regulatory catalyst focus from Archer Aviation stock performance.",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORENWS0huVVIzOXhvVDk1M1RZdzBjZE9zMm9Eb3A0VDFxOEpXUzFzdzc2Z185Q1hvWk80YmhMRjh0c3VVNGVzU24yVGxWUWo2dEEwM0w0a0pfN3JMMVVkOXMyYU41NWk4N1JIVmlFS1hHMjNHcVB5ZkJ2dkNaM2VhaThtdnNyNG5YUF9MOEE3N3c2YjJFMFBsT2VhdWwxQm9pNWc?oc=5"
     }
   ],
   "projects": [
