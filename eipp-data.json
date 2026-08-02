@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-02T12:00:34.326Z",
+    "lastUpdated": "2026-08-02T12:00:51.915Z",
     "updatedBy": "n8n",
-    "version": 216,
+    "version": 217,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-02T12:00:51.915Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article is speculative analysis about Joby Aviation's valuation and FAA progress. No specific project milestone updates, OTA status changes, or concrete operational developments reported that warrant structured data changes to eIPP tracker.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMnBhMXBmME1aTGxiS1JNZEJpenZWYlYzSW1oakt6aWRDekJjZm00Mm1JNnAwWUd3NjdUV3FmMWZFRGc4d25PWHZLRVFXcnZsRDRBMldwUGN0Z0NDSkp3YUQySWl5MEZZUFlkVFNzV09Wb1owQ2lneGRNS19pV2FwS3daUmQxMTBVUDdkQlV3dWtnSDlGZlZrd0JtWkRtSTFSXzFzUWNYbWZIdFI3VnYzVlcwNUZBNmhkTDRNcW15TEpxWGNCSFNxaGl4WW51SnhQU3fSAdcBQVVfeXFMT2pBTEd1c0I2dGV2N1N6NlZaczhOS21TQUFGQVNXNVVLajFLSWZfSnphVlZWYUNGdTRDQ1lmamNWM29sLTBYaldQT3dLZzllR29aSTF5UUFMY251dy1kdmRFYV8tQldmaHQ5djVNa2IyRU1Xb1MtWXdqZjJSaEozV09OSEFwSEoyWnMxWUVoNXRac1BvZ05KbUJFN0xHUUZqcTNZdUV0VTV3OXEyNFFkRjhrRzRzOEk1SW9QTDlNeGxkLXFudjJxa1ZQUFBGZjhhRVlMZUwzS2c?oc=5"
+    },
     {
       "timestamp": "2026-08-02T12:00:34.326Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +466,6 @@
         6
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRWdzQkRTa3d5OGlXZWp2eUJFcGdDdEJEbFlFdWFSWnNCdVlLR0hCeW9sSC1Sc2FNRnVXTXdydGxsOE9fQ3FhbkRpN1NqbkVUcnRpVWMtSzJWZTZaM3h2OE9kdUNlVnI5OTdzRXpZZVJsVlN2eUNreWIzeG9hSHFOak9aTlN4SUV4RGJKNmlOeFE2a25PZUVuLVVSS256dlE?oc=5"
-    },
-    {
-      "timestamp": "2026-06-17T21:44:18.656Z",
-      "source": "n8n-auto-monitor",
-      "description": "Project 4 (Peoria area): Added manufacturing hub expansion milestone and supporting infrastructure note for Dayton operations",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcXNWZ1JNeGRVLWFsczlOT1RSN0dUTE5JQUc1MWVhVTFzQ1FDYkMzbUVhZnhpNGVSc0pEM211ekswZk1NOGU1VE90dTNsWnRFTnVWZmEtWEZmRnVNVGlGdzRmMjJ1NmZsN0pDZHFsNW1CQzJQV2hYQkVYeW13ZjFOb1NwTUFpdWowcGF2R05IbVNHQXdCV0FodDRyTnRKNGJzWVNtUFM4SXF2bUhobzJiZEdpdEtmQ3F6TjRrdDU0MGc0aWQzbUN3SHhrMGtqZzFkQXfSAdcBQVVfeXFMTUtwX0lfMWRMYjRmMUFmWGdNenp0a29hOHJxXzZQaTkxYlpmRUcxUDNwMmlocnpKcUUta2JpM2Z1M0VCckNKMzllZjgyZXpCZ1hCWjBFMGQ5R3Rxcm1yUFMzRmhvT3RocDF5SUlCb2dZa2FhSXo3cmZ6MEJOc2tmQUxpeDRSWlBEa05pVWVMQnI1TWF3bUhpWXRJVEw1a21OZ2hldFEtODJhNFFfTnZvUy1qUjlaOXhOc3owamNRdXUycmVSRmJ3eWNXakdhMXNPN0FWWHFUMkE?oc=5"
     }
   ],
   "projects": [
