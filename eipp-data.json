@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-04T12:00:21.876Z",
+    "lastUpdated": "2026-08-04T12:00:40.712Z",
     "updatedBy": "n8n",
-    "version": 218,
+    "version": 219,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational phase",
-    "bannerMessage": "Joby Aviation facing $4.9B certification challenge; financial pressures may impact timeline",
+    "bannerMessage": "BETA Technologies secures $1B EXIM Bank financing to accelerate certification and manufacturing",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-04T12:00:40.712Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added financing milestone: EXIM Bank $1B expansion agreement announced to support aerospace manufacturing growth",
+      "projectsAffected": [
+        2
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQV3ZYYXl5ZFluTF9LdGVlSXM0Yk5KT3doNHVmV1pJbnU5MFItOGlUdnJDcE9tUy1keWpYWC16NHFjYVd0aklrTDVHVExmSHU1dU43TWJkU2c3b0x5T0VyMUhxaDNqSkVQeFFOOUkxQnk0VlJHY25uQVJMb0hZNi1wcVdUNXNwM3JSQUs4ZkNRMXZLNWR4TG9XWGNXY0RrR1djUEVlenhtcmU1MVQtS0hPRHBwRXI5azZaZkh2cVFTRUhKMExYOXVXYlNQTFY3NkR0cFdGTDc3R3lhYTd2cE9GZnNrTFZjTDRLUTJiTU5yUHlVbU9QTTVrdDh6Q0Z2OFk5RHBEOGhSX1JHQWRybnczaUtpWk9wdmhsMFE5UzNIOHhkMnlZNVlUQQ?oc=5"
+    },
     {
       "timestamp": "2026-08-04T12:00:21.876Z",
       "source": "n8n-auto-monitor",
@@ -457,15 +466,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUladi05VVVYZ3U1VlRqSjRHNDZRUC10Vnh6UXRUdTU5bDlmUWFmeWpmc205SmNfazJyN3VMV3JqRXBhZjhPWk85TlhWMGxFdmNNUFJRNVZvazNxZnpZdzRlUjFVXzZWcUs3OWxNcnNYaXMwWkhKM0xBdGtvZHhEQzdOWF85eklSaEhKc190Rlp5M1hka2dxM3JCVzFnclJJemVBcGp4dw?oc=5"
-    },
-    {
-      "timestamp": "2026-06-18T18:47:08.283Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Joby Aviation (Project 4) milestone to reflect FAA certification progress and production advancement plans noted in market analysis",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZThTQ29CUl9iNVFJTzhoeDFJRWhnY0xnVGJyc2puU2lNZTZHOUhNUDdOZUFSTnZ5TWlYVkFVQWtTQzlhYldVWFZYbVl4UHNOMXhEWTcxeUlUeGNRUllUeThSRWhZMnJaM294OTU5MUExeWdKbDhwZmxwM0RnUzVwajFEb25NNTV0RDc5U1NpVTFzR2NvaC1QREtfODFlb3E2cjdPNnEyYUhXTlJ0ZllGM3JLeF9rUmNkQkJMQjJkQ2s2U3dXbVFpS2pxZ3p4UGt1WXfSAdcBQVVfeXFMTVg3RjRTRFJVTGt6MGhUOGc1NkppRXJfY0NXR0NZZ1JndVo4U1VEVlliUXRHRlMzRzR5RzNJWkwyd29CTnJCa3V6bmVUdERUanJSVjdOOURUZEY2MGd4T1J1NTVKZFBmNUE0S2FRQjI5U0Z1R1I4dk82b09NVkpwYnpTT3V0Q3ZKcDl4SGlrR2RGT05PWlNsUWJoWUc1WTVKNHhlUlYxQ3pjdU1uWmlzVm9iTmp2NHh4OHU5RWJsYUhSdUxua3N0WGoxQzh6Z2c2cTlORHdESkk?oc=5"
     }
   ],
   "projects": [
@@ -736,7 +736,7 @@
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce. CEO commentary on U.S. aerospace leadership reestablishment aligns with project objectives for advanced aviation workforce development. BETA Technologies reports progress on electric aircraft certification for eVTOL operations. Forbes coverage highlights BETA Technologies' electric aircraft development advancement relevant to eIPP initiatives. Beta Technologies and Signature Aviation concluded AAM demonstration in Florida, supporting operational validation and certification activities. High-profile test flights completed; major FAA eVTOL pilot role assignment. BETA Technologies opened facilities to local and national media, demonstrating operational progress and public engagement. Beta Technologies identified as leading competitor in eVTOL market with strong progress trajectory. Beta Technologies expanding Vermont campus to 100 acres to support increased production and testing operations for electric aircraft development. BETA Technologies and Surf Air Mobility launched landmark electric aviation demonstration program in Hawaiʻi with Hawaiian Airlines support for evaluation activities. Loganair commercial order for five BETA Technologies electric aircraft announced, validating eVTOL platform market readiness. Alia CX300 electric CTOL aircraft demonstrated at Farnborough Airshow 2026.",
+      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce. CEO commentary on U.S. aerospace leadership reestablishment aligns with project objectives for advanced aviation workforce development. BETA Technologies reports progress on electric aircraft certification for eVTOL operations. Forbes coverage highlights BETA Technologies' electric aircraft development advancement relevant to eIPP initiatives. Beta Technologies and Signature Aviation concluded AAM demonstration in Florida, supporting operational validation and certification activities. High-profile test flights completed; major FAA eVTOL pilot role assignment. BETA Technologies opened facilities to local and national media, demonstrating operational progress and public engagement. Beta Technologies identified as leading competitor in eVTOL market with strong progress trajectory. Beta Technologies expanding Vermont campus to 100 acres to support increased production and testing operations for electric aircraft development. BETA Technologies and Surf Air Mobility launched landmark electric aviation demonstration program in Hawaiʻi with Hawaiian Airlines support for evaluation activities. Loganair commercial order for five BETA Technologies electric aircraft announced, validating eVTOL platform market readiness. Alia CX300 electric CTOL aircraft demonstrated at Farnborough Airshow 2026. EXIM Bank expanded financing agreement announced for up to $1 billion to support U.S. aerospace manufacturing growth and accelerate certification timeline.",
       "links": [
         {
           "label": "DOT Announcement",
