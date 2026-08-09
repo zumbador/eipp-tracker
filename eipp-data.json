@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-08T12:01:04.735Z",
+    "lastUpdated": "2026-08-09T12:00:09.023Z",
     "updatedBy": "n8n",
-    "version": 231,
+    "version": 232,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-09T12:00:09.023Z",
+      "source": "n8n-auto-monitor",
+      "description": "Utah DOT project milestone updated: hybrid-electric flight testing completed, advancing eVTOL airspace integration progress",
+      "projectsAffected": [
+        3
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQnJhb3ZuanBmdmE3NFNhb1hSN0w2bkRQTUhHZFh2eUNlaktCaXhhVTFTZU4yZTZFU0ZyUUtwNFAxRElkWjA1M3Nfd2hhREFSNE8wRTdrcE1wWVJMSjRUcWw1U3lONy1RMWd3a0RLVllYeGlGOEV6YVBuMGg3eUVIbmpMd2swWWVWSWN1OHQwWGpzQzRMRl9QWERyRElqRTM1TWR2WEo4LXZrbFhjZkl4T1Q4RjE5MkIxM05BTlB6bTJXMm9qeWVTQU1Sb2xqOVFsV0JrazNSWW5JakhmaG5teVBoVWhhMGhSclJZY19zN0dScTZFSlRZ?oc=5"
+    },
     {
       "timestamp": "2026-08-08T12:01:04.735Z",
       "source": "n8n-auto-monitor",
@@ -461,15 +470,6 @@
         6
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRHdLSXNrZjhNQTVfM3JwTXQ2eGxjbk9sQnAtbjd1VHRXeXBHMjJsZ0pjRjFPZjFOQ1pIelJ3cW5yNGxLMWR4UzRLYVpkZXAxVXBsQzdoY0FVM185Njlpd0xSaWdlUVR2MmpZS2o5T1RQWElkUFNYS0Nuem04YXVxeVY2eHFnZ0xqY3hZSVZucVI3MVhKTzJLdmIwcWFJTXUtcVlGYldqMUVHdXd3Sm4tZjRhVE5nQ3NRNDNFMmltaw?oc=5"
-    },
-    {
-      "timestamp": "2026-06-27T05:02:37.639Z",
-      "source": "n8n-auto-monitor",
-      "description": "Elroy Air SPAC merger funding announcement supports eIPP program production scaling",
-      "projectsAffected": [
-        7
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGEwekhBbzJqR1dDaXppMm8yQWZEWUJWZm1zVlhzY01aYjBlY3dCcjdud0JucjI3QVpaZGg2MFpMN29zRGlBQjJucHlUWHpvN3cyZGhJeENOUHViZHRpQ1R4cVR2REdUeDhPUXpTRmZaRThJR0g1Mk9sRklFQTkyaDNPb2ozZEdzZnlZZmdZbWZNN1pQbmdQZFhnR1h6QVFyUkxfNHFiU0E5VkxwVFEyTFlpNG5VUmRVbmkxbTVNRQ?oc=5"
     }
   ],
   "projects": [
@@ -812,13 +812,13 @@
       "focus": "Medical Logistics + Rural Cargo",
       "keyOp": "Medical deliveries to rural communities across mountainous terrain and wildfire-prone regions",
       "otaStatus": "Pending",
-      "milestone": "",
+      "milestone": "Hybrid-electric flight testing completed in Utah",
       "opsTarget": "Summer 2026",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match.",
+      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -827,6 +827,10 @@
         {
           "label": "Future Flight Global",
           "url": "https://www.autonomyglobal.co/future-flight-global-joins-faas-first-nationwide-push-to-put-evtol-aircraft-in-real-airspace/"
+        },
+        {
+          "label": "eVTOL integration advances with hybrid-electric flight in Utah",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQnJhb3ZuanBmdmE3NFNhb1hSN0w2bkRQTUhHZFh2eUNlaktCaXhhVTFTZU4yZTZFU0ZyUUtwNFAxRElkWjA1M3Nfd2hhREFSNE8wRTdrcE1wWVJMSjRUcWw1U3lONy1RMWd3a0RLVllYeGlGOEV6YVBuMGg3eUVIbmpMd2swWWVWSWN1OHQwWGpzQzRMRl9QWERyRElqRTM1TWR2WEo4LXZrbFhjZkl4T1Q4RjE5MkIxM05BTlB6bTJXMm9qeWVTQU1Sb2xqOVFsV0JrazNSWW5JakhmaG5teVBoVWhhMGhSclJZY19zN0dScTZFSlRZ?oc=5"
         }
       ]
     },
