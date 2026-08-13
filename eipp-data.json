@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-13T12:00:08.668Z",
+    "lastUpdated": "2026-08-13T12:00:39.904Z",
     "updatedBy": "n8n",
-    "version": 238,
+    "version": 239,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-13T12:00:39.904Z",
+      "source": "n8n-auto-monitor",
+      "description": "Auto-detected update",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWl90ZzhPcGI4a05VZGNycFpkd0dvdnlkRVlnYjk0M2JQU0wwNG9DcnpwLVRUZ0ZzQTVFWHFkRGtiRWVEQ2kwU0s2SXJxSzAyTnZMRTJvNEZFNERySDl2bmg2REFibC1nSFhkck9VeEc5MkRlZTRtbE9NMjR3Y0Y3cDZmYmtIanpVQVk4?oc=5"
+    },
     {
       "timestamp": "2026-08-13T12:00:08.668Z",
       "source": "n8n-auto-monitor",
@@ -463,15 +470,6 @@
         7
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNazN3Qzd5MGJMajQtQkNKV0xIQlFNak95dUQzdE95YTd3QmFQblJHWFZCWlFpWjU5NDhLdHA4RERORkZxX2tYMXVWekVleFlaNm81NkUzeDFvVXQwYlF1M1VjSXh3eUd0YlQ2R3Z6NlNYNm53d0JkVVNVX0RyZDJPS20tczFUUmZSVllXRnBBMjJibmxOblUycEYweW5IMV93akJBdFBSQmRxN3JtZVF3RlpYazc5VnhwTTlyeUZZVFE3WXdLWGExX0N5a0JtQ1pUNllfQmpJaW9LRDRjNnBWVExzZ1Vxa2MxZTdr?oc=5"
-    },
-    {
-      "timestamp": "2026-07-02T21:07:42.958Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added corporate development note regarding Elroy Air's Nasdaq listing pursuit and valuation",
-      "projectsAffected": [
-        7
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90dVBxczc1SFhnTkJ2bmZtanE1ZzBqbFVLUXBSNjBjaWl5UFg0WDFSLWY4SGpMSWpWSUdLaWVyLWVDYTk4Q0l4VnZmZERseVdfVkNZM0FwSWczRlc2d1BIZFdxbEkzdW5JcWNPR3VkOA?oc=5"
     }
   ],
   "projects": [
