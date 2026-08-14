@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-14T12:00:00.957Z",
+    "lastUpdated": "2026-08-14T12:01:04.005Z",
     "updatedBy": "n8n",
-    "version": 240,
+    "version": 241,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-14T12:01:04.005Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article discusses BETA Technologies stock performance and financial metrics (revenue growth, cash burn). No specific project milestones, OTA status changes, or operational updates identified. General company financial news does not warrant structured eIPP data modifications.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV25tQ2ZKT1lKSUdBeWc4N2tuYVBTa2huaGV4cDNsOEMxMXdZa2lxejFtRjFJY04tY0pPZ3NwajFTM2tZTUFjdUsxLWlXa2FhV3NiY3B0YWdrSkZUM3paRFh0RjBveFVrTGQ5Sm5DbUdPTGxyVVltZHpqV0lPamN3MlBmeUc4RDhKa1VNcDhfcmtuMUx5bjlPRTNsX1pNdU1feTFqUm43dWdwNnlnV3F1aDhVZWZpaXUyQkQyUFVIOFUxTm1nbmFnTWxUVHVPcHBrLTgyN0JB0gHbAUFVX3lxTE5kbXU4OUtPZjlsN28xZmV0SDdfTHlxOGRuMDUwQURIR01ZTTRQcGxPUm0wR0RYLTg3WjVnb3QzQ2VCSi1oWkxpeHRxYnRMSGxKaU11bzBCR2YtT1JWUXRBY3RkcFEyWUxCOGJXNUV2dHExSENrUGJZQUI5N3k5MDNoOU1FdXJ4a3B0WEpvdHJBOFoyMTN4RzdPM2h6ak1EMlpKNXlwLU1fa3RoRG5rQVUyUk9vUmt0NF9wdFN3RWR0anU1R1d0cUVZYS1RRmFpX2R3NFVDakZHbTljRQ?oc=5"
+    },
     {
       "timestamp": "2026-08-13T12:01:10.068Z",
       "source": "n8n-auto-monitor",
@@ -461,15 +468,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRzJDZWlqWEVWODZKYktjZFEzcDVGbXNsNGRXR3dNejl1dWFsNHlzV1pKenpzd1BTRE9ackRweHBScUJiZF9YNFV0YXNzUkx0TGRFQnZEd1JfVi1HVnZNMW1MT2tvdy1peDRURnF1b0dRVm9LcEVSTkNsTUpkVTJDVlo3cFZJTE14Sm5rNzhSeUg5UVN2WmxHalhfb1hkLURlV1o3TEpzY3dTSXdkTVg4aGZ1UEx4Qi1YYkhqd3FqOUNZQkQxd2tMcmRzOWoxSy12NUsw0gHYAUFVX3lxTE8tRWVTdkZoOV85dkJ6aWtCVHB5NzdnSVRxTHdsM011NGV5c2tBWXRUSGZKNFBUUXk5aUtaLTh5b2JmRU9qQnU0U1J5bklxYzlZTThpaUtXTDNRMVZqdWlhaXV5bjA2WThEUkJSSDJHRVVGajBONWxKUGNrSVpiQURkWHFRenJyM0Z1dnR3Mmc0ODJlVVNuRFl2SXZ1NVBVTFR0MzdYbGphNEVsTHdnRld1eFRxSDVkc0hDWXVMcVpkeC1QN1ExTFFCNDlyWFFhS1NWVi1lRnJ6aw?oc=5"
-    },
-    {
-      "timestamp": "2026-07-02T21:08:42.159Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added Toyota-Joby Aviation partnership information to Joby project milestone and notes",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42c0dmTl90VjN6ZzIySTFLY3RQa1lSaTNpTTNDYlpsSFhiREFUNDFlQS1jQlVZUi05Mm0wZU1IZUh1VGNGczlDTVV5RXNZdXdTaVNZM0NlbE02eFotZExIM0RnV0x6a0FrcmdBZDM3WQ?oc=5"
     }
   ],
   "projects": [
