@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-15T12:00:11.576Z",
+    "lastUpdated": "2026-08-15T12:00:30.217Z",
     "updatedBy": "n8n",
-    "version": 242,
+    "version": 243,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational phase",
-    "bannerMessage": "Boeing divests aviation assets including Insitu (sold to Archer). Affects Project 1 supply chain.",
+    "bannerMessage": "Wisk Aero ownership change: Boeing divested stake; project continuity under review",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-15T12:00:30.217Z",
+      "source": "n8n-auto-monitor",
+      "description": "Boeing divests Wisk Aero stake; ownership transition flagged for project oversight",
+      "projectsAffected": [
+        5
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmhMd1NWVS1zSVdGMWlzQnRpUGt5cjNXSHFVRDhMSzNfT0RnRTNfMlFMNEp1YUJ3RGx4eUlrME1ObkVTSi1xdzhiUGFSNGhSVkVxX28wWjNXaWxrdDVybVR4aGVRNW5Eai1xV3A4YjYyY0NneUgyZkRsZnhNcHhTZVJvOGZuQkxZWnJDNTNSM2g?oc=5"
+    },
     {
       "timestamp": "2026-08-15T12:00:11.576Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +468,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0Z6UmZsRUQ3XzJkcXFjdXZJS2cyZWFyWGJKakVCYmx4UUo1X010NE5RMHpFSXV2Q1hVRWx2WEwtSU53blYyeGNOdU0tUlhsekxtbHNWdTVMUXZhU0R0Y0p1S3hIbnJqYWNzZ0lYNWRPUS04eGVZbWNLUXotSTNpcHduZE52Z3Qz?oc=5"
-    },
-    {
-      "timestamp": "2026-07-14T20:36:36.651Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added media coverage link from wallpaper.com featuring Archer Aviation eVTOL development discussion",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaHE4UjhrWFJNNEpaWUFvTG9KTS00N0lhN2NZalZiOXhEczdST29acHlUdHJxRnFqZU83U2N5SmNrcUZxcW1DMHJWWW1Gd1QzNlRrTlFyR1FERmduVklNQTZhRFNiNVc5LWJyQzk3UVdMWWFiNjNRREVWYWt4T3NYeXZuVVJZWWlWWVk4OXg5a1J2WEhD?oc=5"
     }
   ],
   "projects": [
@@ -1014,7 +1014,7 @@
       "cargoFirst": true,
       "editorial": "The Louisiana offshore energy project deserves close attention. Bristow Group, the operator partner, has been coordinating with the FAA on the Elroy Air Chaparral for over a year. When the helicopter industry's dominant offshore operator validates autonomous cargo as a viable replacement for manned supply runs, the cost calculus changes for every operator in the Gulf.",
       "editorialDate": "2026-03-18",
-      "notes": "Elroy Air Chaparral: fully autonomous, 300 lb payload, 300-mile range, no pilot, no passenger. Bristow Group is the customer and long-time partner, providing operational credibility. Offshore energy helicopter costs run $3,000–$8,000/flight for platform supply runs — the economic pain point is real and institutional payers are already in place. Elroy Air CEO Andrew Clare: 'That doesn't happen without a truly mission-ready aircraft and a team that's been doing this work for years.'",
+      "notes": "Elroy Air Chaparral: fully autonomous, 300 lb payload, 300-mile range, no pilot, no passenger. Bristow Group is the customer and long-time partner, providing operational credibility. Offshore energy helicopter costs run $3,000–$8,000/flight for platform supply runs — the economic pain point is real and institutional payers are already in place. Elroy Air CEO Andrew Clare: 'That doesn't happen without a truly mission-ready aircraft and a team that's been doing this work for years.' Boeing divested its stake in Wisk Aero (Aug 2024) as part of strategic refocus on core aerospace business. Ownership transition may impact project timeline and technical support.",
       "links": [
         {
           "label": "DOT Announcement",
