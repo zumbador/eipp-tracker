@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-16T12:00:36.419Z",
+    "lastUpdated": "2026-08-17T12:00:08.053Z",
     "updatedBy": "n8n",
-    "version": 245,
+    "version": 246,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
-    "globalOtaStatus": "Multiple projects advancing toward operational phase",
-    "bannerMessage": "Wisk Aero ownership change: Boeing divested stake; project continuity under review",
+    "globalOtaStatus": "Multiple projects advancing toward operational deployment",
+    "bannerMessage": "FAA certification achieved for eVTOL air taxis; 2026 US launch timeline confirmed",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-17T12:00:08.053Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article announces FAA certification for eVTOL air taxis with 2026 US launch target. Affects multiple eIPP projects (1-8) but specific project assignments unclear from article. Global status update warranted; individual project updates require clarification of which manufacturers/projects are certified.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1g0NUJfQkZjS2plUjBqbHNoeWFhUWlzVUdrdlBaTWpQbkRPX0YtbFBvRGNiTENXNkszWXgtN3JZZC05X1VtLUZnUE93aWlfYTctN0FVQ0lDVWZ2NlFpM3hZQjI4SlRhTzJ4d0MxbnNZLWFwcWVuRWhOQkNYOWFaX1ktM01EaU5Oc0cwNm01MWFiYThD?oc=5"
+    },
     {
       "timestamp": "2026-08-16T12:00:36.419Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +466,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORU11WG5ncHdsaEZNMl9UNHdaTHJmT3J4czY3NEdBbG1ZV0NPWlA3ZDlJV0tYdGZFVVkzb3VBUHlUMHhYUDFLUFBxb0I3OHM2dUtIaUtHNmRSTlZ5NHZ6T2puVS1UVkNJU3VucU1tb2l2bFJzYmoyOFhfRW9MSHdLczdGVV83Zkg3cmRlejlWZ1J5M2xGdjFablhfS0VTV2xTZHY3a2lvaVU1MUpkekN3Ujg0NnJIR0dVU2F3NXBEVzFXVU4yOVpwV0dQbUhCcGoyazBabS1JV0tBRGtHcGtYV2pyVmE3VEY0UUNhU2UzNVhfMWNGQ1ZteG5tbG81UVFHeXdHNUJ4Y1g?oc=5"
-    },
-    {
-      "timestamp": "2026-07-20T19:43:28.252Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated milestone to reflect LA28 Olympics deployment strategy from CEO interview",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX211azBwaGpkT19meXRYSFlLaDcxQ0hvUnlMNjZqMm5TYVVELVIwRkVjeWFDMnBIc2RRbHdLNXU0TVN3MmxvTGxTdUh4aURiSjdaX0EtMGlWQlhaRGxkSzQwNDFCZjVIRnZjRTRQZ2p0WUcybWZ5aTVqcGR5Q2xkaXZpbkoyMHhOT1hCYTFSa200emxYWjM0Tw?oc=5"
     }
   ],
   "projects": [
