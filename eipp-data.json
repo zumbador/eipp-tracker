@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-18T12:00:50.798Z",
+    "lastUpdated": "2026-08-18T12:01:09.007Z",
     "updatedBy": "n8n",
-    "version": 249,
+    "version": 250,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-18T12:01:09.007Z",
+      "source": "n8n-auto-monitor",
+      "description": "Auto-detected update",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWs4ZVN3NVZOU3VuOWJRcE9EQk5nRzBDUXB3UmRhVWhEckRHZzFScVdhUzd0ZkVrNHBqQzNLLUdOVG5kdDdsb0NjSDVrSF9JU3kyTkhLSWxCZlhfTmRRSG82WkJrUHFEd2w4bld4aEEyT0FqdWhqNW5RSmtvLUtNRms2bng1ZW5VbzhwSDNtU1pJTk5oVHZnYmhWaW0?oc=5"
+    },
     {
       "timestamp": "2026-08-18T12:00:50.798Z",
       "source": "n8n-auto-monitor",
@@ -457,15 +464,6 @@
         7
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNzYyTkhXWV8xNXBQY2twdW50TDlCY2lRZE84QTFhWmZaLUJTU1VkZ1MyTkhmYUMxaUdvVmRzUlE0eGw0c25RZF8zRjdPcHl4bWZ2Q2hJaTZuemY4SExJWFRNend1U3JNYkhuOTFHSExoWkx1a3d0eVB6UHNyeU54V0s1V2Q1S1hod0g1blNSS1ZRVXFsbElDWS1PRXRCV3FpR3JicGhpMlpLemZVSzl4MWhJZWpiaEc2Y1duQw?oc=5"
-    },
-    {
-      "timestamp": "2026-07-23T18:05:23.021Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated milestone to reflect Archer Aviation's Thunder and Halo vehicle announcements with strategic partnerships",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWRZVVd6el9YZHdnQm9LTHBZZXJfLURXZEhzTWJVa0hkanRYc1B6eUR6V2VnNW5EbHh1VEttaXFuZHlXT2J4Vkk3WUtXZnRzVklTcHI4SU5fdHg4SnJaX1ZsNXJGNTlYX2VWLXhkRDVTVjJrUF9sc18wVEN2NVlMOUdEcTdlZHBvcnR6Rk9OSnNHT21kbXVRWHUxSkZGRTdRaE8w?oc=5"
     }
   ],
   "projects": [
