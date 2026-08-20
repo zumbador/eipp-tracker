@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-20T12:00:09.769Z",
+    "lastUpdated": "2026-08-20T12:00:29.296Z",
     "updatedBy": "n8n",
-    "version": 253,
+    "version": 254,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-20T12:00:29.296Z",
+      "source": "n8n-auto-monitor",
+      "description": "Elroy Air awarded $46M Army contract for autonomous cargo UAS development for contested logistics operations",
+      "projectsAffected": [
+        7
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRTh4R2VOWmNpU1REd3pGYUNvQ2lKdmRoVklJY3pjdnAzQ1pYN0ZmTWEzU0FnRERBWDV6ZXVBWnA5blpETUdraEdNcnM2cVpyVWpoVWl0UzR4RUpYUlJWVGU3cmFmQm5jLXd2NlU2WU1FcjQwcWFnbkdrZXRmNlQtTm1kOFpOSTJDbEk2eERvSzVuamNvYUMtTG15XzNWblZRRVkxOTJ0QVV5UlZqVlFCSDJaVFdGdnBEc0ZxVFdhaVlZbXcybDNVMjJoQ1lnNDVzUVBRekxkamg3SHRESTRZUnpn?oc=5"
+    },
     {
       "timestamp": "2026-08-20T12:00:09.769Z",
       "source": "n8n-auto-monitor",
@@ -455,15 +464,6 @@
         2
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY3VaZVZaZWdQdGxjU0Y4VWJzZThlaURrQ2NTVndPaWRmSzFRY3RnWF9DY2RIdGUzVVdWWVdPWjlLcmhwSHlVNEZhQ19qTTRqWG1uSkNJVFJaZ3VwRjZiOVhOdTJnbnFBT1h3Nk9wSllpVUpGNFZYNzV6RmRiSVhMcmxkVWc0N1cwWURMTW9tanRMdkxxcUJPYlQyNU5LOTdkQUpaaE9JcUtLU3RmUDdQZVNmVQ?oc=5"
-    },
-    {
-      "timestamp": "2026-07-25T12:00:57.752Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added reference to Joby Aviation certification analysis article relevant to multistate eVTOL coordination.",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPenBBbEJ2aHZXejFEUW5YN0NtWW5BdDZWUW41Sy12Zml3SDZIeXVPd0ltelJ1eUcwNjdlcWlTbXIweTByUXdKelh0RkZETE9Ub19Hbllla2E4MmRsNTQxVlFBMlZIbHpXeGpzQzhETk5GalAtczVrTFF3am5RMU1UdndWejJmQmF0a3I2V2RYUTJPYm1Fc1hveklJeWstMnZ5VFllcEtya0VNUXBkeUZMaEhuZFBadw?oc=5"
     }
   ],
   "projects": [
@@ -1105,13 +1105,13 @@
       "focus": "Medical Transport + Autonomous Flight",
       "keyOp": "Piloted medical and regional ops statewide; autonomous flight corridor extending into Virginia",
       "otaStatus": "Pending",
-      "milestone": "US Army Chaparral contract; dual unattended delivery modes",
+      "milestone": "Army contract awarded $46M for autonomous cargo UAS",
       "opsTarget": "Summer 2026",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement. Elroy Air announced SPAC merger to fund production of heavy-lift VTOL drone platform, supporting eIPP program participation and commercialization timeline. Company announced plans to go public via $1 billion SPAC deal (Zag Daily report). This represents a significant corporate development milestone for the eIPP participant. Elroy Air pursuing Nasdaq listing with $1 billion valuation (2024), indicating significant capital raise and corporate maturation milestone. Elroy Air (project participant) announced SPAC merger with Columbus Circle Capital II, valued at $800M. Company continues advancing eVTOL development and certification pathway. Kratos selected as manufacturing partner for Elroy Air's Chaparral cargo drone production facility in Sacramento, representing significant manufacturing scale-up milestone. Kratos selected as manufacturing partner for Chaparral cargo drone production at Sacramento facility, supporting operational deployment phase. Kratos selected as manufacturer for Elroy Air's Chaparral cargo drone at Sacramento facility. Elroy Air announced new autonomous delivery modes for Chaparral drone platform. Elroy Air demonstrated three unattended delivery modes for US Army operations, advancing operational capability demonstrations. Secured US Army contract to equip Chaparral with unattended delivery capabilities, advancing autonomous delivery technology operational readiness.",
+      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement. Elroy Air announced SPAC merger to fund production of heavy-lift VTOL drone platform, supporting eIPP program participation and commercialization timeline. Company announced plans to go public via $1 billion SPAC deal (Zag Daily report). This represents a significant corporate development milestone for the eIPP participant. Elroy Air pursuing Nasdaq listing with $1 billion valuation (2024), indicating significant capital raise and corporate maturation milestone. Elroy Air (project participant) announced SPAC merger with Columbus Circle Capital II, valued at $800M. Company continues advancing eVTOL development and certification pathway. Kratos selected as manufacturing partner for Elroy Air's Chaparral cargo drone production facility in Sacramento, representing significant manufacturing scale-up milestone. Kratos selected as manufacturing partner for Chaparral cargo drone production at Sacramento facility, supporting operational deployment phase. Kratos selected as manufacturer for Elroy Air's Chaparral cargo drone at Sacramento facility. Elroy Air announced new autonomous delivery modes for Chaparral drone platform. Elroy Air demonstrated three unattended delivery modes for US Army operations, advancing operational capability demonstrations. Secured US Army contract to equip Chaparral with unattended delivery capabilities, advancing autonomous delivery technology operational readiness. Army awarded $46 million contract for autonomous cargo UAS development to advance contested logistics capabilities.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -1128,6 +1128,10 @@
         {
           "label": "Elroy Air Army Delivery Demonstration",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVEVVa2x4N0V6aGNkWXNZUkZyV1E5SDNXM0lGek9BbUVhMUNiTzdnbDVjMU9VTzZ3YmJuWXhLS3hlcXM0ZVJ4NE5IcGlmeGFBNzBac2Q5RDYzc1VkT3RBZE9JNjdWY3dIR3h4WHFpc2xqckhOYVBxRTNGR2liaVhVNnlhSWcxa0RmZV9IWlNxZ3lFTkVDdU1uNURLVWFWSDVmQTlyUTdOSGRBQlBMN18yNFBSa0REY1pjM3A1NTRmVkU?oc=5"
+        },
+        {
+          "label": "Military Aerospace - Army Elroy Air Contract",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRTh4R2VOWmNpU1REd3pGYUNvQ2lKdmRoVklJY3pjdnAzQ1pYN0ZmTWEzU0FnRERBWDV6ZXVBWnA5blpETUdraEdNcnM2cVpyVWpoVWl0UzR4RUpYUlJWVGU3cmFmQm5jLXd2NlU2WU1FcjQwcWFnbkdrZXRmNlQtTm1kOFpOSTJDbEk2eERvSzVuamNvYUMtTG15XzNWblZRRVkxOTJ0QVV5UlZqVlFCSDJaVFdGdnBEc0ZxVFdhaVlZbXcybDNVMjJoQ1lnNDVzUVBRekxkamg3SHRESTRZUnpn?oc=5"
         }
       ]
     },
