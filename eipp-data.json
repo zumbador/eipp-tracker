@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-20T12:00:47.838Z",
+    "lastUpdated": "2026-08-20T12:01:19.775Z",
     "updatedBy": "n8n",
-    "version": 255,
+    "version": 256,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-20T12:01:19.775Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article about Elroy Air's $46M Army contract for Chaparral cargo drone is not directly related to FAA eIPP tracker projects. No updates needed - this involves military cargo drone procurement outside the eIPP program scope.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUjFGcDRSWU84MjRINlNSMktMWmVaa3NXUm1ENTgxNHNBSVFtN19OcFF5TTBHZDNESEZ1c0gtU053SHRvRWtFTktOZHZXZF8tSFRFV2dMcUZqazBTd0o0WHN3c3pLVHJqWGJ6ZFZRLUZ4VWM0YTdFS0V6emhOamRkTHBIRjZURjBHQ1R5aHZsWHFQM3o5c0VlYlJLM2Npb3c5Yks1V25sOVVtRzhV?oc=5"
+    },
     {
       "timestamp": "2026-08-20T12:00:47.838Z",
       "source": "n8n-auto-monitor",
@@ -455,15 +462,6 @@
         2
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRmlwMGFXeHBXMm00SGdDWld1UWhhOVpWaWpIRjg3eEJlbHpWTnluRFpZYzctMU5UQ1JRcTJEaUV4Yno5VHdVMGlGVlBQN2F6RDhBSzhjb3ZPWWZQWGFHdjhWNTkzMmxRZWFMeGVZX0tFUVhxNGR5Z3dtd09BY05qWTZocTJPUzdweWJPNVRxaWY0YmxtSFJVbmNQRjJJYlRlRXFCX0g4eHdBWnlILWVwRURUWG9Ka1h2OEoyYy1yNlY?oc=5"
-    },
-    {
-      "timestamp": "2026-07-28T12:00:18.869Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added financial valuation note for Project 1 (NY/NJ Port Authority) regarding ACES and Zee program market analysis from SimplyWall.st",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTk5iWG5qbVJzeEhyMVBBY0ZWbHpzMW9vcVBleXFoUUpnS2JNcGg5cWZCbFlmekd2a3hhM0dzSnZRYzZGb01YZ0xmcHlvSXZFYVFVUUVCa2hFX3NVb2F3UXEtcGQwYndoc3VTZjZaMnpkdzFQdWZjUWFiQV9nMkN4Q1Q2amNYcUpLZE5YWFVrMDNhOGdFcFBZWThfbU1lYnBfZ0ZENG1mUnlhWEFXbDRZZ0RnM1ZPUW8xNEI3b1hvcVJoM0tpd181RDN5dUZPaFVfaUlJ0gHYAUFVX3lxTE9iQjBwSkpTU1NjYWJlNkl3RGNNYzVjVkNIMVdncGxhRTJRcTJjbUh5SWZ4T3ZkYTlyR2xHSzIyc19iWGtYVE9NUFllQzRhTS16SE16V3NpNUtmMmxzTGlkVVN4b2NfblBlZlg3Y2tUMmVETUFuOGM1ckVLRFFOWnZ2eTUtU1dfRDdlWHpsaFBrVmFpSW5TSWhqSmRKcWJrS0xGT2FpYkpPSGtEaGJESy1YeGpoX1NlVEVVR0R5Wk51b0s1dk9Jbk1uSkpiZ3c5VEt5MnFpUk1JVQ?oc=5"
     }
   ],
   "projects": [
