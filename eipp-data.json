@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-20T12:01:19.775Z",
+    "lastUpdated": "2026-08-21T12:00:10.658Z",
     "updatedBy": "n8n",
-    "version": 256,
+    "version": 257,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational deployment",
-    "bannerMessage": "FAA certification achieved for eVTOL air taxis; 2026 US launch timeline confirmed",
+    "bannerMessage": "FAA certification milestone achieved for eVTOL air taxis with 2026 US launch confirmed",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-21T12:00:10.658Z",
+      "source": "n8n-auto-monitor",
+      "description": "News article reports FAA certification achievement for eVTOL air taxis with 2026 launch timeline. Updates global tracker status to reflect industry-wide certification progress affecting all active eIPP projects (1-8). Individual project OTA statuses and milestones remain unchanged pending official FAA notifications.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1g0NUJfQkZjS2plUjBqbHNoeWFhUWlzVUdrdlBaTWpQbkRPX0YtbFBvRGNiTENXNkszWXgtN3JZZC05X1VtLUZnUE93aWlfYTctN0FVQ0lDVWZ2NlFpM3hZQjI4SlRhTzJ4d0MxbnNZLWFwcWVuRWhOQkNYOWFaX1ktM01EaU5Oc0cwNm01MWFiYThD?oc=5"
+    },
     {
       "timestamp": "2026-08-20T12:01:19.775Z",
       "source": "n8n-auto-monitor",
@@ -453,15 +460,6 @@
         7
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyZGVsMW1RWHVHZXZYTFROOEUtb2lQbjFiM2hhSzhsUkZGNE9VRDh5N1VmaGJ5ZUNCdnNPTTVFVHgzWUNsNnpsYnBGUWZMcllJbC0zY0dlZ3J3RTdsMFFXYk85R2FicExBQ1N5WmFUT0RnTURadVHSAXtBVV95cUxQVWF4OTVlUGxjNW5YWmdFRG1IS0NGTnlBaC1qcjNPelc2QUhxRkhkVDhPU0JYVk9leUZCamRrY3duNnREMHdUSVFndDRnRXhubnVNMV9KSkxFRTQ1WDFTVnMwX0pIUEpQWjd4UEJBWjdYTndhaVhlNy1RME0?oc=5"
-    },
-    {
-      "timestamp": "2026-07-29T12:00:29.872Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated milestone to reflect Farnborough Airshow 2026 demonstration of Alia CX300 aircraft",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRmlwMGFXeHBXMm00SGdDWld1UWhhOVpWaWpIRjg3eEJlbHpWTnluRFpZYzctMU5UQ1JRcTJEaUV4Yno5VHdVMGlGVlBQN2F6RDhBSzhjb3ZPWWZQWGFHdjhWNTkzMmxRZWFMeGVZX0tFUVhxNGR5Z3dtd09BY05qWTZocTJPUzdweWJPNVRxaWY0YmxtSFJVbmNQRjJJYlRlRXFCX0g4eHdBWnlILWVwRURUWG9Ka1h2OEoyYy1yNlY?oc=5"
     }
   ],
   "projects": [
