@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-29T12:00:08.701Z",
+    "lastUpdated": "2026-08-29T12:00:51.976Z",
     "updatedBy": "n8n",
-    "version": 271,
+    "version": 272,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-29T12:00:51.976Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article about Joby Aviation's competitive position in air taxi industry reviewed; no specific operational milestones, OTA status changes, or dated commitments found to warrant data updates to Project 4.",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdDVnZFl0UGRud2YzS0Fib2pMUEJ3WG9pYXhGM3prM2ljWDVBT180VnhPVklaRVlaa2liQXBXTnpZNnVadzMzb3g2R0NYLVcyMkxWMjFHS0lnNHNGQThSeE9MNnRhamFRbmtQSVhPN3Z3NGRJbmY0YldIa1JzeExjUllBMWVyWHZ0cGc?oc=5"
+    },
     {
       "timestamp": "2026-08-29T12:00:08.701Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +468,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa2Jib1V5QWhuOVE4SWVUVW5hRjZrZW91QXZoYlZqeWJLS2R6dG11OURHZE9JLTVEeDZBcmFtRXRwdm54aFhwSkM5X2N0eW4ybG1RcjItSTcwaTJ2X3N2UHNJSVpQYTlXckZJdzBYUHdPeHlzLVFNTjZ6bUJhOUkxSXJubnU3dw?oc=5"
-    },
-    {
-      "timestamp": "2026-08-05T12:00:29.463Z",
-      "source": "n8n-auto-monitor",
-      "description": "Archer Aviation Midnight aircraft completes California pilot program; milestone updated to reflect completion",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWG0tc0dLZEhPbnZOdGhvRXg0Z0JPU0J5cDBpaTdUcXdBR1lIMXFhamdiR0U2QnZVRDJQVjZsX3JvSVFRVGxGZGlRbmU2WXJtNG1Cd2FKUW5kaUxqcUNtajhwa2tRUzRUWnltemVTUmJIZGQxLTZXVFAtUTgzTGNDY3pfWXNIWjB6cDF6eXpKekZtLVZHUzNUaEFJMA?oc=5"
     }
   ],
   "projects": [
