@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-31T12:00:32.255Z",
+    "lastUpdated": "2026-08-31T12:01:06.558Z",
     "updatedBy": "n8n",
-    "version": 275,
+    "version": 276,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-08-31T12:01:06.558Z",
+      "source": "n8n-auto-monitor",
+      "description": "Wisk Aero infrastructure development: vertiport construction initiated at Hollister Airport",
+      "projectsAffected": [
+        5
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcGRjRWppY2JaTUR1elAyZUVEcnpWanJrR1B4T2xtc1EwRVN1NDE3eVAxMXdzMlpBUHlMei15TFl5N1d1VkZ1ZzF4S2pHMHd4TmcyVG9kanVtZXYtck1vU0hyS1RNbjFicUxXU0NMU294M0tTelFKLUpyWWM3REdVTXBYVGg5VzI1MjFaR21KZXJwZzFmLUR1ck9vekZ2WVE?oc=5"
+    },
     {
       "timestamp": "2026-08-31T12:00:32.256Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +468,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMVlLRnR0MVJzSUlfNWVjTWtwY1ROOFVDbVhnVHFoN3U4T1hQQ2hYMFlIRmJyU05GdHlia2VaR1lGRkpQM18xS1FrbGN4Y0dKREExY1p4bHBWVlNVM2U5bDFSemVyM3RuZEJ0a3RJYWJ2OGZsbGVKSVRNaFk1MW9zZnFYVVRKQnF2cmZETVAzeFpQZmc3TXo2bDNhM2JOWmVBbnlsdmxWa2Q2LU5kcWVaeEhzbnhUX1g5R1hrX2Y3NldIWF9KaWpqbkowRWJVUHc?oc=5"
-    },
-    {
-      "timestamp": "2026-08-06T12:00:56.264Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added partnership information: Joby-Atoms vertiport network development for eIPP infrastructure support",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc091TDZ5WEdKWGpFU2ZFSjBlVVlaajFYMEZmbElxNk02dHplSXpEMmNkMVpJZjVaT1g3SFpGekdLNFVaMGJRRU9iYUhTMTg0QTJqTmlzWHV3V2NDOS1RaWtqYmJMNkkyaVphbjdFcXVqNHdlWlhrUGIwZnlMM3dtSlFveVduUEplRXRreVEweU0zamYwdUw4?oc=5"
     }
   ],
   "projects": [
@@ -1056,13 +1056,13 @@
       "focus": "Cargo + Offshore Personnel Transport",
       "keyOp": "Cargo and personnel flights to offshore energy platforms in the Gulf of America",
       "otaStatus": "Pending",
-      "milestone": "",
+      "milestone": "Wisk vertiport construction begins at Hollister Airport",
       "opsTarget": "Summer 2026",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "The Louisiana offshore energy project deserves close attention. Bristow Group, the operator partner, has been coordinating with the FAA on the Elroy Air Chaparral for over a year. When the helicopter industry's dominant offshore operator validates autonomous cargo as a viable replacement for manned supply runs, the cost calculus changes for every operator in the Gulf.",
       "editorialDate": "2026-03-18",
-      "notes": "Elroy Air Chaparral: fully autonomous, 300 lb payload, 300-mile range, no pilot, no passenger. Bristow Group is the customer and long-time partner, providing operational credibility. Offshore energy helicopter costs run $3,000–$8,000/flight for platform supply runs — the economic pain point is real and institutional payers are already in place. Elroy Air CEO Andrew Clare: 'That doesn't happen without a truly mission-ready aircraft and a team that's been doing this work for years.' Boeing divested its stake in Wisk Aero (Aug 2024) as part of strategic refocus on core aerospace business. Ownership transition may impact project timeline and technical support.",
+      "notes": "Elroy Air Chaparral: fully autonomous, 300 lb payload, 300-mile range, no pilot, no passenger. Bristow Group is the customer and long-time partner, providing operational credibility. Offshore energy helicopter costs run $3,000–$8,000/flight for platform supply runs — the economic pain point is real and institutional payers are already in place. Elroy Air CEO Andrew Clare: 'That doesn't happen without a truly mission-ready aircraft and a team that's been doing this work for years.' Boeing divested its stake in Wisk Aero (Aug 2024) as part of strategic refocus on core aerospace business. Ownership transition may impact project timeline and technical support. Wisk Aero has begun construction of eVTOL vertiport infrastructure at Hollister Airport as part of eIPP program development.",
       "links": [
         {
           "label": "DOT Announcement",
