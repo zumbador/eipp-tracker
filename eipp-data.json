@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-03T12:00:29.811Z",
+    "lastUpdated": "2026-09-03T12:00:49.381Z",
     "updatedBy": "n8n",
-    "version": 281,
+    "version": 282,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-09-03T12:00:49.381Z",
+      "source": "n8n-auto-monitor",
+      "description": "Elroy Air autonomous cargo drone operations milestone achieved in Louisiana with medical supplies and food delivery",
+      "projectsAffected": [
+        6
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdEhHczR0YmlkdS1URnJjNVF6TVFKclFjeFcyZmpIQ2k2cXhKcGdSR1dYS1RsUjZpaDF4UnMzbUNOdWRiLU9CVlN0SkJhSlM4MDU2bHJrc0VBRHNtMmhzeld1VEJDUGhBV2w0a1NyR2F6SU0zdTdyVmxCNFFnVUE4M3JDbHd0S01oMHhJUmpLcncxdUJBbWtydDJtWmhYOUpwczh2OXJNeC1GNGNlM256eXhFQkQ1WnJuc2NZYjk4SQ?oc=5"
+    },
     {
       "timestamp": "2026-09-03T12:00:29.811Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +468,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEFKTDV2VzFOWUtSY3pXaHFzanlpUXJ2UUpaTm10b0pkU2RhdlRRckNGMzZYQ19wQTZmd1djUEwzczZrcG5XZ3FKTTJOcHpVbzljd2NSWFJwN21KdExYaXFQMkRmRXczV3NKLUVzYllkV0RtLUc4MzRqdG8zNlVJbXRpeVlRVU94cXBOam5NenlCbEY5ckVEYldDVG40MW5ia29aUDJCZHpkdE05YnZlekRwaU03UQ?oc=5"
-    },
-    {
-      "timestamp": "2026-08-09T12:00:09.023Z",
-      "source": "n8n-auto-monitor",
-      "description": "Utah DOT project milestone updated: hybrid-electric flight testing completed, advancing eVTOL airspace integration progress",
-      "projectsAffected": [
-        3
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQnJhb3ZuanBmdmE3NFNhb1hSN0w2bkRQTUhHZFh2eUNlaktCaXhhVTFTZU4yZTZFU0ZyUUtwNFAxRElkWjA1M3Nfd2hhREFSNE8wRTdrcE1wWVJMSjRUcWw1U3lONy1RMWd3a0RLVllYeGlGOEV6YVBuMGg3eUVIbmpMd2swWWVWSWN1OHQwWGpzQzRMRl9QWERyRElqRTM1TWR2WEo4LXZrbFhjZkl4T1Q4RjE5MkIxM05BTlB6bTJXMm9qeWVTQU1Sb2xqOVFsV0JrazNSWW5JakhmaG5teVBoVWhhMGhSclJZY19zN0dScTZFSlRZ?oc=5"
     }
   ],
   "projects": [
@@ -1113,14 +1113,14 @@
       ],
       "focus": "Multi-phase: Cargo → Passenger → Automation + Medical",
       "keyOp": "Three-phase: Phase 1 cargo, Phase 2 passenger, Phase 3 automation and medical response",
-      "otaStatus": "Pending",
-      "milestone": "SPAC merger with $1B valuation; Nasdaq listing pending",
+      "otaStatus": "Active",
+      "milestone": "Autonomous cargo operations with medical supplies and food in Louisiana",
       "opsTarget": "Summer 2026",
       "category": "mixed",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration. Reliable Robotics advancing safety-critical UAS datalinks technology to support eIPP operations and safety standards. Transportation secretary visited Reliable Robotics facility in Albuquerque, signaling federal commitment to eIPP operations and project advancement. Elroy Air announced $1 billion SPAC merger deal for Nasdaq listing (Reuters). Significant corporate capitalization milestone achieved.",
+      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration. Reliable Robotics advancing safety-critical UAS datalinks technology to support eIPP operations and safety standards. Transportation secretary visited Reliable Robotics facility in Albuquerque, signaling federal commitment to eIPP operations and project advancement. Elroy Air announced $1 billion SPAC merger deal for Nasdaq listing (Reuters). Significant corporate capitalization milestone achieved. Elroy Air conducted successful autonomous cargo drone flight in Louisiana carrying medical supplies and food, demonstrating operational capability for eIPP program objectives.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -1133,6 +1133,10 @@
         {
           "label": "Reliable Robotics flight tests validate detect and avoid capability",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFBfQW9Wb2hMbHFEOS05YkFyT0FsVDZCc2w2S3NCMVl5Z2xpelhBaTFIZVpYSDVBdkJxYkxGREFsdTJmYnVDZ19tOE5iUGYxdkFnTFNlajg1SnhraWdrdFRNdVlCbDQ1OUJFa2VKWkk2cm9TOHppb3JTS0Y4UllyU3R0bkJKNDhfeWViY3VNcEdXTE00OUdCOW5lN2FfWlpFZ242ZmV6WVZia0FkRWF5S0J1R2pmbmZpTDI5MFdzbEc5ZzZPMXp5MjYzLTk1anZvNS15MW1ITWVpb0tIcUE?oc=5"
+        },
+        {
+          "label": "Cargo drone Louisiana operations news",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdEhHczR0YmlkdS1URnJjNVF6TVFKclFjeFcyZmpIQ2k2cXhKcGdSR1dYS1RsUjZpaDF4UnMzbUNOdWRiLU9CVlN0SkJhSlM4MDU2bHJrc0VBRHNtMmhzegd1VEJDUGhBV2w0a1NyR2F6SU0zdTdyVmxCNFFnVUE4M3JDbHd0S01oMHhJUmpLcncxdUJBbWtydDJtWmhYOUpwczh2OXJNeC1GNGNlM216eXhFQkQ1WnJuc2NZYjk4SQ?oc=5"
         }
       ]
     },
