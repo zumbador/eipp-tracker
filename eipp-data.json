@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-01T12:00:32.863Z",
+    "lastUpdated": "2026-09-03T12:00:08.616Z",
     "updatedBy": "n8n",
-    "version": 279,
+    "version": 280,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-09-03T12:00:08.616Z",
+      "source": "n8n-auto-monitor",
+      "description": "Elroy Air milestone: completed first uncrewed autonomous eIPP flights; OTA status updated to Active",
+      "projectsAffected": [
+        7
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQVNuOXYwTzFsRnpRbEJsTDRzQ2o0ZXdNMThXQzNUMThUUDJqdnpMc1I1UU1jUjZaSFYyMXJZREZxdU01Yk9oR0RybnVIZVVaYllzalNmY3FYbWNaV1RQVUUxTXdtS0hXazlUeC0xLTRyNUVFMVE2QnFzYlI3YTNBOFltVXlQbVU4S1RESkpwcXR4d3RUOS0yV3pmOXpaU2FtbThiVktYSTVIQjY5N2M3UzZub3d3cTJkaXFkNE8xVl9jNjVnQXhDSEtUVnJub3FWTkY3NzhkMHpBejV5T05TOThoRWdDLXNRdlhDdw?oc=5"
+    },
     {
       "timestamp": "2026-09-01T12:00:32.863Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +468,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVFpQVJadnpMNTJmQzR5YzlySHJiNkdwMWJSOG1weVpkMFFWYnJjR25KZk1UYlJBcjl6VFZUbTlPTnVYYWFxTm9mYlY1aThfUUlnLVlnUndtWkNNaVlBYklOOWJVRm8wMnljZFdKYjN4amV2b05EWE5GQVFXeEVyekJyS0xXWHgzYjRHUVR2S0QyZTFaaXhVN2pR?oc=5"
-    },
-    {
-      "timestamp": "2026-08-08T12:00:48.269Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added vertiport infrastructure partnership milestone for Pennsylvania DOT/NASAO multistate project",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXZpNV9NTS12R2hlUlBaay1sUDk4ZDM2MUdTMW9ud1RlZUs2Z01fbllOZ01VWlpfOTVfV1hyVjRhVnZreDhYZy04ZEZCLWU5a3BPYS1VbWNITTdGTDl3Rmt1SXB0YlI5d1JnRERpSnE4RWY3U3laZ05sRHgzaktrbTRtXzJPbmcwTGJPaVFudUN0WWc1eW43czVLRExYYkZfTVNj0gGoAUFVX3lxTE1WNTJ6bHliMnNjTnJLOVJMV1dKN0o0cEhMSkVtUmFnRlhlaktnOE5YWmNjLUdCWkMtNXhBblpBQy1Fc0lFTDhxYjI1WDBUVUtIMkk4YzV1eE9tR2RLMnlYaUhaaEdodzgyVEJsWkctRDZpQ2k0Y2hXQkg5SmtCN1BQcGQ2YmYzUjNCRmt3Q21wOUlncDltU1MyRm9ybkhpdkVsRUZNRDUxYg?oc=5"
     }
   ],
   "projects": [
@@ -1156,14 +1156,14 @@
       ],
       "focus": "Medical Transport + Autonomous Flight",
       "keyOp": "Piloted medical and regional ops statewide; autonomous flight corridor extending into Virginia",
-      "otaStatus": "Pending",
-      "milestone": "Advanced Air Mobility pilot program groundbreaking at Houma-Terrebonne Airport",
+      "otaStatus": "Active",
+      "milestone": "First uncrewed autonomous flights completed",
       "opsTarget": "Summer 2026",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement. Elroy Air announced SPAC merger to fund production of heavy-lift VTOL drone platform, supporting eIPP program participation and commercialization timeline. Company announced plans to go public via $1 billion SPAC deal (Zag Daily report). This represents a significant corporate development milestone for the eIPP participant. Elroy Air pursuing Nasdaq listing with $1 billion valuation (2024), indicating significant capital raise and corporate maturation milestone. Elroy Air (project participant) announced SPAC merger with Columbus Circle Capital II, valued at $800M. Company continues advancing eVTOL development and certification pathway. Kratos selected as manufacturing partner for Elroy Air's Chaparral cargo drone production facility in Sacramento, representing significant manufacturing scale-up milestone. Kratos selected as manufacturing partner for Chaparral cargo drone production at Sacramento facility, supporting operational deployment phase. Kratos selected as manufacturer for Elroy Air's Chaparral cargo drone at Sacramento facility. Elroy Air announced new autonomous delivery modes for Chaparral drone platform. Elroy Air demonstrated three unattended delivery modes for US Army operations, advancing operational capability demonstrations. Secured US Army contract to equip Chaparral with unattended delivery capabilities, advancing autonomous delivery technology operational readiness. Army awarded $46 million contract for autonomous cargo UAS development to advance contested logistics capabilities. Brightline Interactive and CSCI formed teaming agreement to support unmanned aircraft and eVTOL operations at test site. Groundbreaking ceremony held for AAM pilot program at Houma-Terrebonne Airport in Louisiana with support from Louisiana DOT.",
+      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement. Elroy Air announced SPAC merger to fund production of heavy-lift VTOL drone platform, supporting eIPP program participation and commercialization timeline. Company announced plans to go public via $1 billion SPAC deal (Zag Daily report). This represents a significant corporate development milestone for the eIPP participant. Elroy Air pursuing Nasdaq listing with $1 billion valuation (2024), indicating significant capital raise and corporate maturation milestone. Elroy Air (project participant) announced SPAC merger with Columbus Circle Capital II, valued at $800M. Company continues advancing eVTOL development and certification pathway. Kratos selected as manufacturing partner for Elroy Air's Chaparral cargo drone production facility in Sacramento, representing significant manufacturing scale-up milestone. Kratos selected as manufacturing partner for Chaparral cargo drone production at Sacramento facility, supporting operational deployment phase. Kratos selected as manufacturer for Elroy Air's Chaparral cargo drone at Sacramento facility. Elroy Air announced new autonomous delivery modes for Chaparral drone platform. Elroy Air demonstrated three unattended delivery modes for US Army operations, advancing operational capability demonstrations. Secured US Army contract to equip Chaparral with unattended delivery capabilities, advancing autonomous delivery technology operational readiness. Army awarded $46 million contract for autonomous cargo UAS development to advance contested logistics capabilities. Brightline Interactive and CSCI formed teaming agreement to support unmanned aircraft and eVTOL operations at test site. Groundbreaking ceremony held for AAM pilot program at Houma-Terrebonne Airport in Louisiana with support from Louisiana DOT. Completed first uncrewed autonomous flights under FAA eIPP program as reported by ASDNews.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -1188,6 +1188,10 @@
         {
           "label": "Brightline Interactive & CSCI Teaming Agreement",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkdhUlEyYXZCb3luWnVidnN1SjZJOVZQbFZCOWVDaE83d0NDY2JBSGRsc0FYNC1HbHdlVVd6RTRnODllb29nckV0N2xIdXBYOEVFTVBJNUpHOG5FcG9OWkdDbGFKeFFHU01pZUJud2tOZUNsQmVCMlhJcDR0WkI1bEZQQ2pTZ1FuQ2FUX2l4cVFyNEJqaEtTVE9sdG1vWWpaVnJXeEdTVzBPRE5tVHAwaE5yV1NKYUZm?oc=5"
+        },
+        {
+          "label": "Elroy Air Completes First Uncrewed Autonomous Flights Under eIPP",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQVNuOXYwTzFsRnpRbEJsTDRzQ2o0ZXdNMThXQzNUMThUUDJqdnpMc1I1UU1jUjZaSFYyMXJZREZxdU01Yk9oR0RybnVIZVVaYllzalNmY3FYbWNaV1RQVUUxTXdtS0hXazlUeC0xLTRyNUVFMVE2QnFzYlI3YTNBOFltVXlQbVU4S1RESkpwcXR4d3RUOS0yV3pmOXpaU2FtbThiVktYSTVIQjY5N2M3UzZub3d3cTJkaXFkNE8xVl9jNjVnQXhDSEtUVnJub3FWTkY3NzhkMHpBejV5T05TOThoRWdDLXNRdlhDdw?oc=5"
         }
       ]
     },
