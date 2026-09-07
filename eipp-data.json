@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-07T12:00:23.144Z",
+    "lastUpdated": "2026-09-07T12:00:54.841Z",
     "updatedBy": "n8n",
-    "version": 287,
+    "version": 288,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-09-07T12:00:54.842Z",
+      "source": "n8n-auto-monitor",
+      "description": "Financial performance article about Joby and Archer Aviation stock declines; no substantive project milestone or status changes identified",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU3NfSklUZ0YySHEzbmFpTWJDTHFLR3loUmJPQ3Q2MVJvSk1aRzItRDQzVF9tZUxiQl9aNmQxNHFQWDlIcktGRDNldVFMMEVEWnZCMjV3NFdwcnA1bDNmQnVFNWhLVGVnODB6MUVrdHphaWI2dXYyOGU3V3VNRkJDMUl1WmJob3Q4S0NhUE93M2U1V2ktaGNibE5na2VNZ3dvVlFFX3N6ZzVEb0ZiRHBKamtoamNvODlPY1VoVU1EYXFCRl9xZ0dXZXdLeXNqNHgt?oc=5"
+    },
     {
       "timestamp": "2026-09-07T12:00:23.144Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +466,6 @@
       "description": "Auto-detected update",
       "projectsAffected": [],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWl90ZzhPcGI4a05VZGNycFpkd0dvdnlkRVlnYjk0M2JQU0wwNG9DcnpwLVRUZ0ZzQTVFWHFkRGtiRWVEQ2kwU0s2SXJxSzAyTnZMRTJvNEZFNERySDl2bmg2REFibC1nSFhkck9VeEc5MkRlZTRtbE9NMjR3Y0Y3cDZmYmtIanpVQVk4?oc=5"
-    },
-    {
-      "timestamp": "2026-08-13T12:00:08.668Z",
-      "source": "n8n-auto-monitor",
-      "description": "Joby Aviation acquisition of Resonant Sciences noted as manufacturing capability enhancement for eIPP production scaling",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSkpkOThzRFFYZmY2TENneEY5RVpiRklHMHlCb3NUa0hNVW45bW1ZMUFfSGZ2dzJXeC1xZUhiMF8xbDIxQTlnVmRuZHh1eVZOd013ejBPeFlSaG1BLUlZYkl2eENuUmJoam5TRHNIRDBabEN5VDdzajJDUnBjUFFaUUQybk1mNi1Lak82TkRuVlk5d1lxTTlZZEF3?oc=5"
     }
   ],
   "projects": [
