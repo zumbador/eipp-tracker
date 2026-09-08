@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-07T12:00:54.841Z",
+    "lastUpdated": "2026-09-08T12:00:07.138Z",
     "updatedBy": "n8n",
-    "version": 288,
+    "version": 289,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational deployment",
-    "bannerMessage": "FAA certification milestone achieved for eVTOL air taxis with 2026 US launch confirmed",
+    "bannerMessage": "FAA Announced Trials As Part Of The eVTOL Integration Pilot Program",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-09-08T12:00:07.138Z",
+      "source": "n8n-auto-monitor",
+      "description": "FAA announcement confirms all eIPP projects (1-8) are official trials under the eVTOL Integration Pilot Program; updated banner message to reflect program confirmation",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVh6NVRoRktnMnIxMXJBOVRRU2x5Wm1xZVV0bVlOaGR1eVBsNEdqMlFNSFdFWDg5U1FmOXBVYThHbDhmUGIwa09DXzVoc2xDbnJMUTJDcXV6MlJ0ZFNQeWJtR1g3NlMtQjRRQmZrWG12bjFQV3hibzl1cWhBa0VEZkZ5RGRIa3JyT0U1T2w5Xy1ZSkd0YnFRQmFn?oc=5"
+    },
     {
       "timestamp": "2026-09-07T12:00:54.842Z",
       "source": "n8n-auto-monitor",
@@ -459,13 +466,6 @@
         2
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2JTQjgwVXYxLV9CbGtIMnpTUlFqWGVtTVpuZUNiQmZObzd1VnlxYy1DemZDenVRQ1BJNjBpbFR0ODBsRWhndGllSzlhWE00UjFUSFIzN29HMXZIdzE0Ym10WEdGdFBLOWlfUHNrajlFRnJ2Z1dfTWwzZkhacHdWdXNtdE1YbHpBRTRNRTBVeHQwWnFXLXhMV2o1dTJ4NVZvLWQyUzRQdjI3cjlMVlJlZnJMVkd4dw?oc=5"
-    },
-    {
-      "timestamp": "2026-08-13T12:00:39.904Z",
-      "source": "n8n-auto-monitor",
-      "description": "Auto-detected update",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWl90ZzhPcGI4a05VZGNycFpkd0dvdnlkRVlnYjk0M2JQU0wwNG9DcnpwLVRUZ0ZzQTVFWHFkRGtiRWVEQ2kwU0s2SXJxSzAyTnZMRTJvNEZFNERySDl2bmg2REFibC1nSFhkck9VeEc5MkRlZTRtbE9NMjR3Y0Y3cDZmYmtIanpVQVk4?oc=5"
     }
   ],
   "projects": [
