@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-09T12:00:00.948Z",
+    "lastUpdated": "2026-09-09T12:00:10.835Z",
     "updatedBy": "n8n",
-    "version": 290,
+    "version": 291,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-09-09T12:00:10.835Z",
+      "source": "n8n-auto-monitor",
+      "description": "Elroy Air Chaparral demonstrates autonomous cargo delivery capability with U.S. Army",
+      "projectsAffected": [
+        7
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUzN2UjBncHFRemxtY0hLdnh3Y3ROdFhXS1pwWnBHUk52dEdnQmlTOGg2cE1vWGUzM29wVFRFdE5XOERqc0ZNNDlnbXRoUUVoMXVVZ1RDNUlCMkh1U3U4aTBmVGFHRFJwRHdtZWN0MEppaEhibjVjNjQ3bFphaThpeVFOdXFISUctMFdQR2NfMnA?oc=5"
+    },
     {
       "timestamp": "2026-09-08T12:00:27.646Z",
       "source": "n8n-auto-monitor",
@@ -459,13 +468,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTm5FdW5aNFJyUDV0YWZNMkxuQTdIcTlheTNLSnFHTHd3NWk3aW9FTldMcmxkS2FKT0tzZEpabGpRMWw3dXZ2alg4M3hkd1BwYzhueko4el9xS3JlRlliVUNEVzlZR0tOQmJqYjVmakZUSGhycnQ2ODBaWDRCOUYzR3pYOWJ2SnR3SFZvT19FVm1kLUVHZDdSOA?oc=5"
-    },
-    {
-      "timestamp": "2026-08-14T12:01:04.005Z",
-      "source": "n8n-auto-monitor",
-      "description": "Article discusses BETA Technologies stock performance and financial metrics (revenue growth, cash burn). No specific project milestones, OTA status changes, or operational updates identified. General company financial news does not warrant structured eIPP data modifications.",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV25tQ2ZKT1lKSUdBeWc4N2tuYVBTa2huaGV4cDNsOEMxMXdZa2lxejFtRjFJY04tY0pPZ3NwajFTM2tZTUFjdUsxLWlXa2FhV3NiY3B0YWdrSkZUM3paRFh0RjBveFVrTGQ5Sm5DbUdPTGxyVVltZHpqV0lPamN3MlBmeUc4RDhKa1VNcDhfcmtuMUx5bjlPRTNsX1pNdU1feTFqUm43dWdwNnlnV3F1aDhVZWZpaXUyQkQyUFVIOFUxTm1nbmFnTWxUVHVPcHBrLTgyN0JB0gHbAUFVX3lxTE5kbXU4OUtPZjlsN28xZmV0SDdfTHlxOGRuMDUwQURIR01ZTTRQcGxPUm0wR0RYLTg3WjVnb3QzQ2VCSi1oWkxpeHRxYnRMSGxKaU11bzBCR2YtT1JWUXRBY3RkcFEyWUxCOGJXNUV2dHExSENrUGJZQUI5N3k5MDNoOU1FdXJ4a3B0WEpvdHJBOFoyMTN4RzdPM2h6ak1EMlpKNXlwLU1fa3RoRG5rQVUyUk9vUmt0NF9wdFN3RWR0anU1R1d0cUVZYS1RRmFpX2R3NFVDakZHbTljRQ?oc=5"
     }
   ],
   "projects": [
@@ -1167,13 +1169,13 @@
       "focus": "Medical Transport + Autonomous Flight",
       "keyOp": "Piloted medical and regional ops statewide; autonomous flight corridor extending into Virginia",
       "otaStatus": "Active",
-      "milestone": "Chaparral autonomous cargo flight completed under FAA oversight",
+      "milestone": "Chaparral autonomous cargo delivery with U.S. Army demonstrated",
       "opsTarget": "Summer 2026",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement. Elroy Air announced SPAC merger to fund production of heavy-lift VTOL drone platform, supporting eIPP program participation and commercialization timeline. Company announced plans to go public via $1 billion SPAC deal (Zag Daily report). This represents a significant corporate development milestone for the eIPP participant. Elroy Air pursuing Nasdaq listing with $1 billion valuation (2024), indicating significant capital raise and corporate maturation milestone. Elroy Air (project participant) announced SPAC merger with Columbus Circle Capital II, valued at $800M. Company continues advancing eVTOL development and certification pathway. Kratos selected as manufacturing partner for Elroy Air's Chaparral cargo drone production facility in Sacramento, representing significant manufacturing scale-up milestone. Kratos selected as manufacturing partner for Chaparral cargo drone production at Sacramento facility, supporting operational deployment phase. Kratos selected as manufacturer for Elroy Air's Chaparral cargo drone at Sacramento facility. Elroy Air announced new autonomous delivery modes for Chaparral drone platform. Elroy Air demonstrated three unattended delivery modes for US Army operations, advancing operational capability demonstrations. Secured US Army contract to equip Chaparral with unattended delivery capabilities, advancing autonomous delivery technology operational readiness. Army awarded $46 million contract for autonomous cargo UAS development to advance contested logistics capabilities. Brightline Interactive and CSCI formed teaming agreement to support unmanned aircraft and eVTOL operations at test site. Groundbreaking ceremony held for AAM pilot program at Houma-Terrebonne Airport in Louisiana with support from Louisiana DOT. Completed first uncrewed autonomous flights under FAA eIPP program as reported by ASDNews. Completed first uncrewed autonomous flights under FAA eIPP program, demonstrating operational capability milestone. Completed first uncrewed logistics demonstrations under eIPP program per Aviation International News. Pilot-free autonomous flight operations successfully demonstrated under FAA eIPP oversight, marking significant operational milestone.",
+      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement. Elroy Air announced SPAC merger to fund production of heavy-lift VTOL drone platform, supporting eIPP program participation and commercialization timeline. Company announced plans to go public via $1 billion SPAC deal (Zag Daily report). This represents a significant corporate development milestone for the eIPP participant. Elroy Air pursuing Nasdaq listing with $1 billion valuation (2024), indicating significant capital raise and corporate maturation milestone. Elroy Air (project participant) announced SPAC merger with Columbus Circle Capital II, valued at $800M. Company continues advancing eVTOL development and certification pathway. Kratos selected as manufacturing partner for Elroy Air's Chaparral cargo drone production facility in Sacramento, representing significant manufacturing scale-up milestone. Kratos selected as manufacturing partner for Chaparral cargo drone production at Sacramento facility, supporting operational deployment phase. Kratos selected as manufacturer for Elroy Air's Chaparral cargo drone at Sacramento facility. Elroy Air announced new autonomous delivery modes for Chaparral drone platform. Elroy Air demonstrated three unattended delivery modes for US Army operations, advancing operational capability demonstrations. Secured US Army contract to equip Chaparral with unattended delivery capabilities, advancing autonomous delivery technology operational readiness. Army awarded $46 million contract for autonomous cargo UAS development to advance contested logistics capabilities. Brightline Interactive and CSCI formed teaming agreement to support unmanned aircraft and eVTOL operations at test site. Groundbreaking ceremony held for AAM pilot program at Houma-Terrebonne Airport in Louisiana with support from Louisiana DOT. Completed first uncrewed autonomous flights under FAA eIPP program as reported by ASDNews. Completed first uncrewed autonomous flights under FAA eIPP program, demonstrating operational capability milestone. Completed first uncrewed logistics demonstrations under eIPP program per Aviation International News. Pilot-free autonomous flight operations successfully demonstrated under FAA eIPP oversight, marking significant operational milestone. Elroy Air Chaparral eVTOL successfully completed autonomous cargo flight operations with U.S. Army, demonstrating operational readiness for cargo delivery missions.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -1214,6 +1216,10 @@
         {
           "label": "DroneDJ: Elroy Air's Chaparral flies pilot-free under FAA oversight",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jYkdsT1Y3X2hrblNoUFZNUlpYR3laWDA2THM1YjZJVXo2bHNEV282eU1LOUQ3VHh3TzBaZEI5YmtnWDc3VlBzTzZ3WTVOdFpmcnZVbDNmU3Nja0otREtheC01cVNOVW1MbXhXNUNzYUpSRTV3X3c?oc=5"
+        },
+        {
+          "label": "Elroy Air Chaparral Flies Army Cargo With No Crew",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUzN2UjBncHFRemxtY0hLdnh3Y3ROdFhXS1owWnBHUk52dEdnQmlTOGg2cE1vWGUzM29wVFRFdE5XOERqc0ZNNDlnbXRoUUVoMXVVZ1RDNUlCMkh1U3U4aTBmVGFHRFJwRHdtZWN0MEppaEhibjVjNjQ3bFphaThpeVFOdXFISUctMFdQR2NfMnA"
         }
       ]
     },
