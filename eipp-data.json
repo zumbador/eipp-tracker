@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-13T12:00:00.991Z",
+    "lastUpdated": "2026-09-13T12:00:35.462Z",
     "updatedBy": "n8n",
-    "version": 299,
+    "version": 300,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-09-13T12:00:35.462Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article is investment analysis of Joby Aviation's financial prospects. No specific operational milestones, OTA status changes, or project-level updates identified. Article does not contain concrete FAA eIPP program data requiring structured updates to project records.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMk9RYlNYbHNIekl3RUVnUmxRZXFKYXY2QjlWVC1RTS1pUTBDVWpXWk1OUDhJV0xzZGVDYTBZb0NuUmtQNnMycWcxVVdpVEVOQ0F2Z29vaVFWNEo5YkhVMk9RR3BKVUVGVUJEQ2pHM0twcndNQnY1RmVzQTRoQzd1OVkzWmxsS19heHF2emZxQTNLTVhaTWV0YmFlTWRSeUhHU0NmSkRSNDlOVnlaOURxSDQ5STBTLXpGc2lRQUlzMk44TU5jamsxXzdGNXhpdlZMcnFIOGp4c3ZpaVBuZ1NZ?oc=5"
+    },
     {
       "timestamp": "2026-09-12T12:00:48.023Z",
       "source": "n8n-auto-monitor",
@@ -463,13 +470,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDN2U25TZjZPVnFkYmgtc3lzT1ROc016cDE5aEdCNVdYR0RMQ3FRYzBRMGlVT1RpUTFEN0VZN3pMa051VzdtMlhmb3JCMHVUbDlGN1pia05CeGdaaVNpX01jbVUtSlJyMkpXeC1SQ19kVUZ6WG5WbDg3Y3RVZmh4SGV1UHBPUGNQ?oc=5"
-    },
-    {
-      "timestamp": "2026-08-18T12:01:09.007Z",
-      "source": "n8n-auto-monitor",
-      "description": "Auto-detected update",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWs4ZVN3NVZOU3VuOWJRcE9EQk5nRzBDUXB3UmRhVWhEckRHZzFScVdhUzd0ZkVrNHBqQzNLLUdOVG5kdDdsb0NjSDVrSF9JU3kyTkhLSWxCZlhfTmRRSG82WkJrUHFEd2w4bld4aEEyT0FqdWhqNW5RSmtvLUtNRms2bng1ZW5VbzhwSDNtU1pJTk5oVHZnYmhWaW0?oc=5"
     }
   ],
   "projects": [
