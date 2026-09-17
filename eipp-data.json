@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-17T12:00:48.363Z",
+    "lastUpdated": "2026-09-17T12:01:22.292Z",
     "updatedBy": "n8n",
-    "version": 306,
+    "version": 307,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-09-17T12:01:22.292Z",
+      "source": "n8n-auto-monitor",
+      "description": "Financial analysis article about Joby Aviation's business viability - no specific operational milestones, OTA status changes, or project developments identified. Article discusses market/investor perspectives rather than infrastructure project progress.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3poa0hqTml4Rk1WWnBzMGxmUXJvTThYemlvX0FORk9TZ0xmNDd0NkNhcVNCSkZQRXRzcWhTRDVCY2VIZ29GRjQ0NWNibmJzbTBqTlhvZ04wLURBQ1M0Q0V1Ykp5aXVNV28tYVp3bDVNcVdCdU9tYkRNc0VrRFFzdldHNjJrTDFTNFFmZWVoR0hRdFlRZExRWjBUd0pldmM?oc=5"
+    },
     {
       "timestamp": "2026-09-17T12:00:48.363Z",
       "source": "n8n-auto-monitor",
@@ -465,13 +472,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92SWtNOC1QQjdfa2lIRHVrSURpZ18yV1BBWVp6b2lWUGFsYnpSVS1aS3BwV29KNzlHY1V2aGtTUUVxUFpSLWE0b0g3aFNfRmo3cWhqdUpxNkNHTTM0ckxNME1uYzNCUnJJcGlYZGhCT2lzNzlSRHlwX3BJYzI?oc=5"
-    },
-    {
-      "timestamp": "2026-08-21T12:00:10.658Z",
-      "source": "n8n-auto-monitor",
-      "description": "News article reports FAA certification achievement for eVTOL air taxis with 2026 launch timeline. Updates global tracker status to reflect industry-wide certification progress affecting all active eIPP projects (1-8). Individual project OTA statuses and milestones remain unchanged pending official FAA notifications.",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1g0NUJfQkZjS2plUjBqbHNoeWFhUWlzVUdrdlBaTWpQbkRPX0YtbFBvRGNiTENXNkszWXgtN3JZZC05X1VtLUZnUE93aWlfYTctN0FVQ0lDVWZ2NlFpM3hZQjI4SlRhTzJ4d0MxbnNZLWFwcWVuRWhOQkNYOWFaX1ktM01EaU5Oc0cwNm01MWFiYThD?oc=5"
     }
   ],
   "projects": [
