@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-18T12:00:29.203Z",
+    "lastUpdated": "2026-09-18T12:01:16.703Z",
     "updatedBy": "n8n",
-    "version": 309,
+    "version": 310,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-09-18T12:01:16.703Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added Bristow's reservation of 10 additional Chaparral aircraft early delivery positions as milestone update and supporting note",
+      "projectsAffected": [
+        6
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPa3JCTTJZTFQxQzV2WXpXLUhzUFZjdzNNdzFpMnhYaHhJZUoxVk1BVEZPN0pPZ0tBMkN5TC1FMUQ0cVpQZ2ExbGc3VWtqWlozcDhiNGs2STAzSlp6dVctQ2pNMW9zV3hueGM4UTdNd0NnOHZGTW0yVnhackpuYVdqVnlrLXB5N1lBaDBsOXhQZ1l3ZTl2dGtqLXc3dkZobzhhM1VXTlc5Wko0dXRBT0tmTGlLd2JVVkpyZG1KeU85Z08tc2lmalVLZncwYWpwVEg3SkpQRUpLUzBjcXo3dDk1ZTNqUVdlckRRVXk3ZndzZEcyQXY5NzdoSDhweHpPN0dIeFUtUnNhMTF4ZXUzcEZnMnBrazhpVlpCYUNnNw?oc=5"
+    },
     {
       "timestamp": "2026-09-18T12:00:29.203Z",
       "source": "n8n-auto-monitor",
@@ -463,15 +472,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NbldjRmQxcDNXM04xOFExZWFENkVUZHVEQWxaUi1EdlJZMGFIcm9Gdmtwcm14eThiaElUYVB5Qk1weGFfUzJVNUxOZUdKVWF6bWxqbVlqV0ZvcVI5Vi0wVjVHSjRHMnZQWVNUaTZZcXBXVGtM?oc=5"
-    },
-    {
-      "timestamp": "2026-08-24T12:00:32.322Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Archer Aviation (Project 1) milestone to reflect Boeing's transfer of autonomous flight units and refined LA28 Olympics reference",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcWQ5S1NSVUIxTjhvQWdEbGoya1h5VUQ0VkU1cGpPdTYxN190eTM4Q0IwWmpiZUJnWS1kdlJhWG8yMWIyOHN5di04RHdnbU5ocExVNFlEWWZNVDNKVmY1OEp3YnhzeVkyLTIwQm5PcUd3dms2TlV4bU9CYThlV1BFNGszeEV5UGVSOVZUZk5lSEZMOE1D?oc=5"
     }
   ],
   "projects": [
@@ -1150,13 +1150,13 @@
       "focus": "Multi-phase: Cargo → Passenger → Automation + Medical",
       "keyOp": "Three-phase: Phase 1 cargo, Phase 2 passenger, Phase 3 automation and medical response",
       "otaStatus": "Active",
-      "milestone": "Autonomous cargo flights completed over Louisiana",
+      "milestone": "Bristow orders 10 additional early delivery positions for Chaparral",
       "opsTarget": "Summer 2026",
       "category": "mixed",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration. Reliable Robotics advancing safety-critical UAS datalinks technology to support eIPP operations and safety standards. Transportation secretary visited Reliable Robotics facility in Albuquerque, signaling federal commitment to eIPP operations and project advancement. Elroy Air announced $1 billion SPAC merger deal for Nasdaq listing (Reuters). Significant corporate capitalization milestone achieved. Elroy Air conducted successful autonomous cargo drone flight in Louisiana carrying medical supplies and food, demonstrating operational capability for eIPP program objectives. Elroy Air completed series of autonomous cargo flights over Louisiana town, demonstrating operational capability in eIPP program context.",
+      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration. Reliable Robotics advancing safety-critical UAS datalinks technology to support eIPP operations and safety standards. Transportation secretary visited Reliable Robotics facility in Albuquerque, signaling federal commitment to eIPP operations and project advancement. Elroy Air announced $1 billion SPAC merger deal for Nasdaq listing (Reuters). Significant corporate capitalization milestone achieved. Elroy Air conducted successful autonomous cargo drone flight in Louisiana carrying medical supplies and food, demonstrating operational capability for eIPP program objectives. Elroy Air completed series of autonomous cargo flights over Louisiana town, demonstrating operational capability in eIPP program context. Bristow has reserved 10 additional early delivery positions for Chaparral aircraft, demonstrating strong commercial demand and validation of aircraft development progress.",
       "links": [
         {
           "label": "DOT Announcement",
