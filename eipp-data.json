@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-19T12:00:58.284Z",
+    "lastUpdated": "2026-09-19T12:01:15.256Z",
     "updatedBy": "n8n",
-    "version": 313,
+    "version": 314,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-09-19T12:01:15.256Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article is financial analysis of Beta Technologies eVTOL sector risks. No specific project milestones, OTA status changes, or operational updates mentioned. Insufficient actionable data for eIPP tracker updates.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUVJ2aktUQTEtdXZaWVZiUFJ0eElnTXliVnMydVdxbDd0d0hYU25yV2N6a1IwV2E0RGg3SUc0bUJQRXA4WC02WEl0S3RDRWdqdkI5V25zZ0Fka3cxdmVBX3V3TTJ6Mi03NjQtSEpwbWU1bEQtazVWR21RVlk4UGRqeGdDaFQyM2c?oc=5"
+    },
     {
       "timestamp": "2026-09-19T12:00:58.284Z",
       "source": "n8n-auto-monitor",
@@ -463,15 +470,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQN1QtUndHT05FcWx1bFNKNE1CcVlUeS0wWE5rS1hkUG1KdVBwSXRramRuYTNlbDhWTFNpSjg5WTZJQzhKcFFJWTFRekN0TGRSVGg0Y085Qm5ON0pqT2dLZW42SWhWbm1vYV9uLUZrY3dGLVpUTTdvNl9Gd203ZmRleUxoSkVtaEsyN0hvM1N2dy1RcjhGWWxGcG5UNHJ6MG5hV0lPY1g0cnk5TV9pX0t4SmhFQkJ1Z1dsNzA1c0sxWlk5QU1GRk5fN2lMZzRpX00tMjdqb0lrUXlKMXpLZVdGMzF2Y0x0bkZtaTVVUmk4a1laWVBPQTlfN2dsbjREdkJvSmpkMGxFcGJweXd0bG5OUzNGalFiM1dCVGtTbXZjLXVWdw?oc=5"
-    },
-    {
-      "timestamp": "2026-08-25T12:00:31.516Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated LA28 milestone to include L.A. Live air taxi hub announcement with AEG partnership",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3I1d1lUNTBUa1JweFBYbkVPTkRmY0ZweUZNZmFob1diYzRjNGdsZHBWVTZRZDd2QlNaN2Y4NXBqNHplVW96ZkFtOHIxcmJxSzA5VUJNbDBBU3IyTi1Fb3hkaVdpZFp4WVozMlQ3bmNUQU03bVAzTDA1MGVfNFV6eGwxbVBKeFdGeW5qRkREM2oxUTJhQ0FIbTlHd2VlcTY3Z3BqUjREU1hpTmlBYm9rdGdBenh5TURHaHU0?oc=5"
     }
   ],
   "projects": [
