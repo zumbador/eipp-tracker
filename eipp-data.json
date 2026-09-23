@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-22T12:00:37.773Z",
+    "lastUpdated": "2026-09-23T12:00:06.631Z",
     "updatedBy": "n8n",
-    "version": 320,
+    "version": 321,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-09-23T12:00:06.631Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Utah project milestone and notes with Electra's completed commercial airport test flights using advanced instrument procedures",
+      "projectsAffected": [
+        3
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOVZNTmJycWdjN3ZWOTk3Y3ktLVR5WXJ4UUNQOUg0eGVHQWVpdzNreFdiNE5pcVRSaWc2MC1zMmZzQ2FSalBENUpjSnNMTHgtSEhsUXp1ellHdkFyaEN2MTdtVUszUVU4d2oxTVpnVjBILUFnZnlCenNXczBXcmZwTTg4QWpPbUxoOEhOY2dNbUp3LTh6UC1ybVdmSE5Jand5VExiNkZqSUt3b1RiNEo4aENYaTQ1cnZGMjZ3NFVCZ3dGR2t1TmNWWnIyQlhxMVhRLUdxVTk5WU5zU0U2WWpNZlVtVGtVajJQN3BlQ3BPOVkxUGlQVjZ6dmZuSHJQSlI3UFVaRHEtelNxMlVhejg4eXB4MXp0NVlYTGV4aTdFRDRUT1c0Rl9Fc1RjV1Y?oc=5"
+    },
     {
       "timestamp": "2026-09-22T12:00:37.773Z",
       "source": "n8n-auto-monitor",
@@ -461,15 +470,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdDVnZFl0UGRud2YzS0Fib2pMUEJ3WG9pYXhGM3prM2ljWDVBT180VnhPVklaRVlaa2liQXBXTnpZNnVadzMzb3g2R0NYLVcyMkxWMjFHS0lnNHNGQThSeE9MNnRhamFRbmtQSVhPN3Z3NGRJbmY0YldIa1JzeExjUllBMWVyWHZ0cGc?oc=5"
-    },
-    {
-      "timestamp": "2026-08-29T12:00:08.701Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated milestone to reflect Archer Aviation's acquisition of Boeing's drone and air-taxi units for Project 1 (NY/NJ Port Authority)",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0IwM1AxUmxrRnp0WWMzcmR5enN3T1RvdlVib0RKbXRVdEZQZDZZZ3RpV3FQcFlSMU81Z29DdGhhOTBZOE1USl9BUjNlQm5RQmdNZ1F5dnYzN3poRXloby1PYzB4aTBORFZONGs2R0JaNFFXekc4UHRyb0YxNmlwOGNtNUJveGhEdXBXNTlZMA?oc=5"
     }
   ],
   "projects": [
@@ -900,13 +900,13 @@
       "focus": "Medical Logistics + Rural Cargo",
       "keyOp": "Medical deliveries to rural communities across mountainous terrain and wildfire-prone regions",
       "otaStatus": "Pending",
-      "milestone": "Hybrid-electric flight testing completed in Utah",
+      "milestone": "Hybrid-electric testing completed; commercial airport ops with novel procedures",
       "opsTarget": "Summer 2026",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness.",
+      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness. Electra completed groundbreaking test flights at commercial airport using helicopter-style instrument procedures and novel takeoff/landing areas for ultra-short aircraft operations.",
       "links": [
         {
           "label": "DOT Announcement",
