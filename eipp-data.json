@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-23T12:00:06.631Z",
+    "lastUpdated": "2026-09-24T12:00:09.248Z",
     "updatedBy": "n8n",
-    "version": 321,
+    "version": 322,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-09-24T12:00:09.249Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Utah DOT project milestone: Electra completed helicopter-like vertical flight operations at commercial airport, advancing toward certification",
+      "projectsAffected": [
+        3
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2ZZNGszZ2lXRTNUNHBtZUw2QWZWVHZMdHBEQnd3LWlEZWtOcmxJM2JmU21oTTBvUndSWTgxR19JRHhFZGpNV09BUGJQRHhUeE1Qc0ZtbktwbDV5SlJJU3NrSWxOcmtsQk5wRE5ldDAwblM3enlhVDhQR1JmajZNQjFoTVI4d2RQeTdkQ3VkTmNXTkItYUsxcWl4X1dsbHpxNGk2aFNSTjFQU2xfdTJXNFpVN1A?oc=5"
+    },
     {
       "timestamp": "2026-09-23T12:00:06.631Z",
       "source": "n8n-auto-monitor",
@@ -461,15 +470,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemtqYWhxWVlaR3E2Vzl0cXdEMXRtbWNncTQ1cTU0SzZ4bzRkMkNLLW5ETkx1eWljRVdha2p0YnJPd2UwZHhHS3V4eWJOYm4wcmpsVWxtTHFleC1UTXd0UDV2Skk5ekxabnFiQlhVanVsX1dVZjFuNnZVU0pEbXZvNENFemRWZmJMbngzRWY4TlREX1RpTlFXYnN0aC10eDh0VGFlX1VTU2JBOVpGTmkxUHRNc0dZZDAzVW5BYzdDTHFqTGJxRE5xOWJjV0RpdVdBMndn0gHYAUFVX3lxTE8wOTRuVVRsYkVPOFowQjF4RHY3QmNzVzlmV0NYMkttbXZ4dmM3ZFVHemNFbU9NaVZoTG1vdW5EWDRuNktTR21SYUNKQlZwZ1FXNVRRMkN1SGktQks2NHcyTnJNYlZsYXNzdEF4TFBTNzRvSXpVOEQyNE84UzdrTExjcjl5TVdTVDVVaVpJTENZMWJOUVdNVUtuVFA4UHVuSFU1T3NTNkFUWURfVUpRYmRQaHFyWEEtd0lBLUg2THc3dFFubnByS29IQWZvQWhSdjJaX1VSVHlwTA?oc=5"
-    },
-    {
-      "timestamp": "2026-08-29T12:00:51.976Z",
-      "source": "n8n-auto-monitor",
-      "description": "Article about Joby Aviation's competitive position in air taxi industry reviewed; no specific operational milestones, OTA status changes, or dated commitments found to warrant data updates to Project 4.",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdDVnZFl0UGRud2YzS0Fib2pMUEJ3WG9pYXhGM3prM2ljWDVBT180VnhPVklaRVlaa2liQXBXTnpZNnVadzMzb3g2R0NYLVcyMkxWMjFHS0lnNHNGQThSeE9MNnRhamFRbmtQSVhPN3Z3NGRJbmY0YldIa1JzeExjUllBMWVyWHZ0cGc?oc=5"
     }
   ],
   "projects": [
@@ -900,13 +900,13 @@
       "focus": "Medical Logistics + Rural Cargo",
       "keyOp": "Medical deliveries to rural communities across mountainous terrain and wildfire-prone regions",
       "otaStatus": "Pending",
-      "milestone": "Hybrid-electric testing completed; commercial airport ops with novel procedures",
+      "milestone": "Hybrid-electric testing completed; commercial airport helicopter-like ops",
       "opsTarget": "Summer 2026",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness. Electra completed groundbreaking test flights at commercial airport using helicopter-style instrument procedures and novel takeoff/landing areas for ultra-short aircraft operations.",
+      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness. Electra completed groundbreaking test flights at commercial airport using helicopter-style instrument procedures and novel takeoff/landing areas for ultra-short aircraft operations. Electra completed helicopter-like vertical flight operations at commercial airport, demonstrating significant progress toward eVTOL certification and operational readiness.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -919,6 +919,10 @@
         {
           "label": "eVTOL integration advances with hybrid-electric flight in Utah",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQnJhb3ZuanBmdmE3NFNhb1hSN0w2bkRQTUhHZFh2eUNlaktCaXhhVTFTZU4yZTZFU0ZyUUtwNFAxRElkWjA1M3Nfd2hhREFSNE8wRTdrcE1wWVJMSjRUcWw1U3lONy1RMWd3a0RLVllYeGlGOEV6YVBuMGg3eUVIbmpMd2swWWVWSWN1OHQwWGpzQzRMRl9QWERyRElqRTM1TWR2WEo4LXZrbFhjZkl4T1Q4RjE5MkIxM05BTlB6bTJXMm9qeWVTQU1Sb2xqOVFsV0JrazNSWW5JakhmaG5teVBoVWhhMGhSclJZY19zN0dScTZFSlRZ?oc=5"
+        },
+        {
+          "label": "Electra completes helicopter-like flights at commercial airport",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2ZZNGszZ2lXRTNUNHBtZUw2QWZWVHZMdHBEQnd3LWlEZWtOcmxJM2JmU21oTTBvUndSWTgxR19JRHhFZGpNV09BUGJQRHhUeE1Qc0ZtbktwbDV5SlJJU3NrSWxOcmtsQk5wRE5ldDAwblM3enlhVDhQR1JmajZNQjFoTVI4d2RQeTdkQ3VkTmNXTkItYUsxcWl4X1dsbHpxNGk2aFNSTjFQU2xfdTJXNFpVN1A"
         }
       ]
     },
