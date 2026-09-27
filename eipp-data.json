@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-27T12:00:01.127Z",
+    "lastUpdated": "2026-09-27T12:00:10.316Z",
     "updatedBy": "n8n",
-    "version": 325,
+    "version": 326,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-09-27T12:00:10.316Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article discusses Joby Aviation's autonomous flight capabilities and financial implications; relevant to Project 4 (Pennsylvania) but insufficient technical details for structured project updates. No specific milestone achievements, OTA status changes, or operational milestones mentioned in article.",
+      "projectsAffected": [
+        4
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON3BRZk44MFBzWlVNVF9wUGx4ZzNlUTBfV0o1S2g3ZS1OMk1ERXpYcEhGN1RLQWpFNVUxZ0tBWVNSYVpUZnozdVNnM01JMThSUWlLMm9NSEplcm1NUTZiYWg0Y1JRLUNZRUxieTV6WW5HRDB6Q0JsWmFPUU1ib2RuSkVtTmt1Wld5VHMwZXFQaDFJdktab3duZU5YVExMNFltUm9fRE9FRGtpbmJYUlN0V0hyV01WTDNKZHZNTV9xeEdHVG1oa1puNnB1ZDBMWnEyY3fSAdcBQVVfeXFMTnJ4WGFMZUtqcUJMTlpPQUlDWlVRWHR1UUk1YUlwX3JqcWo2c2l4V0kwMTV2OXBMaTBKNnFIM3dhcU9KbEZUa1BmUXNSUUpyRVN3NHc2RmdUZ3BXR1NTWHEzaFY0SEdvd0prdEt3RmQ1MUJfbTh1T2VQN0RMME1LUDktcWlYcTZFOW5iTDR1Tk9uQ2o0RG1zUkR3eUJIeExIN1VueENFTXFkSmJvd09NeHhCNDM4dVFDWEx1MDBoQmxMc3NUajJnNTRzamItZWZURkJ5bENiUlE?oc=5"
+    },
     {
       "timestamp": "2026-09-26T12:00:08.448Z",
       "source": "n8n-auto-monitor",
@@ -461,15 +470,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd0lMQkk3LXJrc2V3V1dyTUpjZWRvcHNQZzZxX3pkcGVQWE1HeEdPMm1vc1dnUzdUR1JqRXB5X3Ntbklqc2Y5T0Q2OUR0eTVJeUEtYWdJaE1nTFo3Rm90RnVTYmZscmNCZTBJaWktQ1pWZDdiM0p1eFVrWm5ucm54WlRlNHI0RHNsaUN1NkRDQk5ITVFVVFBucw?oc=5"
-    },
-    {
-      "timestamp": "2026-08-31T12:01:06.558Z",
-      "source": "n8n-auto-monitor",
-      "description": "Wisk Aero infrastructure development: vertiport construction initiated at Hollister Airport",
-      "projectsAffected": [
-        5
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcGRjRWppY2JaTUR1elAyZUVEcnpWanJrR1B4T2xtc1EwRVN1NDE3eVAxMXdzMlpBUHlMei15TFl5N1d1VkZ1ZzF4S2pHMHd4TmcyVG9kanVtZXYtck1vU0hyS1RNbjFicUxXU0NMU294M0tTelFKLUpyWWM3REdVTXBYVGg5VzI1MjFaR21KZXJwZzFmLUR1ck9vekZ2WVE?oc=5"
     }
   ],
   "projects": [
