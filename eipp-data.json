@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-28T12:00:01.113Z",
+    "lastUpdated": "2026-09-28T12:00:10.985Z",
     "updatedBy": "n8n",
-    "version": 327,
+    "version": 328,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-09-28T12:00:10.985Z",
+      "source": "n8n-auto-monitor",
+      "description": "Form 144 filing by Archer Aviation (insider stock transaction) - informational only, no project status changes warranted",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXl5c2w2X3lWWEk0N1VDYXZFa1FSa2NJZzZQZmd2NkZqSUh1cGZhN3hqVzdBa3dzYUpGOW56MG9nWFA2WElvcEdxOU1WTFIwRGpOUGdBd0RGOUlLdm5RbTl2bWNwb0pqcHVOSUNBeXl5Mk9sc09UMjRSWF9PdUp5X2JiQ3BBWE92X0JpZkhVY3p1cWFreUVRXzhBTHlKYVp6OXBwaTgxTUJTUQ?oc=5"
+    },
     {
       "timestamp": "2026-09-27T12:00:43.487Z",
       "source": "n8n-auto-monitor",
@@ -461,15 +470,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQekkwZERWN1FXNGNLd3FZZ2lNUzRfeldDYlVndTlOTTNoRUJaMDFYQzZVTDJ3a2JGZXJheDVvYmd5ZFgwekcxeDJxXzBGVGREVlQtSUI1bVM5M01rVWoya0JLOEFOc3U5OG9mM0FMU0o1SVR4bWVzN1I5Yk16ZVIwbHJGNUdjb1g4X3FiRklCUzlCWk9JRkVxdG5TejdZc2Jv?oc=5"
-    },
-    {
-      "timestamp": "2026-09-01T12:00:14.023Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated milestone to reflect L.A. LIVE vertiport partnership announcement; added supporting link documenting deal valuation analysis",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYXR4TTNYbW1HM1VaNGp2X0hVT1REQnIwb0RYaUdoWG5vTko0WUJoVjlIeTNfWHFuaWJIQWFQNThUQXhPT2JQZ3lNY0p2YnoxV1JKSFkwZHJ0OVFqdzhnekZZd004ekg2OWk4MEhHUENyVjNDOGZCdmtnQ3gzQ3Q4UGRRX1JTYjVFcW9TdndlemE4WmsxdG5pNU1TZ1l2MlAtcEo5SjU3WDdQTEVfNzljSmszZG0wSFloTGpKSU1pRFF4QU9xVEUyMEQ0UTRILVRSZ0E40gHYAUFVX3lxTE15bkE5TEhGNW92eHFkQURHZDFGeWhkRmZhWERKQnBwX3I5T3FkQkxGN19ob28xcUptTGNzRnp2d3FKTElOZlZvSlRXQ25TcVBVQTNPNFBmRlpCSkVZeHRRbU1XNnlQckplenVvcGVJX28zUmJKR29TQ3JnWkQyYkw5Y0ZrcTBSN0lJczF2SmdvZlBESkxsNWlkd093Z3BhLVl2c0xET3J4OGlZU0VUeV9jS1VyRXVpaHIwdThUMkY5S2xmRjZacFJXNHU1S1Jjc29id2lMMG44Sg?oc=5"
     }
   ],
   "projects": [
