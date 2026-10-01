@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-01T12:00:50.063Z",
+    "lastUpdated": "2026-10-01T12:01:07.037Z",
     "updatedBy": "n8n",
-    "version": 331,
+    "version": 332,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-01T12:01:07.037Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added note about Joby Aviation autonomous eVTOL development partnership with Utah",
+      "projectsAffected": [
+        3
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44RHlqdTN3dEhBWFg2NzFnX05xb21KbkYwQ3YwZW1OX3hRWWVyenI1MldUOU5PZmNYcm9QZlI2b09YaTVKYXYwcWhVb1JjNS1vVWZSeWlyNGhWVWhCRFhWSlBPLXZmWFBWMjBneUNQR2hudVpaMkVvX2lKNkdpdw?oc=5"
+    },
     {
       "timestamp": "2026-10-01T12:00:50.063Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +468,6 @@
         7
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcnJfcHhsRUdoU1hnVXo1bWJiS3BicDAyNXJCVlZlR1pMRWptV2g2ek5BY3N5VFdFS3JNcl8wTU84Ui1jTmplYjdVX0E2S3dlX2RyT0lLOXM2MEZ4ME1nUjZ6UTFYX1ZNb2k4QnVKOWJ0aFVBNlhpQXZNVjhHWVI1cFpOMkVCamE4VWFQTXBBZU9SbWRTX1ZuQjRiYlhNT21aNGZvLTY1bWlMTDEwUGFlYnByNjVhLWs?oc=5"
-    },
-    {
-      "timestamp": "2026-09-03T12:00:49.381Z",
-      "source": "n8n-auto-monitor",
-      "description": "Elroy Air autonomous cargo drone operations milestone achieved in Louisiana with medical supplies and food delivery",
-      "projectsAffected": [
-        6
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdEhHczR0YmlkdS1URnJjNVF6TVFKclFjeFcyZmpIQ2k2cXhKcGdSR1dYS1RsUjZpaDF4UnMzbUNOdWRiLU9CVlN0SkJhSlM4MDU2bHJrc0VBRHNtMmhzeld1VEJDUGhBV2w0a1NyR2F6SU0zdTdyVmxCNFFnVUE4M3JDbHd0S01oMHhJUmpLcncxdUJBbWtydDJtWmhYOUpwczh2OXJNeC1GNGNlM256eXhFQkQ1WnJuc2NZYjk4SQ?oc=5"
     }
   ],
   "projects": [
@@ -919,7 +919,7 @@
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness. Electra completed groundbreaking test flights at commercial airport using helicopter-style instrument procedures and novel takeoff/landing areas for ultra-short aircraft operations. Electra completed helicopter-like vertical flight operations at commercial airport, demonstrating significant progress toward eVTOL certification and operational readiness.",
+      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness. Electra completed groundbreaking test flights at commercial airport using helicopter-style instrument procedures and novel takeoff/landing areas for ultra-short aircraft operations. Electra completed helicopter-like vertical flight operations at commercial airport, demonstrating significant progress toward eVTOL certification and operational readiness. Joby Aviation partnership active for autonomous eVTOL development in Utah; advancing toward commercial operations.",
       "links": [
         {
           "label": "DOT Announcement",
