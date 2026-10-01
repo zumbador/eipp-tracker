@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-01T12:00:14.752Z",
+    "lastUpdated": "2026-10-01T12:00:50.063Z",
     "updatedBy": "n8n",
-    "version": 330,
+    "version": 331,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational deployment",
-    "bannerMessage": "Joby Aviation achieves autonomous cross-country flight milestone",
+    "bannerMessage": "Legal dispute between Archer Aviation (Project 1) and Joby Aviation (Project 4) regarding trade secrets - potential impact on operational timelines for both participants",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-01T12:00:50.063Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added banner notification regarding Archer v. Joby trade secrets litigation that may affect Projects 1 and 4 timelines and development progress",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVVlHMXlsM2UydkplMjRTcGluWEdrMXE0Q2RZUVhpVmg4cS1lUXZmQnVrY25rcmFZSW9OM1BVeDV1TjEyb09OYXdBUmtzajhfN0pIYjFrYVBfN3VBX2QwWWZSSXc2WkNJT3JHVVZubUhRQ1g5NXFKZUN4NWZlb25YaWdHTkZlUEtoZ052bDJqRkYzbi1iOTJFQXFHNkxMczA?oc=5"
+    },
     {
       "timestamp": "2026-10-01T12:00:14.752Z",
       "source": "n8n-auto-monitor",
@@ -461,15 +468,6 @@
         6
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdEhHczR0YmlkdS1URnJjNVF6TVFKclFjeFcyZmpIQ2k2cXhKcGdSR1dYS1RsUjZpaDF4UnMzbUNOdWRiLU9CVlN0SkJhSlM4MDU2bHJrc0VBRHNtMmhzeld1VEJDUGhBV2w0a1NyR2F6SU0zdTdyVmxCNFFnVUE4M3JDbHd0S01oMHhJUmpLcncxdUJBbWtydDJtWmhYOUpwczh2OXJNeC1GNGNlM256eXhFQkQ1WnJuc2NZYjk4SQ?oc=5"
-    },
-    {
-      "timestamp": "2026-09-03T12:00:29.811Z",
-      "source": "n8n-auto-monitor",
-      "description": "Elroy Air (Project 7) completed first uncrewed autonomous eIPP flights; updated milestone and activated OTA status",
-      "projectsAffected": [
-        7
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMlZYZXd3TlVXOGpWR2w1QkN2ZHNhWC1RdlRLQlpickZleThmVjB3RWhNeUc2S0dteEtVLVhPcFhTaTBWeHJlbFhrU0lzakhZWnBVNVRzWHplaGl5TjVmeDJ0WDFPUXpmaG0wbHhkQVpNUU5sUThLUU9lM2drckZIUTdVOU5LSWNYV2syTDc5bDg4eEluMmpuR2ZiTmhVN0ttNDJtUHI2OWtLSzBFY0Ywa1ZaQmxQcFhBSmRZc3I4NGFpTjJtOGE2RjNqemQ2SDRiS29xYUpfSm05SWR2WVg5aG5DTTBwU05uT25CblVELVBLZG1xVVpQNjhMVWhXNWJ0cmdvRVp6dE5ROTA?oc=5"
     }
   ],
   "projects": [
