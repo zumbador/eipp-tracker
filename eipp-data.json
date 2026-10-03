@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-03T12:00:11.839Z",
+    "lastUpdated": "2026-10-03T12:00:32.478Z",
     "updatedBy": "n8n",
-    "version": 333,
+    "version": 334,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-03T12:00:32.478Z",
+      "source": "n8n-auto-monitor",
+      "description": "Updated Project 3 (Utah DOT) milestone to reflect autonomous aircraft testing progress by Joby Aviation; added testing activity details to notes",
+      "projectsAffected": [
+        3
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTZ2NDlNelhEbGJNSlhwRDJkLVFLNFBfMGNzQ2c3V1ExZmhlTk8tYjYxaHYyMkJXbnp3Tng0VUlOckNpZ3R0Q0xLQXYxUDY1VXBBLTRDR2FvdFhMNEFkY2twNGFWVlNXbFNncjByVjRPbk1Yb184WTFSM3BPZ2V1bkJfeG5oS0dwQjh5eHZsRHRhSmx5SkJBX3VZQQ?oc=5"
+    },
     {
       "timestamp": "2026-10-03T12:00:11.839Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +468,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVJSdjFpZHV2bnR2SnhjdTdrVFZwUlcyazFaQTFvR21pSW1LYzQ0YmNKRk9Ea2FrOVdhc2ZBUnlUV3FFcXpSU2ZxYVViLURMZDFVVmZxdGdwSG9vazg1eUp5QWdPWmNkQUN5MmtQWHhrQUd0ZkUybGR2ekd6TTVaWQ?oc=5"
-    },
-    {
-      "timestamp": "2026-09-04T12:00:32.341Z",
-      "source": "n8n-auto-monitor",
-      "description": "Elroy Air autonomous cargo flight operations completed in Louisiana; updated milestone and activated OTA status for Louisiana DOT-sponsored project",
-      "projectsAffected": [
-        6
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXhXMnFZTnVsSUIzS2k0dEtRektsaFNha3NWMjkyWmljeS1jRWdicEFxMU9wa25TekVYZTVIVkNTaDF3c25ENm43ZjViQzFkZThQdXRZLUxLVGN3dEJhNHpfRzlyNUFZSVVmTE1JbUFRZGd1eUdxeEl4QUNOVEhXUXA4SHNraF9RU2JSTExvdl9ubHZ5c1VpS2tBVkdYWGJ5NlA2Y0FSc28xOXNyNzBRdTU2OHNZX3JpbnVkYWVn?oc=5"
     }
   ],
   "projects": [
@@ -917,13 +917,13 @@
       "focus": "Medical Logistics + Rural Cargo",
       "keyOp": "Medical deliveries to rural communities across mountainous terrain and wildfire-prone regions",
       "otaStatus": "Pending",
-      "milestone": "Hybrid-electric testing completed; commercial airport helicopter-like ops",
+      "milestone": "Autonomous aircraft testing; hybrid-electric ops; commercial airport integration",
       "opsTarget": "Summer 2026",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness. Electra completed groundbreaking test flights at commercial airport using helicopter-style instrument procedures and novel takeoff/landing areas for ultra-short aircraft operations. Electra completed helicopter-like vertical flight operations at commercial airport, demonstrating significant progress toward eVTOL certification and operational readiness. Joby Aviation partnership active for autonomous eVTOL development in Utah; advancing toward commercial operations.",
+      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness. Electra completed groundbreaking test flights at commercial airport using helicopter-style instrument procedures and novel takeoff/landing areas for ultra-short aircraft operations. Electra completed helicopter-like vertical flight operations at commercial airport, demonstrating significant progress toward eVTOL certification and operational readiness. Joby Aviation partnership active for autonomous eVTOL development in Utah; advancing toward commercial operations. Joby Aviation conducting autonomous aircraft testing in Utah as part of eIPP program activities.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -940,6 +940,10 @@
         {
           "label": "Electra completes helicopter-like flights at commercial airport",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2ZZNGszZ2lXRTNUNHBtZUw2QWZWVHZMdHBEQnd3LWlEZWtOcmxJM2JmU21oTTBvUndSWTgxR19JRHhFZGpNV09BUGJQRHhUeE1Qc0ZtbktwbDV5SlJJU3NrSWxOcmtsQk5wRE5ldDAwblM3enlhVDhQR1JmajZNQjFoTVI4d2RQeTdkQ3VkTmNXTkItYUsxcWl4X1dsbHpxNGk2aFNSTjFQU2xfdTJXNFpVN1A"
+        },
+        {
+          "label": "Joby Aviation tests autonomous aircraft in Utah",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTZ2NDlNelhEbGJNSlhwRDJkLVFLNFBfMGNzQ2c3V1ExZmhlTk8tYjYxaHYyMkJXbnp3Tng0VUlOckNpZ3R0Q0xLQXYxUDY1VXBBLTRDR2FvdFhMNEFkY2twNGFWVlNXbFNncjByVjRPbk1Yb184WTFSM3BPZ2V1bkJfeG5oS0dwQjh5eHZsRHRhSmx5SkJBX3VZQQ?oc=5"
         }
       ]
     },
