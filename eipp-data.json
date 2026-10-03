@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-03T12:00:32.478Z",
+    "lastUpdated": "2026-10-03T12:00:50.752Z",
     "updatedBy": "n8n",
-    "version": 334,
+    "version": 335,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational deployment",
-    "bannerMessage": "Legal dispute between Archer Aviation (Project 1) and Joby Aviation (Project 4) regarding trade secrets - potential impact on operational timelines for both participants",
+    "bannerMessage": "Joby Aviation's trade-secret litigation against Archer Aviation (eIPP participants 1 & 2) trimmed by US court ruling",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-03T12:00:50.752Z",
+      "source": "n8n-auto-monitor",
+      "description": "Court ruling on Joby-Archer trade-secret case; litigation update affecting both NYC and Texas eIPP programs",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdHBKcV9tOWhlVXBmLUljVzNKY0E2eWhxc1hkY3NiSDRKRjVLVkNSM043SEgzUlNrbHhyY0Q2NmRsSWs2MXh4X0QwQTlhaEg5WnREczBIV0VIU3A4R3hxMVI0VUttOTZHbHh3SmdkUnhuOXBOMVNOR21jREJBdUpBMXViUWRuV0dOaWlZRzZlU0dLVThFeUdIYURCOEFQRER0T2RlaWxFMUZPamtGb3p5YkFQeU5FSTZQLXVhQ25jYXZ5WTBoN1JmNm1lMHlGVXRhMUI4WGFuZWFPN1FnUURkbFEyam5POTdCV1NYczFFZVRTdmZJ?oc=5"
+    },
     {
       "timestamp": "2026-10-03T12:00:32.478Z",
       "source": "n8n-auto-monitor",
@@ -459,15 +466,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWTNvMFd6SlM2UW84amJqbnNVRDRhTHIxTmcxeHlEdFdwSzVjM1hlLWdaZTAxREhNMm4tQ3lINEhIRzhhUTczTVYwSnJrenpmdjdGX3RDbWtrNmFDLUhJaTR3Tk5IdGRyNm9nQUlRNHBCa2dzYV9WeXNLUll4Zk9vbXNqWVdoN1NVWnBiSjNmUjdudzQ5Rk00bGRvbWxuM3p0dEhWZVExNmZwVGxSWkxZSkJMNVFIbzBnQ3AyWjdDeDA5bWVPTHQ3Y3oybDJaUDJBT3fSAdcBQVVfeXFMTzN1Ykg4cDFISXN1a0dRWEhLYVlMRzQ3MEliek1xdVNEb0IzeE03RWoyOGJKeU5fRzBZUUZ3c2QxSFZnZnRMRm10ekFkdExvdzlheS1uQ0ZGd2xfZ2l5eVRhcUh4bWRORzlWSDlEcXBFZ0RpWWtJcUk4eUVFRElubVR1U1JBTzl3NHNXT3hFMzJ6bWRQUHZPNDZSa2t5UnhqQ3dsTG9sQXZDaGdjSk5aeEVmQzBYLWRCU3NYandFejJqLWRaTzBEV1JoeWQ2WjY3c1cySnhIclE?oc=5"
-    },
-    {
-      "timestamp": "2026-09-05T12:01:02.101Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated milestone to reflect Archer eVTOL demonstrations at California airports; appended operational progress note",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVJSdjFpZHV2bnR2SnhjdTdrVFZwUlcyazFaQTFvR21pSW1LYzQ0YmNKRk9Ea2FrOVdhc2ZBUnlUV3FFcXpSU2ZxYVViLURMZDFVVmZxdGdwSG9vazg1eUp5QWdPWmNkQUN5MmtQWHhrQUd0ZkUybGR2ekd6TTVaWQ?oc=5"
     }
   ],
   "projects": [
