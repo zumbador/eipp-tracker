@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-05T12:00:12.573Z",
+    "lastUpdated": "2026-10-05T12:00:34.903Z",
     "updatedBy": "n8n",
-    "version": 339,
+    "version": 340,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-05T12:00:34.903Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added remote piloting technology demonstration documentation from Utah/California test flight relevant to autonomous aircraft operations",
+      "projectsAffected": [
+        3
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5azhsdHhpY2R2dWpWTkh5ZGVtR2lNS0hERVJyNXJzUFpNQmVlV1RzMlBHei1nelhQNm8tMV9lUWlIdHJkajNfOUxRUUktYTBvc01WcTNaUlNuRzI5aDJjdGFTcmVGOGVDYTRXaUdTUmR1TmNhRzBVV2c5ZFJMZw?oc=5"
+    },
     {
       "timestamp": "2026-10-05T12:00:12.573Z",
       "source": "n8n-auto-monitor",
@@ -457,15 +466,6 @@
         7
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUzN2UjBncHFRemxtY0hLdnh3Y3ROdFhXS1pwWnBHUk52dEdnQmlTOGg2cE1vWGUzM29wVFRFdE5XOERqc0ZNNDlnbXRoUUVoMXVVZ1RDNUlCMkh1U3U4aTBmVGFHRFJwRHdtZWN0MEppaEhibjVjNjQ3bFphaThpeVFOdXFISUctMFdQR2NfMnA?oc=5"
-    },
-    {
-      "timestamp": "2026-09-08T12:00:27.646Z",
-      "source": "n8n-auto-monitor",
-      "description": "Elroy Air's Chaparral cargo aircraft successfully completed pilot-free autonomous flight operations under FAA oversight; project status updated to Active with operational milestone documentation",
-      "projectsAffected": [
-        7
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jYkdsT1Y3X2hrblNoUFZNUlpYR3laWDA2THM1YjZJVXo2bHNEV282eU1KOUQ3VHh3TzBaZEI5YmtnWDc3VlBzTzZ3WTVOdFpmcnZVbDNmU3Nja0otREtheC01cVNOVW1MbXhXNUNzYUpSRTV3X3c?oc=5"
     }
   ],
   "projects": [
@@ -921,7 +921,7 @@
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness. Electra completed groundbreaking test flights at commercial airport using helicopter-style instrument procedures and novel takeoff/landing areas for ultra-short aircraft operations. Electra completed helicopter-like vertical flight operations at commercial airport, demonstrating significant progress toward eVTOL certification and operational readiness. Joby Aviation partnership active for autonomous eVTOL development in Utah; advancing toward commercial operations. Joby Aviation conducting autonomous aircraft testing in Utah as part of eIPP program activities.",
+      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness. Electra completed groundbreaking test flights at commercial airport using helicopter-style instrument procedures and novel takeoff/landing areas for ultra-short aircraft operations. Electra completed helicopter-like vertical flight operations at commercial airport, demonstrating significant progress toward eVTOL certification and operational readiness. Joby Aviation partnership active for autonomous eVTOL development in Utah; advancing toward commercial operations. Joby Aviation conducting autonomous aircraft testing in Utah as part of eIPP program activities. Remote piloting technology demonstration completed in Utah with aircraft controlled from California, validating teleoperation capabilities relevant to autonomous eVTOL operations.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -942,6 +942,10 @@
         {
           "label": "Joby Aviation tests autonomous aircraft in Utah",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTZ2NDlNelhEbGJNSlhwRDJkLVFLNFBfMGNzQ2c3V1ExZmhlTk8tYjYxaHYyMkJXbnp3Tng0VUlOckNpZ3R0Q0xLQXYxUDY1VXBBLTRDR2FvdFhMNEFkY2twNGFWVlNXbFNncjByVjRPbk1Yb184WTFSM3BPZ2V1bkJfeG5oS0dwQjh5eHZsRHRhSmx5SkJBX3VZQQ?oc=5"
+        },
+        {
+          "label": "Remote piloting demo article",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5azhsdHhpY2R2dWpWTkh5ZGVtR2lNS0hERVJyNXJzUFpNQmVlV1RzMlBHei1nelhQNm8tMV9lUWlIdHJkajNfOUxRUUktYTBvc01WcTNaUlNuRzI5aDJjdGFTcmVGOGVDYTRXaUdTUmR1TmNhRzBVV2c5ZFJMZw?oc=5"
         }
       ]
     },
