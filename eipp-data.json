@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-07T12:01:04.339Z",
+    "lastUpdated": "2026-10-08T12:00:10.445Z",
     "updatedBy": "n8n",
-    "version": 343,
+    "version": 344,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-08T12:00:10.445Z",
+      "source": "n8n-auto-monitor",
+      "description": "Utah eIPP (Project 3) transitioned to Active status following BETA Technologies completion of radiopharmaceutical delivery operations demonstrating eVTOL capability",
+      "projectsAffected": [
+        3
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLWhKN01la3Y2WGhBMEFwQ1ZNZ0cydmZDUmN6LUJiVEYwaExTQ2RvalhXdUFUcWdPbUFNYXplaWhlOVpqLWF0SUtQSklFMTQzXzRVLVg0SjR1Q2xLaXFpcU95TzlvRE5IUU9Fc0lkZ1RpdVZvamtHU3lPRXg3Q2Zteml0VW9OUGxGd21BaS1RVy1yRzJPZ0NCNDhKa0hrZXo4SUw1aTVQT1E0X0ZWQm5PdnRvOFpmRndlekZLSFBFOHVGVFNaN1BkSUI4aU11WWNNZ2xKRG8tQnJuaGJQUlUzMjRRVHpXY3hMbWpRYTRxV3dzeDRT?oc=5"
+    },
     {
       "timestamp": "2026-10-07T12:01:04.356Z",
       "source": "n8n-auto-monitor",
@@ -457,15 +466,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWt4clZqM3FBNjRHSnoxc3lXLWptcUk4dDB2WnFlRGlRbHBxWDlnaFNZaXBISXRYanFWZzJLaUtuQnIwem5MTXJZTzVtQmNiSHRZcW54UFJZQTZBaU5aVDJCQlhjbWlvb182MVVNNHJBS3FFeXRTUnhlenZneTVXSHdZNW1ZQ1NEdUZZb1JuWQ?oc=5"
-    },
-    {
-      "timestamp": "2026-09-09T12:01:07.767Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added investor activity note: ARK Investment Management increased position in Archer Aviation, demonstrating continued market confidence in eIPP program",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSzZMWjlUWHo4cmEyZnR2ZGhZQzZoc2NXNkNMcmZ3NzJMX2RCSFNlSDFjR1p4bnJCSjNXcmhnMDRCalltUmV4V0NWQ0lNNHZhS04yUTVENVNWa05QZ1Nyc3FJTXVreUtUbm10VVAxSXdUWXA1WHRfaEhaZzNmRmpLdUg5UkhfV0lfN25LOWhzWGIzVGlRc1BxQWRyLVppUmo5WXRLbGFSUDdGSjMzdlpv?oc=5"
     }
   ],
   "projects": [
@@ -917,14 +917,14 @@
       ],
       "focus": "Medical Logistics + Rural Cargo",
       "keyOp": "Medical deliveries to rural communities across mountainous terrain and wildfire-prone regions",
-      "otaStatus": "Pending",
-      "milestone": "Autonomous aircraft testing; cross-country ops; commercial integration",
+      "otaStatus": "Active",
+      "milestone": "eVTOL radiopharmaceutical delivery ops; autonomous testing",
       "opsTarget": "Summer 2026",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness. Electra completed groundbreaking test flights at commercial airport using helicopter-style instrument procedures and novel takeoff/landing areas for ultra-short aircraft operations. Electra completed helicopter-like vertical flight operations at commercial airport, demonstrating significant progress toward eVTOL certification and operational readiness. Joby Aviation partnership active for autonomous eVTOL development in Utah; advancing toward commercial operations. Joby Aviation conducting autonomous aircraft testing in Utah as part of eIPP program activities. Remote piloting technology demonstration completed in Utah with aircraft controlled from California, validating teleoperation capabilities relevant to autonomous eVTOL operations. Joby Aviation completed first US cross-country autonomous Cessna Caravan flight, demonstrating advanced autonomous capabilities relevant to project objectives.",
+      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness. Electra completed groundbreaking test flights at commercial airport using helicopter-style instrument procedures and novel takeoff/landing areas for ultra-short aircraft operations. Electra completed helicopter-like vertical flight operations at commercial airport, demonstrating significant progress toward eVTOL certification and operational readiness. Joby Aviation partnership active for autonomous eVTOL development in Utah; advancing toward commercial operations. Joby Aviation conducting autonomous aircraft testing in Utah as part of eIPP program activities. Remote piloting technology demonstration completed in Utah with aircraft controlled from California, validating teleoperation capabilities relevant to autonomous eVTOL operations. Joby Aviation completed first US cross-country autonomous Cessna Caravan flight, demonstrating advanced autonomous capabilities relevant to project objectives. BETA Technologies completed Utah eIPP operations demonstrating eVTOL capability for radiopharmaceutical delivery and treatment support.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -949,6 +949,10 @@
         {
           "label": "Remote piloting demo article",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5azhsdHhpY2R2dWpWTkh5ZGVtR2lNS0hERVJyNXJzUFpNQmVlV1RzMlBHei1nelhQNm8tMV9lUWlIdHJkajNfOUxRUUktYTBvc01WcTNaUlNuRzI5aDJjdGFTcmVGOGVDYTRXaUdTUmR1TmNhRzBVV2c5ZFJMZw?oc=5"
+        },
+        {
+          "label": "BETA Completes Utah eIPP Operations",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLWhKN01la3Y2WGhBMEFwQ1ZNZ0cydmZDUmN6LUJiVEYwaExTQ2RvalhXdUFUcWdPbUFNYXplaWhlOVpqLWF0SUtQSklFMTQzXzRVLVg0SjR1Q2xLaXFpcU95TzlvRE5IUU9Fc0lkZ1RpdVZvamtHU3lPRXg3Q2Zteml0VW9OUGxGd21BaS1RVy1yRzJPZ0NCNDhKa0hrZXo4SUw1aTVQT1E0X0ZWQm5PdnRvOFpmRndlekZLSFBFOHVGVFNaN1BkSUI4aU11WWNNZ2xKRG8tQnJuaGJQUlUzMjRRVHpXY3hMbWpRYTRxV3dzeDRT"
         }
       ]
     },
