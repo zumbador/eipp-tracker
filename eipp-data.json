@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-08T12:00:10.445Z",
+    "lastUpdated": "2026-10-09T12:00:06.791Z",
     "updatedBy": "n8n",
-    "version": 344,
+    "version": 345,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational deployment",
-    "bannerMessage": "Joby Aviation affected by significant trade secrets lawsuit verdict; monitor impact on eIPP projects 1-4",
+    "bannerMessage": "FAA emphasizes need for 'repeatable operations' as eIPP program progresses with eight participating projects",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-09T12:00:06.791Z",
+      "source": "n8n-auto-monitor",
+      "description": "FAA public statement on eIPP program progression focusing on repeatable operations requirement; affects all eight projects but does not trigger specific data field changes",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVjBBeTU3QTNkMloxT1owaVJOQ1R6QTVNQ2RvMFhueUV5aE9FSkFxV2lpR1UtUlJWSkMzYm9UZ3U5UklIQXI1Y2lEN2lkQWFuVTRhUU03ZVMtdGVEZGo2cDJTUTlPTVVja2NYclNDbmdOckVwelpCM25zYTNaMXVPeGJqa3R1c0VyLWhWUEtXUjRWa0RTNFhTeG1uV3hWS3FWeEdXRzBZdw?oc=5"
+    },
     {
       "timestamp": "2026-10-08T12:00:10.445Z",
       "source": "n8n-auto-monitor",
@@ -457,15 +464,6 @@
         2
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlVmWWpqZERva1AxNTdicXFsQ1NpRjhHcVkwTE5DVWJTVUFLVDlfN3hhV0FzMXpYNDZIUENtOVNoMEY0ejd1bjRYYnF4QVgzUUJZOEZFdTlLcFAyaU1vbXFWVHBhbUNRN256cUdBNlJRYko1eWRucGRnWUVDa2JxQ3NhdFFJRzBNbGx1dk1HbEc5MTZTajFaZTFsb211cGhjNWZIaFFFUy0wdWxjTjNyN3MzSQ?oc=5"
-    },
-    {
-      "timestamp": "2026-09-10T12:00:09.934Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 1 notes to reflect Archer Aviation's acquisition of Boeing's drone and air-taxi units",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWt4clZqM3FBNjRHSnoxc3lXLWptcUk4dDB2WnFlRGlRbHBxWDlnaFNZaXBISXRYanFWZzJLaUtuQnIwem5MTXJZTzVtQmNiSHRZcW54UFJZQTZBaU5aVDJCQlhjbWlvb182MVVNNHJBS3FFeXRTUnhlenZneTVXSHdZNW1ZQ1NEdUZZb1JuWQ?oc=5"
     }
   ],
   "projects": [
