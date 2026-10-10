@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-10T12:00:13.090Z",
+    "lastUpdated": "2026-10-10T12:00:32.896Z",
     "updatedBy": "n8n",
-    "version": 346,
+    "version": 347,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-10T12:00:32.896Z",
+      "source": "n8n-auto-monitor",
+      "description": "Article about BETA Technologies' electric aviation training initiative is relevant context but does not provide specific structured updates to eIPP project milestones, OTA status, or documented agreements. No concrete project changes, dates, or status transitions are reported that warrant database updates.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGtOcXRRN2E2dFU2WTZzb1c1bFUyaXZ1b3B3eVlPTWRCcDlJcFhEV0IyZFcwSWJXMDBjZG45VFZTNWFteUVrWmE5NFF4czZxcjRXbmJzTjlkLWhqX214V0xYUTZicjdERjNKc0wxRFRqTl9NVHF2SXgweVd6YmRrdFBHSlFES184VjVpTTQzSXJPMnlkMkNfd0dZWGJ1dTJuRElV?oc=5"
+    },
     {
       "timestamp": "2026-10-10T12:00:13.090Z",
       "source": "n8n-auto-monitor",
@@ -455,15 +462,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMDhTT2pXdEJrckczQ2NDU3lVMVhNbVl3WXU3RU9yZnY5dnY4QmhmekFLaUg2RmpiR1liakhwUVdUdEVXcEFuYUphVmZMQXE4VWl6WEJHNDBxaS1jY3o1NlRWQUtvaFZyY25HNnJacnpJVGRma2xCdFllX2ZtdHRmNlF0WUlqMzRfalpwUXBkTmJ3ZF95QXM3d21VSHdPRDFYMzhEZ2gwS2dkYjZuZWtuM25hVEJHM05wZWRMUS1TTVBEcWNOU0VvLVdXV3dYNExGV0530gHYAUFVX3lxTE9mS3dCZ3JaNEE5TWRuX0M2cm14eHF1TEZfaGJPVHc2RERfSm1fa3RTMlc4Nm43VTkxcUFtckdqT3FFcUV3X1Q3dkhJUG5hbkRnRmE5RExZU2tQVUh5OGhOTzZoYm1RT0xaUWIyN05Vc3ZjdXFrR3lnWkZRdE1vNEtaNDI4M1lUVlBiMTlIUXJUSE14NExGTEc5SjJGZ29UdXhIUUhjTDlpTmtlRFZydEVOYWJ0cTd6TUJYMlRQcU80NzA0TlJWd2FnTi1sdGYtVTk2bXUxYVJqdw?oc=5"
-    },
-    {
-      "timestamp": "2026-09-12T12:00:09.553Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added note about Archer's acquisition of Boeing's drone and air-taxi units",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWt4clZqM3FBNjRHSnoxc3lXLWptcUk4dDB2WnFlRGlRbHBxWDlnaFNZaXBISXRYanFWZzJLaUtuQnIwem5MTXJZTzVtQmNiSHRZcW54UFJZQTZBaU5aVDJCQlhjbWlvb182MVVNNHJBS3FFeXRTUnhlenZneTVXSHdZNW1ZQ1NEdUZZb1JuWQ?oc=5"
     }
   ],
   "projects": [
