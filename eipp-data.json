@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-10T12:00:32.896Z",
+    "lastUpdated": "2026-10-10T12:00:52.544Z",
     "updatedBy": "n8n",
-    "version": 347,
+    "version": 348,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-10T12:00:52.544Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added note about Marshall University and BETA Technologies electric aircraft demonstration at Yeager Airport, showing community engagement and technology showcase activities",
+      "projectsAffected": [
+        2
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeElSV05kdU9Zbm82ZHU4YmRKZnphUEtoQ0ZRSUgtQTJ6VkZsam91TmtrcFRYaERLNHhBZUI1UGgxRW9TNFJudlVLQ19wMUdNcWZrZnBDSFdCMEpZeWkzZ2JFaVhEbWxzeXNVcFl1aVFLOGo3c2E3WEd1MVplU1c5amFzNU40dHJicnpTb0JSMUZ2enRPYmd0ZjY4TW54Qm44NkhHRUxFWGxqTktmMXdEWGV3?oc=5"
+    },
     {
       "timestamp": "2026-10-10T12:00:32.896Z",
       "source": "n8n-auto-monitor",
@@ -453,15 +462,6 @@
         7
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVlpLOTFwYkpZcGlIQ2liV3VvT3VJTHFDS2JYcWg2RFR4ZXZScHZzQU1WZEFOQTJBdXhFalB4ZEFEc1MxLWZub2t3OWNVQkptdFFfNFJfXzdCamlmQm1DSlJxMHdiLVhySzZuQW0tT3NFVE11SnF0YWE1ZmlFVXpfaVV4WFdNb0JYQlE1cGFGZUM1LTFPdzBUQUV2OHI2b0d0?oc=5"
-    },
-    {
-      "timestamp": "2026-09-12T12:00:30.006Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added note on No Roads Flight Tour commencement; demonstrates operational progress toward project milestones",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMDhTT2pXdEJrckczQ2NDU3lVMVhNbVl3WXU3RU9yZnY5dnY4QmhmekFLaUg2RmpiR1liakhwUVdUdEVXcEFuYUphVmZMQXE4VWl6WEJHNDBxaS1jY3o1NlRWQUtvaFZyY25HNnJacnpJVGRma2xCdFllX2ZtdHRmNlF0WUlqMzRfalpwUXBkTmJ3ZF95QXM3d21VSHdPRDFYMzhEZ2gwS2dkYjZuZWtuM25hVEJHM05wZWRMUS1TTVBEcWNOU0VvLVdXV3dYNExGV0530gHYAUFVX3lxTE9mS3dCZ3JaNEE5TWRuX0M2cm14eHF1TEZfaGJPVHc2RERfSm1fa3RTMlc4Nm43VTkxcUFtckdqT3FFcUV3X1Q3dkhJUG5hbkRnRmE5RExZU2tQVUh5OGhOTzZoYm1RT0xaUWIyN05Vc3ZjdXFrR3lnWkZRdE1vNEtaNDI4M1lUVlBiMTlIUXJUSE14NExGTEc5SjJGZ29UdXhIUUhjTDlpTmtlRFZydEVOYWJ0cTd6TUJYMlRQcU80NzA0TlJWd2FnTi1sdGYtVTk2bXUxYVJqdw?oc=5"
     }
   ],
   "projects": [
@@ -834,7 +834,7 @@
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce. CEO commentary on U.S. aerospace leadership reestablishment aligns with project objectives for advanced aviation workforce development. BETA Technologies reports progress on electric aircraft certification for eVTOL operations. Forbes coverage highlights BETA Technologies' electric aircraft development advancement relevant to eIPP initiatives. Beta Technologies and Signature Aviation concluded AAM demonstration in Florida, supporting operational validation and certification activities. High-profile test flights completed; major FAA eVTOL pilot role assignment. BETA Technologies opened facilities to local and national media, demonstrating operational progress and public engagement. Beta Technologies identified as leading competitor in eVTOL market with strong progress trajectory. Beta Technologies expanding Vermont campus to 100 acres to support increased production and testing operations for electric aircraft development. BETA Technologies and Surf Air Mobility launched landmark electric aviation demonstration program in Hawaiʻi with Hawaiian Airlines support for evaluation activities. Loganair commercial order for five BETA Technologies electric aircraft announced, validating eVTOL platform market readiness. Alia CX300 electric CTOL aircraft demonstrated at Farnborough Airshow 2026. EXIM Bank expanded financing agreement announced for up to $1 billion to support U.S. aerospace manufacturing growth and accelerate certification timeline. Joby Aviation established operational hub at Perot Field Fort Worth Alliance Airport, advancing eVTOL deployment infrastructure in Texas. Joby Aviation established new operational base at Perot Field in Dallas for air taxi operations. Joby Aviation established operational hub at Perot Field Fort Worth Alliance Airport, supporting eIPP deployment and operational readiness in Texas. Joby Aviation conducting week-long flight operations across North Texas region, advancing demonstration and operational readiness. Beta Technologies launched North Carolina eIPP operations focused on rural healthcare access delivery as scalable model expansion. BETA Technologies launching North Carolina eVTOL integration pilot program in partnership with NC DOT. Metro Aviation operating Beta Alia for medical runs in North Carolina under eIPP program with NC DOT sponsorship. Beta Technologies expanding operations in North Carolina, supporting regional deployment objectives. Article discusses Joby's operational activities in Texas and revenue timeline. Joby actively flying in Texas region as of reporting date. Joby conducting operational flights in Texas; revenue projections being developed for commercial service launch.",
+      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce. CEO commentary on U.S. aerospace leadership reestablishment aligns with project objectives for advanced aviation workforce development. BETA Technologies reports progress on electric aircraft certification for eVTOL operations. Forbes coverage highlights BETA Technologies' electric aircraft development advancement relevant to eIPP initiatives. Beta Technologies and Signature Aviation concluded AAM demonstration in Florida, supporting operational validation and certification activities. High-profile test flights completed; major FAA eVTOL pilot role assignment. BETA Technologies opened facilities to local and national media, demonstrating operational progress and public engagement. Beta Technologies identified as leading competitor in eVTOL market with strong progress trajectory. Beta Technologies expanding Vermont campus to 100 acres to support increased production and testing operations for electric aircraft development. BETA Technologies and Surf Air Mobility launched landmark electric aviation demonstration program in Hawaiʻi with Hawaiian Airlines support for evaluation activities. Loganair commercial order for five BETA Technologies electric aircraft announced, validating eVTOL platform market readiness. Alia CX300 electric CTOL aircraft demonstrated at Farnborough Airshow 2026. EXIM Bank expanded financing agreement announced for up to $1 billion to support U.S. aerospace manufacturing growth and accelerate certification timeline. Joby Aviation established operational hub at Perot Field Fort Worth Alliance Airport, advancing eVTOL deployment infrastructure in Texas. Joby Aviation established new operational base at Perot Field in Dallas for air taxi operations. Joby Aviation established operational hub at Perot Field Fort Worth Alliance Airport, supporting eIPP deployment and operational readiness in Texas. Joby Aviation conducting week-long flight operations across North Texas region, advancing demonstration and operational readiness. Beta Technologies launched North Carolina eIPP operations focused on rural healthcare access delivery as scalable model expansion. BETA Technologies launching North Carolina eVTOL integration pilot program in partnership with NC DOT. Metro Aviation operating Beta Alia for medical runs in North Carolina under eIPP program with NC DOT sponsorship. Beta Technologies expanding operations in North Carolina, supporting regional deployment objectives. Article discusses Joby's operational activities in Texas and revenue timeline. Joby actively flying in Texas region as of reporting date. Joby conducting operational flights in Texas; revenue projections being developed for commercial service launch. Marshall University and BETA Technologies showcased electric aircraft at Yeager Airport, demonstrating eVTOL technology and community engagement in West Virginia region.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -883,6 +883,10 @@
         {
           "label": "Beta Technologies NC expansion - WCAX",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU1JycE40MENTb2R2VEtZNTh0c3hYS2c2WU0wN0tZNm1MQTEwWllzODJaTDgwQ2V2b0ZtV2ZKU3NpQ3Vyd05BXzkyYWVjRWlvNnl3SU5CT09LaVpyQ0RGazQxbUxzZ3YyN0E3SDR6RDNPOFZxenAtMnFXdEVSSC15M1Vod3V1dFhjTHo0dGg2bzNsYWdJMXBzSlU3dEtsZw?oc=5"
+        },
+        {
+          "label": "Marshall University BETA Technologies Electric Aircraft Showcase",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeElSV05kdU9Zbm82ZHU4YmRKZnphUEtoQ0ZRSUgtQTJ6VkZsam91TmtrcFRYaERLNHhBZUI1UGgxRW9TNFJudlVLQ19wMUdNcWZrZnBDSFdCMEpZeWkzZ2JFaVhEbWxzeXNVcFl1aVFLOGo3c2E3WEd1MVplU1c5amFzNU40dHJicnpTb0JSMUF2enRPYmd0ZjY4TW54Qm44NkhHRUxFWGxqTktmMXdEWGV3?oc=5"
         }
       ]
     },
