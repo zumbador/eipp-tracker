@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-10T12:00:01.067Z",
+    "lastUpdated": "2026-10-10T12:00:13.090Z",
     "updatedBy": "n8n",
-    "version": 345,
+    "version": 346,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-10T12:00:13.090Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added documentation of BETA Technologies medical flight tests in Utah supporting eVTOL healthcare delivery operations",
+      "projectsAffected": [
+        3
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlBvZHdWdzJvaUdKNXVBdk5WREh6X24xNm0wdTUtSVNCeTBOTnJfc19RamxWMFJBRWN3YS1Fc0NoOVNpTWJqVjZ1azdfZGIyZTZwaGNhd09wOURiTnRPZEh3V3ZsT2Y2Z0cxa2pMdjNadFRXTlBMQTFPZ0tfNDNLWkxBVExhbDVkeGxEVzdHb2lta0RMSkFEMFJBN2czVTc0aVVkX2FDSWJ2VTV3WlNlWnFvZDFoaVZsbm45eXMxU2NmT1hiZ1BCbXl3dmxHSGFaaGp3TzlR0gHbAUFVX3lxTE1tejljSlEteHB0MU0zRVhNb00wQThmXzFhRFVDUlh3bmtpSXRXckNrSEc1ZUNkY1ctQU00MnlGTjY3YmdmUDJHQ3cwWWEyMnFia0JNajE4ZDdtMGxvT2xURlotOHFXelV2bHJfcGg0LVFCTmxvMXV2bER2cXZRVWZGY3ZvRHJzTG1ORjFIbDJ1cUNaQmVLeURvalNZOWpCUVJoWXM2b21HQklFd08wRGR3VVp6QzBmcnBmTExEeVNZaFU0YWcxTHNPbHhxTEZUbzJvQWVCRmh2c2Z0MA?oc=5"
+    },
     {
       "timestamp": "2026-10-09T12:00:06.791Z",
       "source": "n8n-auto-monitor",
@@ -455,15 +464,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWt4clZqM3FBNjRHSnoxc3lXLWptcUk4dDB2WnFlRGlRbHBxWDlnaFNZaXBISXRYanFWZzJLaUtuQnIwem5MTXJZTzVtQmNiSHRZcW54UFJZQTZBaU5aVDJCQlhjbWlvb182MVVNNHJBS3FFeXRTUnhlenZneTVXSHdZNW1ZQ1NEdUZZb1JuWQ?oc=5"
-    },
-    {
-      "timestamp": "2026-09-11T12:00:09.017Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 2 (TxDOT) milestone to reflect Joby Aviation's active North Texas flight operations and added news link documenting ongoing demonstration activities.",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlVmWWpqZERva1AxNTdicXFsQ1NpRjhHcVkwTE5DVWJTVUFLVDlfN3hhV0FzMXpYNDZIUENtOVNoMEY0ejd1bjRYYnF4QVgzUUJZOEZFdTlLcFAyaU1vbXFWVHBhbUNRN256cUdBNlJRYko1eWRucGRnWUVDa2JxQ3NhdFFJRzBNbGx1dk1HbEc5MTZTajFaZTFsb211cGhjNWZIaFFFUy0wdWxjTjNyN3MzSQ?oc=5"
     }
   ],
   "projects": [
@@ -922,7 +922,7 @@
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness. Electra completed groundbreaking test flights at commercial airport using helicopter-style instrument procedures and novel takeoff/landing areas for ultra-short aircraft operations. Electra completed helicopter-like vertical flight operations at commercial airport, demonstrating significant progress toward eVTOL certification and operational readiness. Joby Aviation partnership active for autonomous eVTOL development in Utah; advancing toward commercial operations. Joby Aviation conducting autonomous aircraft testing in Utah as part of eIPP program activities. Remote piloting technology demonstration completed in Utah with aircraft controlled from California, validating teleoperation capabilities relevant to autonomous eVTOL operations. Joby Aviation completed first US cross-country autonomous Cessna Caravan flight, demonstrating advanced autonomous capabilities relevant to project objectives. BETA Technologies completed Utah eIPP operations demonstrating eVTOL capability for radiopharmaceutical delivery and treatment support.",
+      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness. Electra completed groundbreaking test flights at commercial airport using helicopter-style instrument procedures and novel takeoff/landing areas for ultra-short aircraft operations. Electra completed helicopter-like vertical flight operations at commercial airport, demonstrating significant progress toward eVTOL certification and operational readiness. Joby Aviation partnership active for autonomous eVTOL development in Utah; advancing toward commercial operations. Joby Aviation conducting autonomous aircraft testing in Utah as part of eIPP program activities. Remote piloting technology demonstration completed in Utah with aircraft controlled from California, validating teleoperation capabilities relevant to autonomous eVTOL operations. Joby Aviation completed first US cross-country autonomous Cessna Caravan flight, demonstrating advanced autonomous capabilities relevant to project objectives. BETA Technologies completed Utah eIPP operations demonstrating eVTOL capability for radiopharmaceutical delivery and treatment support. BETA Technologies conducted medical flight tests in Utah, demonstrating progress toward healthcare delivery operations.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -951,6 +951,10 @@
         {
           "label": "BETA Completes Utah eIPP Operations",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLWhKN01la3Y2WGhBMEFwQ1ZNZ0cydmZDUmN6LUJiVEYwaExTQ2RvalhXdUFUcWdPbUFNYXplaWhlOVpqLWF0SUtQSklFMTQzXzRVLVg0SjR1Q2xLaXFpcU95TzlvRE5IUU9Fc0lkZ1RpdVZvamtHU3lPRXg3Q2Zteml0VW9OUGxGd21BaS1RVy1yRzJPZ0NCNDhKa0hrZXo4SUw1aTVQT1E0X0ZWQm5PdnRvOFpmRndlekZLSFBFOHVGVFNaN1BkSUI4aU11WWNNZ2xKRG8tQnJuaGJQUlUzMjRRVHpXY3hMbWpRYTRxV3dzeDRT"
+        },
+        {
+          "label": "BETA Technologies Utah Medical Flight Tests",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlBvZHdWdzJvaUdKNXVBdk5WREh6X24xNm0wdTUtSVNCeTBOTnJfc19RamxWMFJBRWN3YS1Fc0NoOVNpTWJqVjZ1azdfZGIyZTZwaGNhd09wOURiTnRPZEh3V3ZsT2Y2Z0cxa2pMdjNadFRXTlBMQTFPZ0tfNDNLWkxBVExhbDVkeGxEVzdHb2lta0RMSkFEMFJBN2czVTc0aVVkX2FDSWJ2VTV3WlNlWnFvZDFoaVZsbm45eXMxU2NmT1hiZ1BCbXl3dmxHSGFaaGp3TzlR0gHbAUFVX3lxTE1tejljSlEteHB0MU0zRVhNb00wQThmXzFhRFVDUlh3bmtpSXRXckNrSEc1ZUNkY1ctQU00MnlGTjY3YmdmUDJHQ3cwWWEyMnFia0JNajE4ZDdtMGxvT2xURlotOHFXelV2bHJfcGg0LVFCTmxvMXV2bER2cXZRVWZGY3ZvRHJzTG1ORjFIbDJ1cUNaQmVLeURvalNZOWpCUVJoWXM2b21HQklFd08wRGR3VVp6QzBmcnBmTExEeVNZaFU0YWcxTHNPbHhxTEZUbzJvQWVCRmh2c2Z0MA?oc=5"
         }
       ]
     },
