@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-14T12:00:01.189Z",
+    "lastUpdated": "2026-10-14T12:00:25.131Z",
     "updatedBy": "n8n",
-    "version": 349,
+    "version": 350,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-14T12:00:25.133Z",
+      "source": "n8n-auto-monitor",
+      "description": "No structural updates warranted. Article is financial analysis/speculation about Archer Aviation's stock potential, not substantive news about eIPP project progress, milestones, OTA status, or operational developments.",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOTBVWXhtTWNMVGVQSWRQQnJ6Zk1GVFdSZ2E1cWphdWZORFZ6T3hEY1EwOUJ6ZjNNZl96d19NdEZMQ3NOWlFlR0ZlQVBxYldEWFV2SkFwQUcwRVdaN3hOWFBSZXJwUVVWNVpQRHp2WFBMblZPb2J1dWxsMzBCRml2YUJBVzUwNG1odUhHQmFYdE5RUEE?oc=5"
+    },
     {
       "timestamp": "2026-10-11T12:00:10.433Z",
       "source": "n8n-auto-monitor",
@@ -455,13 +464,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONjdXaGtuUlNDbnNxczRocnJXRjBHb0ctZ3laLU9kcUd4QVNQQkExWDYtN0xSdDdKeXFEdnBhWEkxeDh1OXdGMnVXNUx4NDZ3a0FEdkRObWZSZDFEMU9KNFdkTWtFYTVfY2Vib2xteW9nNlZpdDFfQlduY0VocXRMdzM5WFVmUmdwbmpxaHEyN1lubklPb1dxazRYa0JyX3JPaHJXUllSMy1XS1NkNWJ2dFdBVDRQS2s2YS00UFNpeGJ4TzQ2cEpRTHVlT1hfaE1MRWfSAdcBQVVfeXFMUDN4M19oZEQ1MHdfeV9JU21WcXZ6ZVpXbzdnNXNzOTBnODF3WU9Za29FeXIyQk1MZkhENnJpbHhmeUZVRjkzdVF4cnM1OXBfRGpRRFlHcVJ1QnZvU19YWEtEZTNBcGQwT1p0OEVjSDVNOXB4bjJYNzJGc2FBbkt2NUZORklaSnhFZU9FcnVRYUpuT2ZISFBncGs4UjVyUDFCTGFjbHl3a0xKaFc4cW5mSEQxcE5VTWdHYXVUXzJJN2pGaTByMnFFQmQ0UVRINENVRDZpQWhMNE0?oc=5"
-    },
-    {
-      "timestamp": "2026-09-13T12:00:35.462Z",
-      "source": "n8n-auto-monitor",
-      "description": "Article is investment analysis of Joby Aviation's financial prospects. No specific operational milestones, OTA status changes, or project-level updates identified. Article does not contain concrete FAA eIPP program data requiring structured updates to project records.",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMk9RYlNYbHNIekl3RUVnUmxRZXFKYXY2QjlWVC1RTS1pUTBDVWpXWk1OUDhJV0xzZGVDYTBZb0NuUmtQNnMycWcxVVdpVEVOQ0F2Z29vaVFWNEo5YkhVMk9RR3BKVUVGVUJEQ2pHM0twcndNQnY1RmVzQTRoQzd1OVkzWmxsS19heHF2emZxQTNLTVhaTWV0YmFlTWRSeUhHU0NmSkRSNDlOVnlaOURxSDQ5STBTLXpGc2lRQUlzMk44TU5jamsxXzdGNXhpdlZMcnFIOGp4c3ZpaVBuZ1NZ?oc=5"
     }
   ],
   "projects": [
