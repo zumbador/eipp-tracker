@@ -970,19 +970,23 @@
       "region": "Northeast + Midwest · 13 states",
       "states": [
         "PA",
-        "OH",
-        "NY",
+        "VA",
+        "OK",
+        "MD",
+        "OR",
+        "MA",
+        "CA",
+        "NC",
+        "AK",
+        "IL",
+        "WA",
+        "ME",
+        "NM",
         "NJ",
         "DE",
-        "MD",
-        "VA",
         "WV",
-        "KY",
-        "IN",
-        "MI",
-        "MN",
-        "WI",
-        "MA"
+        "WY",
+        "TN"
       ],
       "partners": [
         {
