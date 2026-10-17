@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-16T12:00:07.993Z",
+    "lastUpdated": "2026-10-17T12:00:08.600Z",
     "updatedBy": "n8n",
-    "version": 354,
+    "version": 355,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
     "globalOtaStatus": "Multiple projects advancing toward operational deployment",
-    "bannerMessage": "FAA establishes 'repeatable operations' as key objective for all eIPP projects",
+    "bannerMessage": "FAA guidance issued: All eIPP participants must establish repeatable operations standards as program progresses",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-17T12:00:08.600Z",
+      "source": "n8n-auto-monitor",
+      "description": "FAA issued guidance requiring repeatable operations standards for all eIPP program participants (affects projects 1-8). No project-specific milestone or status changes identified from article.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3BPOWpnb2ZwcW5CYmY3Z0pNYWdENkJ2Ynp1V3lMMnZoM3ZELXVaTU12QWpmN09hWWhySjc0bHFiTE9FR01jN2doOUtBRDZHV0MxX0h1Q0pXZXZBTjB0Rm5pWWNLMERLWVF2TlphNjI4VTB6M0w4REY5amppSk1SbUlrTDRacGNlT3lxd3h5ei1sb3pleExz?oc=5"
+    },
     {
       "timestamp": "2026-10-16T12:00:07.994Z",
       "source": "n8n-auto-monitor",
@@ -453,15 +460,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbXFFYkhlYS1GdnRrUnlFZXJsd29oalpzRHk1ZVctNG50QXFBdEctUEhaZzdWVTBiTlp4YXBIMndzOHY4YTZINGNKWFpCMGRkR0VSdUtnNHdoWXNCTzlYWTdlQmdxVHIyMXFIamNrLVVDNlA4RjVlbExIYjk2Q1RZZEIwc3U3clRVUFk0T2JSU1V3YkJOMGVnZm9UdGZXVldaZFB1dmpuSjNWWGE3TnlEWDdXb2t6ZVk?oc=5"
-    },
-    {
-      "timestamp": "2026-09-17T12:00:26.318Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added Archer Aviation's acquisition of Boeing's drone and air-taxi units to project notes; strengthens eIPP participant capabilities",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWt4clZqM3FBNjRHSnoxc3lXLWptcUk4dDB2WnFlRGlRbHBxWDlnaFNZaXBISXRYanFWZzJLaUtuQnIwem5MTXJZTzVtQmNiSHRZcW54UFJZQTZBaU5aVDJCQlhjbWlvb182MVVNNHJBS3FFeXRTUnhlenZneTVXSHdZNW1ZQ1NEdUZZb1JuWQ?oc=5"
     }
   ],
   "projects": [
