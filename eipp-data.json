@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-17T12:00:08.600Z",
+    "lastUpdated": "2026-10-18T12:00:09.118Z",
     "updatedBy": "n8n",
-    "version": 355,
+    "version": 356,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
     "firstOpsTarget": "Summer 2026",
-    "globalOtaStatus": "Multiple projects advancing toward operational deployment",
-    "bannerMessage": "FAA guidance issued: All eIPP participants must establish repeatable operations standards as program progresses",
+    "globalOtaStatus": "Active",
+    "bannerMessage": "FAA's eVTOL Pilot Program Taking Flight Across the U.S. - Multiple projects advancing operational capabilities",
     "summaryBlocks": [
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-18T12:00:09.118Z",
+      "source": "n8n-auto-monitor",
+      "description": "General program coverage confirming multi-project eVTOL pilot program progress across U.S. locations. No specific project-level changes identified from article.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGpvcUtuUmVTU3djV0w4NFRrbFo4aUJMWmNFSEFMX0M3aVZZeWNtS2FVakd1ZmxyU0hlYlhZNEFicXowd3J4ajh4UDhYdkNTb1V3TmdhSEdIT2pIbkgwUS16aHJnbmlKQUtpXzZ1emhHcDUtTWlDNzJEQWtpbklXSDVONEZHLS1xR3ByMEQzcHdfU3cydmJuc2ZtY3JndVcxYlUtM1hZODhtSG5iRURfSkN6bXlmWVk?oc=5"
+    },
     {
       "timestamp": "2026-10-17T12:00:08.600Z",
       "source": "n8n-auto-monitor",
@@ -451,15 +458,6 @@
       "description": "Financial analysis article about Joby Aviation's business viability - no specific operational milestones, OTA status changes, or project developments identified. Article discusses market/investor perspectives rather than infrastructure project progress.",
       "projectsAffected": [],
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3poa0hqTml4Rk1WWnBzMGxmUXJvTThYemlvX0FORk9TZ0xmNDd0NkNhcVNCSkZQRXRzcWhTRDVCY2VIZ29GRjQ0NWNibmJzbTBqTlhvZ04wLURBQ1M0Q0V1Ykp5aXVNV28tYVp3bDVNcVdCdU9tYkRNc0VrRFFzdldHNjJrTDFTNFFmZWVoR0hRdFlRZExRWjBUd0pldmM?oc=5"
-    },
-    {
-      "timestamp": "2026-09-17T12:00:48.363Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added Seeking Alpha financial analysis to project documentation; notes commercialization progress outpacing financial metrics",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbXFFYkhlYS1GdnRrUnlFZXJsd29oalpzRHk1ZVctNG50QXFBdEctUEhaZzdWVTBiTlp4YXBIMndzOHY4YTZINGNKWFpCMGRkR0VSdUtnNHdoWXNCTzlYWTdlQmdxVHIyMXFIamNrLVVDNlA4RjVlbExIYjk2Q1RZZEIwc3U3clRVUFk0T2JSU1V3YkJOMGVnZm9UdGZXVldaZFB1dmpuSjNWWGE3TnlEWDdXb2t6ZVk?oc=5"
     }
   ],
   "projects": [
