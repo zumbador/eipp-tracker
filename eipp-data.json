@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-21T12:00:51.801Z",
+    "lastUpdated": "2026-10-21T12:01:11.123Z",
     "updatedBy": "n8n",
-    "version": 360,
+    "version": 361,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-21T12:01:11.123Z",
+      "source": "n8n-auto-monitor",
+      "description": "Added funding milestone: Reliable Robotics Series B $115M round at $1bn valuation for autonomous aircraft development",
+      "projectsAffected": [
+        6
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0JhbUdZOFlHM0JIb2s0RC1zTkZrRThhVURKNkdENGZwTDFXNmh4VVh3WWRpWjZTbkdTRTVqbFNaWGhxY3M0VGx2MGNhY1B3aFhPZVlRRjVCZDJxd3lKX3Y3MnR3TG9CNDFpM1gwYWlVQkhYMWFoR1hVS0FjdWo5UG8yeUZmak5OalE?oc=5"
+    },
     {
       "timestamp": "2026-10-21T12:00:51.801Z",
       "source": "n8n-auto-monitor",
@@ -451,15 +460,6 @@
         4
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZGV3WDdfV3BJRktDYllWMjhsSmVQNjJUc1ViWlJuV1ZPREc1RVl6WG15VE9CbUZjaFFZT081TTJsTWNBVURRLTJfXzV1M2txak53OW0tX1BRLXBlQVdlVUNkS3MtdXFmc3c5ckFJM05wWlhQR212YkMzV2F2NE9HYWpLU25ockN0YUJMQkducUFLenpkTUpuTjVZMA?oc=5"
-    },
-    {
-      "timestamp": "2026-09-19T12:00:09.471Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Joby project milestone to reflect completion of fully autonomous US flight achievement",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNal9ZNnN2aEF3eUp1N05MaS0wdTJoNDR6R25ibGJkNlpEQ3VrZFE1NVRfN3ZiZlBsMlpBUF9sOWd5Sl9YNFpyUHJxcUlsQ1J6Z2Jmelg5SlpQVDVWVVlkbi1qeUtrWmIySmM4SzVXTndjMHl1bHYzdXZvR0w4cGR3VEtDQW9pc2l5eTVFLS1xX2NzU2tjQUVtVGZ4NHh2c2ZucnFWaThycUZkdDFI?oc=5"
     }
   ],
   "projects": [
@@ -1224,7 +1224,7 @@
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration. Reliable Robotics advancing safety-critical UAS datalinks technology to support eIPP operations and safety standards. Transportation secretary visited Reliable Robotics facility in Albuquerque, signaling federal commitment to eIPP operations and project advancement. Elroy Air announced $1 billion SPAC merger deal for Nasdaq listing (Reuters). Significant corporate capitalization milestone achieved. Elroy Air conducted successful autonomous cargo drone flight in Louisiana carrying medical supplies and food, demonstrating operational capability for eIPP program objectives. Elroy Air completed series of autonomous cargo flights over Louisiana town, demonstrating operational capability in eIPP program context. Bristow has reserved 10 additional early delivery positions for Chaparral aircraft, demonstrating strong commercial demand and validation of aircraft development progress.",
+      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration. Reliable Robotics advancing safety-critical UAS datalinks technology to support eIPP operations and safety standards. Transportation secretary visited Reliable Robotics facility in Albuquerque, signaling federal commitment to eIPP operations and project advancement. Elroy Air announced $1 billion SPAC merger deal for Nasdaq listing (Reuters). Significant corporate capitalization milestone achieved. Elroy Air conducted successful autonomous cargo drone flight in Louisiana carrying medical supplies and food, demonstrating operational capability for eIPP program objectives. Elroy Air completed series of autonomous cargo flights over Louisiana town, demonstrating operational capability in eIPP program context. Bristow has reserved 10 additional early delivery positions for Chaparral aircraft, demonstrating strong commercial demand and validation of aircraft development progress. Reliable Robotics raised $115M Series B funding, achieving $1bn valuation for autonomous aircraft development.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -1245,6 +1245,10 @@
         {
           "label": "Gizmodo: Cargo Plane With No Pilot Completes Louisiana Flights",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXhXMnFZTnVsSUIzS2k0dEtRektsaFNha3NWMjkyWmljeS1jRWdicEFxMU9wa25TekVYZTVIVkNTaDF3c25ENm43ZjViQzFkZThQdXRZLUxLVGN3dEJhNHpfRzlyNUFZSVVmTE1JbUFRZGd1eUdxeEl4QUNOVEhXUXA4SHNraF9RU2JSTExvdl9ubHZ5c1VpS2tBVkdYWGJ5NlA2Y0FSc28xOXNyNzBRdTU2ODNZX3JpbnVkYWVn?oc=5"
+        },
+        {
+          "label": "Reliable Robotics $115M Series B Funding",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0JhbUdZOFlHM0JIb2s0RC1zTkZrRThhVURKNkdENGZwTDFXNmh4VVh3WWRpWjZTbkdTRTVqbFNaWGhxY3M0VGx2MGNhY1B3aFhPZVlRRjVCZDJxd3lKX3Y3MnR3TG9CNDFpM1gwYWlVQkhYMWFoR1hVS0FjdWo5UG8yeUZmak5OalE?oc=5"
         }
       ]
     },
