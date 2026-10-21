@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-21T12:00:14.451Z",
+    "lastUpdated": "2026-10-21T12:00:32.777Z",
     "updatedBy": "n8n",
-    "version": 358,
+    "version": 359,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-21T12:00:32.777Z",
+      "source": "n8n-auto-monitor",
+      "description": "Reliable Robotics valuation milestone and Seattle radar hub expansion noted",
+      "projectsAffected": [
+        8
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPREIta0pDYmZXcGN1SHdldV9jM3Iwb2NGcVA4NllZQmlySUF4UGhDTTFHbVFpeDZoNVFZQlVXZ1RsMFV0YjFYOGExVkRSc0RlYUZYYjZrTTNmTC1XVHg4ejJmbThUdHJVTTdsZzZLU1R0LV9rOGZVc3lXdE9aQjEyUndlTC1ZeEpVWEVJTXVCTTdFdFdRTUFUejg1SW8tZG5mZXFLM1c3MXRuUG1jd1puaEZ0VzJBZXUtMDhRcjczU0RlSTRCdjdHNWk1Zw?oc=5"
+    },
     {
       "timestamp": "2026-10-21T12:00:14.452Z",
       "source": "n8n-auto-monitor",
@@ -451,15 +460,6 @@
         6
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPa3JCTTJZTFQxQzV2WXpXLUhzUFZjdzNNdzFpMnhYaHhJZUoxVk1BVEZPN0pPZ0tBMkN5TC1FMUQ0cVpQZ2ExbGc3VWtqWlozcDhiNGs2STAzSlp6dVctQ2pNMW9zV3hueGM4UTdNd0NnOHZGTW0yVnhackpuYVdqVnlrLXB5N1lBaDBsOXhQZ1l3ZTl2dGtqLXc3dkZobzhhM1VXTlc5Wko0dXRBT0tmTGlLd2JVVkpyZG1KeU85Z08tc2lmalVLZncwYWpwVEg3SkpQRUpLUzBjcXo3dDk1ZTNqUVdlckRRVXk3ZndzZEcyQXY5NzdoSDhweHpPN0dIeFUtUnNhMTF4ZXUzcEZnMnBrazhpVlpCYUNnNw?oc=5"
-    },
-    {
-      "timestamp": "2026-09-18T12:00:29.203Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 7 (Elroy Air) with Bristow's 10 additional early delivery position reservations for Chaparral aircraft, indicating commercial progress",
-      "projectsAffected": [
-        7
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPem00U040U1V4TVh0Q2M5eENwMmE0YWRWWGdFVjJzbUVhTmswbG1JOXM5S3ZaS3k1Vk9wUE9LZHl4cnJZaGVncmpScWJnWEFKek1nZ1lQdmxLZ3l2UzA1dTFvYkRwQml3OHJieHptSW5fTE5xN2tBUnU1QTZxeGE0MmNsQzNHM3RQbzE1NDRhNUVIblA2bER3amZxYU84S25pMjZnSlItX0pIQWJHQ2hIdV9yVWY5cVdYNmN4bVBoeEdWZHRCVmpyZnFManoxSGpEYXFrdGh5RkkwTklwN18zN0J0LWx5NTlPcXRkbzlHSXNRMkpS?oc=5"
     }
   ],
   "projects": [
@@ -1357,7 +1357,7 @@
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "The most strategically significant project for the cargo-first thesis. Reliable Robotics has already been operating in the region and coordinating with the FAA — it is not starting from scratch. Autonomous commercial freight in controlled airspace is the use case drone delivery operators have been chasing under Part 107 for years. If Reliable logs the first autonomous revenue cargo flight under eIPP, it sets a precedent that will reframe the regulatory conversation around uncrewed logistics. Wisk CEO Dan Dalton confirmed Wisk itself may fly helicopters first to collect operational data — signaling that even autonomy-focused companies see the crawl-walk-run approach as necessary. North Carolina Department of Transportation selected for FAA eIPP program. Reliable Robotics secured $160M funding round to scale autonomous aviation systems development, supporting eIPP technical advancement. Reliable Robotics raised $160M Series B funding to advance autonomous cargo flight capabilities under FAA eIPP framework.",
+      "notes": "The most strategically significant project for the cargo-first thesis. Reliable Robotics has already been operating in the region and coordinating with the FAA — it is not starting from scratch. Autonomous commercial freight in controlled airspace is the use case drone delivery operators have been chasing under Part 107 for years. If Reliable logs the first autonomous revenue cargo flight under eIPP, it sets a precedent that will reframe the regulatory conversation around uncrewed logistics. Wisk CEO Dan Dalton confirmed Wisk itself may fly helicopters first to collect operational data — signaling that even autonomy-focused companies see the crawl-walk-run approach as necessary. North Carolina Department of Transportation selected for FAA eIPP program. Reliable Robotics secured $160M funding round to scale autonomous aviation systems development, supporting eIPP technical advancement. Reliable Robotics raised $160M Series B funding to advance autonomous cargo flight capabilities under FAA eIPP framework. Reliable Robotics opened Seattle area radar hub; company valuation reached $1 billion milestone.",
       "links": [
         {
           "label": "DOT Announcement",
