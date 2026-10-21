@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-21T12:00:05.567Z",
+    "lastUpdated": "2026-10-21T12:00:14.451Z",
     "updatedBy": "n8n",
-    "version": 357,
+    "version": 358,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-21T12:00:14.452Z",
+      "source": "n8n-auto-monitor",
+      "description": "Financial analysis article about Archer Aviation stock performance - no operational or milestone changes to eIPP project data",
+      "projectsAffected": [
+        1
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWZERTZ4LXZoMTdET2ZESzVGWExyb2FnZTMxUHBzR2lNazNxMlIxcV83d2FzbzlPSnNhWktvcXBFbWhnQkJNWHRWM0hEM3NMN244WDlpX2ZQb0VYcUViT1NmOHV1QWc2S0VQY1ExclZrRDg2UER4ZFVMX0VXUkU5ZXhYVVdBd0JoeWRGWmJfZnA1cmljZmZ6am9BNzdadXVGMnBwQ0d0dUw?oc=5"
+    },
     {
       "timestamp": "2026-10-19T12:00:47.621Z",
       "source": "n8n-auto-monitor",
@@ -451,15 +460,6 @@
         7
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPem00U040U1V4TVh0Q2M5eENwMmE0YWRWWGdFVjJzbUVhTmswbG1JOXM5S3ZaS3k1Vk9wUE9LZHl4cnJZaGVncmpScWJnWEFKek1nZ1lQdmxLZ3l2UzA1dTFvYkRwQml3OHJieHptSW5fTE5xN2tBUnU1QTZxeGE0MmNsQzNHM3RQbzE1NDRhNUVIblA2bER3amZxYU84S25pMjZnSlItX0pIQWJHQ2hIdV9yVWY5cVdYNmN4bVBoeEdWZHRCVmpyZnFManoxSGpEYXFrdGh5RkkwTklwN18zN0J0LWx5NTlPcXRkbzlHSXNRMkpS?oc=5"
-    },
-    {
-      "timestamp": "2026-09-18T12:00:08.906Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added note about Archer Aviation's successful city-to-city flight milestone",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQlB6UVFOU2xuVE5VQXlCU1RiYXJoZXlJZ3JaZTMzSWo0WUIzVEpyS3FiT1YzcjF5elgzRDhmeUxLWWUtZ0J4bExDVjRrWEduUEtqVS1Bd24zemVKc3JQb2FweHFRb1RBQjN5TDdwTDRmRW5EcFlDTEhlbGVVQVBSbnJmS2FJOW1aRmdmZ2g1RXNkUXZoWWhLU3FkdmdBR2Q1TmRXOWpQZm15bFFyZ2Zvb1JEdkJCZGFUNWhVTmFoSFE3Y2lQVnlfY3dsUnBMSzRyLW15ZjJ30gHbAUFVX3lxTE81QnBsNGFxZk5lNjFJLVpyMnE2MjVfMlZXemVLc0tZcVlfazl5WEtmRkVEQ0tmY25Wb0FXaC1CMl95eTFaQW8zQllDc0loWUg0czByYXp3WWlELUN3YUk1Y0lfbGdMZVlpRDFPbmFfaVNVSllTb01nb0lvb0RUTEhpMUlVQ2NkQTQtbVJ0VkNZTHQ2Qjd0RjZQeW83MnB6YjB1UURnbGNUaXNPYnVFS01TaldZTHk4YlM3MzgyaVg3YV9wLVFycm9QOV9nbko5X05mNTdHRWFHb3dROA?oc=5"
     }
   ],
   "projects": [
