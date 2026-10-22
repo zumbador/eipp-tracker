@@ -1,475 +1,62 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-22T12:00:59.401Z",
-    "updatedBy": "n8n",
-    "version": 364,
+    "lastUpdated": "2026-10-22T19:46:36.000Z",
+    "updatedBy": "LAE editor",
+    "version": 365,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
-    "totalStates": 26,
-    "firstOpsTarget": "Summer 2026",
-    "globalOtaStatus": "Active",
-    "bannerMessage": "FAA's eVTOL Pilot Program Taking Flight Across the U.S. - Multiple projects advancing operational capabilities",
+    "totalStates": 28,
+    "firstOpsTarget": "First flight July 10, 2026",
+    "globalOtaStatus": "First OTA July 9, 2026",
+    "bannerMessage": "Six of the eight projects have flown under the program as of October 22, 2026. Florida and the Port Authority of New York and New Jersey have announced no eIPP flight. Participants bear their own costs.",
     "summaryBlocks": [
+      {
+        "heading": "What Has Flown",
+        "value": "6 of 8 Projects",
+        "colorClass": "green",
+        "body": "Pennsylvania's team first, on July 10, 2026, then Utah, Louisiana, Texas, North Carolina and Albuquerque. Most flights used conventional-takeoff airplanes (BETA's ALIA CTOL, Cessna Caravans, Electra's EL2) or, in Texas, helicopters and fixed-wing aircraft. Louisiana's Elroy Air Chaparral flew with nobody on board. No flight has carried passengers."
+      },
       {
         "heading": "Cargo Signal",
         "value": "5 of 8 Projects Cargo-First",
-        "colorClass": "green",
-        "body": "Louisiana, Albuquerque, North Carolina, Utah, and Florida Phase 1 are all cargo or medical logistics. Revenue freight expected Q4 2026 — ahead of any passenger operations. Beta Technologies CEO Kyle Clark confirmed initial eIPP flights will carry cargo and medical supplies before progressing to passengers."
-      },
-      {
-        "heading": "Legal Threshold Crossed",
-        "value": "Pre-Certified Revenue Cargo",
         "colorClass": "blue",
-        "body": "First time in U.S. aviation history that pre-certified aircraft can carry cargo for revenue in commercial airspace under FAA-supervised Other Transaction Agreements. This does not accelerate type certification for passenger ops — it creates a parallel commercial track for cargo."
+        "body": "Louisiana, Albuquerque, North Carolina, Utah and Florida's first phase lead with cargo or medical logistics. The flights so far have carried an organ for United Therapeutics, offshore freight, radiopharmaceutical delivery trials and test cargo."
       },
       {
-        "heading": "Certification Reality",
-        "value": "Passenger Ops: 2–3 Years Out",
+        "heading": "No Federal Money",
+        "value": "Participants Pay Their Own Way",
         "colorClass": "amber",
-        "body": "eIPP does not change the certification clock. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Cargo and medical logistics face simpler liability and do not require passenger type certification. Watch the cargo projects — not the air taxis."
+        "body": "The FAA's eIPP page says participants bear their own costs. Louisiana's announcement states no funding, Florida's selection came with no allocated federal money, and no dollar amount for Texas's Project Nexus appears in any TxDOT or FAA source. The program does not change the type certification clock for passenger aircraft."
       }
     ]
   },
   "updateHistory": [
     {
-      "timestamp": "2026-10-22T12:00:59.401Z",
-      "source": "n8n-auto-monitor",
-      "description": "Reliable Robotics advanced operations milestone: first automated test flights launched from Albuquerque International Sunport",
+      "timestamp": "2026-10-22T19:46:36.000Z",
+      "source": "LAE editor",
+      "description": "Project cards rebuilt from the LAE Ecosystem Survey's primary sources (FAA eIPP page and map of October 16, 2026, FAA, state and company releases). Earlier automatic entries had filed company and stock news under the wrong projects. They are removed here and kept in this repository's history.",
       "projectsAffected": [
-        6
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb1JBTVB6WW9Rbk9MSXJpY3BBN3lSNDAtQkZ2bGRLQy03dV9GRDVhOEw4NXZZR1gtTHpvb2ZFQjVFek1PSjFWeWg3eTVuUXVWclRjbzE2NUdtbnJoWFdseGZRcVpTNGR5R0NOWmlocTZtQzVkQTNoXzg3S2xpNXpwdjJoWS03cDVlTkhuamRNeUEzTEF1ZG15bzY1ZFNfei1XX0F3VEtYSWJGX21aa0UtV29hVkNIWUtLck9qREdZejc2c3FWcjNJZGJ3bHhCbUsxNmVsd1VlYUPSAd4BQVVfeXFMTTBCdEF5d2pNYWtianE5Y0xqcWt4RTE0QzJjS3o3b1Q5TWpNcER0dE5Lb0ktSUZDR19OLXp4eWJEUjZMQV9JaHlvMTZGN0VCQWRsSUR2UUpMZjRta2JCTnBvYzIzT1d0RVhubzRNZFVxVDBVU3JOVHVpbXFlZTA4MlBnQVA0enFLdnQ2bmV5NWJGV3l1emJBbFd1VklnRnI0eURlMjdMSXVfU1ZNQW1IMFJfTnZhOExCYW5jZ2pIVUVTSW4yVEdZNFdBT1RrWUUxXzlPcS11V2JCQ2U2REVB?oc=5"
-    },
-    {
-      "timestamp": "2026-10-22T12:00:37.897Z",
-      "source": "n8n-auto-monitor",
-      "description": "Article mentions BETA Technologies milestone toward commercial electric aviation affecting 2 projects, but lacks specific operational details, dates, or OTA status changes to extract structured updates. Requires more detailed article content to identify which specific milestones were achieved and current project status.",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kLWhtNzZuOXR6TlNtcE5aRFBSU01qNGNrNGpuWnJ3V3NnbGhaaWp1bTY1SnRvaURTTmNWRFc0a0ZYalE1ZXU0NXNlQUNNT0ZZekNjWmx4UzhnSFBHRVZBR1lTWmpxZkx5UnRNUUI1UjU5aUJac2pz?oc=5"
-    },
-    {
-      "timestamp": "2026-10-22T12:00:18.714Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added note about Beta Technologies South Burlington expansion and infrastructure development",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNajY0Q01TNC1CbWdobGlxeXRQSGpkWk5hWWduZUgwQ1JiVGd1WWhrUVk3cUdIdVJDdWowUzlHdmJaMFZla2lTZzV4SXRvR1JMcVgtZmVpWmZvT016MzlCMV9IVjhKNmdNVGY5M0xiODM1eFRnQVNzU2NNc05mZF9zcnVkcThaU3JvbUh4aDBMUEt6MHVkV2fSAaoBQVVfeXFMTy1mb1N3bWRFM2JaX18xTHdFUVNVVHUxbjV0Wm9TZGtyRTVsRjllemxpMkpUQ01UV0QxVi1rU0dndTN6Vjd4eDFZdTVaR2RpdGZ4LWlrM093V0wwdXZ6Q0R2dUYtR3Q0emoxMEVDMHVnVHZDYmRLSWM5azJud1ppZVozYXJlajZhY0hOZVFwMjBueFdlTXp0bzVPdEJyLVRRN3QyeGp0ZHZDM1E?oc=5"
-    },
-    {
-      "timestamp": "2026-10-21T12:01:11.123Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added funding milestone: Reliable Robotics Series B $115M round at $1bn valuation for autonomous aircraft development",
-      "projectsAffected": [
-        6
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0JhbUdZOFlHM0JIb2s0RC1zTkZrRThhVURKNkdENGZwTDFXNmh4VVh3WWRpWjZTbkdTRTVqbFNaWGhxY3M0VGx2MGNhY1B3aFhPZVlRRjVCZDJxd3lKX3Y3MnR3TG9CNDFpM1gwYWlVQkhYMWFoR1hVS0FjdWo5UG8yeUZmak5OalE?oc=5"
-    },
-    {
-      "timestamp": "2026-10-21T12:00:51.801Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 8 with Reliable Robotics fundraising milestone achievement ($1B+ valuation)",
-      "projectsAffected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
         8
       ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTkI1VHViaXlNYllaUl81cE1lSi1mNnhNbDdiMFpVY3pOLWgxU1BRUHNycjI5VzZtdk1HX2M2Uk5TLWhta0trVmZ0UkVqeWtmWmt3ZmVPbTAxYzNCb05vVHh0RjlnRXVMcVZabm1sUmJJN1NvemdrMDZtOWVFdmo2TzlDdVM3UUpjMkoxVDR6cmpPbDlFSGNtQW5XVnk3R1FkTjNDVVBOd2JiQjZwTWtTYUNGUEtzUTQ?oc=5"
-    },
-    {
-      "timestamp": "2026-10-21T12:00:32.777Z",
-      "source": "n8n-auto-monitor",
-      "description": "Reliable Robotics valuation milestone and Seattle radar hub expansion noted",
-      "projectsAffected": [
-        8
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPREIta0pDYmZXcGN1SHdldV9jM3Iwb2NGcVA4NllZQmlySUF4UGhDTTFHbVFpeDZoNVFZQlVXZ1RsMFV0YjFYOGExVkRSc0RlYUZYYjZrTTNmTC1XVHg4ejJmbThUdHJVTTdsZzZLU1R0LV9rOGZVc3lXdE9aQjEyUndlTC1ZeEpVWEVJTXVCTTdFdFdRTUFUejg1SW8tZG5mZXFLM1c3MXRuUG1jd1puaEZ0VzJBZXUtMDhRcjczU0RlSTRCdjdHNWk1Zw?oc=5"
-    },
-    {
-      "timestamp": "2026-10-21T12:00:14.452Z",
-      "source": "n8n-auto-monitor",
-      "description": "Financial analysis article about Archer Aviation stock performance - no operational or milestone changes to eIPP project data",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWZERTZ4LXZoMTdET2ZESzVGWExyb2FnZTMxUHBzR2lNazNxMlIxcV83d2FzbzlPSnNhWktvcXBFbWhnQkJNWHRWM0hEM3NMN244WDlpX2ZQb0VYcUViT1NmOHV1QWc2S0VQY1ExclZrRDg2UER4ZFVMX0VXUkU5ZXhYVVdBd0JoeWRGWmJfZnA1cmljZmZ6am9BNzdadXVGMnBwQ0d0dUw?oc=5"
-    },
-    {
-      "timestamp": "2026-10-19T12:00:47.621Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added Marshall University-BETA Technologies electric aviation training partnership for 2026 workforce development",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGROSlhvb3RSaWV2RFI1U3ZfY3doYUh6N3BaUFdsdGpVR0ZOWVFsLWdxRHRlYmY5a0ZfMFUxdkpCTnRKSGtxLWpTZlBmc2Jjd2lJNDhBQTJtc1BoMUsxanZ2SUxiUWl3dFBzUjRCOHAyYVhSaXFnZklac2g4M1J4S2llczBRN0RJLUI1aDlNVUkwVkprLUNLTnEyQ0FDTDA2ZTlCWUl4aGFBUQ?oc=5"
-    },
-    {
-      "timestamp": "2026-10-18T12:00:09.118Z",
-      "source": "n8n-auto-monitor",
-      "description": "General program coverage confirming multi-project eVTOL pilot program progress across U.S. locations. No specific project-level changes identified from article.",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGpvcUtuUmVTU3djV0w4NFRrbFo4aUJMWmNFSEFMX0M3aVZZeWNtS2FVakd1ZmxyU0hlYlhZNEFicXowd3J4ajh4UDhYdkNTb1V3TmdhSEdIT2pIbkgwUS16aHJnbmlKQUtpXzZ1emhHcDUtTWlDNzJEQWtpbklXSDVONEZHLS1xR3ByMEQzcHdfU3cydmJuc2ZtY3JndVcxYlUtM1hZODhtSG5iRURfSkN6bXlmWVk?oc=5"
-    },
-    {
-      "timestamp": "2026-10-17T12:00:08.600Z",
-      "source": "n8n-auto-monitor",
-      "description": "FAA issued guidance requiring repeatable operations standards for all eIPP program participants (affects projects 1-8). No project-specific milestone or status changes identified from article.",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3BPOWpnb2ZwcW5CYmY3Z0pNYWdENkJ2Ynp1V3lMMnZoM3ZELXVaTU12QWpmN09hWWhySjc0bHFiTE9FR01jN2doOUtBRDZHV0MxX0h1Q0pXZXZBTjB0Rm5pWWNLMERLWVF2TlphNjI4VTB6M0w4REY5amppSk1SbUlrTDRacGNlT3lxd3h5ei1sb3pleExz?oc=5"
-    },
-    {
-      "timestamp": "2026-10-16T12:00:07.994Z",
-      "source": "n8n-auto-monitor",
-      "description": "Program-wide guidance update: FAA prioritizing repeatable operations across all eight eIPP projects as key success metric",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3BPOWpnb2ZwcW5CYmY3Z0pNYWdENkJ2Ynp1V3lMMnZoM3ZELXVaTU12QWpmN09hWWhySjc0bHFiTE9FR01jN2doOUtBRDZHV0MxX0h1Q0pXZXZBTjB0Rm5pWWNLMERLWVF2TlphNjI4VTB6M0w4REY5amppSk1SbUlrTDRacGNlT3lxd3h5ei1sb3pleExz?oc=5"
-    },
-    {
-      "timestamp": "2026-10-15T12:01:03.361Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added note about BETA Technologies' new aircraft branding facility in Plattsburgh, NY indicating manufacturing expansion",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRHl4SENQa0lBVzZoUk1XdElBc09MT2dWSVBMSlQ0ZXRwUEc1U1BPa0pUVXNJbE00YWJEWGZkUTZxNU41b3E5OHpOY0VSd1ZXdGZ3UnJqalpCd0hzd09CVFV2Z1dRaHdncmFSa3ZoWkhYamNBNDd6ZGV6anNyZE1nLWFWaTlWX1hGY3RIVC1jQkdHUjhyS3hBdk4wcnpOLXNmT3hna2hLbkVmbWlHNktPaXA1RlpqVEU?oc=5"
-    },
-    {
-      "timestamp": "2026-10-15T12:00:15.518Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added documentation of battery fire incident at Archer Aviation San Jose facility affecting eIPP program operations",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSHpiUlVYNjE0eTFxVkFMc05pLXhSaEsxejExdGR4VjhxSHdSTGgtRXUxOGRyNy0wSE9sZzQwcVFBcHJSVnJZbDlkYVVrMTJxZVQtaTZEWXpRdHZIMWVZM3dJa2hweWVIQ0RiRmhKZ1ZRNzAxYkV5c0pCUm5neXMyTmVQclFxVElGZzVGY0huSjA4WmlzSnkyaXFaQlhJeUFsT0pEeGo4UzViWk80WnFRNVk1dnAwUQ?oc=5"
-    },
-    {
-      "timestamp": "2026-10-14T12:01:11.028Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added manufacturing capacity risk note from Barclays analyst report affecting all Joby eIPP projects",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1pDZTVjN0xTTUZKYXd6R0JybEM0aW5kVDFDVzZ0UlBHQVQ1MV84X0o4TUVXVkMxQzVKSzlYQnZyQ0Fwb3RIbEE0RXVXbnU0c3hDa1ljcHlLZl9XYmVhOXY3cmdMU05IRmtnb0xnVkR4YmFxaDBMbmNySkQzaXl3OWZ5VjJFWk9fNUNpVkdiYm1RUGVTY0tCTC1FQWJIQnpPbWVmWXZJMGQ5R0U4Q3V0RVFtR0R3UmJ4?oc=5"
-    },
-    {
-      "timestamp": "2026-10-14T12:00:25.133Z",
-      "source": "n8n-auto-monitor",
-      "description": "No structural updates warranted. Article is financial analysis/speculation about Archer Aviation's stock potential, not substantive news about eIPP project progress, milestones, OTA status, or operational developments.",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOTBVWXhtTWNMVGVQSWRQQnJ6Zk1GVFdSZ2E1cWphdWZORFZ6T3hEY1EwOUJ6ZjNNZl96d19NdEZMQ3NOWlFlR0ZlQVBxYldEWFV2SkFwQUcwRVdaN3hOWFBSZXJwUVVWNVpQRHp2WFBMblZPb2J1dWxsMzBCRml2YUJBVzUwNG1odUhHQmFYdE5RUEE?oc=5"
-    },
-    {
-      "timestamp": "2026-10-11T12:00:10.433Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added analyst coverage note on Archer Aviation's military-focused eVTOL strategy expansion",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU1FucWRzWXpWcjZTNmdJTnFLR1ZBRXQtR0x3ZGRVbUl6clpwQkhHNWluTWRGT3l4aTRjSUo5b0xfWkJfejJlMW5LSkxDZXN3SXFDYk1MeU0tSGRiSG5fOWhONkVqYVN1ZU9qTGFYUVN3cmZRQ0pGVTRCckxXVWR1VXJkY3NuYk5fc3o1SnY4aUp1ZkEyZ3R1MVZBc2RZVHdQTGV2dGRPQQ?oc=5"
-    },
-    {
-      "timestamp": "2026-10-10T12:00:52.544Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added note about Marshall University and BETA Technologies electric aircraft demonstration at Yeager Airport, showing community engagement and technology showcase activities",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeElSV05kdU9Zbm82ZHU4YmRKZnphUEtoQ0ZRSUgtQTJ6VkZsam91TmtrcFRYaERLNHhBZUI1UGgxRW9TNFJudlVLQ19wMUdNcWZrZnBDSFdCMEpZeWkzZ2JFaVhEbWxzeXNVcFl1aVFLOGo3c2E3WEd1MVplU1c5amFzNU40dHJicnpTb0JSMUZ2enRPYmd0ZjY4TW54Qm44NkhHRUxFWGxqTktmMXdEWGV3?oc=5"
-    },
-    {
-      "timestamp": "2026-10-10T12:00:32.896Z",
-      "source": "n8n-auto-monitor",
-      "description": "Article about BETA Technologies' electric aviation training initiative is relevant context but does not provide specific structured updates to eIPP project milestones, OTA status, or documented agreements. No concrete project changes, dates, or status transitions are reported that warrant database updates.",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGtOcXRRN2E2dFU2WTZzb1c1bFUyaXZ1b3B3eVlPTWRCcDlJcFhEV0IyZFcwSWJXMDBjZG45VFZTNWFteUVrWmE5NFF4czZxcjRXbmJzTjlkLWhqX214V0xYUTZicjdERjNKc0wxRFRqTl9NVHF2SXgweVd6YmRrdFBHSlFES184VjVpTTQzSXJPMnlkMkNfd0dZWGJ1dTJuRElV?oc=5"
-    },
-    {
-      "timestamp": "2026-10-10T12:00:13.090Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added documentation of BETA Technologies medical flight tests in Utah supporting eVTOL healthcare delivery operations",
-      "projectsAffected": [
-        3
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlBvZHdWdzJvaUdKNXVBdk5WREh6X24xNm0wdTUtSVNCeTBOTnJfc19RamxWMFJBRWN3YS1Fc0NoOVNpTWJqVjZ1azdfZGIyZTZwaGNhd09wOURiTnRPZEh3V3ZsT2Y2Z0cxa2pMdjNadFRXTlBMQTFPZ0tfNDNLWkxBVExhbDVkeGxEVzdHb2lta0RMSkFEMFJBN2czVTc0aVVkX2FDSWJ2VTV3WlNlWnFvZDFoaVZsbm45eXMxU2NmT1hiZ1BCbXl3dmxHSGFaaGp3TzlR0gHbAUFVX3lxTE1tejljSlEteHB0MU0zRVhNb00wQThmXzFhRFVDUlh3bmtpSXRXckNrSEc1ZUNkY1ctQU00MnlGTjY3YmdmUDJHQ3cwWWEyMnFia0JNajE4ZDdtMGxvT2xURlotOHFXelV2bHJfcGg0LVFCTmxvMXV2bER2cXZRVWZGY3ZvRHJzTG1ORjFIbDJ1cUNaQmVLeURvalNZOWpCUVJoWXM2b21HQklFd08wRGR3VVp6QzBmcnBmTExEeVNZaFU0YWcxTHNPbHhxTEZUbzJvQWVCRmh2c2Z0MA?oc=5"
-    },
-    {
-      "timestamp": "2026-10-09T12:00:06.791Z",
-      "source": "n8n-auto-monitor",
-      "description": "FAA public statement on eIPP program progression focusing on repeatable operations requirement; affects all eight projects but does not trigger specific data field changes",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVjBBeTU3QTNkMloxT1owaVJOQ1R6QTVNQ2RvMFhueUV5aE9FSkFxV2lpR1UtUlJWSkMzYm9UZ3U5UklIQXI1Y2lEN2lkQWFuVTRhUU03ZVMtdGVEZGo2cDJTUTlPTVVja2NYclNDbmdOckVwelpCM25zYTNaMXVPeGJqa3R1c0VyLWhWUEtXUjRWa0RTNFhTeG1uV3hWS3FWeEdXRzBZdw?oc=5"
-    },
-    {
-      "timestamp": "2026-10-08T12:00:10.445Z",
-      "source": "n8n-auto-monitor",
-      "description": "Utah eIPP (Project 3) transitioned to Active status following BETA Technologies completion of radiopharmaceutical delivery operations demonstrating eVTOL capability",
-      "projectsAffected": [
-        3
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLWhKN01la3Y2WGhBMEFwQ1ZNZ0cydmZDUmN6LUJiVEYwaExTQ2RvalhXdUFUcWdPbUFNYXplaWhlOVpqLWF0SUtQSklFMTQzXzRVLVg0SjR1Q2xLaXFpcU95TzlvRE5IUU9Fc0lkZ1RpdVZvamtHU3lPRXg3Q2Zteml0VW9OUGxGd21BaS1RVy1yRzJPZ0NCNDhKa0hrZXo4SUw1aTVQT1E0X0ZWQm5PdnRvOFpmRndlekZLSFBFOHVGVFNaN1BkSUI4aU11WWNNZ2xKRG8tQnJuaGJQUlUzMjRRVHpXY3hMbWpRYTRxV3dzeDRT?oc=5"
-    },
-    {
-      "timestamp": "2026-10-07T12:01:04.356Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added note about Vertical Aerospace patent infringement counterclaim against Archer Aviation",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZFg0X1hDbGYyNVRDRHAtQ29IT1VzR2pobVd5bGVOdVgtSEgzUk1uRGhpVmpRWGMtR3NZOEVUMTRXTUI1cl9TdGJ6b0Y3eThKSlRWSklNZTZaSzZ2T0FLNUVST1cza1VxMmlLel95VndXOUFFMG5vMTBVQ3VVekhyY1VsVUIzZVI5QUQ3MVpLc1BIcTFTeUxEWnRLMW9zQUEwbHpvNFd0YVVZd3p1WVFNbVpEZlNkR2NFdjFRU2t0RnJwWGJSWnlnNXUwNGNxcWthakdTd2kwTkZnYjhRUm1LTUFXc0xsbXNBYl9USQ?oc=5"
-    },
-    {
-      "timestamp": "2026-10-07T12:00:17.750Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added litigation impact note to Joby Aviation project (4) regarding $116.9M trade secrets verdict; affects all Joby-sponsored eIPP initiatives",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYS02dHEzbWFmVTl0R2lDSnpVSjE1M2d4a0lGS1Q5YjRyT3FlaXY5NTllLXpJaXlzTTBDclRESTc5Y2pNQWZocUxheFY5eVNlQ190eDlRY2NyY1pHRjNqWnliakdhVmdfUk43UHlHN1lBeHJNMjNYalRJMUkySklpb3ljWS11dlNJamlVSGN2UUdPMmsyV09YeFdhVXFOZ09DVld6aHF3aXJPNGx0Q2U3bE5nQWRLc1NBejc0?oc=5"
-    },
-    {
-      "timestamp": "2026-10-05T12:00:56.498Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 3 milestone to reflect Joby's cross-country autonomous flight achievement and added relevant progress note",
-      "projectsAffected": [
-        3
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXpjYmN4UXFhTElkZGg4M1p6cGkya0JDemNOdE83ZVJPdDluTk1IWnBzTkU2MVY2SXJ0VzVfWUotMU9jVTdQTXhEMUNtUmVqSHlVZHZjcTVKYXNxb1VJQ01yb1Z1YVAweTU5WWVmcXA1RzRvTldQeXlGYUZCaGttNmxFRW1CM2VoamdMQzFRbmItUk1n?oc=5"
-    },
-    {
-      "timestamp": "2026-10-05T12:00:34.903Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added remote piloting technology demonstration documentation from Utah/California test flight relevant to autonomous aircraft operations",
-      "projectsAffected": [
-        3
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5azhsdHhpY2R2dWpWTkh5ZGVtR2lNS0hERVJyNXJzUFpNQmVlV1RzMlBHei1nelhQNm8tMV9lUWlIdHJkajNfOUxRUUktYTBvc01WcTNaUlNuRzI5aDJjdGFTcmVGOGVDYTRXaUdTUmR1TmNhRzBVV2c5ZFJMZw?oc=5"
-    },
-    {
-      "timestamp": "2026-10-05T12:00:12.573Z",
-      "source": "n8n-auto-monitor",
-      "description": "Stock analyst rating update - no project-specific milestone or OTA status changes warranted from equity research note",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTVBhcDFBWlNHcVlqZE9zT0h3YmQ5ZDgydjNXTjlzM2ViWTh6c1ZpNDlqV25JcXQxUWlaaUF3dGF4cXN4ZktkbWp5bXI1bFJpNXpNNlNiSVlFVVVYNG9faUllaGdldVpMSFlaNnJEQzRxNk5HVTRidWZPYi1CbmRXdEFGRkktZDZ0RXN3YWhNTFZhWlVqTy1jYWw4dXVEVnJCQVdZR2EtSU1ST0w4MnloSkg1d0RYZ2IydGt1a1NLblVhVC00S2QyQm1SalBDM3lYY2x5RUdXN05Gbjg2Wmc?oc=5"
-    },
-    {
-      "timestamp": "2026-10-04T12:00:12.039Z",
-      "source": "n8n-auto-monitor",
-      "description": "Article reports Joby Aviation nearing FAA certification with flight progress; updates global status banner. No specific project milestones or OTA status changes confirmed in article text.",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV0l1TmxpWTB4aUg3aHVBd1Q4VGFtRHZCVVNETVdEWXB6cnhESWt0ei1FUDAzZzMxd1NkRHhOWkR5VmY5S3BCdGh6cDZzTFVCWUhGbnBUWDlmTU1XQktwSnNKd2tIV1QwYk5wQk1NZUNVb0dWTE5uRlVrLU1pdFpOSS02SG1lM0JsOU9ja1dYeTVmZWVfMDhLcHNfQldONEVZOWZRa0c0UWdrVk9iM28wYnJCX1J1enZVZXZjWnFIbXhEUmYwMUdhWDJkdnpNMHJSN1HSAdcBQVVfeXFMUHA2UXp2YlQyVThkbzJfRldZMkM5TVpMbHJuaEYxaHg1cW9wUXR3VzZra0c0TVNIZU1veGJlcGRmVlozblZDMGhBd05SQ0VhOWVxWlF3YmNDbTFLaVF3WDhlLTVha3dDc2t4TWRVM0c0SVRYeTZMd3VYeWFhNVNEUkxpSVU1YmFHQmVKQk81NnRDUFBZd01FTVNuRXF5ODJUT0x2ZHRzNVJNcWNVNEs4cG1kenBHaUNQa3hNYm1MdEtITlEtWlpZOVpMRHVaalJ2SHVxR1J4MDQ?oc=5"
-    },
-    {
-      "timestamp": "2026-10-03T12:01:24.915Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Texas project milestone to reflect active flight operations; added revenue timeline note",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTZPMW9hckJFakJvTlpGZk1GQzl4b0lpd2NnT1l0MHBVckp6Yng3TExLSEJYUjZSZW1PNEUzb2ZZUi1CZlJiUkMtUDhEUXIxNDB5Y2ZxTVlZZko0SkNjQUU1V0thNmZxbzUzYVZRZl84Y19lalBuLWpXbjNCeDY2UU94OXpfdXMtQmZtMUVFUnlYZXdmRDRYLUNraGJQZw?oc=5"
-    },
-    {
-      "timestamp": "2026-10-03T12:01:08.175Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 2 (TxDOT) notes with confirmation of active flight operations in Texas per Motley Fool article",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzRlUklqMjRLVGNTenVSWFUzOWZoaXBidUlvT2FoNEtuVktaTzRnSWozRFZSRkFkcEJXN3ZlbHhmYVhHRzNLQ0VEclUtTk9JZ2xDeFhLNDVDY0MzZWJIcWJQQUY2U3h2dUNCT3BYTEVGWk0wa2Vsek1ZS3NKNVY5YmNoMjY2dnVYcEc4amNocm1iSy0wWUE?oc=5"
-    },
-    {
-      "timestamp": "2026-10-03T12:00:50.752Z",
-      "source": "n8n-auto-monitor",
-      "description": "Court ruling on Joby-Archer trade-secret case; litigation update affecting both NYC and Texas eIPP programs",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdHBKcV9tOWhlVXBmLUljVzNKY0E2eWhxc1hkY3NiSDRKRjVLVkNSM043SEgzUlNrbHhyY0Q2NmRsSWs2MXh4X0QwQTlhaEg5WnREczBIV0VIU3A4R3hxMVI0VUttOTZHbHh3SmdkUnhuOXBOMVNOR21jREJBdUpBMXViUWRuV0dOaWlZRzZlU0dLVThFeUdIYURCOEFQRER0T2RlaWxFMUZPamtGb3p5YkFQeU5FSTZQLXVhQ25jYXZ5WTBoN1JmNm1lMHlGVXRhMUI4WGFuZWFPN1FnUURkbFEyam5POTdCV1NYczFFZVRTdmZJ?oc=5"
-    },
-    {
-      "timestamp": "2026-10-03T12:00:32.478Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 3 (Utah DOT) milestone to reflect autonomous aircraft testing progress by Joby Aviation; added testing activity details to notes",
-      "projectsAffected": [
-        3
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTZ2NDlNelhEbGJNSlhwRDJkLVFLNFBfMGNzQ2c3V1ExZmhlTk8tYjYxaHYyMkJXbnp3Tng0VUlOckNpZ3R0Q0xLQXYxUDY1VXBBLTRDR2FvdFhMNEFkY2twNGFWVlNXbFNncjByVjRPbk1Yb184WTFSM3BPZ2V1bkJfeG5oS0dwQjh5eHZsRHRhSmx5SkJBX3VZQQ?oc=5"
-    },
-    {
-      "timestamp": "2026-10-03T12:00:11.839Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added note regarding US court reduction of Joby's trade-secret litigation scope against competitor Archer Aviation",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb2lyOFBmY01VNUJrcWpYdFhwNzlxWW1pRVlueWR4aWhvR2F3Z1RxdWRfSjZGbXp5NGFBNGtPX3lMbjYzZ3lya2ppMVlOTEFZbk1qeDNabE8zUjhBRFpDbFpwVjJSbU5KcUc0Y01PbGcxelZ5c1JlQjhuT1h0dDhTVWdXckJ6eWJ3NWVmSWRUMmxQMDEtNjVmZURRTE9CenNyWEkxN2gwVlJ3X0ZMOXNZ?oc=5"
-    },
-    {
-      "timestamp": "2026-10-01T12:01:07.037Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added note about Joby Aviation autonomous eVTOL development partnership with Utah",
-      "projectsAffected": [
-        3
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44RHlqdTN3dEhBWFg2NzFnX05xb21KbkYwQ3YwZW1OX3hRWWVyenI1MldUOU5PZmNYcm9QZlI2b09YaTVKYXYwcWhVb1JjNS1vVWZSeWlyNGhWVWhCRFhWSlBPLXZmWFBWMjBneUNQR2hudVpaMkVvX2lKNkdpdw?oc=5"
-    },
-    {
-      "timestamp": "2026-10-01T12:00:50.063Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added banner notification regarding Archer v. Joby trade secrets litigation that may affect Projects 1 and 4 timelines and development progress",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVVlHMXlsM2UydkplMjRTcGluWEdrMXE0Q2RZUVhpVmg4cS1lUXZmQnVrY25rcmFZSW9OM1BVeDV1TjEyb09OYXdBUmtzajhfN0pIYjFrYVBfN3VBX2QwWWZSSXc2WkNJT3JHVVZubUhRQ1g5NXFKZUN4NWZlb25YaWdHTkZlUEtoZ052bDJqRkYzbi1iOTJFQXFHNkxMczA?oc=5"
-    },
-    {
-      "timestamp": "2026-10-01T12:00:14.752Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Utah (Project 4) OTA status from Pending to Active based on successful autonomous cargo aircraft demonstration by Joby Aviation",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON0FEdFgtMjR3MEJ6Mm5BMXBKLUo2U2RsSFUxS19uN0tadWM1UUg5S25icTNnei1aTVhDeWkwcEt5a1cwMl9HMFEyQlhwSjNVN0J0MjZJaFNSRGZpQTZaNWlKcW1aWVF3N2xCQUQzQkRjcUQ3c1F0T013SmJMRHItYWpDUjBxZy1heTdjZzZJalM5bEthMVNIbDV6aFpBaFdCaGlVWHRGRmxiYWxvVDNMV1NLcGNTMnVfV3FKLTZrQ3lLelZj?oc=5"
-    },
-    {
-      "timestamp": "2026-09-30T12:00:12.614Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added note regarding Archer Aviation stock price decline; financial stability may impact eIPP project execution",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHVHR0hJRHlnUzJEUVVWR2hBSEJ3Q2xWR0Jkc2xBa3RvYzRDZG5iVHhjRkN3b2lfb19WNzU1NHdzaC11QXZiVEh2SkxKQWpZRnZYY0h5NUtVSlRYWlc2RzFrb0FhdzF1b0dSQ1F3Sm05bWw4UTA2TjlYWDZ3czhLdFZhTTl3TUQ5NGlRMERuOGNNbjE3RXJpLXpTUm5fQQ?oc=5"
-    },
-    {
-      "timestamp": "2026-09-28T12:00:10.985Z",
-      "source": "n8n-auto-monitor",
-      "description": "Form 144 filing by Archer Aviation (insider stock transaction) - informational only, no project status changes warranted",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXl5c2w2X3lWWEk0N1VDYXZFa1FSa2NJZzZQZmd2NkZqSUh1cGZhN3hqVzdBa3dzYUpGOW56MG9nWFA2WElvcEdxOU1WTFIwRGpOUGdBd0RGOUlLdm5RbTl2bWNwb0pqcHVOSUNBeXl5Mk9sc09UMjRSWF9PdUp5X2JiQ3BBWE92X0JpZkhVY3p1cWFreUVRXzhBTHlKYVp6OXBwaTgxTUJTUQ?oc=5"
-    },
-    {
-      "timestamp": "2026-09-27T12:00:43.487Z",
-      "source": "n8n-auto-monitor",
-      "description": "Beta Technologies expanding NC operations supporting eIPP program objectives under TxDOT sponsorship",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU1JycE40MENTb2R2VEtZNTh0c3hYS2c2WU0wN0tZNm1MQTEwWllzODJaTDgwQ2V2b0ZtV2ZKU3NpQ3Vyd05BXzkyYWVjRWlvNnl3SU5CT09LaVpyQ0RGazQxbUxzZ3YyN0E3SDR6RDNPOFZxenAtMnFXdEVSSC15M1Vod3V1dFhjTHo0dGg2bzNsYWdJMXBzSlU3dEtsZw?oc=5"
-    },
-    {
-      "timestamp": "2026-09-27T12:00:10.316Z",
-      "source": "n8n-auto-monitor",
-      "description": "Article discusses Joby Aviation's autonomous flight capabilities and financial implications; relevant to Project 4 (Pennsylvania) but insufficient technical details for structured project updates. No specific milestone achievements, OTA status changes, or operational milestones mentioned in article.",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON3BRZk44MFBzWlVNVF9wUGx4ZzNlUTBfV0o1S2g3ZS1OMk1ERXpYcEhGN1RLQWpFNVUxZ0tBWVNSYVpUZnozdVNnM01JMThSUWlLMm9NSEplcm1NUTZiYWg0Y1JRLUNZRUxieTV6WW5HRDB6Q0JsWmFPUU1ib2RuSkVtTmt1Wld5VHMwZXFQaDFJdktab3duZU5YVExMNFltUm9fRE9FRGtpbmJYUlN0V0hyV01WTDNKZHZNTV9xeEdHVG1oa1puNnB1ZDBMWnEyY3fSAdcBQVVfeXFMTnJ4WGFMZUtqcUJMTlpPQUlDWlVRWHR1UUk1YUlwX3JqcWo2c2l4V0kwMTV2OXBMaTBKNnFIM3dhcU9KbEZUa1BmUXNSUUpyRVN3NHc2RmdUZ3BXR1NTWHEzaFY0SEdvd0prdEt3RmQ1MUJfbTh1T2VQN0RMME1LUDktcWlYcTZFOW5iTDR1Tk9uQ2o0RG1zUkR3eUJIeExIN1VueENFTXFkSmJvd09NeHhCNDM4dVFDWEx1MDBoQmxMc3NUajJnNTRzamItZWZURkJ5bENiUlE?oc=5"
-    },
-    {
-      "timestamp": "2026-09-26T12:00:08.448Z",
-      "source": "n8n-auto-monitor",
-      "description": "Project 2 transitioned to Active status: Metro Aviation now flying Beta Alia for medical transport missions in North Carolina, demonstrating real-world eVTOL deployment under eIPP.",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGtGd1ltRjRnbWV3blhlWFdZODRidU83aFBCUUtwVkxsNmUzRVpUYmJKZDE5dkw2OWlXWjJOdXBOM1JFNU5BSWVsWm1HTTkyaDNoWTVBT240bXQ1S0FuN2ZxVkw3eGZKZmduYk5kcFRFNVRnSnZaWmZJZ2ZvQlJUMkF4WDdyMnpBZi01NE1oVkxrRjVZTW1qZU5vNEhfTHNaeXQxQV9IZlpkZENsZnd5OGNsbks?oc=5"
-    },
-    {
-      "timestamp": "2026-09-25T12:00:10.987Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 2 milestone to reflect BETA Technologies North Carolina eVTOL integration pilot program launch with NC DOT partnership",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVB6WEJiTWZqMG0xSWZ4UFRMYVlIOS1TLU5NdWp0cmkxV0JLclZXeExGY1NiYXJDUkN6bERQYVdZOTZobnBfYTlWSjNpZDlSVjFKTVdEbUpwRTFvOHIwdEZPMGpqUlZTZXRZUTFhdGo3MG9WQmh4OHRXLVZSNGtncm5SaGhSMFJTaldmZXkxWHZxYVVZQjRrTWg0TEtjRi05ZXpqWTZXMUZTXzByd05JY0xzV1Q?oc=5"
-    },
-    {
-      "timestamp": "2026-09-24T12:00:28.853Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added North Carolina rural healthcare operations to project milestone; linked Beta Technologies NC eIPP launch article",
-      "projectsAffected": [
-        2
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnhDWm9BOWNOeFpqYWJTQ3VKOVFqb0t0NFRPVlVzUVdHMUFURWRXS3lpX3pjTUJBSmtsMTE5WEsydDBINHAxRHpEaXlMalJOM3JOdHhzajM4bFlidEVNcUZzQXBFNEhlUXpia2NiUmpFUndMS09lbVJFMHpyNWNkdDdDWjVDTWpHNV9xY2lIRlFlME81MHlqcWdhRTJWNW9tRkNUd21oTUdCdUlicmdxbVBlOXlwb2FfZk83RQ?oc=5"
-    },
-    {
-      "timestamp": "2026-09-24T12:00:09.249Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Utah DOT project milestone: Electra completed helicopter-like vertical flight operations at commercial airport, advancing toward certification",
-      "projectsAffected": [
-        3
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2ZZNGszZ2lXRTNUNHBtZUw2QWZWVHZMdHBEQnd3LWlEZWtOcmxJM2JmU21oTTBvUndSWTgxR19JRHhFZGpNV09BUGJQRHhUeE1Qc0ZtbktwbDV5SlJJU3NrSWxOcmtsQk5wRE5ldDAwblM3enlhVDhQR1JmajZNQjFoTVI4d2RQeTdkQ3VkTmNXTkItYUsxcWl4X1dsbHpxNGk2aFNSTjFQU2xfdTJXNFpVN1A?oc=5"
-    },
-    {
-      "timestamp": "2026-09-23T12:00:06.631Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Utah project milestone and notes with Electra's completed commercial airport test flights using advanced instrument procedures",
-      "projectsAffected": [
-        3
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOVZNTmJycWdjN3ZWOTk3Y3ktLVR5WXJ4UUNQOUg0eGVHQWVpdzNreFdiNE5pcVRSaWc2MC1zMmZzQ2FSalBENUpjSnNMTHgtSEhsUXp1ellHdkFyaEN2MTdtVUszUVU4d2oxTVpnVjBILUFnZnlCenNXczBXcmZwTTg4QWpPbUxoOEhOY2dNbUp3LTh6UC1ybVdmSE5Jand5VExiNkZqSUt3b1RiNEo4aENYaTQ1cnZGMjZ3NFVCZ3dGR2t1TmNWWnIyQlhxMVhRLUdxVTk5WU5zU0U2WWpNZlVtVGtVajJQN3BlQ3BPOVkxUGlQVjZ6dmZuSHJQSlI3UFVaRHEtelNxMlVhejg4eXB4MXp0NVlYTGV4aTdFRDRUT1c0Rl9Fc1RjV1Y?oc=5"
-    },
-    {
-      "timestamp": "2026-09-22T12:00:37.773Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Pennsylvania project milestone to reflect Joby's autonomous transcontinental flight achievement; added supporting documentation link",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU1JtYk1sRkpwVnZQZ1pLMG5IaUI1OHc1VWx6VDNpSV82alQ4ZlVicUkyNWxYVE9QbkZBNm1iLVZ6RVUxQmo3UXNfSnVmTG5UU2c1YVFnYzFOdkZYcWhGYjJMZVB1TWpzTXJPanJxbUtRc2F2QmVvMkZEeDdyVkhTNlc5RXRtSGRjek9qTGdQTQ?oc=5"
-    },
-    {
-      "timestamp": "2026-09-22T12:00:17.229Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated PA project (ID 4) milestone to reflect Joby's coast-to-coast autonomous demonstration tour showing eVTOL operational capabilities",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmY4cDhPQ0lOS3NfYzJPV0tKbVlDNFVZMWd2dlpwTm9SMzNtekpnb3ZQTXE0eXBtRjV3VklhV29OVDNMczQtLV83anhsbmx0YS16RG1IZlRsYUg2emJ0TURTN2pxV2VCa3M5SFJkNXd6MnFJR3l6b0dTbmp0amRFVWlEVWp2QWJZSWYyOENzcEdhMW1IbXktQnJyU25ZUnpxMGc?oc=5"
-    },
-    {
-      "timestamp": "2026-09-21T12:00:56.286Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 4 milestone to reflect Joby's autonomous flight demonstration relevant to Pennsylvania regional operations capability",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjRXbDNLNVVmOUZxNzZSX1ZMc0pqWlE1ZUx2Y1c3VVJYRXdPVWdZNFYzYXRVcWZxWEtfWGZKMGQ1ZmFJRjctWG9NV21GQlJMZndDc1plSGQyZUw3ek1DUmp6TWY1YlRvZ25RaVp5c2g0cGpFQVFWU2I5ZWQwNjdvT05jWHlOby1yeWRjU2RZR3NxR2ZqNHhQS01TSVA0cW1zRDNiVS1DV2FueEt4ODVBbzF0bWpxZUIt?oc=5"
-    },
-    {
-      "timestamp": "2026-09-20T12:01:13.916Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated Project 4 milestone and notes to reflect Joby's autonomous cross-country flight achievement, advancing operational and certification capabilities for PA eIPP program",
-      "projectsAffected": [
-        4
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUlNzMnprSndUMUdpYWVpQVVFc1o1dlBDZUd0YVZ2cHdBZm94YkliXzJqNkdzMW5VZVJ6RHlGZGFkWnhkLVpjY0FGOEZiMGE5YVU5a1RJUmVmRjgwRXpFUTJtRkdjRDl1bGt3NC11NHM4WkFqRVBxaXpaYmRNem40ZmNfNXgyVUliSnRabFI4Z1JiME5XZGgxZXpTbDhVU0dJUlVzZXlGWVloTVJTbklpbWNRZnV0R3FWZFpselB4azh6NkFsaFJHRWJtSlE3WUJlTXfSAdcBQVVfeXFMTW1ORUd0SHZtTVk0cmRGNkNlTmdkamtncjUyMlJXMkx0UlcxR1FoU1pVSnFqb1JJZmkzR1dOdGJmR0xDZXJOa3kzQlpSUXlOamdLRExkTGhVQ014NEZOS1hRT1ZEUU5YMVlNZUhvOG11OVY2eUhfaU5QaEJmdTZ6ald4OGlXUTRFbzVEUFVzcWczYTdaeUNXaUU2TUw0bU12Ym0wQlNnUHU5andSbFdsZ0ZSb2RYb0RGV29fTGl0Y3MtUlR6eGMtNGlaYUJSajRnXzZKSUdSUEU?oc=5"
-    },
-    {
-      "timestamp": "2026-09-20T12:00:55.272Z",
-      "source": "n8n-auto-monitor",
-      "description": "Added investment news - ARK Invest $3.35M investment in Archer Aviation",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYlowY3lsZFRnOGRvWFRmRWpxZE4wcUQ1LVR2bmpEMDc3RjlocEZzbEM3QjhZMEd0clRSdXdUcDItSFpac1hQN0VXQmY3c2E5d0FYWWFWYTVhckxkdFFvb0ktNHBpdjY3ZW1ZdVFYVUZCU1JKbGFUOHZFLUM5R18zWHBJRU0tYjJ4dXZOc0ZGWV96QWxKa05mRWpR?oc=5"
-    },
-    {
-      "timestamp": "2026-09-20T12:00:10.584Z",
-      "source": "n8n-auto-monitor",
-      "description": "Updated milestone to reflect Midnight's first city-to-city roundtrip flight completion; added operational progress note",
-      "projectsAffected": [
-        1
-      ],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkpXMFE5MmcxOFk3U3JfbUJRN3k3alFfM0hDN2ZDdUl6VTM3R0dBZWpDd2ZjVS1KR2lWVkJ0WDhfUG83dUgxWFp2SUpsRWRxTUhHYkd3dnhwNElLVWNvZEY1dDlkakViYUNlY2NDNmViT1c5cmFycU1fYnZfbEVTMlVyYkpQaHpPV0stRkVLc01XVG41dGp2MGNnamp2b0FWNnc?oc=5"
+      "sourceUrl": "https://www.faa.gov/aam/eipp"
     }
   ],
   "projects": [
     {
       "id": 1,
       "sponsor": "Port Authority of New York & New Jersey",
-      "region": "New England · 12 operational concepts",
+      "region": "New York, New Jersey, Delaware and Vermont on the FAA map · 12 operational concepts",
       "states": [
         "NY",
         "NJ",
+        "DE",
         "VT"
       ],
       "partners": [
@@ -478,7 +65,7 @@
           "domain": "archer.com"
         },
         {
-          "name": "Beta Technologies",
+          "name": "BETA Technologies",
           "domain": "beta.team"
         },
         {
@@ -491,324 +78,42 @@
         }
       ],
       "focus": "Passenger + Cargo",
-      "keyOp": "eVTOL passenger operations at Manhattan Heliport; 12 distinct concepts across New England",
-      "otaStatus": "Active",
-      "milestone": "Midnight first city-city roundtrip; LA28 Olympics; LA LIVE vertiport",
-      "opsTarget": "Summer 2026",
+      "keyOp": "12 operational concepts, including eVTOL passenger operations at the Manhattan heliport (FAA, March 9, 2026)",
+      "otaStatus": "No flight announced",
+      "milestone": "No eIPP flight announced through October 22, 2026. Joby flew JFK to three Manhattan heliports for nine days in April 2026, with no passengers, and called it a celebration of the selection.",
+      "opsTarget": "Each participant committed to an eIPP flight within 90 days of signing its agreement (FAA)",
       "category": "passenger",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Most complex project in the program — 12 distinct operational concepts. Beta Technologies has specifically identified upstate New York as a launch location for cargo and medical logistics missions, building on NUAIR's FAA-accepted 1,900 sq mi airspace network with 6,000+ flights already logged. Joby acquired Blade Air Mobility's passenger division in 2025, giving it existing terminal relationships across the New York area. Electra is studying a NJ-to-NY route with Signature Aviation and Vertiports by Atlantic. Analyst concerns noted regarding additional capital needs despite White House support for eIPP program. Analyst concerns raised regarding additional capital needs despite White House support for eIPP program. Company continues to advance toward OTA despite funding pressures. Analyst concerns raised regarding additional capital needs despite White House support. Project viability being assessed in context of Archer Aviation's financial position. Archer Aviation recognized by White House for real-world eVTOL deployment focus and operations leadership. White House announcement of FAA eIPP air-taxi pilot program boost confirmed. Stock market activity noted despite White House pilot program announcement and recognition. White House recognition for eVTOL operations role, emphasizing real-world implementation focus. Archer Aviation facing ongoing capital pressures despite federal air taxi program progress; company valuation in focus. Leadership changes and funding discipline initiatives underway to support federal air taxi program goals. Archer Aviation progressing on test flights with continued analyst interest and valuation development supporting eIPP participation. Financial viability concerns reported regarding Archer Aviation's stock and operational sustainability. Hopscotch Air partnership with Archer Aviation announced for air mobility testing operations. Archer Aviation's financial and operational recovery progressing; company rebound supports continued project collaboration. New partnership announced between Archer Aviation and Hopscotch Air for expanded air taxi testing operations. Article reports Archer Aviation facing operational challenges and market headwinds in eVTOL sector as air taxi hype fades. Archer Aviation financial recovery and business momentum improving; partnership activities continuing. Archer Aviation recognized as compelling UAV/eVTOL investment opportunity; company positioning as key participant in urban air mobility market development. White House eVTOL Pilot Program officially endorsed; Archer Aviation stock market confidence reflected in 7.1% increase following announcement. Financial analysis indicates certification progress advancing commercial prospects; valuation assessment reflects eIPP partnership value. Archer Aviation conducting active air taxi operations testing as part of eIPP certification activities. Stock declined 28% YTD despite FAA milestone achievement, indicating market valuation gap. Article discusses Archer Aviation's progress and remaining risks in eIPP participation; company continues advancement despite ongoing challenges. Archer Aviation achieved FAA certification, reducing key market uncertainty for the eIPP program. Stock price surge (7.1%) noted with analyst optimism regarding project potential. Archer Aviation receives significant funding backing for air taxi development, strengthening project financial foundation. Archer Aviation disclosed $120,000 in lobbying expenses, indicating continued regulatory advocacy efforts for eVTOL operations. Archer Aviation seeking shareholder approval for operational shift to Texas, potentially affecting NY/NJ eIPP participation and growth strategy. Archer Aviation disclosed $120,000 in lobbying expenditures, indicating continued advocacy efforts related to eVTOL regulatory and operational matters. Leadership change: Joby Aviation's Aircraft Operations President resigned. Monitoring impact on testing timeline. BlackRock acquired 6.9% stake in Archer Aviation (Dec 2024); stock declined 24% during period. Joby Aviation selected for FAA eIPP fast-track pilot program for Advanced Air Mobility. Joby Aviation completed eVTOL air taxi demonstration flights as part of FAA eIPP program participation. Joby Aviation conducting flight tests in New York to support eIPP program operations within Port Authority jurisdiction. Joby Aviation completed first NYC test flight, advancing eVTOL demonstration capabilities in the New York market. Joby Aviation leading eVTOL flight revolution in New York under federal pilot program, transforming urban air mobility demonstrations. Joby Aviation conducted eVTOL demonstration flights in NYC with NYCEDC and partners, marking operational progress in advanced air mobility initiatives. Joby New York flights highlight competitive landscape and underscore importance of Archer's certification readiness. Joby Aviation successfully conducted first electric air taxi flight over New York City, advancing operational readiness for the program. Government collaboration deepening; competitive peer progress noted as factors in investment case evaluation. Archer reports $1.96B cash position and Texas operational relocation ahead of Q1 earnings call. Witness account confirms Manhattan demonstration flight completed with noise levels meeting operational expectations. Demo conducted at Blade Lounge East location. Joby Aviation completed first point-to-point eVTOL flights across New York City, demonstrating operational capability in urban environment. Joby Aviation Q1 2026 results reported; NYC eVTOL flight trials progressing. UAE regulator and Archer achieved streamlined certification approach for Midnight eVTOL aircraft, expanding international operational pathways beyond NYC operations. Financial analysis notes continued investor interest and recent operational progress in electric air taxi development. UAE regulator and Archer agreed to streamlined certification approach for Midnight eVTOL aircraft, advancing international deployment efforts. Joby Aviation successfully achieved flight operations in NYC (2024), marking major operational milestone for eVTOL services under Port Authority sponsorship. Stock price increased 10% as flying taxi launch progresses closer to commercialization. Joby Aviation completed eVTOL demonstration flights in NYC and achieved FAA progress, resulting in increased investor confidence (8.9% stock price increase). UAE fast-tracked Midnight eVTOL certification pathway, advancing international regulatory approval. Q1 2026: Archer reports record FAA certification progress with initial US operations expected in 2026. Q1 2026: Archer reports record FAA certification progress with initial US operations timeline confirmed for 2026. Archer Aviation achieved FAA milestone sharpening focus on 2026 revenue potential as part of eIPP program. Archer Aviation completed Phase 3 of FAA certification process as of recent reporting period. CEO signals breakthrough year with commercial air taxi launch approaching. Stock gains reflect investor confidence in certification progress. CEO signals breakthrough year ahead with commercial launch moving closer. Stock gains reflect market confidence in program momentum. Recent earnings beat and analyst commentary indicate accelerating progress toward commercial air taxi operations. Archer Aviation reports earnings beat and confirmed progress toward commercial launch under eIPP framework. Financial analysis notes ongoing cash burn concerns and valuation pressures despite FAA certification progress. Earnings performance demonstrates operational readiness but highlights need for sustained financial management during certification pathway. Financial analysis indicates deepening losses and cash-intensive nature of eVTOL development affecting operational trajectory. Archer Aviation exceeded Q1 2026 financial forecasts on earnings call, demonstrating continued operational progress toward commercial launch. Archer Aviation interim CFO Priya Gupta executed stock sale of $58,693, signaling potential corporate developments. Yahoo Finance analysis discusses FAA certification status and investment implications for eIPP participation. Joby conducted successful eVTOL demonstration flights in Manhattan with continued FAA test progress, contributing to positive market sentiment. Archer Aviation's certification progress and international expansion (UAE entry) indicate growing project momentum and commercial viability. Yahoo Finance analysis confirms FAA certification as key investment milestone; market confidence in certification pathway evidenced by financial sector coverage. Stock price increased 5.4% following successful Manhattan eVTOL demo flights and FAA test progress announcement. Archer Aviation demonstrates growing momentum with international expansion into UAE market alongside continued FAA certification progress. eIPP demo flights completed and assessed; 2026 operational guidance reiterated. Joby Aviation conducted successful passenger flights over NYC with FAA approval. Expansion approved to 9 additional states for eVTOL operations. Archer Aviation's Midnight aircraft making progress toward FAA certification for commercial operations. Archer Aviation announces Phase 3 advancement with new Anduril Industries defense partnership to support FAA certification efforts. Archer Aviation continuing active flight-testing activities as part of eIPP program participation. Stock market positive sentiment on FAA eVTOL regulatory progress and air-taxi market catalysts (9% stock jump reported). CEO Adam Goldstein announced plans to launch air taxi service as soon as 2026, indicating accelerated deployment timeline. Article reports Joby Aviation nearing FAA approval as of latest update. CEO pitches Tesla-like future for air taxi commercialization, emphasizing long-term vision for market development and demonstrations. Archer Aviation Midnight aircraft confirmed progressing toward FAA certification with operational deployment targeted for 2028 Olympics. Company experiencing cash burn during operations; financial sustainability and runway duration are ongoing considerations for program timeline. Featured in wallpaper.com media coverage discussing eVTOL operations and development progress. Archer Aviation's valuation in focus following successful ACES and Zee aircraft launches, demonstrating progress in vehicle development. CEO Adam Goldstein discussed new aircraft developments and LA28 Olympics operational strategy in CNBC interview, confirming continued focus on Olympic Games deployment. Archer and Anduril jointly developed autonomous VTOL platform for commercial and defense applications, expanding beyond eIPP program scope. Archer Aviation announced Thunder and Halo partnerships with Anduril and Marubeni, expanding commercialization and deployment capabilities for eVTOL operations. Archer Aviation announced Thunder and Halo vehicle partnerships with Anduril and Marubeni, expanding product development portfolio. Archer Aviation launched ACES charging network and Zee AI platform to support eVTOL operations. Financial analysis indicates ACES and Zee programs valued significantly below market potential (estimated 75% undervalued per SimplyWall.st analysis). Archer Aviation partnership with Anduril Industries announced for business development collaboration. SummitTX Capital L.P. invested $709,000 in Archer Aviation (2024). Stock analysis discusses defense partnerships and FAA progress as positive indicators for eIPP program advancement. Archer Aviation's Midnight aircraft completed city-to-city demonstration flights in California as part of eIPP activities. Midnight aircraft successfully completed California pilot program. Archer Aviation unveiled Halo autonomous VTOL aircraft, commercial twin to Thunder platform. Article highlights Archer Aviation's valuation potential tied to Midnight flight program success; notes FAA backing as key factor. Joby Aviation raised forward guidance and stock climbed 9% in eVTOL market movement (24/7 Wall St report). Archer Aviation acquired Boeing's Wisk Aero subsidiary. Archer is primary aircraft provider for PANYNJ Halo program. Archer Aviation acquired Boeing's automated air taxi effort, enhancing technological capabilities for eIPP operations. Boeing divested Insitu to Archer Aviation (2025). Insitu was key supplier; transition may impact Halo VTOL development timeline. Joby acquired Resonant Sciences for aerospace manufacturing and design capabilities to support production scaling. Archer Aviation acquiring Boeing business unit with $200M+ revenue, strengthening manufacturing and supply chain capabilities for eVTOL production. Archer Aviation acquired Boeing's eVTOL business unit with $200M+ annual revenue, strengthening manufacturing and certification capabilities. Archer Aviation acquired Boeing's drone and air-taxi units, consolidating capabilities for eIPP participation. Archer Aviation acquired Boeing subsidiaries Wisk and SkyGrid, consolidating autonomous VTOL and airspace management capabilities for eIPP operations. Archer expanding business strategy beyond air taxi services to diversify revenue streams and operational scope. Archer Aviation secures major Boeing deal to support eVTOL aircraft development and FAA eIPP integration efforts. Boeing partnership agreement announced, strengthening commercial viability and operational support for eIPP Project 1. Boeing transferred autonomous flight technology units to Archer Aviation, strengthening partnership for eIPP development. Boeing partnership announced to provide strategic value and resources for eVTOL development. Boeing partnership with Archer Aviation confirmed for autonomous flight technology development and delivery of units. Archer Aviation acquired Boeing's drone and air-taxi units, consolidating autonomous flight capabilities for eIPP program support. AEG partnership announced for air taxi operations at L.A. Live venue, indicating commercial deployment infrastructure development ahead of Olympic Games. AEG partnership announced for vertiport development at L.A. LIVE to expand Los Angeles air taxi network ahead of LA28 Games. Archer expanding flying taxi service to L.A. Live, indicating commercial deployment progress beyond pilot activities. Archer Aviation partnered with AEG on development of downtown Los Angeles's first vertiport facility, supporting LA28 Olympics infrastructure. Archer Aviation acquired Boeing's drone and air-taxi units, consolidating autonomous vehicle development capabilities. L.A. LIVE vertiport development underway as part of urban air mobility network expansion strategy. Boeing partnership announced; potential impact on autonomous systems integration and timeline for LA28 Olympics operations. Archer Aviation managing Hawthorne Airport operations, supporting infrastructure development for eVTOL deployment and operational readiness. Archer Aviation managing Hawthorne Airport operations as part of eVTOL development and operational readiness strategy. L.A. LIVE vertiport partnership announced, representing significant infrastructure milestone for urban air mobility operations in Los Angeles. Archer Aviation announces expansion of growth ambitions to scale eVTOL operations and development. Archer eVTOL air taxi demonstrations underway at California airports, showing operational progress toward service deployment. Archer conducting eVTOL tour demonstrating aircraft capabilities. LA vertiport development progressing as part of LA28 Olympics integration plans. Multi-state flight tour underway in preparation for LA28 Games operations, demonstrating operational readiness for eVTOL deployment. Multi-state air taxi tour underway for demonstration and operational validation activities. ARK Investment Management increased position in Archer Aviation (Nov 2024), signaling investor confidence in eIPP program participation. Archer Aviation acquired Boeing's drone and air-taxi units, enhancing eVTOL development capabilities and operational scope within the eIPP program. Archer Aviation acquired Boeing's drone and air-taxi units, enhancing technical capabilities and operational expertise for the eIPP program. No Roads Flight Tour commenced; demonstrates operational progress toward LA28 Olympics and vertiport demonstrations. Archer Aviation acquired Boeing's drone and air-taxi units, enhancing technical capabilities for eIPP operations. Seeking Alpha analysis notes commercialization progress ahead of financial metrics; commercialization timeline remains on track despite financial challenges. City-to-city flight successfully completed, demonstrating operational capability and generating investor confidence in eVTOL technology readiness. Archer Aviation completed Midnight's first city-to-city roundtrip flight, demonstrating operational progress in eVTOL technology development. ARK Invest (Cathie Wood) invested $3.35M in Archer Aviation (Jan 2025), signaling investor confidence in eVTOL market and NYC operations. Stock price declined 47% as of recent market activity; financial performance may impact project timeline and resource allocation. Trade-secret litigation with Archer Aviation reduced in scope by US court. Vertical Aerospace filed patent infringement counterclaim against Archer Aviation (eIPP participant). Barclays analyst coverage highlights military applications as potential bull case for Archer Aviation eVTOL strategy, expanding strategic use cases beyond commercial operations. Battery fire incident at Archer Aviation's San Jose facility (Date: per AIN article) raised operational and safety concerns during development phase.",
+      "notes": "The lead is the Port Authority of New York and New Jersey, a bi-state authority, not a state transportation department. The FAA's March 9, 2026, announcement placed the project 'across New England' and named Archer, BETA, Electra and Joby. The FAA's eIPP map of October 16, 2026, gives the area as New York, New Jersey, Delaware and Vermont and lists BETA, Electra and Joby, without Archer. The Port Authority's own release of April 1, 2026, adds Wisk, the New York City Economic Development Corporation and NJEDA as proposal partners and names JFK, LaGuardia and Newark Liberty. No FAA release through October 22, 2026, announces a flight under this project.",
       "links": [
         {
-          "label": "DOT Announcement",
-          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+          "label": "FAA announcement, March 9, 2026",
+          "url": "https://www.faa.gov/newsroom/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil-eight"
         },
         {
-          "label": "Archer Press Release",
-          "url": "https://news.archer.com/archers-us-air-taxi-operations-take-major-step-forward-as-florida-new-york-and-texas-selected-for-white-house-pilot-program"
+          "label": "FAA eIPP page and map",
+          "url": "https://www.faa.gov/aam/eipp"
         },
         {
-          "label": "NUAIR Statement",
-          "url": "https://www.nuair.org/post/nuair-and-syracuse-regional-airport-authority-celebrate-federal-selection-of-port-authority-of-new-y"
+          "label": "LAE New York survey",
+          "url": "https://lowaltitudeeconomy.aero/en/new-york"
         },
         {
-          "label": "SimplyWall.st - Archer Aviation Valuation Analysis",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdS13UFRaR1RoekI0V1JqT3ZZNHFjcWJHSHdhTzN5d3FNNGhCdmVUYU8xdUFHc2dkUm9sY0RFQmZmR3pXVGVxczlINE94SUhGcy12YTV3Qzl4QWd0MEE4M0dhMDdGYUwtWnM2cEg5azhLN09hTkcyVkxfVTNXVW53WnFQdXp1Tm01YmJUc3JxVDkyVUxHT0FvZzNuQURpbVdUWFd3dTRGdDdrV0lJQXRwaWhCSWM5M0lHb3BOeGZ2emN6NHNtOGptNGthSkhZOHFxUlHSAdcBQVVfeXFMTlFIWUxSaVdUbjhkZlNaTkFhcmxSenZlUWdCZXV2WkVXSUIySnpPNzJyNEg2ekJTWklGbXAtdjZ5d1JjdTctbV9NaW5RMzJZTEVEc21BWmtzdEdNQS1CV081Ty1DVjVnYzZnTW9mUWpRQk5hdnVVZ1NMTndhMC00UW9UZ0VxdEhCX09kanNSdWVURkFPaDJVeFY5WlpKNV9TeHhjSzhZcE44ZG42aGpNVC1WUVV1S2tubnE1dTQybllyaXRPX3hNZi1GLTdCdFR4YnZQbzhyaWc"
-        },
-        {
-          "label": "SimplyWall.st Analysis",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMFJjNHVsRXNRZDAydWRyQ0ZNcTk5V2FLMHdwZ3pPWlFibXdpdUg3NmduVzFURGc2Z1k5YVZualMxNXJJdjZocHZkWGg0T2lkOXNHQ1hqOHFtUXNOZ2x4NHFBVnBzdldGZGNzc0JPd1RYUW1PaGNNQXI3b0xnTnlFUXNqeXEzb3E5LUtXbXhvb1Y4d3BZcmVOTDFPc19TUTI3R2ZPZTU2YTdjN0FrZExyNzlqMzhEcFRrUFZBMze3RN1N1N1ZU15cHlSdWxNU0d2eUtsR1BLWUdmSThYd0ZHN0Z3VDNKR2hIZmY0WW8zRmlrUG9oOUQ2aHYzOTVaWkNsR0ExYUNfTWtGdGVrN1h5RVoxT2N1SUxubmJGdW1OVEdTS3hJZm92Y1ZEWS1TMFNETVhEaTAxcnAtXzZBMFZ2R1dQc2lESXUwWVhIeDRiY21rSDhwQW9sT0hvSURnRkdWLVl2TmxYRW1KQU9QWG1ZdkNxU0l1ZnduYUNITGNiQWVSWDlQX2dQNVlDQ2JPUGttUWtCTw"
-        },
-        {
-          "label": "Archer Aviation's High-Stakes Rebound Is Back On",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0VKeGoyNV9TVTRNQzJsUVBuWlZtQWRLWVdzMk80c2htVllyVGJXVjc0LVdDdjNWaFNpM0N3VnJTSG9BSWcxYzU0WVdTMnpJa3N2MU53aDY2NTNIODY4R0x5bVQ0cWhGQ0piNEJOdUxCMVVjMjE3a3NncHREOGtOTnBNVUZWdjJubXN2ekxJQWFKQXhmOVVpdg?oc=5"
-        },
-        {
-          "label": "Archer Aviation Faces Challenges - National Today",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUhfZk1SNjAzdEtlY2JwcFJyamE4dkdqeGhndEExWUZJU0J3b2d1b2oxVURaYVVmTGVHYXI3M2lqeThBUHZ4NklqQnBHUkpuS2E5U1BmUklsblpNRUQyN1VacjJoYjF1LVFYc2FuWEVpdDFERDJuZEtEc3g3VlBRRThHNVZpcDVsZFJGSFlkQVlNS09idzI0WTVab1FfWWRyMnhnN08waUlWakppUnhaSUlxY09tZw?oc=5"
-        },
-        {
-          "label": "Archer Aviation's High-Stakes Rebound Is Back On",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0VKeGoyNV9TVTRNQzJsUVBuWlZtQWRLWVdzMk80c2htVllyVGJXVjc0LVdDdjNWaFNpM0N3VnJTSG9BSWcxYzU0WVdTMnpJa3N2MU53aDY2NTNIODY4R0x5bVQ0cWhGQ0piNEJOdUxCMVVjMjE3a3NncHREOGtOTnBNVUZWdjJubXN2ekxJQWFKQXhmOVVpdg?oc=5"
-        },
-        {
-          "label": "Insider Monkey - Archer Aviation Stock Analysis",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2ZtTVRkVE9YMldNV3AtSGxmYUNxMkRxZWF1UHAxbXZuX3U3OFN6WmdVWlRWZ2kwb3dUWkdyN3BMZ2FOcWxNYzJUOXI3LW5ILUJlN0JxTVp2LWZHS0Uwc0FzTWpNZUU0VmwtNnphNVZjZDBKLUdoaFpBVVNXY2NjNVdUY3VXMDB6MFpKa0lNT25NVHRQRy1kTS05c2xmLUFDRHlRbzNKMGhiZF9jcXFVOHlQOHotYTFhcmhTTUNnd3dQRmNpb3BlcmRLZzd4Z9IB1gFBVV95cUxOb3JDNlIxR2tiQmwtWWFTSDh1ajV4bW1vWm9EdXhTcVZHeWxvYk9OMDZkdWZGdzJEckJ1TVpnQ3RoTDU4NV96dzJwY2w0ZFBWNGhnRnRYZUtRakdOeDNaVlhxMVVtSkU2dU9RLS0xSXdhd3M5YVMyX0Rvb0pHdElTYzVDWW1kWEZyQzl0LXRseDM4VjNNOTgyQ2pBNXdKQzFEb2o3X1Q3RnBPSWtyYmFZM3ppY0tveUgtMUJFMnRMc1FMN1lRaXdSc0RlZl9rdEJzb2hKUGZ3?oc=5"
-        },
-        {
-          "label": "White House eVTOL Pilot Program Announcement",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ1NGekFjT25XVjdWXzFseTZFaFhzOWEyYWVaTlRQZU40QUxzc3YyRFRpLU42N3A5bG5vbDZ1djU2cFZhU2dwT1NHMF9DTFZUa3BCYW1ObmlBanRWUzFrN2dXTndOU1NMWDBwclBLdGJ0QlpTT0NPTUhRUk1naWVLVmI5NHV5V2NsUjFJRzFpUG9oeFZORWZsZFBHOElUWGluMkYxaTRncXBkcm5nZGQ2TDFIcllXLUh4MFNkc2ZpTVBSak5TWnhzemNKTXl0WDhUNFpF0gHYAUFVX3lxTE9BSGxSejcySGRVQmVVOXRGeW85UExPbkdVQ2E1RFZhLW1PcWxyWW80UTdhMkMzVmowVld3MGNvblBCQ1ZybnBhdWZIRVNXR0RhdWNYNUlWWWE5aDhtcU8yQ3piRWctYzNxeHJPWGY0T3h1WjAxQzktNHpQR0VvWXYtSXBBV3ZWOWJlZVFTWE1LbDZMNGgzOUxObXlYUDQ3OWlzOWx4UUZPdWZUVDg5VGlhMVdnX1B2UmFXZUg1TEpGdUxFZy1FOHYzRFdUTlgxbm5zcHE5S1ZnUA?oc=5"
-        },
-        {
-          "label": "Simply Wall St - Archer Aviation Valuation Analysis",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONDN3ZURtRDA0dFNsNHR3MTdsanVBMEExRVk4dnJLZFNET1oyNzRjQzlvY3VOb3NxdGZKcEt3a2tjM1FSQ19IU2dKcnNYTC1TdU9DTmhZYm5DZ2RaT3E4Q1d5VVZIZXBMQ0llS2dkNnZ2dXZlZS04WXAwNWFhWUdxd013cEhHV2xCX2drbnBtV2ViUVpSMjIyR0JpbjRmc2FMYUVuLVoycHUwdExHR2JTZGIzRzJ6WE85dENOTTVQamIyMlBhRjVWQ2NzZlVQcHc0SFJV0gHYAUFVX3lxTFBJZnpvY2hpOTA5dXI4US1YRHRjcVI3TmFQRFdWbFBKandDWE8yeTBRTTU4ZG5UVkk4cmhHLVdpRFNMaGZMajl6MmR5X3ZNbU5YUDNobEtHSGJhTHVtRUNzWTBGdEVQb2tNNjVYSXBTM3J1MC1ocVhycFprdWFhQzhzWmdiSlRBZzhVcjlBZTlwOGpiZGMtcnJhLWNqZ3NLQjFVTG92MDk3TWMzWEpZSEcwUEJST2MxMGlZdWhvLXhLblFuYUlZNXUwWEFqdjU4emx6NWJtdC1rTg?oc=5"
-        },
-        {
-          "label": "Yahoo Finance - Archer Aviation Testing",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaE1PZDkzajBGT2lUS0RwOE9BSnVFanZsS00xd2RuMVBaWnJ5MUtKMjVpQ0ttaDV6YXdpTEttZlEtRHdNZHNHb2Y1LXRDNWRyQkVleTJMdXAxTnJxSTdxcGJ1MjM0ZkVGUi02YmJaaEduRzlYT25IVWJ5MFVfSW5uYlFDcFlFQldPRmxIaUxneExWUkhDZkUwVVBQVQ?oc=5"
-        },
-        {
-          "label": "TipRanks Article - Archer Aviation Stock Analysis",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSl9qVXlDR3VDU29GYzZiWER3VWpjVW00OWJhV3VrNFcybTdta19HQjRDbkVhT3pJUnFkaUdmVzRyRVhzRlpULXFqd1h4UVhrMHIyQXBrNTBtb2FaWTdySEVuVWhadDJaZ200Z01RQ2FfMkQtYzlBZE01QlYwR1dnamUtYjFCMUV3MGd2dGVRMWE4VmU1TVFtOEY3N2NKZllCcU5RTXVJLUtvRjJmMjQ3bkdKRXBlTDVNa0JEOTQ2VHpabkZq?oc=5"
-        },
-        {
-          "label": "Archer Aviation FAA Certification News",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VUG9teTZuUzJvWWMydjkxaldXVy1XZEVZeUk0ZENBaWlqeW5fZlRLajFEOXpJTDRjcEFPMmVEZ3d1SUk5WDhTa2pzbXBfTW9RUUVjWUxjMWpiX1ZQM1RSAWNBVV95cUxOUVl1OFpDSVFHbGlZZy0yRktnNE12VGhZcWl0UE0yWFNKWXlydDlUVTNkYTUtaE5lc2Z2SzhpdU9sUjFCZ1ItaEtMN2xsQ1Bqdi05WkJmNTlFSU5YUEd5cjNUaW8?oc=5"
-        },
-        {
-          "label": "Archer Aviation Stock Analysis",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWTJGSU9hdnp6bXNUMnJmMkhVYUdMeFlwREdsaWFOWEo4LTZNTHBoQXNJcGFwVHVEZHVCdWVsN1k2OUhwZ2lGSVZiUHBZbzBBNC1qenNVT1h2c2pzdXJUdVAyam9YZ1dmMEdkRkZYTlhiWm5VSTMxSjRZX08zMkZaUE41TUdrV2RZYTFFN2NXRzdIVi0zRXRwc3NPcl8wTXZjUkp6dG9uMEhUa09q?oc=5"
-        },
-        {
-          "label": "Lobbying Disclosure - Quiver Quantitative",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWW00Q0phakJuRldIell2eXZQUFpyb1BnUXFITXhLTWxJYXd0bGVaZ2E0TW5tTTB4by1Vc1ZnZHRkbjBKMnp0ek9QNUdaTzctZHdSNXZMNUg2elhEMFduSXZHYW11R1lGM2xjMlgwOHhMaVJ6Sk1uS3NheUFzeVVXYVc5d242SGRYaEpBMXJmenY5bVpKa2h0ZlF5X0R0SWtkZkdQcXN5LWJCeF9HYTA0Nk96eE1xcEE?oc=5"
-        },
-        {
-          "label": "Lobbying Disclosure - Quiver Quantitative",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWW00Q0phakJuRldIell2eXZQUFpyb1BnUXFITXhLTWxJYXd0bGVaZ2E0TW5tTTB4by1Vc1ZnZHRkbjBKMnp0ek9QNUdaTzctZHdSNXZMNUg2elhEMFduSXZHYW11R1lGM2xjMlgwOHhMaVJ6Sk1uS3NheUFzeVVXYVc5d282SGRYaEpBMXJmenY5bVpKa2h0ZlF5X0R0SWtkZkdQcXN5LWJCeF9HUTA0Nk96eE1xcEE?oc=5"
-        },
-        {
-          "label": "BlackRock Builds 6.9% Stake in Archer Aviation",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2tTQmRMZWZGSFhCVTBHLXYxYTF1bjBjTlZyUU9zUEFBcm55MkRaOFNKblNadXlBRUhkUFlQeFZzWWU2V0UyT0lyU2lLSjZOUGNsbUVBcllMVWlOZnhUZEVkdEZ1dndSMHZSX1RGb05Oa0xRNklEUmc5alkyQW9aTmRIOTBYZzI5UDBDNzhXV3Z0a3FWRWNqM1dRSHJiVEE"
-        },
-        {
-          "label": "Joby Aviation flies air taxi flight tests in New York",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHRxNFFVMW5LUDFyYjNpaXBBZlRXYVpLYmx3ZXVHb2NhQmUxUzktb3N0ejlZN05LYlBwWUtiOFlmZk82NERWcXI0S0Q1S2xobDRTaC02OF8yYXM0WU13VEVkdFd6bnpQWW4zcEFBU1ZwRVZOZVJuNEJxSlpkN0ppT0REdWl6RzZUVnB3NVpsODFlSGdzUm5uSTR3VXIyeVdlRWVIa3NBWWNpeEgxUHZJT2ItXzRES2tSb1RZVQ?oc=5"
-        },
-        {
-          "label": "Joby Aviation Leads eVTOL Flight Revolution in New York",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMkFJQXUwZm0zSGNUY1B4aHJpV3dUc2FlOTAteHlUaXJFTnJIZVhOeVJ0YWMzd05uVjdKTDZjRW1DY080UEIwdGFPZ014VVU2WjN0QUR4bEZsTHBnbUxuLTVlbkUxczk1OEUzY2xvYU9yb2FmcG5pRUQ3eE1aVkVWVlRGUW1CMk9CNzBfcmhwZWowUFYyejZQaUNyeWZVWms4MmdkeVEwV2FNVkluZUc3WnZOZFc5eTdQMldFZ1Rzdl92YXBFMTFWMjJGZ1JfaDNFbzZERlFzZ0Y5VE9vamlic3kzTTJWOFZqMGdiZVFOSWRRNjVWYXVV?oc=5"
-        },
-        {
-          "label": "Joby NY Flights Spotlight on Archer Readiness",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQzNDTll4bTBMSVRONWdhV0NhMERXT01qbXJSRGtpRVZtbnYzVXBlbm41VUptcDhWNWdiRmp6WjZicnk4eVR1OWxVUHVSV1A2dEpZY1R2OVl2azh1aDNPaUhTVFY5bnVvZm9JM1JIc2F2VF9ta1k0LV9BNEdYc2F5SjFBSGJfNnNsNFhXbW9lZFdrRE96b2dDQ2Q3SjFhVEMzYlMwV2NRSkhQQU4xQmdQNkFXaHdkTzhJRlZlMFZaYmI0VW90NjV5a3JWU3lLZHpWTkQ40gHYAUFVX3lxTE1Nc0tfWFdWSnhUOWp5UFhqNVoyQk83RzFKRl9Td051OXZUYm9qS1RiYklEQ2g1aTJzZXJEQldZclIzdF95eG5vWHV5dE90NVlFUjNFcGszV1pVV2ZOY2JwRjhzUlRGTUtTeTV5Z2dTeGdodlVPREVucjQ1MUtqbzRPbzRlYjlxOWNJeXlvSS05SHM2bV9qOURYN0tmdzhlR0pDcXl0NWtjNUVRajhfNDZBaE95TGxFcXRYVjdBVktCejJMQVJ6U3E3NnBLOFA2MmtzN01FaXNpWg?oc=5"
-        },
-        {
-          "label": "SimplyWall.st Analysis: Government Collaboration & Investment Case",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMzVaQVFNdE9PeWlyNmRVcF90WV9hWWVQOVpBVE5mUDJxU1JTanJPbm9jS3B0YTNNdWVOdmtWanRlbTIwWEFsUnZQOEx2UmR4dUJwMkI4SG5rQWNUYWw5QlU5VThVYU8wb0I1aTk1UGQ0WW9ESkFVYVFwMWZNdmh0SHc1eWhxX3VIOGczX2VHbDlYY1I1MjZjb1dDbFQ0YWVVam1CLXozcU1sMVRQWDhyWHZjOHhjcDlYTFZkcEJSblNTcHV1S0h1U1lXdFdaemFOc2dz0gHYAUFVX3lxTE1uRk5iczFiNnYtdjkwcXNkcDBjN3RaYlFCRHEzeHlKOTdxOWVfWTlTVDduR2dtVVVlYUdUMWszRDd3cmFfVW5Dc2NIV0ZUTUs1dEN5Q3NvZHNsUktXbUt0aHNjZmNCRGFQanlfa2VtejlQWWtEWFdtbkd1eGMxZjdrY2VHUnRsU0VrYXM2VVAxUnRYcHJkTmljV3ZqM0ZfVjh4TTBMSGtZS2dCZmsyX1RWQWVwUUhKVUxjMXVfVnpmbXNoUDFManNwWEZsLU9zOS1wdl9KRmxicQ"
-        },
-        {
-          "label": "Archer Aviation Q1 Earnings - TipRanks",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRGVwRTIwY04zbTM4TnI3aGNvNUFCYXRTcnVhVk1BZ1NQNUQyZ0l1bkZSWUh4RHdjRDZ4SVBlUDRNaUpxeWh1bkVvU3ZRTnhlNVREdGkxU20xWlFqU3l2eW54aXF4Rm1IbEpMU0NsNFNwLXNFOGpLckxEcWJFNUZqZmpQUDFqS2F5cThIcmstcHROcWlEc1RmYzl5Y2NZczRROVhQdk03cWdzOEh6Zm9YcA?oc=5"
-        },
-        {
-          "label": "Joby Q1 2026 Valuation & NYC Trial Results",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNlQ4NnFfNVpoOXhDOUtDZF9ub1NaYWgxMDNkZ2dtTTB2bFdjbEZNRDJYaGtDMFlWemI2d3dYTFU5V0FZbktfRWowaDROSzNDRnExMTZfRnU2X1NQRG1JSlpRS29GaHRjNV9vaTdwYVRoMmtESXNab2ZOdmZvY2VhODkxZHEzUVhmLXpQQXM4aGIyUnd0OHVpckpDZGtXQi1RRnprVW9Cd1I1QlhjTDIyd2JZMlRQbkw4MzQtaERZNEhMN25hdmYwWW9hMXFWQ1hEVnfSAdcBQVVfeXFMTVIzRUowWWItZzZLcXJYNkdVMFJkMEx4YUNrVFJyaGNCWHlUS2haTEkwWkdxaTdUZGNDaXVPZ1V1Tm9LWmJtcjJ5d3d1RU5QLW5OTGV0Rk9GdzBENURlaDlkSWZuaFhqb011aVdpc3Ric2pVRVNmbXd5WUlaakRTbENtdGRwSW8td2dOeTVaTHdDaVJYVXJJRUtvM3c0MV9vN09qV0Y3aWVidnNnTm14bFV3UUlUdjE0QVBBcVl2bjNDRGR2NkdYZ3AyV0NLbEVHempCdmhvXzQ?oc=5"
-        },
-        {
-          "label": "SimplyWall.st - Archer Aviation Financial Analysis",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaV9hQzhvcmNOZDdycGhuSm5mU0d6S000amhRTWtIbmhvbXVZUmh2QU5UZzhORUM1VTFtZ2w1TVFzT0EwRDJmY1lWZ1NLa3pZY2FWd1hkZ0NVaE9ZM0t6VVdrR2JPQjh2ZGlyZHRtU0hGcEE1YXRMcm9TZkxQME8ta19fZkk3T2R3VDdNcVVNVUhHQkFHS1ByS1pUcFBsM2hjSU1uU1BBajVRTzg2bGxQbGZlS3FOcnFYQnNEMjdQVFZCcGQzcjhRbDFIUFo3X3J0WWJr0gHYAUFVX3lxTE1HSTExUWJIZTNSX1dNM0VLNGNpVXNfQVFKVDlGSVhESHpQdmg5ekNuVHNjcVFmOGJLaDJDNi1HYThLTTRQaVRMUlJIck03R1hJdktSMXdGTFotNXFwLVdDNGFPNG52WWdJdWNnbkN3QnAzSjBHTW1nd25zSy1fcjdwSmU5WW1DOU5wbDN4bS1FSUA3ckRjTm5SdUxoUXc4YVpHU3BQOGhMYTE2bzdqTUEyYWo3UkdZUVRGalQzbnRtT0Y0UTE1d0JiaW1WaWlORGpXaFY3Tk1WXw?oc=5"
-        },
-        {
-          "label": "GazetteXtra - Archer Aviation News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnJmREJUU2dodWVFaXdRME5KWFpSemxBNk96LTA2YzVURDJkR1ZrSzB4cXQzQ3RNTTFCNUFfMGxrdi02TU5BR2sxUmg4ZXNZNnVLS1JaR3BPNXFITjh1ZzdrVzZsMG9pR0tNMDdXVFFaZ3MwR3NJNmtsWjZabE1nNXZPeUthT3BXVTA5dDRySW9MM09qM2VkYVE5cllIcU9tMjNoWTkxejFKWlBVRUE?oc=5"
-        },
-        {
-          "label": "GazetteXtra - Archer Aviation",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnJmREJUU2dodWVFaXdRME5KWFpSemxBNk96LTA2YzVURDJkR1ZrSzB4cXQzQ3RNTTFCNUFfMGxrdi02TU5BR2sxUmg4ZXNZNnVLS1JaR3BPNXFITjh1ZzdrVzZsMG9pR0tNMDdXVFFaZ3MwR3NJNmtsWjZabE1nNXZPeUthT3BXVTA5dDRySW9MM09qM2VkYVE5cllIcU9tMjNoWTkxejFKWlBVRUE?oc=5"
-        },
-        {
-          "label": "Archer Aviation Stock Soars 10% as Flying Taxi Launch Inches Closer",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVhFUU93QjYyZmhYQ0JyUW5UTUlBZ19NYTZBZVA0M29JakVhRlNHQ3ZpRHI5Mzd0UEdNV255U0RxMm5zc3U5SS1Iczk4bm1TUlhMTmxKNTVaMmY4eE5jakVsRnVrS08tUWxQd09fMXEtbTNaMHFOemhYd29BY0x1cmNCOVhxOTJ2THk4RjZSV1UyM090TUltb3lJUHgzN3A1Ti1nRjNDdHdiMkkzUEZz?oc=5"
-        },
-        {
-          "label": "Archer Aviation UAE Certification News",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNREhwSVlsNnFQTENyZ1g5d2FHZWNJSU1RcC1VOS1kU09Fc2ZaRjV2SURuQ2Nxb1YzMUJDcmUyWXFtMXFTM2xZQklwc09HWUFMVzBwR0h1VU9Pc3JGVDhzNHlaaDBpN25aVGtqMFZUTFl0eG5GeW1RYjU4UXl5b3FvN2FVbHV4TXJrY3p5ZmFhNVZ2TmtLM2VKLVZ0YmJ0Y3VxRldsaEZ5YXREcmQyX3A5bllMYjZ5YVhHRUJNR21lVUxCSXJydTkxdUkzWHZpYktsODlJ0gHYAUFVX3lxTFBJLUNwZjBkTDlzai1RUVpfc2JUZDY3Q2JCRmFCNWFla0hmdFNTYWZSbUxtYnRPVkZRVlBjWElnQzNjZ0tnUWw1anRWTE1RcFpDQms1YnRPTUcwZENnYUxVQ3dudmlzaHdUQzFtY001cFhkdENsT3hjRXI1VWVsWlFEVi03Q0VieUVqVGtoSVl3b2NST3pzTkNxUFFncm0yNTFuSWd5TE82VDMxMGxCU3JSa0psWWg5Tm0yZDR3WmtyNC10TDE0aGpnZnk2LTk5cGJkeEYxZDI4dQ?oc=5"
-        },
-        {
-          "label": "Archer Q1 2026 Results - FAA Certification Progress",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObHFQbjdaTmZfZTQyeW82ay0xd2wxVUtJNGkzOHR2aVVnMmhwbS03bUlEekUxQmRod25ERlhicjlXeVQxQ2NLbFlySGFBcHNzaFBwaTZuWTM2OTBuY0djRjBIRkN0TnowaS1qdXAzRHFqNkNJWHhSVUZfbkwtTEQ1UDlLanJBdVF4NWFqR1JxbWFfSzFCdHJRU2ZhTjljREhqNDJkb21pTDR5cE5fOXRxRkhNNG9qWWRhVlNicVFPb1U3aU1BZVc4ZnhXcW40aGRzZzZWT1BqUkJBX1JJOUFCZUw5OTlzelZxLVJtVkdEcXZCWDFoNzdfOGthQVFCSGxaV2NLc2tCU19kQkxLelhUM2dUNFVJZw"
-        },
-        {
-          "label": "Archer Aviation FAA Milestone - SimplyWall.st",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSktweXN0c0V2dndROGtMcy0xMFpQamlmcHgtRTM0QWkwZ0tpaXBrWmJfX3owVktlTk5VNXhidF94WEJFWXNXSUtTU21KbzEzd0VNU3owMmpKRGF3bWNTLXJvZWtDaXMtbF9yX1M3TWJSazl1R1RZak56Z3VTeEJQMmtOOTJiMEdDOHUtT2w3dHVQZWtRUlJocDBWaWwxeVEzc09oZzhwQVFveHNUcWp4eGdGb3dkOUktdS1RTGp5eWFQbnY5TjVtWEdZcUNjNkJkdnFr0gHYAUFVX3lxTE42TU4xb3VMbndJYnhkRmFSeTFrTHpoc1JNWE5fZ3ljTDVKNkxNanFWT1JjcUJyX2NxcWhHajhqX0ZMX3h3UTlyUlFJT3lSVDg3bk5NTklFM3VZLTlzZ2NqVHBmT2dSVE1mOTFCX2hGb1BKSkFNUlBUOGI2YXVLaTk4TzE3MThrckJ5SW9nbmtzckRCcVZCdEhBa2o2QkZzUWtFbFctZDNuWDZxWDVpZ0dhc1pGWWV0SS1hWXBFOE16WmZ0SmVKbHBfcEpOSTY4aU4xWXlyMk0tOQ?oc=5"
-        },
-        {
-          "label": "Archer Aviation Earnings & Commercial Launch Analysis",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNFltVmRLZTFrdl96bE9qZXJ6SHd4YVhfenVobEhnT2ZaZk43VThJemVCeGJvLXlGcmtFTkwtSk15Q0FJQ1hwWklSTGl2YjhmT1FkNUF3dDNMQTBkREZyQWp5d01QSGJUOEZoX28zT09LWXk4UFBFQmNWVVBtdGJJX0o2MExqakk1T1NsSkpKRkplYlZQdzhVUm1SbTBGWlBqMGF3Q241elBTSl85Ni1odzRMcVNCTWw0cmc1VktR"
-        },
-        {
-          "label": "Archer Aviation Earnings & Commercial Launch Update",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNFltVmRLZTFrdl96bE9qZXJ6SHd4YVhfenVobEhnT2ZaZk43VThJemVCeGJvLXlGcmtFTkwtSk15Q0FJQ1hwWklSTGl2YjhmT1FkNUF3dDNMQTBkREZyQWp5d01QSGJUOEZoX28zT09LWXk4UFBFQmNWVVBtdGJJX0o2MExqakk1T1NsSkpKRkplYlZQdzhVUm1SbTBGWlBqMGF3Q241elBTSl85Ni1odzRMcVNCTWw0cmc1VktR?oc=5"
-        },
-        {
-          "label": "SimplyWall.st Analysis: Archer Aviation Financial Performance",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYzhhM2RrMFkxMnRHR3VXQVVTcnU3YWd4TS1kNlZudENWLU5qS1BpdFEya055YUVmOTZxYTRZV3pwNjJWR19vazF0MncwZmxfcWhYWGxYT3UzQVE4aTRvR0FSdkZCdUVJd1VaMmNrTWhJWmM5RUtydE9HN1kzeENKY0F1bnl1X3ZFMnluOVo5SnlWdlhOY3JzUndsb2pZLTJnX2M1alN2YVg3SUdMa3kxeVllVW1CdlpBTDMzNG9rTmxUUlRXaEtiRFZxNmU2WWVaaGtr0gHYAUFVX3lxTFBlLU5oaUthMV9sU0tVbXN0M0RpT0JrMGJ5U0RvangzdzlaNF9neXhpdHljclA0bjAtcHQ2UDhHYkNscWFReE9UVDhXQkJXbzk5Q2I4Ty01VU4yQlFyLTRiZW45Uk1RUmJSM2FGa1dxSlF2Wkd2V3pPQ0dQaVFaZy13S0FKeG5URVZfNnl0NHV1MHBVcHowWGpXWFRJSERYWXRXMExkUm1uOFhpN3BRUS15WjRhemd1OW5CcVVhbkNZZ3FwLWdYNlFNcXRhYVhXV1F2N2Z2THFCNQ"
-        },
-        {
-          "label": "Q1 2026 Earnings Call Transcript",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWTlxTVRFMnpBZkkwUlFmZDJqUm5xcUJlUzdwZzM2VmJDSlN2RlhzazV1czF1QXp5ZGNfbmN2XzFOM3o0WDJ2OUpzRlNVOE9fb3gyc3Z6SkRFMFZpdDdRSXAxVjlEYTNFenUyd1VkRmZSOGlUd3BXMEN1Q1Q1NnlyeG9ULWJOQ3BsbGRHVER1dUI5WXhjY1puSUdRZVR1enpkZjJXb3ZiNVh5ZVVxc0RrejEzYjJMV1BaR1B3NFhHcDBMRktkNUpqd3Y1OA?oc=5"
-        },
-        {
-          "label": "Archer Aviation CFO stock sale report",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRVpEc2FQMW1sRklMODVOcWsxU2NnM1Yta1U4RWw4aXphOFltaGZPRnk4RWRQeXNNVnJIWmNHdllUY0xlUHdoSWxPUUlpVmFxbE9pQlpGam1wQVZTQUZqRWdOYThvV1NNa2d2UmlVZUxJRE55anhVZ2dwT1VHMXV3LTF2LThSQVNEVlpEYlRNdmE1bzJDdWdIeWx4OVIycUF2OHU1SkxRTW5GNVNCNUl2Njg1c0s2d1ZIZ1ExMjFqb2ViaFk?oc=5"
-        },
-        {
-          "label": "Assessing Archer Aviation's Valuation and Certification Progress",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbjZRWVM2WkQ3NDNfU1ZndHM1YkpNdWJUVFgtX1VBNm5zU2JDdWswRlF0VEFkMV9KVGFIQi1WVkJQNHhDYmVmbnp4X0Z2Mk52QXdZdmJNdS1aOE9fQVgtUmR3Yjc4T1lJbUhOMGtSa25yd0NhQ2dybzdldFVma2tHOUVKVXd2U3hNZHlIdEFyWGdOanVPR0pBeUN3bmdlMmVQLUFINFpZQjEtcWJLdG11WExVdWJ0cnhzMmd1bUxwcE5wTmN3UzZJTWFLdDBqS1p4RWo40gHYAUFVX3lxTE1ERmJKVU5IWkVoMmlveUlCa3R4eW1Oa0RMc3JxaUxFZWJwSkRNdExkSXFpdTB2S0Z5N0dVVlBnNzNrZnR6SC1felRfOWF5UXRBTi11QWVQUnNqS1h0TE12VkpMMFZrNERORXJURHEtMDdkdE9OdHByck8zYU96V1BTUjhVN0pUeXFkODhLZ2szb1FvdEhLLUNySHh0NkZ1UGVuek5kMzZVOXBkaUgwQno0Vi1XcHc1TExTejhPeDl2ZDlMYWJPblNHNVpuY05heGJMMlhxaFk5dQ?oc=5"
-        },
-        {
-          "label": "Yahoo Finance: Archer Aviation FAA Certification Analysis",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFVNTFJYbzlXdUpRNDByeUtUeERLVUFaUm0xbi1nQ3BMWG1FV1F2RllRWGxNRUJEOGFNV0hhWHBjUWV6WG9OOF9EM21QcWtCc2pzYTBiUkRiVmwwLUd3TG5sQllKUEZPLWpqclB6WThlc0FYcVRrZHB6aEFVVUFSQ2V4R3puaFJRZ0xTdHdra2ozRFhqV01iUU9rbE1iZy1UWk1rVGt4TTE"
-        },
-        {
-          "label": "Archer Aviation Valuation & Certification Progress Analysis",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbjZRWVM2WkQ3NDNfU1ZndHM1YkpNdWJUVFgtX1VBNm5zU2JDdWswRlF0VEFkMV9KVGFIQi1WVkJQNHhDYmVmbnp4X0Z2Mk52QXdZdmJNdS1aOE9fQVgtUmR3Yjc4T1lJbUhOMGtSa25yd0NhQ2dybzdldFVma2tHOUVKVXd2U3hNZHlIdEFyWGdOanVPR0pBeUN3bmdlMmVQLUFINFpZQjEtcWJLdG11WExVdWJ0cnhzMmd1bUxwcE5wTmN3UzZJTWFLdDBqS1p4RWo0"
-        },
-        {
-          "label": "Archer Aviation Flight-Testing Progress (Zacks)",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWhOd3RRb0daSUhnN1pxVjk2QjYzblRVekVhREdEeVlQaGMzMzV4Z3JWYUZpNGFBQl81MGJZOEtfQjVXRFEwbU5IVjhyMVo0UEFvdmxMOE9DaV90alluQ0VkMVFWMjdwdERVTGtybC16bnZwVVVsY3ZON2U5ZklvSDhoOFJoZWNrQ0VYMk81eDZFSDdpY3hkMV96b2JWdl9YRVRqUGxUeTN1RG8?oc=5"
-        },
-        {
-          "label": "ACHR Stock Analysis - StocksToTrade",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkMGU1OXUtOFc3bEdmY0JkV0dMSkdpTDZyQUc4b1l0bWVOSGNFV21ZYnlYZ1c3UXZGNmRrV29GdVBfNjNBcE5YQXFuQ2dGR2pSOTNDRE1ScVcwR190aURIUTRJRDZJaXZ4QnRxQU9rMVNPTlY5dWJCNW5qVi0?oc=5"
-        },
-        {
-          "label": "Archer Aviation media feature - wallpaper.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaHE4UjhrWFJNNEpaWUFvTG9KTS00N0lhN2NZalZiOXhEczdST29acHlUdHJxRnFqZU83U2N5SmNrcUZxcW1DMDJWWW1Gd1QzNlRrTlFyR1FERmduVklNQTZhRFNiNVc5LWJyQzk3UVdMWWFiNjNRREVWYWt4T3NYeXZuVVJZWWlWWVk4OXg5a1J2WEhD?oc=5"
-        },
-        {
-          "label": "Archer Aviation Valuation Analysis",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbXpoOEZ4VzdKVWJQOG5CMWU3Ym1FVHcwaFpvOWltTlI1YWdST0tlOWJlTU5XSUp1eEUxVGNkblFnRzlTWkhTZE11ZVFSU3A3eFl5S2NJVHUyS2dSMFQ4NXVNQk51YmR1VE5EWDItVHlYbFVnUzRFRG9IUmRTR0Y2UXl2VEJaSHNEZXYwU09JRUdSNzg3Q2lYdy1MNTZXV3VmeGo4NWpfQWp0SkxsYjlrZUJQTnU2d0dWN29KbVpxcnVPeVR4dERMUS1CdlhsWllZcDZz0gHYAUFVX3lxTE5NbWc1Z214eTlVMVpmNXI5ZlR5d3ZJTC05TDNQbzN0aDhKTGNHT2RLQnRrQktwVEhPMEl6YzJDd1dYUFR6RklFRGczT1V6TC1uamd2aEhFSEpwVGQ0VHczRGNQRkkyd3hYWjdjazRsU3RweDdtUWJCMXR1X0pNUDdFYVh1WUdmZi1LY3M4cmNScDdGWFBFRHN2V2M5djdmTW9nQUUwcks4S0JDM0VWVmwyUENaeTBaMy04RXVvblVxYi1LcFZ1SjNLcXh1ZjFwb1cxVDBRclB5bQ?oc=5"
-        },
-        {
-          "label": "Archer Aviation ACES Charging Network Launch",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWsxakk3d3VDQlhLV2dHbTJScExRRGJCTUFOYlRHaWJHVW5uU2NMeWRhcjBWTUc1TjNLZzBIaWlSajYxR1dlcHdsTEdXQXI5SXdqWEZDSWItc2I4bDRCQ3ZjVlgtNW1zc3B1cWVRc0FOOEFCOVhzRVFOTkhNWW1GekhfVnJPNElFNnpscDRfVHl1X3QxVkoyNXhEZmFrd3FGSHRKcE5LbjRVR1FOSjlxWXdVQTRvUlNLbEFLVno0Qzd2R1dRSERKUWRnRHFuZ0Y4NUVz0gHYAUFVX3lxTE9YZFdSQ3pnYWNFNVNkRjBiSnd1bG5GU09iZlpqczhBdmNqVkdzZGtZeEd1ZjBBQzFRS0kzZFFlNHV2UkQ5aGU4bm81c2p2dUluemplQ2FlMVNKVjRfY3hSbkpyYXJ1OUtkLTFYTGtEeFZoNDFHWlpjTG1BWUpqckp2S29kek1CZkc5V3VhWENEeUhEaWxQTXl5SGFKcjVCbE1sSkFpaUpyWFVQcDktMkVHUU1ZTFllbDlRU0IwR09jMDhnMnVjQ0oydXlqTWFNc2MxdjhBLVZxSQ?oc=5"
-        },
-        {
-          "label": "SimplyWall.st Valuation Analysis",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTk5iWG5qbVJzeEhyMVBBY0ZWbHpzMW9vcVBleXFoUUpnS2JNcGg5cWZCbFlmekd2a3hhM0dzSnZRYzZGb01YZ0xmcHlvSXZFYVFVUUVCa2hFX3NVb2F3UXEtcGQwYndoc3VTZjZaMnpkdzFQdWZjUWFiQV9nMkN4Q1Q2amNYcUpLZE5YWFVrMDNhOGdFcFBZWThfbU1lYnBfZ0ZENG1mUnlhWEFXbDRZZ0RnM1ZPUW8xNEI3b1hvcVJoM0tpd281RDN5dUZPaFVfaUlJ0gHYAUFVX3lxTE9iQjBwSkpTU1NjYWJlNkl3RGNNYzVjVkNIMVdncGxhRTJRcTJjbUh5SWZ4T3ZkYTlyR2xHSzIyc19iWGtYVE9NUFllQzRhTS16SE16V3NpNUtmMmxzTGlkVVN4b2NfblBlZlg3Y2tUMmVETUFuOGM1ckVLRFFOWnZ2eTUtU1dfRDdlWHpsaFBrVmFpSW5TSWhqSmRKcWJrS0xGT2FpYkpPSGtEaGJESy1YeGpoX1NlVEVVR0R5Wk51b0s1dk9Jbk1uSkpiZ3c5VEt5MnFpUk1JVQ"
-        },
-        {
-          "label": "Archer Aviation: Taking Off With Anduril",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOS1ZVExXa2hkYU04R1RLRzhIX2RZQWRwNmZsdy1QekxtOWx4ak1hOXVVUUVlR19uWVMxUWVCLW9Jdmw4MzBiOTlCaHd6Wm1JdHdTVS1UaklKVmpRTXgwSWEzTnNzU0xVdzBwd3pSNW8yak8wbHk5eDFpMzZQRnpQS3Nua1Jtc3BOMkhTZm84VQ?oc=5"
-        },
-        {
-          "label": "Archer Aviation Stock Analysis - Defense & FAA Progress",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjlCZzI0Z1Z5eTI2ZnNnVDFvMEIwNzFRM2lIZ0RSa1ZqakowU2pQanhpbGJNb2lfTmtKNm4zOHNrTnI0MUJ3eWFrbF9kN0hGSVFldkNZazFTQ2J0eVdFeGFTUXlwcFlJS1Z1YVJxanBSa2Y3UHRhdGNiV3hRYjNra0N2U21IWjlMWkdKaDdaSG05bHk5dnItcWNQOE04ZkhUeDNRNkp4NTA4Z2NuaGM3cmFTUDM?oc=5"
-        },
-        {
-          "label": "Archer Aviation Midnight Completes California Pilot",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWG0tc0dLZEhPbnZOdGhvRXg0Z0JPU0J5cDBpaTdUcXdBR1lIMXFhamdiR0U2QnZVRDJQVjZsX3JvSVFRVGxGZGlRbmU2WXJtNG1Cd2FKUW5kaUxqcUNtajhwa2tRUzRUWnltemVTUmJIZGQxLTZXVFAtUTgzTGNDY3pfWXNIWjB6cDF6eXpKekZtLVZHUzNUaEFJMA?oc=5"
-        },
-        {
-          "label": "Archer Aviation valuation analysis - Simply Wall St",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR2RmZ0U1eWdybEZmd01LZHNYcVJZZlFIQV9lWmlRYXg2VDkxblRNYWFacnZLa1pSeWp1OFJDQ0lKeDZKSEY1dkxrS2pNaDdkUS04V1RabHB3ZDdPYXBKbGY1QlNFRXVnbzlEWUpveVdvMGNvZW9oVFcwLUtQNkdHYjV5V1RlSjF2cDByUHJKN3RlR3JNNUtpdm0zM3JLU2FrRWZ0MUh5eldqQV85b0lYOHN5M3VPQ3N2VU1mVFU0cHFaQ1UwUzU5dVR2YWJvenNGZEMw0gHYAUFVX3lxTFBxMDNxUGtnS3NpdTBLWXNrZldzaEF4LUd3bGR5OFByQ25ETXktNVBpcUxqVzk4bUIwOW5BaTNpOWY1eWhYVzlLSV9OVVFrZFhZN1RyTHRBVTdLMTJPNDhfRGdFN2ItZ1RUeVA3aVpFd1VPS0l3b3VLUVNBcGN2MXQ5R0YwTGx0a3ZKbE1jdk1MOHg4Nk0wZGxVWjltT3pWWjJ4Y1M3VXROeVcxSVlQVlI1RExicUh6T3d5WVU1MjRCQlZxNGlRQWZYUjlrV3J6bVdObTJCTXB5cA?oc=5"
-        },
-        {
-          "label": "Joby acquires Resonant Sciences",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSkpkOThzRFFYZmY2TENneEY5RVpiRklHMHlCb3NUa0hNVW41bW1ZMUFfSGZ2dzJXeC1xZUhiMF8xbDIxQTlnVmRuZHh1eVZOd013ejBPeFlSaG1BLUlZYkl2eENuUmJoam5TRHNIRDBabEN5VDdzajJDUnBjUFFaUUQybk1mNi1Lak82TkRuVlk5d1lxTTlZZEF3?oc=5"
-        },
-        {
-          "label": "Archer Aviation Boeing Acquisition - Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTm5FdW5aNFJyUDV0YWZNMkxuQTdIcTlheTNLSnFHTHd3NWk3aW9FTldMcmxkS2FKT0tzZEpabGpRMWw3dXZ2alg4M3hkd1BwYzhueko4el9xS3JlRlliVUNEVzlZR0tOQmJqYjVmakZUSGhycnQ2ODBaWDRCOUYzR3pYOWJ2SnR3SFZvT19FVm1kLUVHZDdSOA?oc=5"
-        },
-        {
-          "label": "Archer Aviation acquires Boeing's drone and air-taxi units",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZlVOOGw0a3IwbWZYUHlLZVZEb0c2QlZHcGhUTklWazBSU0MydmxicFU1Y2h6ZjZhTEJMOWdVclJwb3VZSHFUVUIyOG9aTEZwbTBLTFdxVFViSjRoOFRTOVozZENlTzlkX1ZDZmFoVFRfdC1qbmxZUlBxTUpxZFN6c2hobGRheUZsa1QzcUF3?oc=5"
-        },
-        {
-          "label": "Archer Aviation expands business strategy (Yahoo Finance)",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzNodnRNcXNxaFpROC1wbkx5UWd2UXBRRlF1YUNLZGRlNUlnS2diWmRuTXFXbnpvTXUzeEtreHdKUDdEUzlMR0xDTWk1LUFKbnhrNHFwbXpPZFVGTWJhMXhRNjBPMnFtYnF6VWF3b2FjVkFHdkZGNmQ2el9wUHRfZXhOWW4?oc=5"
-        },
-        {
-          "label": "ACHR Stock Jumps As Archer Aviation Strikes Major Boeing Deal",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92SWtNOC1QQjdfa2lIRHVrSURpZ18yV1BBWVp6b2lWUGFsYnpSVS1aS3BwV29KNzlHY1V2aGtTUUVxUFpSLWE0b0g3aFNfRmo3cWhqdUpxNkNHTTM0ckxNME1uYzNCUnJJcGlYZGhCT2lzNzlSRHlwX3BJYzI?oc=5"
-        },
-        {
-          "label": "Motley Fool: Archer Aviation and Boeing Deal Analysis",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSTRGLWtWVjlEckx4OElBcHBlZThtRlRYeFYxclU0ZGhqb1FUX3B0UnFHaTVmRFhKRGRLTGVuU3FlaTZPTnBJcGFlLVVrREFKejNSOENPa1ZNc1dBRk1fZkZzc1hRZGYxZmd5Y1p1Tm1zNWdCOFlTUVVwbW5INXVlUUFwNjRkVG50SzB1VkdlSHk1RWdsdHVONw?oc=5"
-        },
-        {
-          "label": "Boeing cedes autonomous flight units to Archer Aviation",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcWQ5S1NSVUIxTjhvQWdEbGoya1h5VUQ0VkU1cGpPdTYxN190eTM4Q0IwWmpiZUJnWS1kdlJhWG8yMWIyOHN5di04RHdnbU5ocExVNFlEWWZNVDNKVmY1OEp3YnhzeVkyLTIwQm5PcUd3dms2TlV4bU9CYThlV1BFNGszeEV5UGVSOVZUZk5lSEZMOE1D?oc=5"
-        },
-        {
-          "label": "Archer Aviation and Boeing Deal Analysis",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NbldjRmQxcDNXM04xOFExZWFENkVUZHVEQWxaUi1EdlJZMGFIcm9Gdmtwcm14eThiaElUYVB5Qk1weGFfUzJVNUxOZUdKVWF6bWxqbVlqV0ZvcVI5Vi0wVjVHSjRHMnZQWVNUaTZZcXBXVGtM?oc=5"
-        },
-        {
-          "label": "Why Boeing Handed Its Entire Autonomous Flight Future To Archer Aviation",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JanZKdmpBRXA1alA5TTZOT0tURGxlbFRKUG9BUkY5OHhTT2NObWgxZW04cTVOT3pRWWlpcHpoZEpEcnZlMjlVYnhXbTlqZ0plOUIyMG1FQXlzSkxN?oc=5"
-        },
-        {
-          "label": "Archer Aviation L.A. LIVE Vertiport Strategy",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemtqYWhxWVlaR3E2Vzl0cXdEMXRtbWNncTQ1cTU0SzZ4bzRkMkNLLW5ETkx1eWljRVdha2p0YnJPd2UwZHhHS3V4eWJOYm4wcmpsVWxtTHFleC1UTXd0UDV2Skk5ekxabnFiQlhVanVsX1dVZjFuNnZVU0pEbXZvNENFemRWZmJMbngzRWY4TlREX1RpTlFXYnN0aC10eDh0VGFlX1VTU2JBOVpGTmkxUHRNc0dZZDAzVW5BYzdDTHFqTGJxRE5xOWJjV0RpdVdBMndn0gHYAUFVX3lxTE8wOTRuVVRsYkVPOFowQjF4RHY3QmNzVzlmV0NYMkttbXZ4dmM3ZFVHemNFbU9NaVZoTG1vdW5EWDRuNktTR21SYUNKQlZwZ1FXNVRRMkN1SGktQks2NHcyTnJNYlZsYXNzdEF4TFBTNzRvSXpVOEQyNE84UzdrTExjcjl5TVdTVDVVaVpJTENZMWJOUVdNVUtuVFA4UHVuSFU1T3NTNkFUWURfVUpRYmRQaHFyWEEtd0lBLUg2THc3tFFubnByS29IQWZvQWhSdjJaX1VSVHlwTA?oc=5"
-        },
-        {
-          "label": "Seeking Alpha: Boeing Deal Impact on Archer Aviation",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONDFxWHF6RDlrOTJIZnRKbUhyT3dPRWZvYkVhZGxnTXl2VUctdnMxbTVFNGdtZEUyenB0Ny1zWk55QzVmaEhQU2REczVyYVJyaWQtbGVlR055Yk9NajVrRmotZ3JvbEZuMnNHMEJ5Slp6ZHV0YjNULXh1ZzM5SEx2X201WHZITEhLVjJkODFfQWpIbFRTRDQ5TVVRanJxSkNqVkE?oc=5"
-        },
-        {
-          "label": "Archer Aviation Hawthorne Airport Management",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZFRXdGhaZWVVRmxpZkM3b0hkLXZOM29USnhXclhOWDdPUDBPcXRJcTJrWjZrTHllQXRaY243OVhOUnVuNXdfMVZ5bUZ2Uk1sU0tfdW0wSXg1eVVMZXZvek5uWUxxR2s1bncwU04xZ29xajV3ME9EN0hvTWFDeTk4ZUtIU1ZQV0FLdjN3cHBWekpUSUswblp5bXc0RUN4WTdHcVJEcw?oc=5"
-        },
-        {
-          "label": "Archer Aviation Hawthorne Airport Management",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd0lMQkk3LXJrc2V3V1dyTUpjZWRvcHNQZzZxX3pkcGVQWE1HeEdPMm1vc1dnUzdUR1JqRXB5X3Ntbklqc2Y5T0Q2OUR0eTVJeUEtYWdJaE1nTFo3Rm90RnVTYmZscmNCZTBJaWktQ1pWZDdiM0p1eFVrWm5ucm54WlRlNXI0RHNsaUN1NkRDQk5ITVFVVFBucw?oc=5"
-        },
-        {
-          "label": "Archer Aviation L.A. LIVE Vertiport Deal Analysis",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYXR4TTNYbW1HM1VaNGp2X0hVT1REQnIwb0RYaUdoWG5vTko0WUJoVjlIeTNfWHFuaWJIQWFQNThUQXhPT2JQZ3lNY0p2YnoxV1JKSFkwZHJ0OVFqdzhnekZZd004ekg2OWk4MEhHUENyVjNDOGZCdmtnQ3gzQ3Q4UGRRX1JTYjVFcW9TdndlemE4WmsxdG5pNU1TZ1l2MlAtcEo5SjU3WDdQTEVfNzljSmszZG0wSFloTGpKSU1pRFF4QU9xVEUyMEQ0UTRILVRSZ0E40gHYAUFVX3lxTE15bkE5TEhGNW92eHFkQURHZDFGeWhkRmZhWERKQnBwX3I5T3FkQkxGN19ob28xcUptTGNzRnp2d3FKTElOZlZvSlRXQ25TcVBVQTNPNFBmRlpCSkVZeHRRbU1XNnlQckplenVvcGVJX28zUmJKR29TQ3JnWkQyYkw5Y0ZrcTBSN0lJczF2SmdvZlBESkxsNWlkd093Z3BhLVl2c0xET3J4OGlZU0VUeV9jS1VyRXVpaHIwdThUMkY5S2xmRjZacFJXNHU1S1Jjc29id2lMMG44Sg?oc=5"
-        },
-        {
-          "label": "Archer Aviation Expands Growth Ambitions",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQekkwZERWN1FXNGNLd3FZZ2lNUzRfeldDYlVndTlOTTNoRUJaMDFYQzZVTDJ3a2JGZXJheDVvYmd5ZFgwekcxeDJxXzBGVGREVlQtSUI1bVM5M01rVWoya0JLOEFOc3U5OG9mM0FMU0o1SVR4bWVzN1I5Yk16ZVIwbHJGNUdjb1g4X3FiRklCUzlCWk9JRkVxdG5TejdZc2Jv?oc=5"
-        },
-        {
-          "label": "Archer Aviation eVTOL Tour & L.A. Vertiport Plan",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWTNvMFd6SlM2UW84amJqbnNVRDRhTHIxTmcxeHlEdFdwSzVjM1hlLWdaZTAxREhNMm4tQ3lINEhIRzhhUTczTVYwSnJrenpmdjdGX3RDbWtrNmFDLUhJaTR3Tk5IdGRyNm9nQUlRNHBCa2dzYV9WeXNLUll4Zk9vbXNqWVdoN1NVWnBiSjNmUjdudzQ5Rk00bGRvbWxuM3p0dEhWZVExNmZwVGxSWkxZSkJMNVFIbzBnQ3AyWjdDeDA5bWVPTHQ3Y3oybDJaUDJBT3fSAdcBQVVfeXFMTzN1Ykg4cDFISXN1a0dRWEhLYVlMRzQ3MEliek1xdVNEb0IzeE03RWoyOGJKeU5fRzBZUUZ3c2QxSFZnZnRMRm10ekFkdExvdzlheS1uQ0ZGd2xfZ2l5eVRhcUh4bWRORzlWSDlEcXBFZ0RpWWtJcUk4eUVFRElubVR1U1JBTzl3NHNXT3hFMzJ6bWRQUHZPNDZSa2t5UnhqQ3dsTG9sQXZDaGdjSk5aeEVmQzBYLWRCU3NYandFejJqLWRaTzBEV1JoeWQ2WjY3c1cySnhIclE"
-        },
-        {
-          "label": "Archer Aviation multi-state air taxi tour",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oRk55SnI1RFYwYXBMMS1Wb3FDVEoxYTlEaWZvQUxqM2lRSlZoQ2c4VnpGWGRlc1ljampJSE16NHZ6LW8tbTlXX0FndF9sTWpzVzdWM0tDODBBWHRyUm9TUWQzOFdya0RnQzBmbVA0d2JRUDNhRVd4VXZZX3BTS0U?oc=5"
-        },
-        {
-          "label": "ARK buys Archer Aviation stock",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSzZMWjlUWHo4cmEyZnR2ZGhZQzZoc2NXNkNMcmZ3NzJMX2RCSFNlSDFjR1p4bnJCSjNXcmhnMDRCalltUmV4V0NWQ0lNNHZhS04yUTVENVNWa05QZ1Nyc3FJTXVreUtUbm10VVAxSXdUWXA1WHRfaEhaZzNmRmpLdUg5UkhfV0lfN25LOWhzWGIzVGlRc1BxQWRyLVppUmo5WXRLbGFSUDdGSjMzdlpv?oc=5"
-        },
-        {
-          "label": "Archer Aviation Stock & No Roads Flight Tour",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMDhTT2pXdEJrckczQ2NDU3lVMVhNbVl3WXU3RU9yZnY5dnY4QmhmekFLaUg2RmpiR1liakhwUVdUdEVXcEFuYUphVmZMQXE4VWl6WEJHNDBxaS1jY3o1NlRWQUtvaFZyY25HNnJacnpJVGRma2xCdFllX2ZtdHRmNlF0WUlqMzRfalpwUXBkTmJ3ZF95QXM3d21VSHdPRDFYMzhEZ2gwS2dkYjZuZWtuM25hVEJHM05wZWRMUS1TTVBEcWNOU0VvLVdXV3dYNExGV0530gHYAUFVX3lxTE9mS3dCZ3JaNEE5TWRuX0M2cm14eHF1TEZfaGJPVHc2RERfSm1fa3RTMlc4Nm43VTkxcUFtckdqT3FFcUV3X1Q3dkhJUG5hbkRnRmE5RExZU2tQVUh5OGhOTzZoYm1RT0xaUWIyN05Vc3ZjdXFrR3lnWkZRdE1vNEtaNDI4M1lUVlBiMTlIUXJUSE14NExGTEc5SjJGZ29UdXhIUUhjTDlpTmtlRFZydEVOYWJ0cTd6TUJYMlRQcU80NzA0TlJWd2FnTi1sdGYtVTk2bXUxYVJqdw?oc=5"
-        },
-        {
-          "label": "Archer Aviation Acquires Boeing's Drone and Air-Taxi Units",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWt4clZqM3FBNjRHSnoxc3lXLWptcUk4dDB2WnFlRGlRbHBxWDlnaFNZaXBISXRYanFWZzJLaUtuQnIwem5MTXJZTzVtQmNiSHRZcW54UFJZQTZBaU5aVDJCQlhjbWlvb282MVVNNHJBT3FFeXRTUnhlenZneTVXSHdZNW1ZQ1NEdUZZb1JuWQ?oc=5"
-        },
-        {
-          "label": "Seeking Alpha: Archer Commercialization Analysis",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbXFFYkhlYS1GdnRrUnlFZXJsd29oalpzRHk1ZVctNG50QXFBdEctUEhaZzdWVTBiTlp4YXBIMndzOHY4YTZINGNKWFpCMGRkR0VSdUtnNHdoWXNCTzlYWTdlQmdxVHIyMXFIamNrLVVDNlA4RjVlbExIYjk2Q1RZZEIwc3U3clRVUFk0T2JSU1V3YkJOMGVnZm9UdGZXVldaZFB1dmpuSjNWWGE3TnlEWDdXb2t6ZVk?oc=5"
-        },
-        {
-          "label": "Archer Aviation Stock Analysis (Yahoo Finance)",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHVHR0hJRHlnUzJEUVVWR2hBSEJ3Q2xWR0Jkc2xBa3RvYzRDZG5iVHhjRkN3b2lfb19WNzU1NHdzaC11QXZiVEh2SkxKQWpZRnZYY0h5NUtVSlRYWlc2RzFrb0FhdzF1b0dSQ1F3Sm05bWw4UTA2TjlYWDZ3czhLdFZhTTl3TUQ5NGlRMERuOGNNbjE3RXJpLXpTUm5fQQ?oc=5"
-        },
-        {
-          "label": "Reuters: Joby trade-secret case trimmed",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb2lyOFBmY01VNUJrcWpYdFhwNzlxWW1pRVlueWR4aWhvR2F3Z1RxdWRfSjZGbXp5NGFBNGtPX3lMbjYzZ3lya2ppMVlOTEFZbk1qeDNabE8zUjhBRFpDbFpwVjJSbU5KcUc0Y01PbGcxelZ5c1JlQjhuT1h0dDhTVWdXckJ6eWJ3NWVmSWRUMmxQMDEtNjVmZURRTE9CenNyWEkxN2gwVlJ3X0ZMOXNZ?oc=5"
-        },
-        {
-          "label": "Patent Counterclaim News",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZFg0X1hDbGYyNVRDRHAtQ29IT1VzR2pobVd5bGVOdVgtSEgzUk1uRGhpVmpRWGMtR3NZOEVUMTRXTUI1cl9TdGJ6b0Y3eThKSlRWSklNZTZaSzZ2T0FLNUVST1cza1VxMmlLel95VndXOUFFMG5vMTBVQ3VVekhyY1VsVUIzZVI5QUQ3MVpLc1BIcTFTeUxEWnRLMW9zQUEwbHpvNFd0YVVZd3p1WVFNbVpEZlNkR2NFdjFRU2t0RnJwWGJSWnlnNXUwNGNxcWthakdTd2kwTkZnYjhRUm1LTUFXc0xsbXNBYl9USQ?oc=5"
-        },
-        {
-          "label": "Barclays Military-Focused Coverage Analysis",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU1FucWRzWXpWcjZTNmdJTnFLR1ZBRXQtR0x3ZGRVbUl6clpwQkhHNWluTWRGT3l4aTRjSUo5b0xfWkJfejJlMW5LSkxDZXN3SXFDYk1MeU0tSGRiSG5fOWhONkVqYVN1ZU9qTGFYUVN3cmZRQ0pGVTRCckxXVWR1VXJkY3NuYk5fc3o1SnY4aUp1ZkEyZ3R1MVZBc2RZVHdQTGV2dGRPQQ?oc=5"
-        },
-        {
-          "label": "Battery Fire at Archer's San Jose Lab - AIN",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSHpiUlVYNjE0eTFxVkFMc05pLXhSaEsxejExdGR4VjhxSHdSTGgtRXUxOGRyNy0wSE9sZzQwcVFBcHJSVnJZbDlkYVVrMTJxZVQtaTZEWXpRdHZIMWVZM3dJa2hweWVIQ0RiRmhKZ1ZRNzAxYkV5c0pCUm5neXMyTmVQclFxVElGZzVGY0huSjA4WmlzSnkyaXFaQlhJeUFsT0pEeGo4UzViWk80WnFRNVk1dnAwUQ?oc=5"
+          "label": "LAE New Jersey survey",
+          "url": "https://lowaltitudeeconomy.aero/en/new-jersey"
         }
       ]
     },
     {
       "id": 2,
       "sponsor": "Texas Department of Transportation",
-      "region": "Texas · Dallas–Austin–San Antonio–Houston",
+      "region": "Texas Triangle · FAA map: Texas, Louisiana, Oklahoma",
       "states": [
-        "TX"
+        "TX",
+        "LA",
+        "OK"
       ],
       "partners": [
         {
@@ -816,7 +121,7 @@
           "domain": "archer.com"
         },
         {
-          "name": "Beta Technologies",
+          "name": "BETA Technologies",
           "domain": "beta.team"
         },
         {
@@ -828,89 +133,45 @@
           "domain": "wisk.aero"
         }
       ],
-      "focus": "Passenger + Autonomous",
-      "keyOp": "Regional air taxi network connecting Dallas, Austin, San Antonio, and Houston",
-      "otaStatus": "Active",
-      "milestone": "NC medical transport ops; rural healthcare; DFW hub; TX flight ops",
-      "opsTarget": "Summer 2026",
+      "focus": "Passenger + Medical and Cargo Logistics",
+      "keyOp": "Project Nexus: phased testing from conventional aircraft to medical and cargo logistics to passenger air taxi flights across the Texas Triangle",
+      "otaStatus": "Flying · OTA date not published",
+      "milestone": "Project Nexus phase one launched at Fort Worth Alliance Airport on September 10, 2026, with helicopters and fixed-wing aircraft and no passengers (TxDOT).",
+      "opsTarget": "Passenger air taxi flights in the final phase, over the next three years (TxDOT)",
       "category": "passenger",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest OEM concentration of any single-state project. Wisk pursuing 'autonomy-first' crawl-walk-run strategy: focused ops in dedicated areas → dedicated routes → full Gen 6 high-frequency operations. Wisk CEO Vigneron: 'We are validating the entire digital and physical ecosystem required to support autonomous flight.' Wisk Gen 6 completed first flight December 2025. Archer targeting H2 2026 ops. Short sellers Grizzly Research and Culper Research question Archer certification before 2028. Loganair and BETA Technologies conducting series of demonstration electric mail delivery flights, showing operational progress in electric aircraft deployment. BETA Technologies conducted inaugural electric flight with Loganair in Scotland, validating operational procedures and aircraft performance in real-world conditions. Loganair and BETA Technologies conducting series of demonstration mail delivery electric flights, advancing operational integration of electric aircraft. Loganair conducted first electric flight in Scotland with BETA Technologies, demonstrating operational progress in eVTOL certification and deployment. BETA Technologies conducting series of demonstration mail delivery electric flights with Loganair, advancing operational progress toward eIPP objectives. Multi-year partnership launched with Champlain College for educational and operational collaboration. BETA Technologies partnership with Champlain College aims to develop talent pipeline for eVTOL operations and manufacturing workforce. CEO commentary on U.S. aerospace leadership reestablishment aligns with project objectives for advanced aviation workforce development. BETA Technologies reports progress on electric aircraft certification for eVTOL operations. Forbes coverage highlights BETA Technologies' electric aircraft development advancement relevant to eIPP initiatives. Beta Technologies and Signature Aviation concluded AAM demonstration in Florida, supporting operational validation and certification activities. High-profile test flights completed; major FAA eVTOL pilot role assignment. BETA Technologies opened facilities to local and national media, demonstrating operational progress and public engagement. Beta Technologies identified as leading competitor in eVTOL market with strong progress trajectory. Beta Technologies expanding Vermont campus to 100 acres to support increased production and testing operations for electric aircraft development. BETA Technologies and Surf Air Mobility launched landmark electric aviation demonstration program in Hawaiʻi with Hawaiian Airlines support for evaluation activities. Loganair commercial order for five BETA Technologies electric aircraft announced, validating eVTOL platform market readiness. Alia CX300 electric CTOL aircraft demonstrated at Farnborough Airshow 2026. EXIM Bank expanded financing agreement announced for up to $1 billion to support U.S. aerospace manufacturing growth and accelerate certification timeline. Joby Aviation established operational hub at Perot Field Fort Worth Alliance Airport, advancing eVTOL deployment infrastructure in Texas. Joby Aviation established new operational base at Perot Field in Dallas for air taxi operations. Joby Aviation established operational hub at Perot Field Fort Worth Alliance Airport, supporting eIPP deployment and operational readiness in Texas. Joby Aviation conducting week-long flight operations across North Texas region, advancing demonstration and operational readiness. Beta Technologies launched North Carolina eIPP operations focused on rural healthcare access delivery as scalable model expansion. BETA Technologies launching North Carolina eVTOL integration pilot program in partnership with NC DOT. Metro Aviation operating Beta Alia for medical runs in North Carolina under eIPP program with NC DOT sponsorship. Beta Technologies expanding operations in North Carolina, supporting regional deployment objectives. Article discusses Joby's operational activities in Texas and revenue timeline. Joby actively flying in Texas region as of reporting date. Joby conducting operational flights in Texas; revenue projections being developed for commercial service launch. Marshall University and BETA Technologies showcased electric aircraft at Yeager Airport, demonstrating eVTOL technology and community engagement in West Virginia region. BETA Technologies opened new aircraft branding facility in Plattsburgh, NY, indicating manufacturing expansion and operational progress. Marshall University partnership with BETA Technologies for electric aviation training program launching 2026; supports workforce development for eVTOL operations. Beta Technologies expanding operations in South Burlington with infrastructure development ('Betaville' facility), supporting regional eVTOL ecosystem growth.",
+      "notes": "TxDOT calls the project Project Nexus. Phase one, launched September 10, 2026, flies traditional aircraft such as helicopters and fixed-wing planes with no passengers. Later phases test medical and cargo logistics between rural facilities and medical centers in Austin and San Antonio, and the final phase carries passengers. Joby flew its own eVTOL demonstration campaign from its Fort Worth base the same week, and BETA says its first Texas flight under the program was an ALIA CTOL demonstration with Metro Aviation and Washington County EMS in Brenham in September 2026. No dollar amount appears in any TxDOT or FAA source. Wisk is subject to Archer's pending acquisition of Boeing's Wisk, Insitu and SkyGrid subsidiaries, announced August 10, 2026.",
       "links": [
         {
-          "label": "DOT Announcement",
-          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+          "label": "TxDOT: Project Nexus launch, September 10, 2026",
+          "url": "https://www.txdot.gov/about/newsroom/statewide/air-taxi-testing-taking-flight-in-texas.html"
         },
         {
-          "label": "Archer Press Release",
-          "url": "https://news.archer.com/archers-us-air-taxi-operations-take-major-step-forward-as-florida-new-york-and-texas-selected-for-white-house-pilot-program"
+          "label": "FAA announcement, March 9, 2026",
+          "url": "https://www.faa.gov/newsroom/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil-eight"
         },
         {
-          "label": "Beta Technologies partners with Champlain College",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEFnOXBNSW5qQkF4alJJbWx4MWtCMnNWVnFGVmgxSk91VlFURzlNRnBtN05IdjRvdWNrU1NMbnl5MnFETEExZzExc2pUb0wxT0dWenJ5YnlmODV1V0g1aUJPOGJpeG5HQmd5QzF5T3J6akdlSnhjYk9JVW5obUZob2xKOE44UmYzNkFSS0hoWWhqYVpqRUFSUTNUV3IzcXRLYTg1bDBsSdIBuwFBVV95cUxOdnpCc2haNHlPckgyZGRhNDd0NjJDTzh6bTBHOGZpYjlsVW5NMUt5NC1FbXFNU3ZlQzN0RGZLWDNTV0pmc3pyVXRhaGlHT1NYRk55amxQME5UU19QOTVYaEdjTExDQ3NGeDhoSmJyeVAwQ2Z2VFNmVmtkQTFiTnljVl9uMnh2dUxkVHdTaUxMTHR2YXpiMll3UUkzMmhPZFp4SGphdnRDMzQwWUVEQVZ5bU5VX1FXQ3NLNnlr?oc=5"
+          "label": "FAA eIPP page and map",
+          "url": "https://www.faa.gov/aam/eipp"
         },
         {
-          "label": "BETA Technologies certification progress - WCAX",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQVBac1pPczBpYVpERlVkOVBFVHhCaXlHU3dVOWJlZmZ5ZTVXV2UtcHNzNzB2X0d0aWZZVjhjSWRlN2VfM1c0MEFlSjF1RUxfd1VKVmlJMHZHWjQtdlB4dFMzNVNGS05HUEs4aWFpbG5zU3lxWU1QVjZXSkNlTlN5NmQtUTlGRUd0V3dLdy1ncEFsUl82UnNoVXdwVGw3NVlR?oc=5"
-        },
-        {
-          "label": "Forbes: Reinventing Flight - BETA Technologies",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDJlQVgwMFBMUFpQSFJ5LTZheGxwNHY2UEZuYzR3SnpFcDI1RU1GT3NfMTZPNHRnd3dwMGd3SmVaZi1mZDRwOFZ3c3B6RnkzWFZVX0RaanJZRXJIR0RoOHhNVmpsR3VKVXo0R2Q3Ri01bHU3MFdIS2Fqc1ZSUGR6aVphQnJtWmdrSS16VWt0UkpNdFNWUXpkZFBHNWJDU0lHZzF4Rmk1QS15ZkdOZTlOTDNJSW5XQQ?oc=5"
-        },
-        {
-          "label": "BETA Technologies media facility tour",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81ZFF3TGk4aVlRaW55OVRqd3lVcVdrNGlFdy1vd2RaRjlleE5iZ0wxSkN1SEdOMHNzLVVsWnYtcmVFbThPMmZWbFViU0ZVVERQSXgtcGYyR29IYkZadUlBSzg4elRLZ294RnJFbDZBVkxIc3A1X1FtS081ZTVzQQ?oc=5"
-        },
-        {
-          "label": "A Bit of Moxie Helps to Push Beta Technologies to the Lead in Flying Cars",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVlySy1NaHczQm44dl91SG8zMjYtNi1mSG0xZXhqRkIyTlNEa0xTLTJrRnBKV0h2d21EMW9yS1loaHd6R0hOUlV6cnM3T29nNHRHai1LUDVsSEJUM3VmUjVTY2tISGlUSmNhbTNTanZ0ekJhSmJwRTREMHJYbnVYeFdxUjczb1Itb3E5WUc0SGtsY1JjU3BrSjRYeEp0OHJEd2VHUHdpOXYzZkk?oc=5"
-        },
-        {
-          "label": "Beta Technologies campus expansion announcement",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3FwNVNESUdXVnhsTTJ1ZHYyekxKdkhmODE5d09tNDdXZHg5SlR0R05icThtQXQ1aEQwRllNOElkakVvMWY4blVlaWJTTW1ub25BdW9XYnZDb29Nbm5UX1lvSW5VWDZPTWFrT2RZU1lFdG1zbUNRR0RSZEN1TlFNdXFjZUVPUEJiS3NMZEM1cw?oc=5"
-        },
-        {
-          "label": "Joby eVTOL Begins Week of Flights across North Texas",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlVmWWpqZERva1AxNTdicXFsQ1NpRjhHcVkwTE5DVWJTVUFLVDlfN3hhV0FzMXpYNDZIUENtOVNoMEY0ejd1bjRYYnF4QVgzUUJZOEZFdTlLcFAyaU1vbXFWVHBhbUNRN256cUdBNlJRYko1eWRucGRnWUVDa2JxQ3NhdFFJRzBNbGx1dk1HbEc5MTZTajFaZTFsb211cGhjNWZIaFFFUy0wdWxjTjNyN3MzSQ?oc=5"
-        },
-        {
-          "label": "Beta Launches NC eIPP Operations",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnhDWm9BOWNOeFpqYWJTQ3VKOVFqb0t0NFRPVlVzUVdHMUFURWRXS3lpX3pjTUJBSmtsMTE5WEsydDBINHAxRHpEaXlMalJOM3JOdHhzajM4bFlidEVNcUZzQXBFNEhlUXpia2NiUmpFUndMS09lbVJFMHpyNWNkdDdDWjVDTWpHNV9xY2lIRlFlME81MHlqcWdhRTJWNW9tRkNUd21oTUdCdUlicmdxbVBlOXlwb2FfZk83RQ?oc=5"
-        },
-        {
-          "label": "BETA North Carolina eVTOL Pilot Launch",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVB6WEJiTWZqMG0xSWZ4UFRMYVlIOS1TLU5NdWp0cmkxV0JLclZXeExGY1NiYXJDUkN6bERQYVdZOTZobnBfYTlWSjNpZDlSVjFKTVdEbUpwRTFvOHIwdEZPMGpqUlZTZXRZUTFhdGo3MG9WQmh4OHRXLVZSNGtncm5SaGhSMFJTaldmZXkxWHZxYVVZQjRrTWg0TEtjRi05ZXpqWTZXMUZTXzByd05JY0xzV1Q?oc=5"
-        },
-        {
-          "label": "Beta Technologies NC expansion - WCAX",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU1JycE40MENTb2R2VEtZNTh0c3hYS2c2WU0wN0tZNm1MQTEwWllzODJaTDgwQ2V2b0ZtV2ZKU3NpQ3Vyd05BXzkyYWVjRWlvNnl3SU5CT09LaVpyQ0RGazQxbUxzZ3YyN0E3SDR6RDNPOFZxenAtMnFXdEVSSC15M1Vod3V1dFhjTHo0dGg2bzNsYWdJMXBzSlU3dEtsZw?oc=5"
-        },
-        {
-          "label": "Marshall University BETA Technologies Electric Aircraft Showcase",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeElSV05kdU9Zbm82ZHU4YmRKZnphUEtoQ0ZRSUgtQTJ6VkZsam91TmtrcFRYaERLNHhBZUI1UGgxRW9TNFJudlVLQ19wMUdNcWZrZnBDSFdCMEpZeWkzZ2JFaVhEbWxzeXNVcFl1aVFLOGo3c2E3WEd1MVplU1c5amFzNU40dHJicnpTb0JSMUF2enRPYmd0ZjY4TW54Qm44NkhHRUxFWGxqTktmMXdEWGV3?oc=5"
-        },
-        {
-          "label": "BETA Technologies opens Plattsburgh branding facility",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRHl4SENQa0lBVzZoUk1XdElBc09MT2dWSVBMSlQ0ZXRwUEc1U1BPa0pUVXNJbE00YWJEWGZkUTZxNU41b3E5OHpOY0VSd1ZXdGZ3UnJqalpCd0hzd09CVFV2Z1dRaHdncmFSa3ZoWkhYamNBNDd6ZGV6anNyZE1nLWFWaTlWX1hGY3RIVC1jQkdHUjhyS3hBdk4wcnpOLXNmT3hna2hLbkVmbWlHNktPaXA1RlpqVEU?oc=5"
-        },
-        {
-          "label": "Marshall University BETA Technologies Partnership",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGROSlhvb3RSaWV2RFI1U3ZfY3doYUh6N3BaUFdsdGpVR0ZOWVFsLWdxRHRlYmY5a0ZfMFUxdkpCTnRKSGtxLWpTZlBmc2Jjd2lJNDhBQTJtc1BoMUsxanZ2SUxiUWl3dFBzUjRCOHAyYVhSaXFnZklac2g4M1J4S2llczBRN0RJLUI1aDlNVUkwVkprLUNLTnEyQ0FDTDA2ZTlCWUl4aGFBUQ?oc=5"
+          "label": "LAE Texas survey",
+          "url": "https://lowaltitudeeconomy.aero/en/texas"
         }
       ]
     },
     {
       "id": 3,
       "sponsor": "Utah Department of Transportation",
-      "region": "Pacific NW · Rockies · Plains of Oklahoma",
+      "region": "uFLY: Utah, Arizona, Idaho, Oklahoma and Oregon",
       "states": [
         "UT",
+        "AZ",
         "ID",
-        "WY",
-        "CO",
-        "OK"
+        "OK",
+        "OR"
       ],
       "partners": [
         {
@@ -918,63 +179,59 @@
           "domain": "ampaire.com"
         },
         {
-          "name": "Beta Technologies",
+          "name": "BETA Technologies",
           "domain": "beta.team"
         },
         {
           "name": "Joby Aviation",
           "domain": "jobyaviation.com"
+        },
+        {
+          "name": "Alpine Air Express"
+        },
+        {
+          "name": "Future Flight Global"
+        },
+        {
+          "name": "Jump Aero"
+        },
+        {
+          "name": "Sikorsky"
         }
       ],
-      "focus": "Medical Logistics + Rural Cargo",
-      "keyOp": "Medical deliveries to rural communities across mountainous terrain and wildfire-prone regions",
-      "otaStatus": "Active",
-      "milestone": "eVTOL radiopharmaceutical delivery ops; autonomous testing",
-      "opsTarget": "Summer 2026",
+      "focus": "Cargo, Medical, Emergency Response, Wildfire, then Passenger",
+      "keyOp": "Three years of cargo, emergency response, wildfire and eventual passenger testing across five states (UDOT)",
+      "otaStatus": "Flying · OTA date not published",
+      "milestone": "BETA concluded five days of uFLY operations with its all-electric ALIA CTOL and Alpine Air Express on October 7, 2026, testing radiopharmaceutical delivery.",
+      "opsTarget": "Three-year program (UDOT)",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Geographically the most ambitious project — five states, three distinct terrain types. Ampaire will fly a Cesta 208 B Grand Caravan with hybrid-electric upgrade on routes that parallel existing daily airline operations, comparing performance against conventional engine. Strongest cargo-first signal among western projects. Future Flight Global (FFG) is a key implementation partner. Four full seasons of operations including snow, ice, and cold will generate adverse-weather data no other project can match. Hybrid-electric flight integration testing demonstrates progress toward eVTOL airspace certification and operational readiness. Electra completed groundbreaking test flights at commercial airport using helicopter-style instrument procedures and novel takeoff/landing areas for ultra-short aircraft operations. Electra completed helicopter-like vertical flight operations at commercial airport, demonstrating significant progress toward eVTOL certification and operational readiness. Joby Aviation partnership active for autonomous eVTOL development in Utah; advancing toward commercial operations. Joby Aviation conducting autonomous aircraft testing in Utah as part of eIPP program activities. Remote piloting technology demonstration completed in Utah with aircraft controlled from California, validating teleoperation capabilities relevant to autonomous eVTOL operations. Joby Aviation completed first US cross-country autonomous Cessna Caravan flight, demonstrating advanced autonomous capabilities relevant to project objectives. BETA Technologies completed Utah eIPP operations demonstrating eVTOL capability for radiopharmaceutical delivery and treatment support. BETA Technologies conducted medical flight tests in Utah, demonstrating progress toward healthcare delivery operations.",
+      "notes": "UDOT leads uFLY: America's AAM Crossroads to the West, with Oregon, Idaho, Arizona and Oklahoma. Three flight campaigns identified by October 22, 2026, all airplanes from runways: Ampaire's hybrid-electric Cessna Skymaster conversion from Salt Lake City to Cedar City on August 6, Joby's remotely operated Cessna Caravan (J208) on September 30 (UDOT), and BETA's ALIA CTOL with Alpine Air Express, five days ending October 7. Joby also held uFLY demonstrations in Oklahoma City on September 29 and Portland on October 2. The FAA map of October 16, 2026, also lists Archer and Electra as partners, which no UDOT document names. Participants bear their own costs (FAA).",
       "links": [
         {
-          "label": "DOT Announcement",
-          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+          "label": "BETA: Utah eIPP operations, October 7, 2026",
+          "url": "https://beta.team/stories/beta-completes-utah-eipp-operations-to-support-the-future-of-radiopharmaceutical-delivery-and-treatment"
         },
         {
-          "label": "Future Flight Global",
-          "url": "https://www.autonomyglobal.co/future-flight-global-joins-faas-first-nationwide-push-to-put-evtol-aircraft-in-real-airspace/"
+          "label": "FAA announcement, March 9, 2026",
+          "url": "https://www.faa.gov/newsroom/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil-eight"
         },
         {
-          "label": "eVTOL integration advances with hybrid-electric flight in Utah",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQnJhb3ZuanBmdmE3NFNhb1hSN0w2bkRQTUhHZFh2eUNlaktCaXhhVTFTZU4yZTZFU0ZyUUtwNFAxRElkWjA1M3Nfd2hhREFSNE8wRTdrcE1wWVJMSjRUcWw1U3lONy1RMWd3a0RLVllYeGlGOEV6YVBuMGg3eUVIbmpMd2swWWVWSWN1OHQwWGpzQzRMRl9QWERyRElqRTM1TWR2WEo4LXZrbFhjZkl4T1Q4RjE5MkIxM05BTlB6bTJXMm9qeWVTQU1Sb2xqOVFsV0JrazNSWW5JakhmaG5teVBoVWhhMGhSclJZY19zN0dScTZFSlRZ?oc=5"
+          "label": "FAA eIPP page and map",
+          "url": "https://www.faa.gov/aam/eipp"
         },
         {
-          "label": "Electra completes helicopter-like flights at commercial airport",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2ZZNGszZ2lXRTNUNHBtZUw2QWZWVHZMdHBEQnd3LWlEZWtOcmxJM2JmU21oTTBvUndSWTgxR19JRHhFZGpNV09BUGJQRHhUeE1Qc0ZtbktwbDV5SlJJU3NrSWxOcmtsQk5wRE5ldDAwblM3enlhVDhQR1JmajZNQjFoTVI4d2RQeTdkQ3VkTmNXTkItYUsxcWl4X1dsbHpxNGk2aFNSTjFQU2xfdTJXNFpVN1A"
-        },
-        {
-          "label": "Joby Aviation tests autonomous aircraft in Utah",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTZ2NDlNelhEbGJNSlhwRDJkLVFLNFBfMGNzQ2c3V1ExZmhlTk8tYjYxaHYyMkJXbnp3Tng0VUlOckNpZ3R0Q0xLQXYxUDY1VXBBLTRDR2FvdFhMNEFkY2twNGFWVlNXbFNncjByVjRPbk1Yb184WTFSM3BPZ2V1bkJfeG5oS0dwQjh5eHZsRHRhSmx5SkJBX3VZQQ?oc=5"
-        },
-        {
-          "label": "Remote piloting demo article",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5azhsdHhpY2R2dWpWTkh5ZGVtR2lNS0hERVJyNXJzUFpNQmVlV1RzMlBHei1nelhQNm8tMV9lUWlIdHJkajNfOUxRUUktYTBvc01WcTNaUlNuRzI5aDJjdGFTcmVGOGVDYTRXaUdTUmR1TmNhRzBVV2c5ZFJMZw?oc=5"
-        },
-        {
-          "label": "BETA Completes Utah eIPP Operations",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLWhKN01la3Y2WGhBMEFwQ1ZNZ0cydmZDUmN6LUJiVEYwaExTQ2RvalhXdUFUcWdPbUFNYXplaWhlOVpqLWF0SUtQSklFMTQzXzRVLVg0SjR1Q2xLaXFpcU95TzlvRE5IUU9Fc0lkZ1RpdVZvamtHU3lPRXg3Q2Zteml0VW9OUGxGd21BaS1RVy1yRzJPZ0NCNDhKa0hrZXo4SUw1aTVQT1E0X0ZWQm5PdnRvOFpmRndlekZLSFBFOHVGVFNaN1BkSUI4aU11WWNNZ2xKRG8tQnJuaGJQUlUzMjRRVHpXY3hMbWpRYTRxV3dzeDRT"
-        },
-        {
-          "label": "BETA Technologies Utah Medical Flight Tests",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlBvZHdWdzJvaUdKNXVBdk5WREh6X24xNm0wdTUtSVNCeTBOTnJfc19RamxWMFJBRWN3YS1Fc0NoOVNpTWJqVjZ1azdfZGIyZTZwaGNhd09wOURiTnRPZEh3V3ZsT2Y2Z0cxa2pMdjNadFRXTlBMQTFPZ0tfNDNLWkxBVExhbDVkeGxEVzdHb2lta0RMSkFEMFJBN2czVTc0aVVkX2FDSWJ2VTV3WlNlWnFvZDFoaVZsbm45eXMxU2NmT1hiZ1BCbXl3dmxHSGFaaGp3TzlR0gHbAUFVX3lxTE1tejljSlEteHB0MU0zRVhNb00wQThmXzFhRFVDUlh3bmtpSXRXckNrSEc1ZUNkY1ctQU00MnlGTjY3YmdmUDJHQ3cwWWEyMnFia0JNajE4ZDdtMGxvT2xURlotOHFXelV2bHJfcGg0LVFCTmxvMXV2bER2cXZRVWZGY3ZvRHJzTG1ORjFIbDJ1cUNaQmVLeURvalNZOWpCUVJoWXM2b21HQklFd08wRGR3VVp6QzBmcnBmTExEeVNZaFU0YWcxTHNPbHhxTEZUbzJvQWVCRmh2c2Z0MA?oc=5"
+          "label": "LAE Utah survey",
+          "url": "https://lowaltitudeeconomy.aero/en/utah"
         }
       ]
     },
     {
       "id": 4,
       "sponsor": "Pennsylvania DOT / NASAO Multistate Collaborative",
-      "region": "Northeast + Midwest · 13 states",
+      "region": "NASAO AAM Multistate Collaborative · 17 states on the FAA map",
       "states": [
         "PA",
         "VA",
@@ -990,14 +247,13 @@
         "ME",
         "NM",
         "NJ",
-        "DE",
         "WV",
         "WY",
         "TN"
       ],
       "partners": [
         {
-          "name": "Beta Technologies",
+          "name": "BETA Technologies",
           "domain": "beta.team"
         },
         {
@@ -1005,195 +261,102 @@
           "domain": "electra.aero"
         }
       ],
-      "focus": "Regional Passenger Transportation",
-      "keyOp": "Revitalize Essential Air Service-equivalent regional routes across 13 states",
-      "otaStatus": "Active",
-      "milestone": "Autonomous transcontinental flight demonstrated; PA operations planning",
-      "opsTarget": "Summer 2026",
+      "focus": "Regional Flights and Medical Logistics",
+      "keyOp": "Regional flights across many states, including routes similar to those of the Essential Air Service program (FAA)",
+      "otaStatus": "Active · first OTA signed July 9, 2026",
+      "milestone": "Electra announced EL2 instrument procedure flights from heliports and vertiports in Virginia on September 22, 2026. The program's first operational flights were BETA's, July 10, 2026.",
+      "opsTarget": "Program runs to July 10, 2029 (FAA timeline)",
       "category": "regional",
       "cargoFirst": false,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Built on the NASAO AAM Multistate Collaborative — the broadest multi-state cooperative in the program. Electra's EL9 is the key aircraft: nine seats, 150 ft ground roll, operates from grass strips. This opens routes at smaller airports that no conventional regional carrier serves. The EAS replacement angle is the strongest economic argument in the program — a real, documented market failure with measurable demand. Electra CEO Marc Allen: 'flying directly from a parking lot next door to an Atlantic City casino into a major airport.' Joby Aviation conducting air taxi flight operations in the Bay Area, demonstrating operational progress. Recent news reports confirm air taxi flights occurring in Bay Area region, validating operational readiness. NBC Bay Area reported Joby Aviation air taxis conducting flight operations in the Bay Area, confirming active demonstration phase. Joby Aviation conducted piloted air taxi demonstration flights in Bay Area, showcasing operational readiness for eIPP integration. Joby Aviation conducting FAA-conforming tests and participating in eVTOL Pilot Program as noted in industry reporting. Joby Aviation confirmed as participant in FAA eVTOL Pilot Program. FAA-conforming tests successfully conducted. Joby Aviation conducted public demonstration of urban air mobility capabilities over San Francisco, showcasing eVTOL technology for future implementation. Article discusses scalability challenges for Joby Aviation air taxis post-flight demonstrations; relevant to multistate collaborative planning. AI-enabled airspace strategy being developed as part of eIPP demonstration planning. Media coverage highlights industry progress on urban air mobility. Joby Aviation advancing eVTOL technology for commercial operations. US Trade Commission investigating Joby Aviation for possible import violations that may impact aircraft manufacturing timeline and project delivery. Joby Aviation partnering with Air Space Intelligence to support Advanced Air Mobility integration efforts and coordination. Joby Aviation announced 2026 target for flying taxi operations launch. Key investor considerations include regulatory approval pathway and operational readiness timeline. Joby Aviation announced 2026 timeline for flying taxi operations launch. Company progressing through FAA certification requirements for commercial urban air mobility service. Article from Intellectia AI covers progress toward electric flying taxi operations. Joby Aviation announced new AI air-traffic control partnership and achieved pilot program wins, driving stock gains of 11.4%. Joby Aviation announces significant manufacturing expansion in Dayton, Ohio, positioning it as core production facility for eIPP program execution. Joby Aviation achieved significant technical milestone with hybrid eVTOL aircraft completing first uncrewed transition from hover to steady forward flight, advancing air taxi development capability. Joby Aviation partnered with ASI to support scalable eVTOL operations in U.S. airspace. Joby Aviation partnership with Air Space Intelligence progressing integration efforts. Reuben Brothers partnership announced for vertiport development, supporting eVTOL operational readiness. Joby Aviation embedding vertiports in luxury residential projects to strengthen urban network infrastructure strategy. Joby Aviation embedding vertiports in luxury housing developments to strengthen urban network infrastructure. Joby Aviation demonstrated electric air taxi capabilities in New York City, showcasing operational readiness and public engagement with Port Authority of NY/NJ stakeholders. Joby Aviation announced pricing strategy targeting competitive rates with Uber Black for air taxi services, demonstrating commercial viability planning. Second generation Wisk aircraft deployed to accelerate eVTOL flight test program. Joby Aviation outlined commercial air taxi progress expectations under FAA eIPP program per Aviation Week reporting. Joby Aviation nearing air taxi launch with FAA approval progressing per partner coordination. Article confirms Joby on track for 2026 commercial launch as part of FAA eIPP program activities. PennDOT announced as lead for FAA eVTOL Integration Pilot Program. Joby Aviation expanding eVTOL manufacturing hub in Dayton, Ohio - infrastructure development supporting program implementation. Stock analysis indicates market confidence in FAA approval pathway and production timeline. Joby Aviation expanding Dayton, Ohio manufacturing footprint to assume full aircraft production with increased headcount. Represents significant scaling of production capacity ahead of certification milestones. Joby Aviation selected for commercial operations across 11 states as part of FAA eIPP program expansion. Joby Aviation implementing aggressive pre-certification production strategy to support operational readiness across collaborative partners. Safety concern allegation: Boeing-owned Wisk Aero accused of wrongful termination of manager who raised safety concerns (TechCrunch). Potential regulatory and reputational impact requiring monitoring. Toyota-Joby joint venture announced for advanced manufacturing to support eVTOL production capabilities. Toyota announced joint venture with Joby Aviation for air taxi development, strengthening AAM capability and industry partnerships. Article highlights Joby's US factory production capacity and demonstrates operational readiness for near-term eVTOL deployment, particularly relevant to potential NYC-area service launch. Note: Article analyzes Joby Aviation's certification trajectory and scalability challenges relevant to multistate eVTOL coordination efforts. Joby Aviation partnered with Atoms to develop vertiport infrastructure supporting eVTOL operations across America, expanding ground infrastructure capabilities for multistate operations. Joby Aviation reports better-than-expected revenue as air taxi commercialization efforts advance. Joby Aviation partnering with Atoms to develop US vertiport network infrastructure supporting eIPP operations and multistate coordination. Joby Aviation currently flying passengers operationally, strengthening deployment readiness for multistate corridor implementation. Atoms and Joby Aviation strategic partnership announced to build U.S. vertiport network supporting eVTOL operations. Joby Aviation announces late Q3 2026 target for eVTOL test flights under FAA eIPP program. Boeing divested Wisk Aero to Archer Aviation as part of major autonomous aviation consolidation. Archer also acquired Insitu and SkyGrid in same transaction. Joby Aviation partnering with Atoms infrastructure firm on US vertiport development. Joby Aviation announced $750M ATM offering to support eVTOL capital strategy and development programs. Joby Aviation secured strategic partnership to acquire vertiport sites across the United States with legal representation from Allen Matkins; infrastructure development advancing for eVTOL operations. Joby Aviation deployed air taxi flight simulator at San Jose Mineta Airport, demonstrating pilot training capabilities and operational readiness for eVTOL services. Joby Aviation hosting public eVTOL air taxi simulator at San Jose airport for public demonstration and engagement. Joby Aviation cleared key regulatory hurdle; FAA certification progress advancing. Archer Aviation acquired Boeing's Wisk Aero and SkyGrid. Wisk Aero continues eVTOL development under Archer ownership; SkyGrid integration into Archer's operations ongoing. Autonomous flight capabilities under development; investment thesis tied to autonomous operations advancement. Joby completed first-ever fully autonomous flight across the United States, demonstrating advanced autonomous capability for eVTOL operations. Joby Aviation completed first autonomous cross-country flight in the United States, demonstrating significant operational capability advancement. Joby Aviation demonstrated autonomous flight capabilities with a 3,100-mile autonomous flight, signaling expansion beyond core electric air taxi operations. Joby completed autonomous cross-country flight, demonstrating advanced autonomous capabilities relevant to PA eIPP operations and certification pathway. Joby Aviation completed fully autonomous flight from California to North Carolina, demonstrating advanced autonomous eVTOL capabilities relevant to regional operations. Joby conducted coast-to-coast autonomous US tour demonstrating eVTOL operational capabilities across regions. Joby completed first autonomous transcontinental flight across US, validating advanced autonomous capabilities relevant to eIPP operational objectives. Joby Aviation demonstrated autonomous cargo aircraft operations in Utah, advancing testing capabilities for advanced air mobility operations. Joby Aviation faced $116.9M trade secrets lawsuit verdict (2024). Legal/financial impacts may affect operational timeline and resource allocation. Barclays report raises concerns about manufacturing capacity and factory ability to sustain production timelines. Stock declined 61% YTD citing delivery capability risks.",
+      "notes": "PennDOT leads the NASAO AAM Multistate Collaborative. The FAA said on March 9, 2026, that it would work across 13 states. Its eIPP map of October 16, 2026, lists 17, and Pivotal's release of May 26, 2026, names 18 with Delaware, which the FAA map places in the Port Authority project. PennDOT and the FAA completed the program's first OTA on July 9, 2026 (FAA timeline). On July 10, 2026, BETA flew its conventional-takeoff ALIA from Virginia to Frederick and Martin State in Maryland carrying an organ for United Therapeutics, the program's first operational flights, all outside Pennsylvania. The FAA announced Electra hybrid-electric demonstrations linking Manassas, New Jersey and Philadelphia on August 18, and Virginia announced a second demonstration with the EL2 on September 3. Team operators named by Pivotal: UPMC STAT MedEvac, Tri State Charter, United Therapeutics and Republic Airways.",
       "links": [
         {
-          "label": "DOT Announcement",
-          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+          "label": "FAA: first operational flights, July 14, 2026",
+          "url": "https://www.faa.gov/newsroom/faa-announces-major-milestone-evtol-technology-use"
         },
         {
-          "label": "NASAO MSC",
-          "url": "https://www.nasao.org/page/aam-multistate-collaborative"
+          "label": "Electra: Virginia procedure flights, September 22, 2026",
+          "url": "https://electra.aero/news/electra-completes-groundbreaking-flights-using-helicopter-style-instrument-procedures-and-novel-take-off-and-landing-areas-for-its-ultra-short-airplane"
         },
         {
-          "label": "NBC Bay Area - Joby Aviation flights",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmJsbC1UMlF6N042TUl6MC1ROE9WZlpSdWtyalkzc2N6Y2hvQ3RqZ0ZSOWM1d2tqQVJRTThMVncwWmZEMFhqNDdudE5McnVUWUE5U1JlT192S1JVamctU3NmQ1ROWWN4LVdlZGpwb3k2bkdLLUk5TThyQXFJYTBhRF96Um1jd9IBjgFBVV95cUxPNnZYaTdqQWRUM3ROMm1XZTB3VWhBa0ttSkw1MHRmQjkzeFZJbGFDeE4yWmlucmxzTG5rS2JZMHUxNG5PNzlpU0QzT0V2VmY1TjQ1S1hsMjBnbnN5ZW9va2o0dzFlaXRvcWtMN1dMQTZNTVdtMDVmdzFZZ0JZeUJ3QllQREU2b0VuZ2NMMl9R?oc=5"
+          "label": "FAA announcement, March 9, 2026",
+          "url": "https://www.faa.gov/newsroom/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil-eight"
         },
         {
-          "label": "SimplyWall.st Article - Joby FAA Tests & eVTOL Pilot Program",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOclVAWjRUZzF0OUM2eE1vaG9nUzQtVHljRTcwYlBtREtRanNGY3U1RElqNkZkRUhOaVJyeGxZUXdCNU1SVWNEWExOZzZqN1Qxd1FHdDNQQVVjcl96ajFVekd1TGJEZTMzNmxxbFlud0hFMC15d1ZyWmdZMzBUczBkeVN2TjhXcjdTMTdOVUZwX1NKZjZOdXhqU1lwTjdMNTZrTWR5ZGVWbFU1T1hHMDJBbV82UTRwMWw5dGhOQThqeV9iTkJnU3NvRDBIWVdadnk0"
+          "label": "FAA eIPP page and map",
+          "url": "https://www.faa.gov/aam/eipp"
         },
         {
-          "label": "Motley Fool - Joby Aviation Scalability Analysis",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaE9kRXozemFrMnotSzNMc0Z2UkdPbC0tUTZSQ1YxbjJGMFhGTk9vcDYxaC1OSTN1WnJOa04wUWVIWE0wWDlEd3FWc0ViTWVQNko4Z19ZRy1yNUtDYkxKVmNwdVJscHk4YTg0aElXaGt0STczbEJ2R1V3QnN0Wkx5WmRPVXpGQ2p3RWRyS0tVYm1OcWxoV0hBSw?oc=5"
+          "label": "LAE Pennsylvania survey",
+          "url": "https://lowaltitudeeconomy.aero/en/pennsylvania"
         },
         {
-          "label": "Joby's AI-Enabled Airspace Strategy Analysis",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUpWSE5zMFZEaDBUQTJGUklNZlBYYThGWUpya1pkMjdiUVJhQm91LTA5Y3U0RFIxUVNfMFN1cVQ3WDZPLWtqT3A1QzY2bml2emo5VzFlN1k2cHlvOXA4NGwySlVPSWFfM21jaHpVU3docjRCWUZUNHcxQk96YzNESGdhNXA3cXJRRzUtY1o1VDdxcGY1MG5aN2pYdEhxMGxVdi1WYlo5QnN6M0kwYjZTdlZOMkFqQzZzWm1xWlB6ME5RcnpHSFJZWUNpcWRFNzd0VXfSAdcBQVVfeXFMT21fam1FUklzTUpIbFZqS2lubHVRR0w0VWozaHRDcFh6bmQ4NXM3aHFBbENBM3c2MWFQdDhWeFFxZVR6VWtoZ2k5aS1TSlVCOGw2ak1IOEVZdGpmQURmMWxJX2hwVmNLZTVhM3hNUXFtVjM4WHN3WmtNM1o4dUluNm5WbFEyVlJMd2xtUGhWc3VSQ3dOdVFtT2p6QVFLNVozemdwSUFXbUZCYkxpdVpwQUxhek1XUFJscDFjaDVfdE5wOUFHN0I5ZWlrNmt1S3V1UThxUXZYNlE?oc=5"
-        },
-        {
-          "label": "US Trade Commission investigation - FlightGlobal",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWtqTVc3c3Q2WlBtNll3UjJMei1idUY5Q2hFdXJnOHhoVVA4X2VkN0lzZmF1ZDBadlBobUhhQnhxQ3ZCcXVqQVd6SmEzcDVHVDJaUHZSaWJ6bC1yRzY4VWJvUTAtamh0cWljUjhmamxoVzdWblp6a2lNMWpKa0tBRUFGYnlpRVREN1pqSVBZS29zQ0FLQTlBZ1Q1cy03M2NrenRxZzZpWTJJZlRRYUdDQnVwUzRpZDBlU2tZZW1ndS10dV8xNUFZcWF3?oc=5"
-        },
-        {
-          "label": "Motley Fool: Joby Aviation 2026 Flying Taxis",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc21IdzdRX0dmSnctOWRIY0FaM002by01X0dxaTFNbExTb3czaVA4TzJ4YTQtMy00QzhWdGk4WXdrOVJEM0FvTndJVDRuQ0czQ2dMckctUFVJUW9fWkVZQy1lTnVNc1lOQnZEbjBad2lNUT1fZUJOb2NNRkhRZWRnN0ZGSklCUUpGQXRnLTE1WHVkcEM5?oc=5"
-        },
-        {
-          "label": "Joby Aviation's Progress Towards Electric Flying Taxis - Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGN5QmhyMWFRT2xSN3B0QWZRZmJJQlhoUnlUZjBDb2t4Q0FGY1BRbENianY5bzQ0cVlyMjJmOXhMX0ZpbnpjOGNZdWJuenNfSHJMaWlEaXRqZU9QQkN1eEJfVXh2clJ6ZWRtaTdrWWdqeG1JaWpwSHJoV1JDa2otUG5CeGRxWEcxMDBTODNwblk?oc=5"
-        },
-        {
-          "label": "Joby Aviation AI Partnership & Pilot Wins",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMnViTXQ5QlQ2NENWUk01SzlBSHp2bWVWY3VCb1NFemJmY0VSMmtqWnphNFRwNWx1M2d6Znh1STdiaUN1YnhYMWtmSWlLTHRPQThqa01UWV9laE5wVjF3ZV9ta0pOQTJpeXdaNHRSMnpLclRvTl9nVTVfUzIxODU3cTZyZlBFTEpzWjFYQ1ZNMTJSN2JlUkZadU5iRzZaUTJaOXJPYThNMElJbnJfMUtpRGtDaE0wWWhFWEZkc0lQR05QN240aWwtRVFta2Q2VV9hRXfSAdcBQVVfeXFMT21IVEU5YXdCNWlDQVA4Y0x6dmpxaUN2STVTRkptYzZmcGx6bzdfWC1GakJIeTlITXpvRGw2NjlPME5xZEQ5WnROcHM3U3VOZG9ObTl3MFhYelZyanNKY0l4LXc3bnJ1Wm91SFBzWnFIajdMZ1ZNdW4xS1ZVNVV0YUVraXpPSVJqWVBfQTRzOG0xSUt3NUk0M0FCLWJ3MDVSX05XVmVldVcyYTVkbXFYVlMwUFNic3plYURmaTZPTmEtODYxWHdYWmdlWi1FV2s1bG9RSEhfSnM"
-        },
-        {
-          "label": "Joby Dayton Manufacturing Announcement",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHNvaE5Jc1Z6YjlWbnlET0hYMVYydVlUQzVtZVEtREhoQ2IyanQ4ZjRveU5jeFREVFlBNmdzVFBNd3hDdFZsWEVPTVhxX2FPbnBYT20wVmh2c0VlSzFueUI3aDk0SWNjOVd4bTVXQWwtc3dnX2E3ZTJsb0s1WEtCR2RnRHQ0LWNqeGJsYVpiNEFXdFB6Rlptd1NaSk5Wbk41NU4zVg"
-        },
-        {
-          "label": "Joby Aviation Valuation & eVTOL Integration Update",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVzVhdzZwM2lFcFlDeXhqQkhwMG1MYkxnaGFyUmF6empSUlI2b0Y3YnR6MzBva1A1LTI3SFdhSURmcWRlWU9PZlVUMzZyeWk3SnBHZy1rRWRiWEZlV05HNEZvX0h3VnBHSFF4YXY0MU1kVHFRbU5kaVdlbEZMUVNKWFpmMHpiUGR6X3U0OFBJei1pdVN1VEptM0wzS2JyRHNTLTZ0X0ZkaTExZWNaN2R0aWg4bEFlT1FGT1FON2xjc0w5M3BWX1dsY1hoTmx5NVdWUVHSAdcBQVVfeXFMTV9qSEt4NWFGdW0xdHhrNDl6TjRENWtQc0wxWDhMd3Q5Wnp3S1lJUGxraW11V1EwR3dKUWZOc0thUk5qZHlid3FTQU5GeWlJT2NjLVVwTkl0RW1DZGxuMWhGQTNIakxOZTVsd2p5a3BUY2hqaHFqaG9IVTg4czVndWlWMXQybHJ2eTRNNHZkcy01emtNcHlvYkJJMmQyNmhUX2FFNENxUUdKNnNRNzNiVFl4Nm5rUDRmZ3M0VGZEYnpUUlBDX0wwb0JrMGJnamhFbmxtY3dEU3c?oc=5"
-        },
-        {
-          "label": "Joby Aviation Vertiport Strategy Analysis",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTV82SUpIak5nb1Z6UFAwcWNpSlZSeF9yd1VqSkZWMVNkTW1FVVlvWXVZVlR4WU1wT29uUkN4bV9GNFV1a2xDWjdSRkNVUGFsMHdqZ0ZwTHptdEpfWk16dldsMWtGNTJRS3l2bUNXZ1VrUjVMZTV3OGFCTDNpaUdEX3dDbzFSQUg1Ml9GMHdETE1YUFo3cVhtYmtQRDJoZmVFcEEzSGlFaG1NMVYwMDl6eGhITGE5U0FQR0ZFOUpKb0dtdjFKV0lYbjJubG1ocnJZOHfSAdcBQVVfeXFMTUVZdUJnQllHX2lYRTF5UjVrbERtOW5jQ3VqSVhieFhVZVpCUnY4M3lJbWp3ZlhlaFNLNGJpMGlrVXkxNTRFZktpRkpIbzhMQU9ISVRlUlp4Wktlam9lN3hILTJhcnYxZTR1TU1WWEFYVEJNSVFwZWlMZGZXNXdoR3hHdjNVYkwxLURJb2VPU3lDc0FiSFVNeVhacmdyT3dhTlMwNXYxZHQxU2VybDRWdEFiejd5cGZoa1FQdmNpb0I2ZUNIUDF3ZHVrdmxvMmQwOWZHNmYxVU0"
-        },
-        {
-          "label": "Joby vertiport strategy article",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTV92SUpIak5nb1Z6UFAwcWNpSlZSeF9yd1VqSkZWMVNkTW1FVVlvWXVZVlR4WU1wT29uUkN4bV9GNFV1a2xDWjdSRkNVUGFsMHdqZ0ZwTHptdEpfWk16dldsMWtGNTJRS3l2bUNXZ1VrUjVMZTV3OGFCTDNpaUdEX3dDbzFSQUg1Ml9GMHdETE1YUFo3cVhtYmtQRDJoZmVFcEEzSGlFaG1NMVYwMDl6eGhITGE5U0FQR0ZFOUpKb0dtdjFKV0lYbjJubG1ocnJZOHfSAdcBQVVfeXFMTUVZdUJnQllHX2lYRTF5UjVrbERtOW5jQ3VqSVhieFhVZVpCUnY4M3lJbWp3ZlhlaFNLNGJpMGlrVXkxNTRFZktpRkpIbzhMQU9ISVRlUlp4Wktlam9lN3hILTJhcnYxZTR1TU1WWEFYVEJNSVFwZWlMZGZXNXdoR3hHdjNVYkwxLURJb2VPU3lDc0FiSFVNeVhacmdyT3dhTlMwNXYxZHQxU2VybDRWdEFiejd5cGZoa1FQdmNpb0I2ZUNIUDF3ZHVrdmxvMmQwOWZHNmYxVU0?oc=5"
-        },
-        {
-          "label": "Joby Aviation FAA Progress Update",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDl6Nm0yS2J0bnZTMnpISTluQzRETnJMQkNrUkhCSTVqNkFtQlpRbUt1a28tNWt4SGNZcFNzUmhyX2dGNzFXd2Z5aWVrMWpPUEw2ZlhiRjRCY2RjdnBVMDRTVDRKNnJKVjhZVWpYNVYzYk5KZnNjNVpKbU5najJzVnF0N2ZRbGdkd1NKQWZFdXZ4ZGpuMEdmNw?oc=5"
-        },
-        {
-          "label": "Seeking Alpha: Joby Aviation 2026 Launch Analysis",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVA4RERGSk9DNVN2clNxMnNmWURCb3B1am5rMnRUaVBaNUpZc0YwTEg0RGFlR28xM2VXNmhmTG5GeVFFeWhIeXZPQjlKQ3NnSzlval9POVMxekpQMEpQQ1J0alhkWTM2T2c0d25jQXVpZ2RKVlFwTDRHVk1qRHRFMHFxMWRpS1hDdTZPeUkwcjFRTlVvZ3hFTjl0d1RtbS1mbVZodEh1R2FXbEFoNGx3WV91NWk?oc=5"
-        },
-        {
-          "label": "Aero-News Network Article",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWtQbTR6RGZrWkkzUkEtUjZmSWVNUmRHRGxXYlpvaC1RdlNjX1h2Qi1xVlhSdU9ydzRNcE5EY29NV01BWlFGRzVteHBoemxSczZYQUx3M21kQV9VUXlxMDBDVzZwOHR6QmJKS2duNHhheWpVdGVzaGVOMXlRMmRZdE0xcWZZV2N1QW41WVh4Z09RQTE5cE4yTjZR?oc=5"
-        },
-        {
-          "label": "Joby Aviation Dayton Manufacturing Hub Expansion",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcXNWZ1JNeGRVLWFsczlOT1RSN0dUTE5JQUc1MWVhVTFzQ1FDYkMzbUVhZnhpNGVSc0pEM211ekswZk1NOGU1VE90dTNsWnRFTnVWZmEtWEZmRnVNVGlGdzRmMjJ1NmZsN0pDZHFsNW1CQzJQV2hYQkVYeW13ZjFOb1NwTUFpdWowcGF2R05IbVNHQXdCV0FodDRyTnRKNGJzWVNtUFM4SXF2bUhobzJiZEdpdEtmQ3F6TjRrdDU0MGc0aWQzbUN3SHhrMGtqZzFkQXfSAdcBQVVfeXFMTUtwX0lfMWRMYjRmMUFmWGdNenp0a29hOHJxXzZQaTkxYlpmRUcxUDNwMmlocnpKcUUta2JpM2Z1M0VCckNKMzllZjgyZXpCZ1hCWjBFMGQ5R3Rxcm1yUFMzRmhvT3RocDF5SUlCb2dZa2FhSXo3cmZ6MEJOc2tmQUxpeDRSWlBEa05pVWVMQnI1TWF3bUhpWXRJVEw1a21OZ2hldFEtODJhNFFfTnZvUy1qUjlaOXhOc3owamNRdXUycmVSRmJ3eWNXakdhMXNPN0FWWHFUMkE"
-        },
-        {
-          "label": "SimplyWall.st Analysis - Joby Valuation & FAA Progress",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZThTQ29CUl9iNVFJTzhoeDFJRWhnY0xnVGJyc2puU2lNZTZHOUhNUDdOZUFSTnZ5TWlYVkFVQWtTQzlhYldVWFZYbVl4UHNOMXhEWTcxeUlUeGNRUllUeThSRWhZMnJaM294OTU5MUExeWdKbDhwZmxwM0RnUzVwajFEb25NNTV0RDc5U1NpVTFzR2NvaC1QREtfODFlb3E2cjdPNnEyYUhXTlJ0ZllGM3JLeF9rUmNkQkJMQjJkQ2s2U3dXbVFpS2pxZ3p4UGt1WXfSAdcBQVVfeXFMTVg3RjRTRFJVTGt6MGhUOGc1NkppRXJfY0NXR0NZZ1JndVo4U1VEVlliUXRHRlMzRzR5RzNJWkwyd29CTnJCa3V6bmVUdERUanJSVjdOOURUZEY2MGd4T1J1NTVKZFBmNUE0S2FRQjI5U0Z1R1I4dk82b09NVkpwYnpTT3V0Q3ZKcDl4SGlrR2RGT05PWlNsUWJoWUc1WTVKNHhlUlYxQ3pjdU1uWmlzVm9iTmp2NHh4OHU5RWJsYUhSdUxua3N0WGoxQzh6Z2c2cTlORHdESkk"
-        },
-        {
-          "label": "Joby Selected for 11-State Commercial Flight Operations",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3p2TlFiY2tIMzRrQnEwS1l4WVdkV0JrN0xvT2xGYmVIdlVSaThPQTlXSTJwZXRCTnNBMURoSlpqaXhMdG1uVmVhdTdKR2F4emZSU2kwOERZbGMxZFliZmt2djBRSDBLVXRRdEN1T21iRDdLTGIycldRSTRtcHJyd0lVdmFrSWNQSVlFNFdxMW9Ca1NPUmV3UkZacjdlSFljTEJPdmlXUVkxLXlwa0V6YVV1Rk41bjBEdXZvQ0JmeEVyeExrenFYbQ?oc=5"
-        },
-        {
-          "label": "Joby Aviation Pre-Certification Production Strategy",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbUZQT0V0S2pXdEV5aGo5N3BKdmhzLWtFNXVFdmpockJTNERUOXhwb3pwek1uNGtPaUlKYU9lSkd4NGFUUnNsMXRzbEF5Q0JHanlUU0lBeXhGTnNrSjQ2aWhSYzdyalQ0a2tQdXhVdFI0NnlPVG5YNnI0Y19yR2FMN253MlNKZERrcm5zM29oTzJtelVvUXBIUVU4aW5JQzhYU2c3WFVFU3BLRzZUcnVROWFrZ3hiWGdIa2FwSWwtUDB5Q1Q5c0c2eDlld1NnTC1r0gHWAUFVX3lxTE5qdHNWc0NXN0hGdldFZDFUOHdlazZ5TnVsWHJTalhrcWUxUmg1VEZzc3hiX2xDZ0tQdnZDZUxCaVphMnZSQzAtUlphV3lxck8zTjhTZTJ2T2h4NHlZQ3gyeHB5SHNLM1diTU5MZ1Z4WlhoSWJ4MTN3SjhKRHJjN01DelU0REVSaXh1SmswYmNlQW5KejRhMFBnbGZLTDBVM2lQSkMzVmdmaDRoY2d6cEtHa0daM1lDYVdCRnM4U3Q0V1hSYWJ2WV9HZWYyOE16YUE2VmFwUWc?oc=5"
-        },
-        {
-          "label": "TechCrunch: Wisk Aero Safety Concerns",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZGZ3RTVfYk8wRzZRNThRendCaTVDTm9FMlZXNTA3cWpwaDltRVYtNUlnMl9MYkhobmc2aDlQSC1OOV9zcUhVcy1yVmhLSnowTmgxaVdWRnlFMFQ5aXlwdEdiYk5IVmxnU0xZajJnbFAzN2o4YXZ5TWd5N2ROUjZkVmptQnBOc1kwVVV3ajVJMXJqN045Q1ZQZS1BYW4xdEZmSkRDdE9IaW1BUENmcDlV?oc=5"
-        },
-        {
-          "label": "Joby US Factory Overview",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0Z6UmZsRUQ3XzJkcXFjdXZJS2cyZWFyWGJKakVCYmx4UUo1X010NE5RMHpFSXV2Q1hVRWx2WEwtSU53blYyeGNOdU0tUlhsekxtbHNWdTVMUXZhU0R0Y0p1S3hIbnJqYWNzZ0lYNWRPUS04eGVZbWNLUXotSTNpcHduZE52Z3Qz?oc=5"
-        },
-        {
-          "label": "Joby Aviation Certification Analysis",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPenBBbEJ2aHZXejFEUW5YN0NtWW5BdDZWUW41Sy12Zml3SDZIeXVPd0ltelJ1eUcwNjdlcWlTbXIweTByUXdKelh0RkZETE9Ub19Hbllla2E4MmRsNTQxVlFBMlZIbHpXeGpzQzhETk5GalAtczVrTFF3am5RMU1UdndWejJmQmF0a3I2V2RYUTJPYm1Fc1hveklJeWstMnZ5VFllcEtya0VNUXBkeUZMaEhuZFBadz?oc=5"
-        },
-        {
-          "label": "Trefis: Joby Aviation Stock Analysis",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck1DZC1tY3MtZ015cHdsNEdSUWpvbG82VVliX3dFbEtCbmg3YmRNTWIzX1M4MDgxUEpJT2Zyc2t4dEtBd3Vyc0JTbHljcXR1cWpIc2dydXVPQ2Q5ZGM2TjNtYzR2V2k3MlRpaTdpNjJtSlczUndtTktkLVo4bTA3QVhNMDh4TTZqSFNGTDlwYndYYnVqQzcxY0lZTkNXeExHZF82S3JMcXJ6NnZsVElwUnlhUTI4eWd2cFhuZ3Q5NUIwdGVSN2Z6RUtvREU?oc=5"
-        },
-        {
-          "label": "Archer acquires Boeing's Wisk Aero, Insitu, SkyGrid",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTVBKSDJrSl9CMzlCUmkyZXNpekdwNkpDS2FWdFVyN1NweFZPUTFTZndPREJnQVkta2hKalVYMWs3QXRPdnpkaGVYZjRENUZJOHlLQXBtWGZOTElBWHVYWGRrS1F4TDFHRUhSR1o4ckt0RkhyT0Q3bm50SGhtN2JFQ01LaThnei0wdEpJTUZ1YzhvQWhuRkVpbmlkbmljVkpIOG50SzFDVU82MUVZekRsa2VWSTIwNUxCUXh0eUlWVmZDc1JOLUA"
-        },
-        {
-          "label": "Allen Matkins Joby Aviation Vertiport Partnership",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDN2U25TZjZPVnFkYmgtc3lzT1ROc016cDE5aEdCNVdYR0RMQ3FRYzBRMGlVT1RpUTFEN0VZN3pMa051VzdtMlhmb3JCMHVUbDlGN1pia05CeGdaaVNpX01jbVUtSlJyMkpXeC1SQ19kVUZ6WG5WbDg3Y3RVZmh4SGV1UHBPUGNQ?oc=5"
-        },
-        {
-          "label": "Joby Aviation air taxi flight simulator lands at San Jose Mineta airport",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3ZWYmsxd3hFbW1MclQ3ZTlkOHpvVnNaM01sbGQxQm1fTDVOVVdCYXZlT29yWGMtdEhtNXJlTGR6UGpfUHVJUGlCdDAwR1FpaVRzbFZIM0Q0ckpuXzNDWEhvMG9FV0c2MHlBYVc0VUF5LXozeFBXd2ZVdUhzT0JtUklnZ2F4amlLUGs0dkxPMWI1YzdIdHNTMGpPWWhIZUZtanViQm05TGZzWXlSbjlDTmFn0gG3AUFVX3lxTE1TRFM1WXoydWhRbm9Hb2RuLTVjaWdyQ2ZwZGs5dVI4Q1Y4ZkhJVURaeHgyNlNxZVowS1l2M2xUY2c3MkNpVUhkemRHMFRuSWw5Y2hvMVlLRHJaTkNfb0JzSlRFUGRlakhtMGtrR1VWcDJybG14bmdpbFUtV1lZZ0ZWekJhN1RZN3hmQzdjS1ZGREM5U0lBUUFxNHY5OGt4aGhwZ25tb2haNU1jRTlTYnF6U2otSlJlNA?oc=5"
-        },
-        {
-          "label": "Bull Case for Joby Stock - Autonomous Flight Analysis",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONjdXaGtuUlNDbnNxczRocnJXRjBHb0ctZ3laLU9kcUd4QVNQQkExWDYtN0xSdDdKeXFEdnBhWEkxeDh1OXdGMnVXNUx4NDZ3a0FEdkRObWZSZDFEMU9KNFdkTWtFYTVfY2Vib2xteW9nNlZpdDFfQlduY0VocXRMdzM5WFVmUmdwbmpxaHEyN1lubklPb1dxazRYa0JyX3JPaHJXUllSMy1XS1NkNWJ2dFdBVDRQS2s2YS00UFNpeGJ4TzQ2cEpRTHVlT1hfaE1MRWfSAdcBQVVfeXFMUDN4M19oZEQ1MHdfeV9JU21WcXZ6ZVpXbzdnNXNzOTBnODF3WU9Za29FeXIyQk1MZkhENnJpbHhmeUZVRjkzdVF4cnM1OXBfRGpRRFlHcVJ1QnZvU19YWEtEZTNBcGQwT1p0OEVjSDVNOXB4bjJYNzJGc2FBbkt2NUZORklaSnhFZU9FcnVRYUpuT2ZISFBncGs4UjVyUDFCTGFjbHl3a0xKaFc4cW5mSEQxcE5VTWdHYXVUXzJJN2pGaTByMnFFQmQ0UVRINENVRDZpQWhMNE0"
-        },
-        {
-          "label": "Joby Aviation Coast-to-Coast Tour",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmY4cDhPQ0lOU3NfYzJPV0tKbVlDNFVZMWd2dlpwTm9SMzMtekpnb3ZQTXU0eXBtRjV3VklhV29OVDNMczQtLV83anhsbmx0YS16RG1IZlRsYUg2emJ0MURTN2pxV2VCa3M5SFJkNXd6MnFJR3l6b0dTbmp0amRFVWlEVWp2QWJZSWYyOENzcEdhMW1IbXktQnJyU25ZUnpxMGc?oc=5"
-        },
-        {
-          "label": "Joby Completes First Autonomous Transcontinental Flight",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU1JtYk1sRkpwVnZQZ1pLMG5IaUI1OHc1VWx6VDNpSV82alQ4ZlVicUkyNWxYVE9QbkZBNm1iLVZ6RVUxQmo3UXNfSnVmTG5UU2c1YVFnYzFOdkZYcWhGYjJMZVB1TWpzTXJPanJxbUtRc2F2QmVvMkZEeDdyVkhTNlc5RXRtSGRjek9qTGdQTQ?oc=5"
-        },
-        {
-          "label": "Joby Aviation autonomous cargo demonstration",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON0FEdFgtMjR3MEJ6Mm5BMXBKLUo2U2RsSFUxS19uN0tadWM1UUg5S25icTNnei1aTVhDeWkwcEt5a1cwMl9HMFEyQlhwSjNVN0J0MjZJaFNSRGZpQTZaNWlKcW1aWVF3N2xCQUQzQkRjcUQ3c1F0T013SmJMRHItYWpDUjBxZy1heTdjZzZJalM5bEthMVNIbDV6aFpBaFdCaGlVWHRGRmxiYWxvVDNMV1NLcGNTMnVfV3FKLTZrQ3lLelZj"
-        },
-        {
-          "label": "LA Times: Joby Aviation $116.9M Verdict",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYS02dHEzbWFmVTl0R2lDSnpVSjE1M2d4a0lGS1Q5YjRyT3FlaXY5NTllLXpJaXlzTTBDclRESTc5Y2pNQWZocUxheFY5eVNlQ190eDlRY2NyY1pHRjNqWnliakdhVmdfUk43UHlHN1lBeHJNMjNYalRJMUkySklpb3ljWS11dlNJamlVSGN2UUdPMmsyV09YeFdhVXFOZ09DVld6aHF3aXJPNGx0Q2U3bE5nQWRLc1NBejc0?oc=5"
+          "label": "LAE Virginia survey",
+          "url": "https://lowaltitudeeconomy.aero/en/virginia"
         }
       ]
     },
     {
       "id": 5,
       "sponsor": "State of Louisiana",
-      "region": "Gulf of America · Offshore Energy Sector",
+      "region": "LIFTOff Louisiana · offshore energy · FAA map: Louisiana, Mississippi, Oklahoma, Texas",
       "states": [
         "LA",
-        "TX",
-        "MS"
+        "MS",
+        "OK",
+        "TX"
       ],
       "partners": [
         {
-          "name": "Beta Technologies",
+          "name": "BETA Technologies",
           "domain": "beta.team"
         },
         {
           "name": "Elroy Air",
           "domain": "elroyair.com"
+        },
+        {
+          "name": "Bristow Group"
+        },
+        {
+          "name": "Metro Aviation"
         }
       ],
       "focus": "Cargo + Offshore Personnel Transport",
-      "keyOp": "Cargo and personnel flights to offshore energy platforms in the Gulf of America",
-      "otaStatus": "Pending",
-      "milestone": "Wisk vertiport construction begins at Hollister Airport",
-      "opsTarget": "Summer 2026",
+      "keyOp": "Cargo and personnel flights over Gulf waters to energy industry locations, centered at Houma-Terrebonne Airport",
+      "otaStatus": "Flying · no executed OTA published",
+      "milestone": "Elroy Air flew a week of autonomous, uncrewed Chaparral cargo flights from Houma-Terrebonne in late August 2026, the program's first remotely piloted flights (FAA, August 31).",
+      "opsTarget": "Operations expand only after safety benchmarks are met and approvals secured (DOTD)",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "The Louisiana offshore energy project deserves close attention. Bristow Group, the operator partner, has been coordinating with the FAA on the Elroy Air Chaparral for over a year. When the helicopter industry's dominant offshore operator validates autonomous cargo as a viable replacement for manned supply runs, the cost calculus changes for every operator in the Gulf.",
       "editorialDate": "2026-03-18",
-      "notes": "Elroy Air Chaparral: fully autonomous, 300 lb payload, 300-mile range, no pilot, no passenger. Bristow Group is the customer and long-time partner, providing operational credibility. Offshore energy helicopter costs run $3,000–$8,000/flight for platform supply runs — the economic pain point is real and institutional payers are already in place. Elroy Air CEO Andrew Clare: 'That doesn't happen without a truly mission-ready aircraft and a team that's been doing this work for years.' Boeing divested its stake in Wisk Aero (Aug 2024) as part of strategic refocus on core aerospace business. Ownership transition may impact project timeline and technical support. Wisk Aero has begun construction of eVTOL vertiport infrastructure at Hollister Airport as part of eIPP program development.",
+      "notes": "DOTD calls the project LIFTOff Louisiana. Its launch announcement of August 27, 2026, names BETA and Elroy Air as aircraft developers, Bristow Group and Metro Aviation as operators, and Fletcher Technical Community College and Nicholls State University as workforce and research partners, and states no funding. The Chaparral flights carried ordinary offshore freight: medical supplies, spare parts, food and water. The FAA map of October 16, 2026, lists MSU and Teros among partners. No executed agreement had been published as of October 19, 2026, and the state's Vertiport Development Fund, created in 2024, has never been appropriated money.",
       "links": [
         {
-          "label": "DOT Announcement",
-          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+          "label": "Elroy Air: first uncrewed eIPP flights",
+          "url": "https://elroyair.com/company/news/press-releases/elroy-air-completes-first-autonomous-and-uncrewed-flights-under-eIPP"
         },
         {
-          "label": "DroneLife Coverage",
-          "url": "https://dronelife.com/2026/03/16/dot-and-faa-launch-evtol-integration-pilot-program/"
+          "label": "FAA announcement, March 9, 2026",
+          "url": "https://www.faa.gov/newsroom/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil-eight"
+        },
+        {
+          "label": "FAA eIPP page and map",
+          "url": "https://www.faa.gov/aam/eipp"
+        },
+        {
+          "label": "LAE Louisiana survey",
+          "url": "https://lowaltitudeeconomy.aero/en/louisiana"
         }
       ]
     },
     {
       "id": 6,
       "sponsor": "Florida Department of Transportation",
-      "region": "Florida · Statewide",
+      "region": "Florida · statewide",
       "states": [
         "FL"
       ],
@@ -1203,7 +366,7 @@
           "domain": "archer.com"
         },
         {
-          "name": "Beta Technologies",
+          "name": "BETA Technologies",
           "domain": "beta.team"
         },
         {
@@ -1215,140 +378,90 @@
           "domain": "jobyaviation.com"
         }
       ],
-      "focus": "Multi-phase: Cargo → Passenger → Automation + Medical",
-      "keyOp": "Three-phase: Phase 1 cargo, Phase 2 passenger, Phase 3 automation and medical response",
-      "otaStatus": "Active",
-      "milestone": "Automated test flights from Albuquerque International Sunport",
-      "opsTarget": "Summer 2026",
+      "focus": "Multi-phase: Cargo, then Passenger, then Automation and Medical Response",
+      "keyOp": "Statewide effort in three phases of operations focused on cargo delivery, passenger transportation, automation and medical response (FAA)",
+      "otaStatus": "No flight announced",
+      "milestone": "No eIPP flight announced in Florida as of October 12, 2026. FDOT's SunTrax campus at Auburndale had flown no eVTOL as of the LAE survey.",
+      "opsTarget": "SunTrax first three phases due December 2026, opening year 2027 (FDOT business plan)",
       "category": "mixed",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration. Reliable Robotics advancing safety-critical UAS datalinks technology to support eIPP operations and safety standards. Transportation secretary visited Reliable Robotics facility in Albuquerque, signaling federal commitment to eIPP operations and project advancement. Elroy Air announced $1 billion SPAC merger deal for Nasdaq listing (Reuters). Significant corporate capitalization milestone achieved. Elroy Air conducted successful autonomous cargo drone flight in Louisiana carrying medical supplies and food, demonstrating operational capability for eIPP program objectives. Elroy Air completed series of autonomous cargo flights over Louisiana town, demonstrating operational capability in eIPP program context. Bristow has reserved 10 additional early delivery positions for Chaparral aircraft, demonstrating strong commercial demand and validation of aircraft development progress. Reliable Robotics raised $115M Series B funding, achieving $1bn valuation for autonomous aircraft development. Reliable Robotics launched first automated test flights from Albuquerque International Sunport, advancing operational capabilities.",
+      "notes": "FDOT owns the 775-acre SunTrax campus at Auburndale and is building vertiports on it. The FAA's March 9, 2026, fact sheet lists Archer, BETA, Electra and Joby. The FAA's eIPP blog, updated October 8, 2026, lists BETA, Electra, Joby and other companies for Florida and does not say Florida's operations have begun. The selection came with no federal money, and the state's vertiport funding law carries no appropriation. None of the named aircraft companies bases an aircraft in Florida.",
       "links": [
         {
-          "label": "DOT Announcement",
-          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+          "label": "FAA announcement, March 9, 2026",
+          "url": "https://www.faa.gov/newsroom/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil-eight"
         },
         {
-          "label": "Archer Press Release",
-          "url": "https://news.archer.com/archers-us-air-taxi-operations-take-major-step-forward-as-florida-new-york-and-texas-selected-for-white-house-pilot-program"
+          "label": "FAA eIPP page and map",
+          "url": "https://www.faa.gov/aam/eipp"
         },
         {
-          "label": "Reliable Robotics flight tests validate detect and avoid capability",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFBfQW9Wb2hMbHFEOS05YkFyT0FsVDZCc2w2S3NCMVl5Z2xpelhBaTFIZVpYSDVBdkJxYkxGREFsdTJmYnVDZ19tOE5iUGYxdkFnTFNlajg1SnhraWdrdFRNdVlCbDQ1OUJFa2VKWkk2cm9TOHppb3JTS0Y4UllyU3R0bkJKNDhfeWViY3VNcEdXTE00OUdCOW5lN2FfWlpFZ242ZmV6WVZia0FkRWF5S0J1R2pmbmZpTDI5MFdzbEc5ZzZPMXp5MjYzLTk1anZvNS15MW1ITWVpb0tIcUE?oc=5"
-        },
-        {
-          "label": "Cargo drone Louisiana operations news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdEhHczR0YmlkdS1URnJjNVF6TVFKclFjeFcyZmpIQ2k2cXhKcGdSR1dYS1RsUjZpaDF4UnMzbUNOdWRiLU9CVlN0SkJhSlM4MDU2bHJrc0VBRHNtMmhzegd1VEJDUGhBV2w0a1NyR2F6SU0zdTdyVmxCNFFnVUE4M3JDbHd0S01oMHhJUmpLcncxdUJBbWtydDJtWmhYOUpwczh2OXJNeC1GNGNlM216eXhFQkQ1WnJuc2NZYjk4SQ?oc=5"
-        },
-        {
-          "label": "Gizmodo: Cargo Plane With No Pilot Completes Louisiana Flights",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXhXMnFZTnVsSUIzS2k0dEtRektsaFNha3NWMjkyWmljeS1jRWdicEFxMU9wa25TekVYZTVIVkNTaDF3c25ENm43ZjViQzFkZThQdXRZLUxLVGN3dEJhNHpfRzlyNUFZSVVmTE1JbUFRZGd1eUdxeEl4QUNOVEhXUXA4SHNraF9RU2JSTExvdl9ubHZ5c1VpS2tBVkdYWGJ5NlA2Y0FSc28xOXNyNzBRdTU2ODNZX3JpbnVkYWVn?oc=5"
-        },
-        {
-          "label": "Reliable Robotics $115M Series B Funding",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0JhbUdZOFlHM0JIb2s0RC1zTkZrRThhVURKNkdENGZwTDFXNmh4VVh3WWRpWjZTbkdTRTVqbFNaWGhxY3M0VGx2MGNhY1B3aFhPZVlRRjVCZDJxd3lKX3Y3MnR3TG9CNDFpM1gwYWlVQkhYMWFoR1hVS0FjdWo5UG8yeUZmak5OalE?oc=5"
-        },
-        {
-          "label": "Reliable Robotics launches automated test flights - KRQE",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb1JBTVB6WW9Rbk9MSXJpY3BBN3lSNDAtQkZ2bGRLQy03dV9GRDVhOEw4NXZZR1gtTHpvb2ZFQjVFek1PSjFWeWg3eTVuUXVWclRjbzE2NUdtbnJoWFdseGZRcVpTNGR5R0NOWmlocTZtQzVkQTNoXzg3S2xpNXpwdjJoWS03cDVlTkhuamRNeUEzTEF1ZG15bzY1ZFNfei1XX0F3VEtYSWJGX21aa0UtV29hVkNIWUtLck9qREdZejc2c3FWcjNJZGJ3bHhCbUsxNmVsd1VlYUPSAd4BQVVfeXFMTTBCdEF5d2pNYWtianE5Y0xqcWt4RTE0QzJjS3o3b1Q5TWpNcER0dE5Lb0ktSUZDR19OLXp4eWJEUjZMQV9JaHlvMTZGN0VCQWRsSUR2UUpMZjRta2JCTnBvYzIzT1d0RVhubzRNZFVxVDBVU3JOVHVpbXFlZTA4MlBnQVA0enFLdnQ2bmV5NWJGV3l1emJBbFd1VklnRnI0eURlMjdMSXVfU1ZNQW1IMFJfTnZhOExCYW5jZ2pIVUVTSW4yVEdZNFdBT1RrWUUxXzlPcS11V2JCQ2U2REVB"
+          "label": "LAE Florida survey",
+          "url": "https://lowaltitudeeconomy.aero/en/florida"
         }
       ]
     },
     {
       "id": 7,
       "sponsor": "North Carolina Department of Transportation",
-      "region": "Southeast · NC + VA autonomous corridor",
+      "region": "eLIFT-NC · North Carolina, with an autonomous corridor into Virginia",
       "states": [
         "NC",
         "VA"
       ],
       "partners": [
         {
-          "name": "Beta Technologies",
+          "name": "BETA Technologies",
           "domain": "beta.team"
         },
         {
           "name": "Joby Aviation",
           "domain": "jobyaviation.com"
+        },
+        {
+          "name": "UNC Health"
+        },
+        {
+          "name": "WakeMed"
+        },
+        {
+          "name": "ECU Health"
         }
       ],
       "focus": "Medical Transport + Autonomous Flight",
-      "keyOp": "Piloted medical and regional ops statewide; autonomous flight corridor extending into Virginia",
-      "otaStatus": "Active",
-      "milestone": "Chaparral aircraft; 10 additional early delivery reservations from Bristow",
-      "opsTarget": "Summer 2026",
+      "keyOp": "Piloted medical and regional operations, plus an autonomous flight operation extending into Virginia (FAA)",
+      "otaStatus": "Flying · OTA date not published",
+      "milestone": "FAA announced North Carolina's first demonstration flights on September 23, 2026: Joby and BETA flew, with conventional-takeoff aircraft in phase one.",
+      "opsTarget": "Hospital pad-to-pad eVTOL missions in phase three (NCDOT)",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Medical transport is the primary use case — institutional payers (hospital systems, organ procurement organizations), defined corridors, measurable time savings over ground transport. Joby Organ Transport program directly aligns with this project. The autonomous extension into Virginia is a deliberate regulatory data play — NC and VA together create a cross-state autonomous corridor generating FAA policy data on autonomous ops in non-segregated airspace. Beta's medical logistics experience from existing operations is the credentialing asset. Reliable Robotics secures additional funding for autonomous flight technology advancement. Elroy Air announced SPAC merger to fund production of heavy-lift VTOL drone platform, supporting eIPP program participation and commercialization timeline. Company announced plans to go public via $1 billion SPAC deal (Zag Daily report). This represents a significant corporate development milestone for the eIPP participant. Elroy Air pursuing Nasdaq listing with $1 billion valuation (2024), indicating significant capital raise and corporate maturation milestone. Elroy Air (project participant) announced SPAC merger with Columbus Circle Capital II, valued at $800M. Company continues advancing eVTOL development and certification pathway. Kratos selected as manufacturing partner for Elroy Air's Chaparral cargo drone production facility in Sacramento, representing significant manufacturing scale-up milestone. Kratos selected as manufacturing partner for Chaparral cargo drone production at Sacramento facility, supporting operational deployment phase. Kratos selected as manufacturer for Elroy Air's Chaparral cargo drone at Sacramento facility. Elroy Air announced new autonomous delivery modes for Chaparral drone platform. Elroy Air demonstrated three unattended delivery modes for US Army operations, advancing operational capability demonstrations. Secured US Army contract to equip Chaparral with unattended delivery capabilities, advancing autonomous delivery technology operational readiness. Army awarded $46 million contract for autonomous cargo UAS development to advance contested logistics capabilities. Brightline Interactive and CSCI formed teaming agreement to support unmanned aircraft and eVTOL operations at test site. Groundbreaking ceremony held for AAM pilot program at Houma-Terrebonne Airport in Louisiana with support from Louisiana DOT. Completed first uncrewed autonomous flights under FAA eIPP program as reported by ASDNews. Completed first uncrewed autonomous flights under FAA eIPP program, demonstrating operational capability milestone. Completed first uncrewed logistics demonstrations under eIPP program per Aviation International News. Pilot-free autonomous flight operations successfully demonstrated under FAA eIPP oversight, marking significant operational milestone. Elroy Air Chaparral eVTOL successfully completed autonomous cargo flight operations with U.S. Army, demonstrating operational readiness for cargo delivery missions. Elroy Air has successfully completed first autonomous flights as part of the FAA eIPP program, marking a significant milestone for cargo eVTOL operations. Elroy Air Chaparral successfully demonstrated autonomous cargo flight operations for Army, validating autonomous flight capabilities for eIPP program objectives. Successfully demonstrated autonomous eVTOL cargo operations with Army. Chaparral aircraft completed crewed cargo flights, advancing autonomous capabilities for military logistics applications. Elroy Air completed first uncrewed autonomous flights under FAA eIPP program. Historic milestone demonstrating autonomous eVTOL operations capability. Bristow has reserved 10 additional early delivery positions for Chaparral aircraft, demonstrating commercial demand and project momentum.",
+      "notes": "NCDOT's project is Electric Logistics and Integrated Flight Testing (eLIFT-NC). It is phased from training and baseline operations with electric conventional-takeoff aircraft, the Joby J208 and BETA CX300, through route and network development, to hospital pad-to-pad eVTOL missions in the third phase. NCDOT has held a lead seat in every FAA drone integration program: the 2017 to 2020 Integration Pilot Program, BEYOND and the eIPP. Selection is not itself an operating authorization.",
       "links": [
         {
-          "label": "DOT Announcement",
-          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+          "label": "FAA announcement, March 9, 2026",
+          "url": "https://www.faa.gov/newsroom/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil-eight"
         },
         {
-          "label": "Aviation Week: Elroy Air SPAC Merger Announcement",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGEwekhBbzJqR1dDaXppMm8yQWZEWUJWZm1zVlhzY01aYjBlY3dCcjdud0JucjI3QVpaZGg2MFpMN29zRGlBQjJucHlUWHpvN3cyZGhJeENOUHViZHRpQ1R4cVR2REdUeDhPUXpTRmZaRThJR0g1Mk9sRklFQTkyaDNPb2ozZEdzZnlZZmdZbWZNN1pQbmdQZFhnR1h6QVFyUkxfNHFiU0E5VkxwVFEyTFlpNG5VUmRVbmkxbTVNRQ?oc=5"
+          "label": "FAA eIPP page and map",
+          "url": "https://www.faa.gov/aam/eipp"
         },
         {
-          "label": "Elroy Air SPAC Deal - Zag Daily",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1VxcGhhdDJCY0xVb19BY0ZhZ1duVlUxeTNUOG5IWDFmYmlWVGVEMDdodm9LbkIzLWFvQWFZS0h0RGo0NmZzNUNwd1ZabnVic0FqdHlXejdFblpWcG9MRnZYcU1tMjNnQnBaYm9LMURTVkZWTXh6TUpIaV9HYVUza3RR?oc=5"
-        },
-        {
-          "label": "Elroy Air Army Delivery Demonstration",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVEVVa2x4N0V6aGNkWXNZUkZyV1E5SDNXM0lGek9BbUVhMUNiTzdnbDVjMU9VTzZ3YmJuWXhLS3hlcXM0ZVJ4NE5IcGlmeGFBNzBac2Q5RDYzc1VkT3RBZE9JNjdWY3dIR3h4WHFpc2xqckhOYVBxRTNGR2liaVhVNnlhSWcxa0RmZV9IWlNxZ3lFTkVDdU1uNURLVWFWSDVmQTlyUTdOSGRBQlBMN18yNFBSa0REY1pjM3A1NTRmVkU?oc=5"
-        },
-        {
-          "label": "Military Aerospace - Army Elroy Air Contract",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRTh4R2VOWmNpU1REd3pGYUNvQ2lKdmRoVklJY3pjdnAzQ1pYN0ZmTWEzU0FnRERBWDV6ZXVBWnA5blpETUdraEdNcnM2cVpyVWpoVWl0UzR4RUpYUlJWVGU3cmFmQm5jLXd2NlU2WU1FcjQwcWFnbkdrZXRmNlQtTm1kOFpOSTJDbEk2eERvSzVuamNvYUMtTG15XzNWblZRRVkxOTJ0QVV5UlZqVlFCSDJaVFdGdnBEc0ZxVFdhaVlZbXcybDNVMjJoQ1lnNDVzUVBRekxkamg3SHRESTRZUnpn?oc=5"
-        },
-        {
-          "label": "Brightline Interactive & CSCI Teaming Agreement",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkdhUlEyYXZCb3luWnVidnN1SjZJOVZQbFZCOWVDaE83d0NDY2JBSGRsc0FYNC1HbHdlVVd6RTRnODllb29nckV0N2xIdXBYOEVFTVBJNUpHOG5FcG9OWkdDbGFKeFFHU01pZUJud2tOZUNsQmVCMlhJcDR0WkI1bEZQQ2pTZ1FuQ2FUX2l4cVFyNEJqaEtTVE9sdG1vWWpaVnJXeEdTVzBPRE5tVHAwaE5yV1NKYUZm?oc=5"
-        },
-        {
-          "label": "Elroy Air Completes First Uncrewed Autonomous Flights Under eIPP",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQVNuOXYwTzFsRnpRbEJsTDRzQ2o0ZXdNMThXQzNUMThUUDJqdnpMc1I1UU1jUjZaSFYyMXJZREZxdU01Yk9oR0RybnVIZVVaYllzalNmY3FYbWNaV1RQVUUxTXdtS0hXazlUeC0xLTRyNUVFMVE2QnFzYlI3YTNBOFltVXlQbVU4S1RESkpwcXR4d3RUOS0yV3pmOXpaU2FtbThiVktYSTVIQjY5N2M3UzZub3d3cTJkaXFkNE8xVl9jNjVnQXhDSEtUVnJub3FWTkY3NzhkMHpBejV5T05TOThoRWdDLXNRdlhDdw?oc=5"
-        },
-        {
-          "label": "Elroy Air Completes First Uncrewed Autonomous Flights Under eIPP",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMlZYZXd3TlVXOGpWR2w1QkN2ZHNhWC1RdlRLQlpickZleThmVjB3RWhNeUc2S0dteEtVLVhPcFhTaTBWeHJlbFhrU0lzakhZWnBVNVRzWHplaGl5TjVmeDJ0WDFPUXpmaG0wbHhkQVpNUU5sUThLUU9lM2drckZIUTdVOU5LSWNYV2syTDc5bDg4eEluMmpuR2ZiTmhVN0ttNDJtUHI2OWtLSzBFY0Ywa1ZaQmxQcFhBSmRZc3I4NGFpTjJtOGE2RjNqemQ2SDRiS29xYUpfSm05SWR2WVg5aG5DTTBwU05uT25CblVELVBLZG1xVVpQNjhMVWhXNWJ0cmdvRVp6dE5ROTA?oc=5"
-        },
-        {
-          "label": "Elroy Air Flies First Uncrewed Logistics Demonstrations - AIN",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcnJfcHhsRUdoU1hnVXo1bWJiS3BibDAyNXJCVlZlR1pMRWptV2g2ek5BY3N5VFdFS3JNcl8wTU84Ui1jTmplYjdVX0E2S3dlX2RyT0lLOXM2MEZ4ME1nUjZ6UTFYX1ZNb2k4QnVKOWJ0aFVBNlhpQXZNVjhHWVI1cFpOMkVCamE4VWFQTXBBZE9SbWRTX1ZuQjRiYlhNT21aNGZvLTY1bWlMTDEwUGFlYnByNjVhLWs?oc=5"
-        },
-        {
-          "label": "DroneDJ: Elroy Air's Chaparral flies pilot-free under FAA oversight",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jYkdsT1Y3X2hrblNoUFZNUlpYR3laWDA2THM1YjZJVXo2bHNEV282eU1LOUQ3VHh3TzBaZEI5YmtnWDc3VlBzTzZ3WTVOdFpmcnZVbDNmU3Nja0otREtheC01cVNOVW1MbXhXNUNzYUpSRTV3X3c?oc=5"
-        },
-        {
-          "label": "Elroy Air Chaparral Flies Army Cargo With No Crew",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUzN2UjBncHFRemxtY0hLdnh3Y3ROdFhXS1owWnBHUk52dEdnQmlTOGg2cE1vWGUzM29wVFRFdE5XOERqc0ZNNDlnbXRoUUVoMXVVZ1RDNUlCMkh1U3U4aTBmVGFHRFJwRHdtZWN0MEppaEhibjVjNjQ3bFphaThpeVFOdXFISUctMFdQR2NfMnA"
-        },
-        {
-          "label": "Elroy Air Chaparral Army Cargo Flight - MiGFlug",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUzN2UjBncHFRemxtY0hLdnh3Y3ROdFhXS1pwWnBHUk52dEdnQmlTOGg2cE1vWGUzM29wVFRFdE5XOERqc0ZNNDlnbXRoUUVoMXVVZ1RDNUlCMkh1U3U4aTBmVGFHRFJwRHdtZWN0MEppaEhibjVjNjQ3bFphaThpeVFOdXFISUctMFdQR2NfMnA"
-        },
-        {
-          "label": "Elroy Air completes first uncrewed autonomous flights",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRC00b3pPMHk3cTZoYV9xVEVpTnVfdW5oMng2dFBzekN6TEJSSmRWbVJmU25tM3lUQXc2emZSN1NvVEFJeWplUHVqVGdhRW1rdEVpVzUwbUN3TEI4LTR3ZHAxYTNfOVNIb29DSUN1QjdpQ1Q2MlpJaVV3X00xd1lKdTFVVkI3MkhpUzc0aWEwRGYwMHVoSnN0UUpFdlhQem5jWllOMjJCd1BSb2xyenYwS2o4RkJhNWRQZ0FUR3hBVUFGbXc?oc=5"
-        },
-        {
-          "label": "Elroy Air Bristow Reservation Announcement",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPem00U040U1V4TVh0Q2M5eENwMmE0YWRWWGdFVjJzbUVhTmswbG1JOXM5S3ZaS3k1Vk9wUE9LZHl4cnJZaGVncmpScWJnWEFKek1nZ1lQdmxLZ3l2UzA1dTFvYkRwQml3OHJieHptSW5fTE5xN2tBUnU1QTZxeGE0MmNsQzNHM3RQbzE1NDRhNUVIblA2bER3amZxYU84S25pMjZnSlItX0pIQWJHQ2hIdV9yVWY5cVdYNmN4bVBoeEdWZHRCVmpyZnFManoxSGpEYXFrdGh5RkkwTklwN18zN0J0LWx5NTlPcXRkbzlHSXNRMkpS?oc=5"
+          "label": "LAE North Carolina survey",
+          "url": "https://lowaltitudeeconomy.aero/en/north-carolina"
         }
       ]
     },
     {
       "id": 8,
       "sponsor": "City of Albuquerque, New Mexico",
-      "region": "New Mexico · Class D + C airports",
+      "region": "City of Albuquerque · FAA map: New Mexico and Colorado",
       "states": [
-        "NM"
+        "NM",
+        "CO"
       ],
       "partners": [
         {
@@ -1356,28 +469,32 @@
           "domain": "reliable.co"
         }
       ],
-      "focus": "Fully Autonomous Freight",
-      "keyOp": "Autonomous cargo ops at Class D and C airports — revenue freight, no pilot, no passengers",
-      "otaStatus": "Pending",
-      "milestone": "Autonomous cargo flight operations funding secured; $160M Series B",
-      "opsTarget": "Q4 2026 (earliest revenue cargo)",
+      "focus": "Autonomous and Remotely Piloted Cargo",
+      "keyOp": "Near-term autonomous and remotely piloted cargo operations across New Mexico and Colorado (FAA)",
+      "otaStatus": "Flying · OTA date not published",
+      "milestone": "Reliable Robotics flew a remotely piloted Cessna 208B Caravan in a two-day campaign at Albuquerque Sunport, with an onboard safety pilot (FAA, October 19, 2026).",
+      "opsTarget": "Daily cargo service to Santa Fe and Durango planned (Reliable)",
       "category": "cargo",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "The most strategically significant project for the cargo-first thesis. Reliable Robotics has already been operating in the region and coordinating with the FAA — it is not starting from scratch. Autonomous commercial freight in controlled airspace is the use case drone delivery operators have been chasing under Part 107 for years. If Reliable logs the first autonomous revenue cargo flight under eIPP, it sets a precedent that will reframe the regulatory conversation around uncrewed logistics. Wisk CEO Dan Dalton confirmed Wisk itself may fly helicopters first to collect operational data — signaling that even autonomy-focused companies see the crawl-walk-run approach as necessary. North Carolina Department of Transportation selected for FAA eIPP program. Reliable Robotics secured $160M funding round to scale autonomous aviation systems development, supporting eIPP technical advancement. Reliable Robotics raised $160M Series B funding to advance autonomous cargo flight capabilities under FAA eIPP framework. Reliable Robotics opened Seattle area radar hub; company valuation reached $1 billion milestone. Reliable Robotics achieved $1B+ valuation through recent fundraising, strengthening financial position for program execution.",
+      "notes": "The only city among the eight leads. Reliable says the automated Caravan performed auto-taxi, auto-takeoff and auto-landing in the Sunport's Class C airspace, supervised by a remote pilot at its Mountain View, California, headquarters more than 700 miles away, with a safety pilot on board. Neither release gives the flight dates. Reliable calls the Santa Fe and Durango cargo routes, flown by Reliable Airlines, planned. The FAA says participants bear their own costs and no federal funding is required.",
       "links": [
         {
-          "label": "DOT Announcement",
-          "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil"
+          "label": "FAA: New Mexico's first demonstration flight, October 19, 2026",
+          "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-announces-new-mexicos-first-advanced-air"
         },
         {
-          "label": "Reliable Robotics",
-          "url": "https://reliable.co"
+          "label": "FAA announcement, March 9, 2026",
+          "url": "https://www.faa.gov/newsroom/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil-eight"
         },
         {
-          "label": "Greater Fayetteville Business Journal - NC DOT eVTOL Selection",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOTJOMjZWZS1rN1FOSWE0V1lKVEVXX0d6bmhnODM5RFFYQi10ckZYbGZQQ04taHVhUmswUmlwWlkzc2M4NmoxWlItLUZ0ZWFSbHVUaFo3cXN2U2xmcE9hQjY3Z0hNT2dzWlA5dTlWX0hoNGFZLXpmUGZvd1k1WFJuWUxhQURNZHdLUHVzWld4UkNsSnF2ZXZQVnVWY1FIdFA4emxHNE5fMUVpS0FKSlM0M2dGbVpWcUV0VWVPWUpzNXo3NWx6a25hVnR1c3ZsbEU?oc=5"
+          "label": "FAA eIPP page and map",
+          "url": "https://www.faa.gov/aam/eipp"
+        },
+        {
+          "label": "LAE New Mexico survey",
+          "url": "https://lowaltitudeeconomy.aero/en/new-mexico"
         }
       ]
     }
