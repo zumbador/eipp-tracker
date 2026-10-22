@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-22T12:00:37.897Z",
+    "lastUpdated": "2026-10-22T12:00:59.401Z",
     "updatedBy": "n8n",
-    "version": 363,
+    "version": 364,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 26,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-22T12:00:59.401Z",
+      "source": "n8n-auto-monitor",
+      "description": "Reliable Robotics advanced operations milestone: first automated test flights launched from Albuquerque International Sunport",
+      "projectsAffected": [
+        6
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb1JBTVB6WW9Rbk9MSXJpY3BBN3lSNDAtQkZ2bGRLQy03dV9GRDVhOEw4NXZZR1gtTHpvb2ZFQjVFek1PSjFWeWg3eTVuUXVWclRjbzE2NUdtbnJoWFdseGZRcVpTNGR5R0NOWmlocTZtQzVkQTNoXzg3S2xpNXpwdjJoWS03cDVlTkhuamRNeUEzTEF1ZG15bzY1ZFNfei1XX0F3VEtYSWJGX21aa0UtV29hVkNIWUtLck9qREdZejc2c3FWcjNJZGJ3bHhCbUsxNmVsd1VlYUPSAd4BQVVfeXFMTTBCdEF5d2pNYWtianE5Y0xqcWt4RTE0QzJjS3o3b1Q5TWpNcER0dE5Lb0ktSUZDR19OLXp4eWJEUjZMQV9JaHlvMTZGN0VCQWRsSUR2UUpMZjRta2JCTnBvYzIzT1d0RVhubzRNZFVxVDBVU3JOVHVpbXFlZTA4MlBnQVA0enFLdnQ2bmV5NWJGV3l1emJBbFd1VklnRnI0eURlMjdMSXVfU1ZNQW1IMFJfTnZhOExCYW5jZ2pIVUVTSW4yVEdZNFdBT1RrWUUxXzlPcS11V2JCQ2U2REVB?oc=5"
+    },
     {
       "timestamp": "2026-10-22T12:00:37.897Z",
       "source": "n8n-auto-monitor",
@@ -451,13 +460,6 @@
         1
       ],
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkpXMFE5MmcxOFk3U3JfbUJRN3k3alFfM0hDN2ZDdUl6VTM3R0dBZWpDd2ZjVS1KR2lWVkJ0WDhfUG83dUgxWFp2SUpsRWRxTUhHYkd3dnhwNElLVWNvZEY1dDlkakViYUNlY2NDNmViT1c5cmFycU1fYnZfbEVTMlVyYkpQaHpPV0stRkVLc01XVG41dGp2MGNnamp2b0FWNnc?oc=5"
-    },
-    {
-      "timestamp": "2026-09-19T12:01:15.256Z",
-      "source": "n8n-auto-monitor",
-      "description": "Article is financial analysis of Beta Technologies eVTOL sector risks. No specific project milestones, OTA status changes, or operational updates mentioned. Insufficient actionable data for eIPP tracker updates.",
-      "projectsAffected": [],
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUVJ2aktUQTEtdXZaWVZiUFJ0eElnTXliVnMydVdxbDd0d0hYU25yV2N6a1IwV2E0RGg3SUc0bUJQRXA4WC02WEl0S3RDRWdqdkI5V25zZ0Fka3cxdmVBX3V3TTJ6Mi03NjQtSEpwbWU1bEQtazVWR21RVlk4UGRqeGdDaFQyM2c?oc=5"
     }
   ],
   "projects": [
@@ -1216,13 +1218,13 @@
       "focus": "Multi-phase: Cargo → Passenger → Automation + Medical",
       "keyOp": "Three-phase: Phase 1 cargo, Phase 2 passenger, Phase 3 automation and medical response",
       "otaStatus": "Active",
-      "milestone": "Bristow orders 10 additional early delivery positions for Chaparral",
+      "milestone": "Automated test flights from Albuquerque International Sunport",
       "opsTarget": "Summer 2026",
       "category": "mixed",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration. Reliable Robotics advancing safety-critical UAS datalinks technology to support eIPP operations and safety standards. Transportation secretary visited Reliable Robotics facility in Albuquerque, signaling federal commitment to eIPP operations and project advancement. Elroy Air announced $1 billion SPAC merger deal for Nasdaq listing (Reuters). Significant corporate capitalization milestone achieved. Elroy Air conducted successful autonomous cargo drone flight in Louisiana carrying medical supplies and food, demonstrating operational capability for eIPP program objectives. Elroy Air completed series of autonomous cargo flights over Louisiana town, demonstrating operational capability in eIPP program context. Bristow has reserved 10 additional early delivery positions for Chaparral aircraft, demonstrating strong commercial demand and validation of aircraft development progress. Reliable Robotics raised $115M Series B funding, achieving $1bn valuation for autonomous aircraft development.",
+      "notes": "Largest stated public and private investment commitment in the program. The three-phase structure is explicit validation of the cargo-first sequencing thesis: cargo operations are Phase 1 because they carry lower regulatory burden and simpler liability. Florida's dense urban network (Miami, Orlando, Tampa, Jacksonville) makes it the strongest eventual passenger market. Having the state explicitly sequence cargo before passengers is a blueprint for how other markets should structure AAM development. Reliable Robotics successfully completed FAA detect-and-avoid test at airport, advancing autonomous aircraft certification pathway. Reliable Robotics completed detect and avoid testing for the FAA, representing a significant milestone for the eIPP program. Reliable Robotics successfully demonstrated detect and avoid technology through flight testing, validating key capability for uncrewed aircraft operations and eIPP integration. Reliable Robotics advancing safety-critical UAS datalinks technology to support eIPP operations and safety standards. Transportation secretary visited Reliable Robotics facility in Albuquerque, signaling federal commitment to eIPP operations and project advancement. Elroy Air announced $1 billion SPAC merger deal for Nasdaq listing (Reuters). Significant corporate capitalization milestone achieved. Elroy Air conducted successful autonomous cargo drone flight in Louisiana carrying medical supplies and food, demonstrating operational capability for eIPP program objectives. Elroy Air completed series of autonomous cargo flights over Louisiana town, demonstrating operational capability in eIPP program context. Bristow has reserved 10 additional early delivery positions for Chaparral aircraft, demonstrating strong commercial demand and validation of aircraft development progress. Reliable Robotics raised $115M Series B funding, achieving $1bn valuation for autonomous aircraft development. Reliable Robotics launched first automated test flights from Albuquerque International Sunport, advancing operational capabilities.",
       "links": [
         {
           "label": "DOT Announcement",
@@ -1247,6 +1249,10 @@
         {
           "label": "Reliable Robotics $115M Series B Funding",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0JhbUdZOFlHM0JIb2s0RC1zTkZrRThhVURKNkdENGZwTDFXNmh4VVh3WWRpWjZTbkdTRTVqbFNaWGhxY3M0VGx2MGNhY1B3aFhPZVlRRjVCZDJxd3lKX3Y3MnR3TG9CNDFpM1gwYWlVQkhYMWFoR1hVS0FjdWo5UG8yeUZmak5OalE?oc=5"
+        },
+        {
+          "label": "Reliable Robotics launches automated test flights - KRQE",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb1JBTVB6WW9Rbk9MSXJpY3BBN3lSNDAtQkZ2bGRLQy03dV9GRDVhOEw4NXZZR1gtTHpvb2ZFQjVFek1PSjFWeWg3eTVuUXVWclRjbzE2NUdtbnJoWFdseGZRcVpTNGR5R0NOWmlocTZtQzVkQTNoXzg3S2xpNXpwdjJoWS03cDVlTkhuamRNeUEzTEF1ZG15bzY1ZFNfei1XX0F3VEtYSWJGX21aa0UtV29hVkNIWUtLck9qREdZejc2c3FWcjNJZGJ3bHhCbUsxNmVsd1VlYUPSAd4BQVVfeXFMTTBCdEF5d2pNYWtianE5Y0xqcWt4RTE0QzJjS3o3b1Q5TWpNcER0dE5Lb0ktSUZDR19OLXp4eWJEUjZMQV9JaHlvMTZGN0VCQWRsSUR2UUpMZjRta2JCTnBvYzIzT1d0RVhubzRNZFVxVDBVU3JOVHVpbXFlZTA4MlBnQVA0enFLdnQ2bmV5NWJGV3l1emJBbFd1VklnRnI0eURlMjdMSXVfU1ZNQW1IMFJfTnZhOExCYW5jZ2pIVUVTSW4yVEdZNFdBT1RrWUUxXzlPcS11V2JCQ2U2REVB"
         }
       ]
     },
