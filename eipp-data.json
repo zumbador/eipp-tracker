@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-23T12:00:04.654Z",
+    "lastUpdated": "2026-10-23T12:00:41.774Z",
     "updatedBy": "n8n",
-    "version": 365,
+    "version": 366,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 28,
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-23T12:00:41.774Z",
+      "source": "n8n-auto-monitor",
+      "description": "Reliable Robotics announced the launch of its eIPP project in Albuquerque, New Mexico.",
+      "projectsAffected": [
+        8
+      ],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdFRIa3U3c0VjNGpvOFJVT3lvWURTcVFYNXpWZnJGY3dZNjJBVGdCV2ZpbG1fSnpEZFptZjdtM1hyMjFfY0cyT19PTXlLUjluLVl4V1AtUlNKdWlGQkN4anZJdDNyWVBNRzBTVmxhekZlbm4yWlNjeGlyRTRaZXJZQjYyRnhTUHZIOXpGbXYxbHNNSmlkNVBVcGwzeno1R19JTWc1Q1BlTXZhSHdo?oc=5"
+    },
     {
       "timestamp": "2026-10-22T19:46:36.000Z",
       "source": "LAE editor",
@@ -472,7 +481,7 @@
       "focus": "Autonomous and Remotely Piloted Cargo",
       "keyOp": "Near-term autonomous and remotely piloted cargo operations across New Mexico and Colorado (FAA)",
       "otaStatus": "not published · flying",
-      "milestone": "Reliable Robotics flew a remotely piloted Cessna 208B Caravan in a two-day campaign at Albuquerque Sunport, with an onboard safety pilot (FAA, October 19, 2026).",
+      "milestone": "Reliable Robotics launched its eIPP project in Albuquerque on October 23, 2026.",
       "opsTarget": "Daily cargo service to Santa Fe and Durango planned (Reliable)",
       "category": "cargo",
       "cargoFirst": true,
