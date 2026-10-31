@@ -1,20 +1,20 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-31T12:00:20.197Z",
-    "updatedBy": "n8n",
-    "version": 368,
+    "lastUpdated": "2026-10-31T23:12:22.000Z",
+    "updatedBy": "LAE editor",
+    "version": 369,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 28,
     "firstOpsTarget": "First flight July 10, 2026",
     "globalOtaStatus": "First OTA July 9, 2026",
-    "bannerMessage": "Six of the eight projects have flown under the program as of October 22, 2026. Florida and the Port Authority of New York and New Jersey have announced no eIPP flight. Participants bear their own costs.",
+    "bannerMessage": "Seven of the eight projects have flown under the program as of October 30, 2026. The Port Authority of New York and New Jersey has announced no eIPP flight. Participants bear their own costs.",
     "summaryBlocks": [
       {
         "heading": "What Has Flown",
-        "value": "6 of 8 Projects",
+        "value": "7 of 8 Projects",
         "colorClass": "green",
-        "body": "Pennsylvania's team first, on July 10, 2026, then Utah, Louisiana, Texas, North Carolina and Albuquerque. Most flights used conventional-takeoff airplanes (BETA's ALIA CTOL, Cessna Caravans, Electra's EL2) or, in Texas, helicopters and fixed-wing aircraft. Louisiana's Elroy Air Chaparral flew with nobody on board. No flight has carried passengers."
+        "body": "Pennsylvania's team first, on July 10, 2026, then Utah, Louisiana, Texas, North Carolina, Albuquerque and Florida. Most flights used conventional-takeoff airplanes (BETA's ALIA CTOL, Cessna Caravans, Electra's EL2) or, in Texas, helicopters and fixed-wing aircraft. Louisiana's Elroy Air Chaparral flew with nobody on board, and Joby's S4 eVTOL flew beside BETA's ALIA in Florida. No announced flight has carried passengers."
       },
       {
         "heading": "Cargo Signal",
@@ -31,6 +31,15 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-31T23:12:22.000Z",
+      "source": "LAE editor",
+      "description": "Florida card updated: the project's first eIPP flights took place on October 30, 2026 (BETA ALIA CX300 and Joby S4, St. Petersburg to Tampa), and BETA reports 14 flights in the state. Applies the monitor lead of October 31. Seven of eight projects have now flown.",
+      "projectsAffected": [
+        6
+      ],
+      "sourceUrl": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-marks-major-milestone-administrations"
+    },
     {
       "timestamp": "2026-10-31T12:00:20.199Z",
       "source": "n8n-auto-monitor",
@@ -394,15 +403,27 @@
       ],
       "focus": "Multi-phase: Cargo, then Passenger, then Automation and Medical Response",
       "keyOp": "Statewide effort in three phases of operations focused on cargo delivery, passenger transportation, automation and medical response (FAA)",
-      "otaStatus": "not published · no flight announced",
-      "milestone": "No eIPP flight announced in Florida as of October 12, 2026. FDOT's SunTrax campus at Auburndale had flown no eVTOL as of the LAE survey.",
+      "otaStatus": "not published · flying",
+      "milestone": "Florida's eIPP flights began on October 30, 2026, when BETA's ALIA CX300 and Joby's S4 flew from Albert Whitted Airport in St. Petersburg to Tampa International (DOT, AIN). BETA reports 14 flights, nearly 700 nautical miles, in the Tampa and Orlando regions.",
       "opsTarget": "SunTrax first three phases due December 2026, opening year 2027 (FDOT business plan)",
       "category": "mixed",
       "cargoFirst": true,
       "editorial": "",
       "editorialDate": "",
-      "notes": "FDOT owns the 775-acre SunTrax campus at Auburndale and is building vertiports on it. The FAA's March 9, 2026, fact sheet lists Archer, BETA, Electra and Joby. The FAA's eIPP blog, updated October 8, 2026, lists BETA, Electra, Joby and other companies for Florida and does not say Florida's operations have begun. The selection came with no federal money, and the state's vertiport funding law carries no appropriation. None of the named aircraft companies bases an aircraft in Florida.",
+      "notes": "The DOT calls Florida the seventh location to launch under the program. BETA flies as a partner of FDOT with Republic Airways, Brickyard Connection and Metro Aviation, on routes that include St. Pete-Clearwater and Albert Whitted to Tampa, the path of the 1914 Jannus airline flight. BETA's CEO said on October 21 that its first Florida flights are noncommercial, with Part 135 revenue flights to follow. Joby also flew the S4 at FDOT's 775-acre SunTrax campus at Auburndale, where FDOT is building vertiports, and plans an Orlando stop. The DOT says FDOT and Electra will fly tests at several Central Florida sites in November. The selection came with no federal money, and the state's vertiport funding law carries no appropriation.",
       "links": [
+        {
+          "label": "DOT announcement, October 30, 2026",
+          "url": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-marks-major-milestone-administrations"
+        },
+        {
+          "label": "BETA: 14 flights across Florida",
+          "url": "https://investors.beta.team/news-events/press-releases/detail/122/beta-completes-14-all-electric-flights-across-florida-under-u-s-dot-and-faas-evtol-integration-pilot-program"
+        },
+        {
+          "label": "AIN: Joby and Beta kick off Florida eIPP flights",
+          "url": "https://www.ainonline.com/aviation-news/futureflight/2026-10-30/joby-and-beta-kick-florida-eipp-flights"
+        },
         {
           "label": "FAA announcement, March 9, 2026",
           "url": "https://www.faa.gov/newsroom/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil-eight"
