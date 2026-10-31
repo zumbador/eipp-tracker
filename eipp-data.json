@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-30T12:00:01.219Z",
+    "lastUpdated": "2026-10-31T12:00:20.197Z",
     "updatedBy": "n8n",
-    "version": 367,
+    "version": 368,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 28,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-10-31T12:00:20.199Z",
+      "source": "n8n-auto-monitor",
+      "description": "Lead, not applied to a card: Florida's first eIPP flights were completed by BETA with 14 all-electric operations across the state, updating the project from no announced flights.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQkZVSFFMZzhEQmRnaDA4dDdjMXFJR2V6T1ZWNGpUVGVwaXJTNFI4czZvb1hvZzV2VEdDVUp2X3dmWXJJeFo2bzR6bmtWSXpSNmFKNjgwbExYaGVLYUUxelBYSkxfbHhlMWdETG9PSE8zcXZkcWp2OW9FOHdHNUJTTkNoWkpZa20xZ2IxWGRwLTNvQkJDLS1BUkI0cDh6bjdpblZiVzFoTnFrUVI4ZmFDUWxYdWFHcmNNMUVNSTQ1TUMycmZ4UjJXYi1FOW8xLS10NUNRNlkxWWxSZndHYy1HLXdFZHZLVng1SkpvVjVEeENtWW45Q01FSnhn?oc=5"
+    },
     {
       "timestamp": "2026-10-23T12:00:41.774Z",
       "source": "n8n-auto-monitor",
