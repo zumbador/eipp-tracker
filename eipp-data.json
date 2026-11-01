@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-01T13:00:01.101Z",
+    "lastUpdated": "2026-11-01T13:00:08.577Z",
     "updatedBy": "n8n",
-    "version": 369,
+    "version": 370,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 28,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-11-01T13:00:08.577Z",
+      "source": "n8n-auto-monitor",
+      "description": "Lead, not applied to a card: Joby and BETA commenced eIPP flights in Florida on October 30, 2026, flying from St. Petersburg to Tampa International Airport.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSHpFSWY3RXNUWHkwN1lMeU01b2IxVjAyRUZkTEw5aGdRZ25xTmRTb3oxT1I2Z0JCMjhmdnViWXRTbmQxVVFmbmtCcDNTOW9GMGNYRTZXM0VGTExqdDE2ZUZ4UFVhbTVTZldSc0JKYW9GS1AxamZvR1BzVTMtVDdlRU1CVEdxTnJoSnFCT2ZPYklILUhTSHJYanpvRUxUSF93dExMRlF3?oc=5"
+    },
     {
       "timestamp": "2026-10-31T23:12:22.000Z",
       "source": "LAE editor",
