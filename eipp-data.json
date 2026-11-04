@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-04T13:00:01.004Z",
+    "lastUpdated": "2026-11-04T13:00:08.013Z",
     "updatedBy": "n8n",
-    "version": 371,
+    "version": 372,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 28,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-11-04T13:00:08.013Z",
+      "source": "n8n-auto-monitor",
+      "description": "Lead, not applied to a card: Reliable Robotics completed autonomous flights at Albuquerque Sunport under the eIPP program, advancing from the October 19 remotely piloted demonstration with safety pilot.",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbVRMVFJtWDFpVC1aVGM3MFdjMnZweVlodWNkOFFNaDVYeVJ5cGhmNlNpU0RSSkhNeVphWEFKZVZKWC1wZWVaQzFmMXc4bGprQmp2S2tPVVRIcXdBQ2FMZ1VnYnFPQXE4dlg5WnNpUmVVem95Mjd3R0QzR01id2hGd3FTZE5JM0YxdnlESEtQNm1HNlVHeS1kcW4wRnh0dGNFanlWbDEwQTFFdEsxdU1IUnlYeHMteXJsLWRaMzNBR2p6Zw?oc=5"
+    },
     {
       "timestamp": "2026-11-03T13:00:05.981Z",
       "source": "n8n-auto-monitor",
