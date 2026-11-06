@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-04T13:00:08.013Z",
+    "lastUpdated": "2026-11-06T13:00:05.350Z",
     "updatedBy": "n8n",
-    "version": 372,
+    "version": 373,
     "programAnnounced": "2026-03-09",
     "totalProjects": 8,
     "totalStates": 28,
@@ -31,6 +31,13 @@
     ]
   },
   "updateHistory": [
+    {
+      "timestamp": "2026-11-06T13:00:05.353Z",
+      "source": "n8n-auto-monitor",
+      "description": "Lead, not applied to a card: General industry sentiment about eIPP prospects; no specific flight, agreement, or milestone event reported",
+      "projectsAffected": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnUxNTRtdFE1Q3pncjVxT0xLOHRaaDFUNDFXU05rWC15Qlg3bGFQWVpxbmgwb2FlSHdqaWs3Q0NwWjQyTXB5cmJQbjY0X3R3RjVJdnRwdnlYY1NGVFA4RnNkRTJhZEhOc2w4NlNuQkVEdG1RLV9XOE1oa2JsTHIwLVNQcTlPZkNpOHB1ckxZekNib0tUMENPLXdFeGlpMEk?oc=5"
+    },
     {
       "timestamp": "2026-11-04T13:00:08.013Z",
       "source": "n8n-auto-monitor",
